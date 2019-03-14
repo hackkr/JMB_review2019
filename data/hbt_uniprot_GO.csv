@@ -1,0 +1,2427 @@
+Entry,Protein names,Gene names  (ordered locus ),Gene ontology (biological process)
+P02945,Bacteriorhodopsin (BR) (Bacterioopsin) (BO),VNG_1467G,phototransduction [GO:0007602]; protein-chromophore linkage [GO:0018298]
+Q9HSF6,Ribonuclease HI (Halo-RNase HI) (RNase HI) (EC 3.1.26.4),VNG_0255C,
+O07683,Aspartate--tRNA(Asp/Asn) ligase (EC 6.1.1.23) (Aspartyl-tRNA synthetase) (AspRS) (Non-discriminating aspartyl-tRNA synthetase) (ND-AspRS),VNG_0461G,aspartyl-tRNA aminoacylation [GO:0006422]
+Q9HNL6,Probable bifunctional tRNA threonylcarbamoyladenosine biosynthesis protein [Includes: tRNA N6-adenosine threonylcarbamoyltransferase (EC 2.3.1.234) (N6-L-threonylcarbamoyladenine synthase) (t(6)A synthase) (t(6)A37 threonylcarbamoyladenosine biosynthesis protein Kae1) (tRNA threonylcarbamoyladenosine biosynthesis protein Kae1); Serine/threonine-protein kinase Bud32 (EC 2.7.11.1)],VNG_2045G,tRNA threonylcarbamoyladenosine modification [GO:0002949]
+Q48296,"Ornithine carbamoyltransferase, catabolic (cOTCase) (EC 2.1.3.3)",VNG_6315G,arginine biosynthetic process via ornithine [GO:0042450]; arginine catabolic process to ornithine [GO:0019547]; arginine deiminase pathway [GO:0019546]; citrulline biosynthetic process [GO:0019240]
+Q9HR74,Putative dimethyl sulfoxide reductase catalytic subunit A (DMSO reductase subunit A) (EC 1.8.5.3),VNG_0829G,
+Q9HS44,Probable bifunctional folylpolyglutamate synthase/dihydropteroate synthase [Includes: Probable folylpolyglutamate synthase (EC 6.3.2.17) (Tetrahydrofolylpolyglutamate synthase) (Tetrahydrofolate synthase); Probable dihydropteroate synthase (DHPS) (EC 2.5.1.15) (Dihydropteroate pyrophosphorylase)],VNG_0412G,folic acid biosynthetic process [GO:0046656]; tetrahydrofolate biosynthetic process [GO:0046654]
+Q9HPY5,Serine hydroxymethyltransferase (SHMT) (Serine methylase) (EC 2.1.2.1),VNG_1414G,cellular response to tetrahydrofolate [GO:1904482]; folic acid metabolic process [GO:0046655]; glycine biosynthetic process from serine [GO:0019264]; glycine metabolic process [GO:0006544]; L-serine catabolic process [GO:0006565]; one-carbon metabolic process [GO:0006730]; tetrahydrofolate interconversion [GO:0035999]; tetrahydrofolate metabolic process [GO:0046653]
+Q9HMP7,DNA protection during starvation protein (EC 1.16.-.-) (Bacterioferritin DpsA),VNG_2443G,cellular iron ion homeostasis [GO:0006879]
+Q9HQ90,Multifunctional fusion protein [Includes: ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136) (ADP-dependent NAD(P)HX dehydratase); NAD(P)H-hydrate epimerase (EC 5.1.99.6) (NAD(P)HX epimerase)],VNG_1272C,nicotinamide nucleotide metabolic process [GO:0046496]
+Q9HP32,CTP synthase (EC 6.3.4.2) (Cytidine 5'-triphosphate synthase) (Cytidine triphosphate synthetase) (CTP synthetase) (CTPS) (UTP--ammonia ligase),VNG_1830G,'de novo' CTP biosynthetic process [GO:0044210]; CTP biosynthetic process [GO:0006241]; glutamine metabolic process [GO:0006541]; pyrimidine nucleobase biosynthetic process [GO:0019856]
+Q9HHE4,Isopentenyl-diphosphate delta-isomerase (IPP isomerase) (EC 5.3.3.2) (Isopentenyl diphosphate:dimethylallyl diphosphate isomerase) (Isopentenyl pyrophosphate isomerase) (Type 2 isopentenyl diphosphate isomerase) (IDI-2),VNG_5084G; VNG_5213G; VNG_6081G; VNG_6445G,isoprenoid biosynthetic process [GO:0008299]
+P09737,Superoxide dismutase [Mn] 1 (EC 1.15.1.1),VNG_1190G,
+O73955,Catalase-peroxidase (CP) (EC 1.11.1.21) (Hydroperoxidase) (Peroxidase/catalase),VNG_6294G,cellular response to hydrogen peroxide [GO:0070301]; hydrogen peroxide catabolic process [GO:0042744]
+Q9HP27,Threonine--tRNA ligase (EC 6.1.1.3) (Threonyl-tRNA synthetase) (ThrRS),VNG_1835G,threonyl-tRNA aminoacylation [GO:0006435]
+Q9HN88,Ribose-phosphate pyrophosphokinase (RPPK) (EC 2.7.6.1) (5-phospho-D-ribosyl alpha-1-diphosphate) (Phosphoribosyl diphosphate synthase) (Phosphoribosyl pyrophosphate synthase) (P-Rib-PP synthase) (PRPP synthase) (PRPPase),VNG_2203G,5-phosphoribose 1-diphosphate biosynthetic process [GO:0006015]; nucleoside metabolic process [GO:0009116]; nucleotide biosynthetic process [GO:0009165]; purine nucleotide biosynthetic process [GO:0006164]; ribonucleoside monophosphate biosynthetic process [GO:0009156]
+Q9HQ46,Deoxyribodipyrimidine photo-lyase (EC 4.1.99.3) (DNA photolyase) (Photoreactivating enzyme),VNG_1335G,DNA repair [GO:0006281]; protein-chromophore linkage [GO:0018298]
+P33518,Cytochrome c oxidase polypeptide 1 (EC 1.9.3.1) (Cytochrome aa3 subunit 1) (Cytochrome c oxidase polypeptide I),VNG_0657G,aerobic respiration [GO:0009060]; electron transport coupled proton transport [GO:0015990]; oxidative phosphorylation [GO:0006119]
+P0DMI3,Sensory rhodopsin I transducer (HTR-I) (Methyl-accepting phototaxis protein I) (MPP-I),VNG_1659G,chemotaxis [GO:0006935]; protein-chromophore linkage [GO:0018298]; signal transduction [GO:0007165]
+Q9HME1,Coenzyme F420:L-glutamate ligase (EC 6.3.2.31) (EC 6.3.2.34) (Coenzyme F420-0:L-glutamate ligase) (Coenzyme F420-1:gamma-L-glutamate ligase),VNG_2586C,coenzyme biosynthetic process [GO:0009108]; F420-0 metabolic process [GO:0052645]
+Q9HPA7,Adenylate kinase (AK) (EC 2.7.4.3) (ATP-AMP transphosphorylase) (ATP:AMP phosphotransferase) (Adenylate monophosphate kinase),VNG_1724G,AMP salvage [GO:0044209]
+Q9HP43,Carbamoyl-phosphate synthase large chain (EC 6.3.5.5) (Carbamoyl-phosphate synthetase ammonia chain),VNG_1814G,'de novo' UMP biosynthetic process [GO:0044205]; arginine biosynthetic process [GO:0006526]; glutamine metabolic process [GO:0006541]; nitrogen compound metabolic process [GO:0006807]
+Q9HNE6,"Probable beta-carotene 15,15'-dioxygenase Blh (EC 1.13.11.63) (Brp-like homolog)",VNG_2136G,carotene catabolic process [GO:0016121]; retinal metabolic process [GO:0042574]
+Q9HMD2,Pyridoxal 5'-phosphate synthase subunit PdxT (EC 4.3.3.6) (Pdx2) (Pyridoxal 5'-phosphate synthase glutaminase subunit) (EC 3.5.1.2),VNG_2598G,glutamine catabolic process [GO:0006543]; pyridoxal phosphate biosynthetic process [GO:0042823]; pyridoxine metabolic process [GO:0008614]; vitamin B6 biosynthetic process [GO:0042819]
+Q9HQU4,Inosine-5'-monophosphate dehydrogenase (IMP dehydrogenase) (IMPD) (IMPDH) (EC 1.1.1.205),VNG_1001G,GMP biosynthetic process [GO:0006177]; GTP biosynthetic process [GO:0006183]
+Q9HQ72,Probable tRNA sulfurtransferase (EC 2.8.1.4) (Sulfur carrier protein ThiS sulfurtransferase) (Thiamine biosynthesis protein ThiI) (tRNA 4-thiouridine synthase),VNG_1299C,thiamine biosynthetic process [GO:0009228]; thiamine diphosphate biosynthetic process [GO:0009229]; thiazole biosynthetic process [GO:0052837]; tRNA 4-thiouridine biosynthesis [GO:0002937]
+P13553,50S ribosomal protein L10 (Acidic ribosomal protein P0 homolog) (L10e),VNG_1104G,cytoplasmic translation [GO:0002181]; ribosomal large subunit assembly [GO:0000027]
+Q9HQJ3,50S ribosomal protein L13,VNG_1138G,negative regulation of translation [GO:0017148]; translation [GO:0006412]
+O24787,50S ribosomal protein L14 (HHAL14),VNG_1701G,translation [GO:0006412]
+P61414,Peptidyl-tRNA hydrolase (PTH) (EC 3.1.1.29),VNG_0243.1,translation [GO:0006412]
+Q9HQI1,Glutamate--tRNA ligase (EC 6.1.1.17) (Glutamyl-tRNA synthetase) (GluRS),VNG_1153G,glutaminyl-tRNA aminoacylation [GO:0006425]; glutamyl-tRNA aminoacylation [GO:0006424]
+Q9HNJ6,Probable ribosome biogenesis protein VNG_2075C,VNG_2075C,rRNA processing [GO:0006364]
+Q9HQL9,Cysteine--tRNA ligase (EC 6.1.1.16) (Cysteinyl-tRNA synthetase) (CysRS),VNG_1097G,cysteinyl-tRNA aminoacylation [GO:0006423]
+Q9HMK4,Phenylalanine--tRNA ligase alpha subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase alpha subunit) (PheRS),VNG_2504G,phenylalanyl-tRNA aminoacylation [GO:0006432]
+Q9HME3,Protein translation factor SUI1 homolog,VNG_2584C,formation of translation preinitiation complex [GO:0001731]; regulation of translation [GO:0006417]; translation reinitiation [GO:0002188]
+Q9HQB2,5'-nucleotidase SurE (EC 3.1.3.5) (Nucleoside 5'-monophosphate phosphohydrolase),VNG_1241G,
+Q9HN24,Alanine--tRNA ligase (EC 6.1.1.7) (Alanyl-tRNA synthetase) (AlaRS),VNG_2283G,alanyl-tRNA aminoacylation [GO:0006419]; tRNA modification [GO:0006400]
+Q9HPP1,Succinate--CoA ligase [ADP-forming] subunit beta (EC 6.2.1.5) (Succinyl-CoA synthetase subunit beta) (SCS-beta),VNG_1541G,tricarboxylic acid cycle [GO:0006099]
+Q9HRT7,30S ribosomal protein S27e,VNG_0550G,ribosomal small subunit assembly [GO:0000028]; translation [GO:0006412]
+Q06842,50S ribosomal protein L23,VNG_1691G,ribosomal large subunit assembly [GO:0000027]; translation [GO:0006412]
+Q9HNF4,Riboflavin kinase (RFK) (EC 2.7.1.161) (CTP-dependent riboflavin kinase) (CTP:riboflavin 5'-phosphotransferase) (Flavokinase),VNG_2126C,FMN biosynthetic process [GO:0009398]; riboflavin biosynthetic process [GO:0009231]
+Q9HPB7,50S ribosomal protein L32e (HL5),VNG_1711G,DNA repair [GO:0006281]; translation [GO:0006412]
+Q9V2W0,50S ribosomal protein L18e (HeL18),VNG_1137G,translation [GO:0006412]
+P15008,50S ribosomal protein L22 (HHal22) (HL23),VNG_1695G,cytoplasmic translation [GO:0002181]
+P61120,50S ribosomal protein L24e,VNG_1159G,assembly of large subunit precursor of preribosome [GO:1902626]; ribosomal large subunit assembly [GO:0000027]; translation [GO:0006412]
+Q9HPB6,50S ribosomal protein L19e,VNG_1713G,translation [GO:0006412]
+Q9HQJ5,30S ribosomal protein S11,VNG_1134G,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) [GO:0000462]; ribosomal small subunit assembly [GO:0000028]; translation [GO:0006412]"
+P48854,30S ribosomal protein S10,VNG_2648G,translation [GO:0006412]
+P05969,50S ribosomal protein L11,VNG_1108G,ribosomal large subunit assembly [GO:0000027]; translation [GO:0006412]
+Q9HSL2,50S ribosomal protein L15e,VNG_0177G,cytoplasmic translation [GO:0002181]
+P05768,50S ribosomal protein L12 (HL20) (Ribosomal protein 'A'),VNG_1103G,translational elongation [GO:0006414]
+Q9HMH9,Dihydroorotase (DHOase) (EC 3.5.2.3),VNG_2533G,'de novo' UMP biosynthetic process [GO:0044205]
+Q9HMK2,Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2) (DHOdehase) (DHOD) (DHODase) (Dihydroorotate oxidase),VNG_2507G,'de novo' pyrimidine nucleobase biosynthetic process [GO:0006207]; 'de novo' UMP biosynthetic process [GO:0044205]; pyrimidine ribonucleotide biosynthetic process [GO:0009220]
+Q9HS16,PyrE-like protein,VNG_0448G,nucleoside metabolic process [GO:0009116]
+Q9HPB3,50S ribosomal protein L30,VNG_1716G,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) [GO:0000463]; translation [GO:0006412]"
+Q9HNG2,Orotate phosphoribosyltransferase (OPRT) (OPRTase) (EC 2.4.2.10),VNG_2118G,'de novo' UMP biosynthetic process [GO:0044205]; nucleoside metabolic process [GO:0009116]
+Q9P9M3,Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23) (OMP decarboxylase) (OMPDCase) (OMPdecase),VNG_1673G,'de novo' pyrimidine nucleobase biosynthetic process [GO:0006207]; 'de novo' UMP biosynthetic process [GO:0044205]
+P22665,50S ribosomal protein L29 (HHAL29),VNG_1698G,translation [GO:0006412]
+Q9HRM5,"6,7-dimethyl-8-ribityllumazine synthase (DMRL synthase) (LS) (Lumazine synthase) (EC 2.5.1.78)",VNG_0630G,riboflavin biosynthetic process [GO:0009231]
+Q9HPD4,50S ribosomal protein L3,VNG_1689G,ribosomal large subunit assembly [GO:0000027]; translation [GO:0006412]
+Q9HRW3,DNA double-strand break repair Rad50 ATPase,VNG_0514C,double-strand break repair [GO:0006302]
+Q9HPF2,DNA repair and recombination protein RadB,VNG_1665G,DNA recombination [GO:0006310]; DNA repair [GO:0006281]
+Q9HPS3,50S ribosomal protein L37e,VNG_1494G,translation [GO:0006412]
+Q9HMM9,50S ribosomal protein L39e,VNG_2469G,translation [GO:0006412]
+Q9HPZ2,Putative DNA helicase Rad25 (EC 3.6.4.12),VNG_1406G,
+Q9HPD3,50S ribosomal protein L4,VNG_1690G,translation [GO:0006412]
+Q9HPC2,30S ribosomal protein S4e,VNG_1703G,translation [GO:0006412]
+P0CX06,DNA-directed RNA polymerase subunit H (EC 2.7.7.6),VNG_2668G,"transcription, DNA-templated [GO:0006351]"
+P15010,30S ribosomal protein S19 (HHAS19),VNG_1693G,ribosomal small subunit assembly [GO:0000028]; translation [GO:0006412]
+P57710,30S ribosomal protein S28e,VNG_1158G,maturation of SSU-rRNA [GO:0030490]; ribosomal small subunit assembly [GO:0000028]; translation [GO:0006412]
+Q9HPB4,30S ribosomal protein S5,VNG_1715G,translation [GO:0006412]
+Q9HMJ5,30S ribosomal protein S6e,VNG_2514G,translation [GO:0006412]
+Q9HNL4,30S ribosomal protein S24e,VNG_2048G,translation [GO:0006412]
+P0CX01,30S ribosomal protein S7,VNG_2657G,ribosomal small subunit assembly [GO:0000028]; translation [GO:0006412]
+Q9HPB9,30S ribosomal protein S8,VNG_1707G,translation [GO:0006412]
+Q9HQJ0,DNA-directed RNA polymerase subunit K (EC 2.7.7.6),VNG_1141G,"transcription, DNA-templated [GO:0006351]"
+Q9HSG9,DNA-directed RNA polymerase subunit P (EC 2.7.7.6),VNG_0237H,"transcription, DNA-templated [GO:0006351]"
+Q9HR53,DNA-directed RNA polymerase subunit L (EC 2.7.7.6),VNG_0860G,"transcription, DNA-templated [GO:0006351]"
+Q9HQJ1,DNA-directed RNA polymerase subunit N (EC 2.7.7.6),VNG_1140G,"transcription, DNA-templated [GO:0006351]"
+Q9HQ86,Ribonuclease P protein component 2 (RNase P component 2) (EC 3.1.26.5) (Pop5),VNG_1279H,tRNA 5'-leader removal [GO:0001682]
+P0CX04,DNA-directed RNA polymerase subunit B'' (EC 2.7.7.6),VNG_2666G,"transcription, DNA-templated [GO:0006351]"
+Q9HQJ4,DNA-directed RNA polymerase subunit D (EC 2.7.7.6),VNG_1136G,"transcription, DNA-templated [GO:0006351]"
+Q9HQI4,Ribonuclease J (RNase J) (EC 3.1.-.-),VNG_1149C,RNA catabolic process [GO:0006401]
+P0CX03,DNA-directed RNA polymerase subunit B' (EC 2.7.7.6),VNG_2665G,"transcription, DNA-templated [GO:0006351]"
+Q9HQJ2,30S ribosomal protein S9,VNG_1139G,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) [GO:0000462]; translation [GO:0006412]"
+Q9HQH1,"Probable ribosomal RNA small subunit methyltransferase A (EC 2.1.1.-) (16S rRNA dimethyladenosine transferase) (16S rRNA dimethylase) (S-adenosylmethionine-6-N',N'-adenosyl(rRNA) dimethyltransferase)",VNG_1165G,rRNA methylation [GO:0031167]
+Q9HPE9,30S ribosomal protein S8e,VNG_1668G,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) [GO:0000462]; translation [GO:0006412]"
+Q9HRE8,RNA 3'-terminal phosphate cyclase (RNA cyclase) (RNA-3'-phosphate cyclase) (EC 6.5.1.4),VNG_0732G,RNA processing [GO:0006396]
+Q9HNL5,30S ribosomal protein S27ae,VNG_2047G,translation [GO:0006412]
+Q9HMD1,Preprotein translocase subunit SecG (Protein transport protein Sec61 subunit beta homolog),VNG_2599H,protein transport [GO:0015031]
+Q9HPB1,Protein translocase subunit SecY (Protein transport protein SEC61 subunit alpha homolog),VNG_1719G,"SRP-dependent cotranslational protein targeting to membrane, translocation [GO:0006616]"
+Q9HR45,Transcription initiation factor IIB 4 (TFIIB 4),VNG_0869G,"DNA-templated transcription, initiation [GO:0006352]; transcription preinitiation complex assembly [GO:0070897]"
+Q9HHH8,Transcription initiation factor IIB 5 (TFIIB 5),VNG_6389G,"DNA-templated transcription, initiation [GO:0006352]; transcription preinitiation complex assembly [GO:0070897]"
+Q9HSF7,Transcription initiation factor IIB 7 (TFIIB 7),VNG_0254G,"DNA-templated transcription, initiation [GO:0006352]; transcription preinitiation complex assembly [GO:0070897]"
+Q9HR32,Type 2 DNA topoisomerase 6 subunit A (EC 5.99.1.3) (Type II DNA topoisomerase VI subunit A),VNG_0884G,"DNA catabolic process, endonucleolytic [GO:0000737]; DNA topological change [GO:0006265]; DNA unwinding involved in DNA replication [GO:0006268]"
+Q9HRE6,Transcription initiation factor IIB 2 (TFIIB 2),VNG_0734G,"DNA-templated transcription, initiation [GO:0006352]; transcription preinitiation complex assembly [GO:0070897]"
+Q9HSB3,Transcription initiation factor IIB 6 (TFIIB 6),VNG_0315G,"DNA-templated transcription, initiation [GO:0006352]; transcription preinitiation complex assembly [GO:0070897]"
+Q9HS72,Protein translocase subunit SecE (Protein transport protein Sec61 gamma subunit homolog),VNG_0375G,intracellular protein transmembrane transport [GO:0065002]; protein secretion [GO:0009306]; protein targeting [GO:0006605]
+Q9HN50,Adenosylhomocysteinase (EC 3.3.1.1) (S-adenosyl-L-homocysteine hydrolase) (AdoHcyase),VNG_2251G,one-carbon metabolic process [GO:0006730]; S-adenosylhomocysteine catabolic process [GO:0019510]; S-adenosylmethionine cycle [GO:0033353]
+P57713,30S ribosomal protein S2,VNG_1143G,"endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) [GO:0000447]; endonucleolytic cleavage to generate mature 3'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA) [GO:0000461]; ribosomal small subunit assembly [GO:0000028]; rRNA export from nucleus [GO:0006407]; translation [GO:0006412]"
+Q9HNF0,Peptide chain release factor subunit 1 (Translation termination factor aRF1),VNG_2131G,
+Q9HN27,Replication factor C small subunit (RFC small subunit) (Clamp loader small subunit),VNG_2280G,DNA-dependent DNA replication [GO:0006261]
+P0CX07,DNA-directed RNA polymerase subunit A'' (Subunit C) (EC 2.7.7.6),VNG_2662G,"transcription, DNA-templated [GO:0006351]"
+Q9HQG8,50S ribosomal protein L21e (HL30) (HL31),VNG_1170G,translation [GO:0006412]
+P13575,50S ribosomal protein L1 (HL8),VNG_1105G,maturation of LSU-rRNA [GO:0000470]; regulation of translation [GO:0006417]; translation [GO:0006412]
+P0CX00,30S ribosomal protein S12 (HmaS12),VNG_2658G,translation [GO:0006412]
+P50562,50S ribosomal protein L18 (HCuL18) (HHal18) (HL13) (HSal18),VNG_1714G,ribosomal large subunit assembly [GO:0000027]; translation [GO:0006412]
+Q9HN33,Ribose-5-phosphate isomerase A (EC 5.3.1.6) (Phosphoriboisomerase A) (PRI),VNG_2272G,"D-ribose metabolic process [GO:0006014]; pentose-phosphate shunt, non-oxidative branch [GO:0009052]"
+P0CX02,DNA-directed RNA polymerase subunit A' (EC 2.7.7.6),VNG_2664G,"transcription, DNA-templated [GO:0006351]"
+Q9HN60,Ribonuclease Z (RNase Z) (EC 3.1.26.11) (tRNA 3 endonuclease) (tRNase Z),VNG_2239C,
+Q9HNR3,Ribonuclease HII (RNase HII) (EC 3.1.26.4),VNG_1984G,"DNA replication, removal of RNA primer [GO:0043137]; mismatch repair [GO:0006298]"
+Q9HN40,Ribosomal RNA large subunit methyltransferase E (EC 2.1.1.166) (23S rRNA Um2552 methyltransferase) (rRNA (uridine-2'-O-)-methyltransferase),VNG_2263G,
+Q9HPB8,50S ribosomal protein L6 (HL10),VNG_1709G,cytoplasmic translation [GO:0002181]
+Q9HHN3,Aspartate carbamoyltransferase regulatory chain,VNG_6311G,'de novo' pyrimidine nucleobase biosynthetic process [GO:0006207]; pyrimidine nucleotide biosynthetic process [GO:0006221]
+Q9HMM4,DNA repair and recombination protein RadA,VNG_2473G,DNA recombination [GO:0006310]; DNA repair [GO:0006281]
+Q9HSG8,50S ribosomal protein L37Ae (Ribosomal protein L43e),VNG_0239C,translation [GO:0006412]
+Q9HHN8,7-cyano-7-deazaguanine synthase (EC 6.3.4.20) (7-cyano-7-carbaguanine synthase) (Archaeosine biosynthesis protein QueC) (PreQ(0) synthase),VNG_6303G,queuosine biosynthetic process [GO:0008616]
+Q9HSS4,50S ribosomal protein L10e,VNG_0099G,ribosomal large subunit assembly [GO:0000027]; translation [GO:0006412]
+Q9HPD1,50S ribosomal protein L2,VNG_1692G,cytoplasmic translation [GO:0002181]
+Q9HMN0,50S ribosomal protein L31e,VNG_2467G,cytoplasmic translation [GO:0002181]
+Q9HQH8,50S ribosomal protein L7Ae (Ribosomal protein L8e),VNG_1157G,maturation of LSU-rRNA [GO:0000470]; translation [GO:0006412]; tRNA 5'-leader removal [GO:0001682]
+O24785,Ribonuclease P protein component 1 (RNase P component 1) (EC 3.1.26.5) (Rpp29),VNG_1699C,tRNA 5'-leader removal [GO:0001682]
+Q9HRT6,50S ribosomal protein L44e,VNG_0551G,translation [GO:0006412]
+P0DME1,Cell surface glycoprotein (S-layer glycoprotein),VNG_2679G,cell wall organization [GO:0071555]
+Q9HNW2,Putative fluoride ion transporter CrcB 1,VNG_1919H,fluoride transmembrane transport [GO:1903424]
+Q9HNW1,Putative fluoride ion transporter CrcB 2,VNG_1921H,fluoride transmembrane transport [GO:1903424]
+Q9HRY3,Chaperone protein DnaJ,VNG_0489G,chaperone cofactor-dependent protein refolding [GO:0051085]; DNA replication [GO:0006260]; protein refolding [GO:0042026]; response to heat [GO:0009408]
+Q9HPX2,Probable deoxyhypusine synthase (DHS) (EC 2.5.1.46),VNG_1432G,peptidyl-lysine modification to peptidyl-hypusine [GO:0008612]
+Q9HHJ7,ORC1-type DNA replication protein 4,VNG_6363G,DNA replication [GO:0006260]; mitotic cell cycle [GO:0000278]; mitotic DNA replication checkpoint [GO:0033314]
+Q9HMS3,ORC1-type DNA replication protein 7,VNG_2411G,DNA replication [GO:0006260]; mitotic cell cycle [GO:0000278]; mitotic DNA replication checkpoint [GO:0033314]
+Q9HQ63,Succinate dehydrogenase hydrophobic membrane anchor subunit,VNG_1310G,tricarboxylic acid cycle [GO:0006099]
+Q9HRY2,Chaperone protein DnaK (HSP70) (Heat shock 70 kDa protein) (Heat shock protein 70),VNG_0491G,cellular response to heat [GO:0034605]; cellular response to unfolded protein [GO:0034620]; chaperone cofactor-dependent protein refolding [GO:0051085]; protein refolding [GO:0042026]; response to unfolded protein [GO:0006986]
+Q9HN43,Phosphoenolpyruvate carboxylase (PEPC) (PEPCase) (EC 4.1.1.31),VNG_2259C,carbon fixation [GO:0015977]; oxaloacetate metabolic process [GO:0006107]; tricarboxylic acid cycle [GO:0006099]
+Q9HSP6,CCA-adding enzyme (EC 2.7.7.72) (CCA tRNA nucleotidyltransferase) (tRNA CCA-pyrophosphorylase) (tRNA adenylyl-/cytidylyl- transferase) (tRNA nucleotidyltransferase) (tRNA-NT),VNG_0137G,RNA repair [GO:0042245]; tRNA 3'-terminal CCA addition [GO:0001680]
+Q9HPF0,Protein CdcH,VNG_1667G,
+Q9HQ29,Fumarate hydratase class II (Fumarase C) (EC 4.2.1.2) (Aerobic fumarase) (Iron-independent fumarase),VNG_1356G,fumarate metabolic process [GO:0006106]; tricarboxylic acid cycle [GO:0006099]
+Q9HS93,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B (Asp/Glu-ADT subunit B) (EC 6.3.5.-),VNG_0345G,glutaminyl-tRNAGln biosynthesis via transamidation [GO:0070681]; mitochondrial translation [GO:0032543]
+Q9HQD6,Imidazolonepropionase (EC 3.5.2.7) (Imidazolone-5-propionate hydrolase),VNG_1211G,histidine catabolic process to glutamate and formamide [GO:0019556]; histidine catabolic process to glutamate and formate [GO:0019557]
+Q9HQD8,Probable urocanate hydratase (Urocanase) (EC 4.2.1.49) (Imidazolonepropionate hydrolase),VNG_1208G,histidine catabolic process to glutamate and formamide [GO:0019556]; histidine catabolic process to glutamate and formate [GO:0019557]
+Q9HSQ2,Protease HtpX homolog (EC 3.4.24.-),VNG_0129G,
+Q9HP81,Sensory rhodopsin II transducer (HTR-II) (Methyl-accepting phototaxis protein II) (MPP-II),VNG_1765G,chemotaxis [GO:0006935]; protein-chromophore linkage [GO:0018298]; signal transduction [GO:0007165]
+P0DMI4,Transducer protein Htr4 (HTP VI),VNG_0806G,chemotaxis [GO:0006935]; signal transduction [GO:0007165]
+P0DMI5,Transducer protein Htr7 (HTP V),VNG_1759G,chemotaxis [GO:0006935]; signal transduction [GO:0007165]
+Q9HQ00,Halobacterial transducer protein 9 (HTP III),VNG_1395G,chemotaxis [GO:0006935]; signal transduction [GO:0007165]
+Q9HQD7,Formimidoylglutamase (EC 3.5.3.8) (Formiminoglutamase) (Formiminoglutamate hydrolase),VNG_1209G,histidine catabolic process to glutamate and formamide [GO:0019556]; histidine catabolic process to glutamate and formate [GO:0019557]
+Q9HSS7,Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) (EC 1.2.1.59) (NAD(P)-dependent glyceraldehyde-3-phosphate dehydrogenase),VNG_0095G,glycolytic process [GO:0006096]; lysine biosynthetic process via diaminopimelate [GO:0009089]
+Q9HQD5,Probable histidine ammonia-lyase (Histidase) (EC 4.3.1.3),VNG_1212G,histidine catabolic process to glutamate and formamide [GO:0019556]; histidine catabolic process to glutamate and formate [GO:0019557]
+Q9HQ97,Translation initiation factor 2 subunit beta (aIF2-beta) (eIF-2-beta),VNG_1262G,
+Q9HS71,Cell division protein FtsZ 1,VNG_0376G,cell division [GO:0051301]; division septum assembly [GO:0000917]; FtsZ-dependent cytokinesis [GO:0043093]; protein polymerization [GO:0051258]
+P13077,Flagellin B2,VNG_0961G,
+Q9HS49,Glycerol-1-phosphate dehydrogenase [NAD(P)+] (G1P dehydrogenase) (G1PDH) (EC 1.1.1.261) (Enantiomeric glycerophosphate synthase) (sn-glycerol-1-phosphate dehydrogenase),VNG_0406C,glycerophospholipid metabolic process [GO:0006650]; phospholipid biosynthetic process [GO:0008654]
+Q9HMA9,Probable ribonuclease FAU-1 (EC 3.1.26.-) (RNA-binding protein FAU-1),VNG_2627C,rRNA processing [GO:0006364]
+Q9HQ27,Flap endonuclease 1 (FEN-1) (EC 3.1.-.-) (Flap structure-specific endonuclease 1),VNG_1359G,"DNA repair [GO:0006281]; DNA replication [GO:0006260]; DNA replication, removal of RNA primer [GO:0043137]"
+Q9HPK0,Probable glycine dehydrogenase (decarboxylating) subunit 2 (EC 1.4.4.2) (Glycine cleavage system P-protein subunit 2) (Glycine decarboxylase subunit 2) (Glycine dehydrogenase (aminomethyl-transferring) subunit 2),VNG_1601G,glycine decarboxylation via glycine cleavage system [GO:0019464]
+Q9HRP0,"Digeranylgeranylglyceryl phosphate synthase (DGGGP synthase) (DGGGPS) (EC 2.5.1.42) ((S)-2,3-di-O-geranylgeranylglyceryl phosphate synthase) (Geranylgeranylglycerol-phosphate geranylgeranyltransferase)",VNG_0610G,glycerophospholipid metabolic process [GO:0006650]; phospholipid biosynthetic process [GO:0008654]
+Q9HSB4,3-dehydroquinate dehydratase (3-dehydroquinase) (EC 4.2.1.10) (Type I DHQase) (Type I dehydroquinase) (DHQ1),VNG_0314G,"3,4-dihydroxybenzoate biosynthetic process [GO:0046279]; aromatic amino acid family biosynthetic process [GO:0009073]; chorismate biosynthetic process [GO:0009423]"
+Q9HS68,Shikimate dehydrogenase (NADP(+)) (SDH) (EC 1.1.1.25),VNG_0382G,aromatic amino acid family biosynthetic process [GO:0009073]; chorismate biosynthetic process [GO:0009423]; shikimate metabolic process [GO:0019632]
+Q9HPU7,"Probable beta-carotene 15,15'-dioxygenase Brp (EC 1.13.11.63) (Bacteriorhodopsin-related protein)",VNG_1465G,carotene catabolic process [GO:0016121]; retinal metabolic process [GO:0042574]
+Q9HPU6,Transcriptional regulator Brz (Bacteriorhodopsin-regulating zinc finger protein),VNG_1466H,
+P13075,Flagellin A2,VNG_1009G,
+P61116,Flagellin B1,VNG_0960G,
+P00216,Ferredoxin,VNG_2293G,
+P61118,Flagellin A1,VNG_1008G,
+P13078,Flagellin B3,VNG_0962G,
+Q9HPY4,Bifunctional protein FolD [Includes: Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)],VNG_1416G,histidine biosynthetic process [GO:0000105]; methionine biosynthetic process [GO:0009086]; purine nucleotide biosynthetic process [GO:0006164]; tetrahydrofolate interconversion [GO:0035999]; tetrahydrofolate metabolic process [GO:0046653]
+Q9HQG3,Fibrillarin-like rRNA/tRNA 2'-O-methyltransferase (EC 2.1.1.-),VNG_1176G,box C/D snoRNA 3'-end processing [GO:0000494]; histone glutamine methylation [GO:1990258]; rRNA methylation [GO:0031167]; tRNA processing [GO:0008033]
+Q9HQ18,Cobalamin import ATP-binding protein BtuD (EC 7.6.2.8) (Vitamin B12-transporting ATPase),VNG_1371G,
+Q9HQ19,Cobalamin import system permease protein BtuC,VNG_1370G,
+Q9HQ20,Cobalamin-binding protein (Vitamin B12-binding protein),VNG_1369G,
+Q9HP42,Carbamoyl-phosphate synthase small chain (EC 6.3.5.5) (Carbamoyl-phosphate synthetase glutamine chain),VNG_1815G,'de novo' pyrimidine nucleobase biosynthetic process [GO:0006207]; 'de novo' UMP biosynthetic process [GO:0044205]; arginine biosynthetic process [GO:0006526]; glutamine metabolic process [GO:0006541]; nitrogen compound metabolic process [GO:0006807]
+Q9HQM3,Probable sirohydrochlorin cobaltochelatase (EC 4.99.1.3) (CbiXS),VNG_1093C,cobalamin biosynthetic process [GO:0009236]
+Q9HPH5,Cobalt transport protein CbiN (Energy-coupling factor transporter probable substrate-capture protein CbiN) (ECF transporter S component CbiN),VNG_1634G,cobalamin biosynthetic process [GO:0009236]; cobalt ion transport [GO:0006824]
+Q9HPL7,"Cobyrinate a,c-diamide synthase (EC 6.3.5.11) (Cobyrinic acid a,c-diamide synthetase)",VNG_1573G,cobalamin biosynthetic process [GO:0009236]; glutamine metabolic process [GO:0006541]
+Q9HPK9,Adenosylcobinamide amidohydrolase (AdoCbi hydrolase) (EC 3.5.1.90),VNG_1583C,
+Q9HPN4,Probable cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating) (EC 2.1.1.196),VNG_1550G,cobalamin biosynthetic process [GO:0009236]; corrin biosynthetic process [GO:0046140]
+Q9HHX2,ORC1-type DNA replication protein 3,VNG_6187G,DNA replication [GO:0006260]
+Q9HN34,ORC1-type DNA replication protein 6,VNG_2271G,DNA replication [GO:0006260]; mitotic cell cycle [GO:0000278]; mitotic DNA replication checkpoint [GO:0033314]
+Q9HQC7,ORC1-type DNA replication protein 8,VNG_1224G,DNA replication [GO:0006260]; mitotic cell cycle [GO:0000278]; mitotic DNA replication checkpoint [GO:0033314]
+O51974,ORC1-type DNA replication protein 9,VNG_6091G,DNA replication [GO:0006260]; mitotic cell cycle [GO:0000278]; mitotic DNA replication checkpoint [GO:0033314]
+Q9HSW6,ORC1-type DNA replication protein 10,VNG_0045C,DNA replication [GO:0006260]; mitotic cell cycle [GO:0000278]; mitotic DNA replication checkpoint [GO:0033314]
+Q9HNG1,"CDP-archaeol synthase (EC 2.7.7.67) (CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase)",VNG_2119C,glycerophospholipid biosynthetic process [GO:0046474]
+Q9HS19,Uncharacterized DapA-like lyase VNG_0444G (EC 4.-.-.-),VNG_0444G,
+Q9HRM7,NADP-specific glutamate dehydrogenase A1 (EC 1.4.1.4),VNG_0628G,cellular amino acid metabolic process [GO:0006520]
+Q9HSG3,"dCTP deaminase, dUMP-forming (EC 3.5.4.30) (Bifunctional dCTP deaminase:dUTPase) (DCD-DUT)",VNG_0245G,dUMP biosynthetic process [GO:0006226]; dUTP biosynthetic process [GO:0006229]; nucleobase-containing small molecule interconversion [GO:0015949]
+Q9HP08,Deoxyribose-phosphate aldolase (DERA) (EC 4.1.2.4) (2-deoxy-D-ribose 5-phosphate aldolase) (Phosphodeoxyriboaldolase) (Deoxyriboaldolase),VNG_1859G,carbohydrate catabolic process [GO:0016052]; deoxyribonucleotide catabolic process [GO:0009264]; deoxyribose phosphate catabolic process [GO:0046386]
+Q9HR43,Glutamyl-tRNA(Gln) amidotransferase subunit A (Glu-ADT subunit A) (EC 6.3.5.7),VNG_0872G,translation [GO:0006412]
+Q9HPJ9,Probable glycine dehydrogenase (decarboxylating) subunit 1 (EC 1.4.4.2) (Glycine cleavage system P-protein subunit 1) (Glycine decarboxylase subunit 1) (Glycine dehydrogenase (aminomethyl-transferring) subunit 1),VNG_1603G,glycine decarboxylation via glycine cleavage system [GO:0019464]; nucleoside metabolic process [GO:0009116]
+Q9HPJ7,Probable aminomethyltransferase (EC 2.1.2.10) (Glycine cleavage system T protein),VNG_1606G,glycine decarboxylation via glycine cleavage system [GO:0019464]
+Q9HNY7,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase (BPG-independent PGAM) (Phosphoglyceromutase) (iPGM) (EC 5.4.2.12)",VNG_1887G,cellular carbohydrate metabolic process [GO:0044262]; glucose catabolic process [GO:0006007]; glycolytic process [GO:0006096]
+O54608,Putative sulfur carrier protein VNG_5061C/VNG_5236C/VNG_6059C/VNG_6467C,VNG_5061C; VNG_5236C; VNG_6059C; VNG_6467C,
+P04137,Uncharacterized protein in transposable element ISH50,VNG_0918H; VNG_5149H,
+Q9HQR5,UPF0173 metal-dependent hydrolase VNG_1038C,VNG_1038C,
+P20378,Putative esterase VNG_1336C (EC 3.1.2.-),VNG_1336C,
+Q9HNG7,Putative HTH-type transcriptional regulatory protein VNG_2112C,VNG_2112C,
+Q9HR37,UPF0212 protein VNG_0879C,VNG_0879C,
+Q9HRD6,UPF0229 protein VNG_0746C,VNG_0746C,
+Q9HNE3,V-type ATP synthase alpha chain (EC 7.1.2.2) (V-ATPase subunit A),VNG_2139G,plasma membrane ATP synthesis coupled proton transport [GO:0042777]
+Q9HNE7,V-type ATP synthase subunit D (V-ATPase subunit D),VNG_2135G,plasma membrane ATP synthesis coupled proton transport [GO:0042777]
+Q9HQC9,Uridine kinase (EC 2.7.1.48) (Cytidine monophosphokinase) (Uridine monophosphokinase),VNG_1219G,CTP salvage [GO:0044211]; UMP salvage [GO:0044206]
+Q9HNE4,V-type ATP synthase beta chain (V-ATPase subunit B),VNG_2138G,plasma membrane ATP synthesis coupled proton transport [GO:0042777]
+Q9HNE1,V-type ATP synthase subunit C (V-ATPase subunit C),VNG_2141G,plasma membrane ATP synthesis coupled proton transport [GO:0042777]
+Q9HMU5,UvrABC system protein C (Protein UvrC) (Excinuclease ABC subunit C),VNG_2381G,cellular response to DNA damage stimulus [GO:0006974]; nucleotide-excision repair [GO:0006289]; SOS response [GO:0009432]
+Q9HMT9,UvrABC system protein B (Protein UvrB) (Excinuclease ABC subunit B),VNG_2390G,nucleotide-excision repair [GO:0006289]; SOS response [GO:0009432]
+Q9HP68,"Tritrans,polycis-undecaprenyl-diphosphate synthase (geranylgeranyl-diphosphate specific) (EC 2.5.1.89) (Undecaprenyl diphosphate synthase) (UDS) (Undecaprenyl pyrophosphate synthase) (UPP synthase)",VNG_1779C,polyprenol biosynthetic process [GO:0016094]
+Q9HSC1,Indole-3-glycerol phosphate synthase (IGPS) (EC 4.1.1.48),VNG_0305G,tryptophan biosynthetic process [GO:0000162]
+Q9HN31,UPF0213 protein VNG_2274C,VNG_2274C,
+Q9HN05,Uracil phosphoribosyltransferase (EC 2.4.2.9) (UMP pyrophosphorylase) (UPRTase),VNG_2305C,nucleoside metabolic process [GO:0009116]; UMP salvage [GO:0044206]; uracil salvage [GO:0006223]
+Q9HNE0,V-type ATP synthase subunit E (V-ATPase subunit E),VNG_2142G,ATP hydrolysis coupled proton transport [GO:0015991]; plasma membrane ATP synthesis coupled proton transport [GO:0042777]
+Q9HND8,V-type ATP synthase subunit I (V-ATPase subunit I),VNG_2144G,ATP hydrolysis coupled proton transport [GO:0015991]; vacuolar acidification [GO:0007035]
+Q9HNE2,V-type ATP synthase subunit F (V-ATPase subunit F),VNG_2140G,plasma membrane ATP synthesis coupled proton transport [GO:0042777]
+Q9HRG2,Phosphomethylpyrimidine synthase (EC 4.1.99.17) (Hydroxymethylpyrimidine phosphate synthase) (HMP-P synthase) (HMP-phosphate synthase) (HMPP synthase) (Thiamine biosynthesis protein ThiC),VNG_0715G,thiamine biosynthetic process [GO:0009228]; thiamine diphosphate biosynthetic process [GO:0009229]
+Q9HSB9,Tryptophan synthase alpha chain (EC 4.2.1.20),VNG_0308G,tryptophan biosynthetic process [GO:0000162]
+P0CX05,Probable transposase for insertion sequence element ISH11,VNG_0213H; VNG_5045H; VNG_5252H; VNG_6043H; VNG_6421H; VNG_6483H,"transposition, DNA-mediated [GO:0006313]"
+Q9HPG5,Anthranilate synthase component 1 1 (EC 4.1.3.27) (Anthranilate synthase component I 1),VNG_1647G,tryptophan biosynthetic process [GO:0000162]
+Q9HN62,Tyrosine--tRNA ligase (EC 6.1.1.1) (Tyrosyl-tRNA synthetase) (TyrRS),VNG_2237G,tyrosyl-tRNA aminoacylation [GO:0006437]
+Q48325,TATA-box-binding protein B (Box A-binding protein B) (BAP B) (TATA sequence-binding protein B) (TBP B) (TATA-box factor B),VNG_5052G; VNG_5245G; VNG_6050G; VNG_6476G,"DNA-templated transcription, initiation [GO:0006352]; transcription by RNA polymerase II [GO:0006366]"
+O52004,TATA-box-binding protein C (Box A-binding protein C) (BAP C) (TATA sequence-binding protein C) (TBP C) (TATA-box factor C),VNG_5142G; VNG_6140G,"DNA-templated transcription, initiation [GO:0006352]; transcription by RNA polymerase II [GO:0006366]"
+Q9HN56,TATA-box-binding protein E (Box A-binding protein E) (BAP E) (TATA sequence-binding protein E) (TBP E) (TATA-box factor E),VNG_2243G,"DNA-templated transcription, initiation [GO:0006352]; transcription by RNA polymerase II [GO:0006366]"
+Q9HMC7,Thiamine thiazole synthase (EC 4.-.-.-),VNG_2604G,thiamine biosynthetic process [GO:0009228]; thiamine diphosphate biosynthetic process [GO:0009229]; thiazole biosynthetic process [GO:0052837]
+Q9HQ52,Flavin-dependent thymidylate synthase (FDTS) (EC 2.1.1.148) (FAD-dependent thymidylate synthase) (Thymidylate synthase ThyX) (TS) (TSase),VNG_1325C,dTMP biosynthetic process [GO:0006231]; dTTP biosynthetic process [GO:0006235]
+Q9HHN2,Arginine--tRNA ligase (EC 6.1.1.19) (Arginyl-tRNA synthetase) (ArgRS),VNG_6312G,arginyl-tRNA aminoacylation [GO:0006420]
+Q9HMG9,Valine--tRNA ligase (EC 6.1.1.9) (Valyl-tRNA synthetase) (ValRS),VNG_2547G,valyl-tRNA aminoacylation [GO:0006438]
+Q9HN70,Thermosome subunit alpha (Chaperonin subunit alpha) (Thermosome subunit 1),VNG_2226G,protein folding [GO:0006457]
+Q9HNI0,Thermosome subunit beta (Chaperonin subunit beta) (Thermosome subunit 2),VNG_2096G,protein folding [GO:0006457]
+Q9HNP1,Thiamine-monophosphate kinase (TMP kinase) (Thiamine-phosphate kinase) (EC 2.7.4.16),VNG_2011G,thiamine biosynthetic process [GO:0009228]; thiamine diphosphate biosynthetic process [GO:0009229]
+O52018,TATA-box-binding protein D (Box A-binding protein D) (BAP D) (TATA sequence-binding protein D) (TBP D) (TATA-box factor D),VNG_5163G,"DNA-templated transcription, initiation [GO:0006352]; transcription by RNA polymerase II [GO:0006366]"
+Q9HN83,Tryptophan--tRNA ligase 1 (EC 6.1.1.2) (Tryptophanyl-tRNA synthetase 1) (TrpRS 1),VNG_2208G,tryptophanyl-tRNA aminoacylation [GO:0006436]
+Q9HN66,Tryptophan--tRNA ligase 2 (EC 6.1.1.2) (Tryptophanyl-tRNA synthetase 2) (TrpRS 2),VNG_2232G,tryptophanyl-tRNA aminoacylation [GO:0006436]
+Q9HRC7,Transcription factor E (TFE) (TFIIE subunit alpha homolog) (Transcription initiation factor TFIIE),VNG_0757G,"regulation of transcription, DNA-templated [GO:0006355]; transcriptional open complex formation at RNA polymerase II promoter [GO:0001113]"
+Q9HHE9,TATA-box-binding protein F (Box A-binding protein F) (BAP F) (TATA sequence-binding protein F) (TBP F) (TATA-box factor F),VNG_6438G,"DNA-templated transcription, initiation [GO:0006352]; transcription by RNA polymerase II [GO:0006366]"
+Q9HNJ5,50S ribosomal protein L40e,VNG_2076G,translation [GO:0006412]
+P05971,50S ribosomal protein L15 (HL16),VNG_1718G,translation [GO:0006412]
+P50558,50S ribosomal protein L5 (HCul5) (HHal5) (HL19) (HSal5),VNG_1705G,ribosomal large subunit assembly [GO:0000027]; translation [GO:0006412]
+Q9HQ95,UPF0212 protein VNG_1264C,VNG_1264C,
+Q9HSU8,UPF0175 protein VNG_0066H,VNG_0066H,
+Q9HQK7,Probable S-adenosyl-L-methionine-binding protein VNG_1115H,VNG_1115H,
+Q9HSJ8,Double zinc ribbon protein VNG_0195H,VNG_0195H,
+P17104,Uncharacterized protein VNG_1110C (Protein NAB),VNG_1110C,
+P17103,Uncharacterized GTP-binding protein VNG_1111G,VNG_1111G,cytoplasmic translation [GO:0002181]
+Q9HN72,Leucine--tRNA ligase (EC 6.1.1.4) (Leucyl-tRNA synthetase) (LeuRS),VNG_2223G,leucyl-tRNA aminoacylation [GO:0006429]
+Q9HSA4,Methionine--tRNA ligase (EC 6.1.1.10) (Methionyl-tRNA synthetase) (MetRS),VNG_0326G,methionyl-tRNA aminoacylation [GO:0006431]
+Q9HSC0,Tryptophan synthase beta chain (EC 4.2.1.20),VNG_0307G,tryptophan biosynthetic process [GO:0000162]
+Q9HMV9,UPF0148 protein VNG_2366C,VNG_2366C,
+Q9HMK3,Phenylalanine--tRNA ligase beta subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase beta subunit) (PheRS),VNG_2505G,phenylalanyl-tRNA aminoacylation [GO:0006432]
+Q9HMQ3,Argininosuccinate lyase (ASAL) (EC 4.3.2.1) (Arginosuccinase),VNG_2436G,arginine biosynthetic process via ornithine [GO:0042450]
+P0DMI2,Protein-glutamate methylesterase/protein-glutamine glutaminase (EC 3.1.1.61) (EC 3.5.1.44),VNG_0973G,chemotaxis [GO:0006935]; protein deamination [GO:0018277]; protein demethylation [GO:0006482]
+Q9HQC1,3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS),VNG_1232G,aromatic amino acid family biosynthetic process [GO:0009073]; chorismate biosynthetic process [GO:0009423]
+Q9HNV0,2-phospho-L-lactate guanylyltransferase (LP guanylyltransferase) (EC 2.7.7.68),VNG_1935C,coenzyme biosynthetic process [GO:0009108]
+Q9HNU8,5-amino-6-(D-ribitylamino)uracil--L-tyrosine 4-hydroxyphenyl transferase (EC 2.5.1.147) (FO synthase subunit 2),VNG_1938C,
+Q9HPL2,Adenosylcobinamide-GDP ribazoletransferase (EC 2.7.8.26) (Cobalamin synthase) (Cobalamin-5'-phosphate synthase),VNG_1580H,cobalamin biosynthetic process [GO:0009236]
+P71411,Sensory rhodopsin-2 (Sensory rhodopsin II) (SR-II),VNG_1764G,phototransduction [GO:0007602]; protein-chromophore linkage [GO:0018298]
+P0DMH7,Halorhodopsin (HR),VNG_0180G,phototransduction [GO:0007602]; protein-chromophore linkage [GO:0018298]
+Q9HPU8,Bacterioopsin transcriptional activator,VNG_1464G,phosphorelay signal transduction system [GO:0000160]
+Q9HPL5,Probable cobyric acid synthase,VNG_1576G,cobalamin biosynthetic process [GO:0009236]; glutamine metabolic process [GO:0006541]
+Q9HPX4,2-phospho-L-lactate transferase (EC 2.7.8.28) (LPPG:FO 2-phospho-L-lactate transferase),VNG_1429C,coenzyme biosynthetic process [GO:0009108]
+Q9HNU9,"7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase (EC 4.3.1.32) (FO synthase subunit 1)",VNG_1937C,coenzyme biosynthetic process [GO:0009108]
+P0DMH8,Sensory rhodopsin-1 (Sensory rhodopsin I) (SR-I),VNG_1660G,phototransduction [GO:0007602]; protein-chromophore linkage [GO:0018298]
+Q9HP84,Transducer protein CosT (Compatible solute transducer protein) (HTP IV),VNG_1760G,chemotaxis [GO:0006935]; signal transduction [GO:0007165]
+Q9HHN1,Arginine/ornithine antiporter ArcD,VNG_6313G,amino acid transport [GO:0006865]
+Q9HQB0,Shikimate kinase (SK) (EC 2.7.1.71),VNG_1245C,aromatic amino acid family biosynthetic process [GO:0009073]; chorismate biosynthetic process [GO:0009423]
+Q9HMQ2,Argininosuccinate synthase (EC 6.3.4.5) (Citrulline--aspartate ligase),VNG_2437G,arginine biosynthetic process [GO:0006526]; argininosuccinate metabolic process [GO:0000053]; urea cycle [GO:0000050]
+Q9HNT1,tRNA-guanine(15) transglycosylase (EC 2.4.2.48) (7-cyano-7-deazaguanine tRNA-ribosyltransferase) (Archaeal tRNA-guanine transglycosylase),VNG_1959G,tRNA modification [GO:0006400]
+Q9HMC3,Archaemetzincin (EC 3.4.-.-),VNG_2610C,
+Q9HSB8,"2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase (ADH synthase) (ADHS) (ADTH synthase) (EC 2.2.1.10)",VNG_0309C,aromatic amino acid family biosynthetic process [GO:0009073]
+Q9HRI2,Fructose-bisphosphate aldolase class 1 (EC 4.1.2.13) (Fructose-bisphosphate aldolase class I) (FBP aldolase),VNG_0683C,aromatic amino acid family biosynthetic process [GO:0009073]; glycolytic process [GO:0006096]
+O52027,Putative arsenical pump-driving ATPase (EC 3.6.3.16) (Arsenical resistance ATPase) (Arsenite-translocating ATPase) (Arsenite-transporting ATPase),VNG_5180G,detoxification of arsenic-containing substance [GO:0071722]
+O52028,Putative arsenical resistance operon repressor ArsD,VNG_5181G,"negative regulation of transcription, DNA-templated [GO:0045892]; response to arsenic-containing substance [GO:0046685]"
+O52030,Putative arsenate reductase (EC 1.20.4.-),VNG_5183G,response to arsenic-containing substance [GO:0046685]
+O52025,Arsenite methyltransferase (EC 2.1.1.137),VNG_5177C,response to arsenic-containing substance [GO:0046685]
+O52029,Putative arsenical resistance operon repressor ArsR,VNG_5182G,response to arsenic-containing substance [GO:0046685]
+Q48295,Carbamate kinase (CK) (EC 2.7.2.2),VNG_6316G,arginine deiminase pathway [GO:0019546]; carbamoyl phosphate catabolic process [GO:0035975]
+Q9HQC2,Chorismate synthase (CS) (EC 4.2.3.5) (5-enolpyruvylshikimate-3-phosphate phospholyase),VNG_1230G,aromatic amino acid family biosynthetic process [GO:0009073]; chorismate biosynthetic process [GO:0009423]
+O52026,Putative arsenical resistance operon repressor ArsR2,VNG_5176C,response to arsenic-containing substance [GO:0046685]
+Q9HN46,Putative archaetidylserine decarboxylase proenzyme (EC 4.1.1.-) [Cleaved into: Archaetidylserine decarboxylase alpha chain; Archaetidylserine decarboxylase beta chain],VNG_2255C,phospholipid biosynthetic process [GO:0008654]
+Q9HQM6,Adenylosuccinate synthetase (AMPSase) (AdSS) (EC 6.3.4.4) (IMP--aspartate ligase),VNG_1089G,'de novo' AMP biosynthetic process [GO:0044208]; IMP metabolic process [GO:0046040]
+Q9HMV4,IMP cyclohydrolase (EC 3.5.4.10) (IMP synthase) (Inosinicase),VNG_2371C,'de novo' IMP biosynthetic process [GO:0006189]
+Q9HPC0,30S ribosomal protein S14 type Z,VNG_1706G,translation [GO:0006412]
+Q9HRA2,30S ribosomal protein S15,VNG_0790G,translation [GO:0006412]
+Q9HPX1,30S ribosomal protein S17e,VNG_1433G,translation [GO:0006412]
+Q9HNU7,Putative phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6) (SAICAR synthetase),VNG_1939G,'de novo' IMP biosynthetic process [GO:0006189]
+Q9HPC3,50S ribosomal protein L24,VNG_1702G,cytoplasmic translation [GO:0002181]; ribosomal large subunit biogenesis [GO:0042273]
+Q9HR49,Phosphoribosylformylglycinamidine synthase subunit PurL (FGAM synthase) (EC 6.3.5.3) (Formylglycinamide ribonucleotide amidotransferase subunit II) (FGAR amidotransferase II) (FGAR-AT II) (Glutamine amidotransferase PurL) (Phosphoribosylformylglycinamidine synthase subunit II),VNG_0864G,'de novo' IMP biosynthetic process [GO:0006189]
+Q9HHN4,Aspartate carbamoyltransferase (EC 2.1.3.2) (Aspartate transcarbamylase) (ATCase),VNG_6309G,'de novo' pyrimidine nucleobase biosynthetic process [GO:0006207]; 'de novo' UMP biosynthetic process [GO:0044205]; cellular amino acid metabolic process [GO:0006520]; nitrogen compound metabolic process [GO:0006807]
+Q9HNU2,Phosphoribosylformylglycinamidine synthase subunit PurQ (FGAM synthase) (EC 6.3.5.3) (Formylglycinamide ribonucleotide amidotransferase subunit I) (FGAR amidotransferase I) (FGAR-AT I) (Glutaminase PurQ) (EC 3.5.1.2) (Phosphoribosylformylglycinamidine synthase subunit I),VNG_1945G,'de novo' IMP biosynthetic process [GO:0006189]; glutamine metabolic process [GO:0006541]
+Q9V2W4,30S ribosomal protein S13 (HS13),VNG_1132G,translation [GO:0006412]
+O24786,30S ribosomal protein S17 (HHAS17),VNG_1700G,translation [GO:0006412]
+Q9HRP7,Ribonuclease P protein component 4 (RNase P component 4) (EC 3.1.26.5) (Rpp21),VNG_0599C,tRNA 5'-leader removal [GO:0001682]
+Q9HQ32,Glutamyl-tRNA(Gln) amidotransferase subunit E (Glu-ADT subunit E) (EC 6.3.5.-),VNG_1352G,glutaminyl-tRNAGln biosynthesis via transamidation [GO:0070681]; mitochondrial translation [GO:0032543]
+Q9HPJ8,Probable glycine cleavage system H protein,VNG_1605G,glycine decarboxylation via glycine cleavage system [GO:0019464]
+Q9HSF8,Geranylgeranylglyceryl phosphate synthase (GGGP synthase) (GGGPS) (EC 2.5.1.41) ((S)-3-O-geranylgeranylglyceryl phosphate synthase) (Phosphoglycerol geranylgeranyltransferase),VNG_0252C,glycerophospholipid biosynthetic process [GO:0046474]
+Q9HR73,Putative dimethyl sulfoxide reductase iron-sulfur subunit B (DMSO reductase subunit B),VNG_0830G,oxidation-reduction process [GO:0055114]
+Q9HR72,Putative dimethyl sulfoxide reductase membrane subunit C (DMSO reductase subunit C),VNG_0831G,
+Q9HR71,Putative dimethyl sulfoxide reductase chaperone (DMSO reductase chaperone),VNG_0832C,
+Q9HR76,Dimethyl sulfoxide reductase transcriptional activator (DMSO reductase transcriptional activator),VNG_0826C,
+Q9HP65,DNA primase DnaG (EC 2.7.7.-),VNG_1784C,"DNA replication, synthesis of RNA primer [GO:0006269]"
+Q9HMX8,DNA polymerase II large subunit (Pol II) (EC 2.7.7.7) (Exodeoxyribonuclease large subunit) (EC 3.1.11.1) [Cleaved into: Hsp-NRC1 polC intein (Hsp-NRC1 pol2 intein)],VNG_2338G,"DNA catabolic process, exonucleolytic [GO:0000738]; DNA-dependent DNA replication [GO:0006261]; intein-mediated protein splicing [GO:0016539]"
+Q9HMR7,DNA polymerase II small subunit (Pol II) (EC 2.7.7.7) (Exodeoxyribonuclease small subunit) (EC 3.1.11.1),VNG_2417G,"DNA catabolic process, exonucleolytic [GO:0000738]; DNA strand elongation involved in DNA replication [GO:0006271]"
+P0DMG4,Glutamate dehydrogenase B (GDH B) (EC 1.4.1.-),VNG_0161G,cellular amino acid metabolic process [GO:0006520]
+Q9HMF3,Probable deoxyuridine 5'-triphosphate nucleotidohydrolase (dUTPase) (EC 3.6.1.23) (dUTP pyrophosphatase),VNG_2570G,dUMP biosynthetic process [GO:0006226]
+Q9HP80,GTP cyclohydrolase 1 type 2 homolog,VNG_1766C,
+Q9HQS9,GTP cyclohydrolase III 2 (EC 3.5.4.29),VNG_1021C,biosynthetic process [GO:0009058]
+Q9HPZ9,Glutamate--cysteine ligase (EC 6.3.2.2) (Gamma-glutamylcysteine synthetase) (GCS) (Gamma-GCS),VNG_1397C,cellular modified amino acid biosynthetic process [GO:0042398]
+Q9HSB6,3-dehydroquinate synthase (DHQ synthase) (EC 1.4.1.24) (3-dehydroquinate synthase II),VNG_0310C,aromatic amino acid family biosynthetic process [GO:0009073]
+Q9HQT4,DNA polymerase IV (Pol IV) (EC 2.7.7.7),VNG_1014G,DNA-dependent DNA replication [GO:0006261]; error-prone translesion synthesis [GO:0042276]; translesion synthesis [GO:0019985]
+Q9HQT7,GTP cyclohydrolase III 1 (EC 3.5.4.29),VNG_1011C,biosynthetic process [GO:0009058]
+Q9HM89,Elongation factor 1-alpha (EF-1-alpha) (Elongation factor Tu) (EF-Tu),VNG_2649G,
+Q9HQG6,Elongation factor 1-beta (EF-1-beta) (aEF-1beta),VNG_1173G,
+Q9HM85,Elongation factor 2 (EF-2),VNG_2654G,translational elongation [GO:0006414]
+Q9HQI9,Enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (2-phosphoglycerate dehydratase),VNG_1142G,glycolytic process [GO:0006096]
+Q9HMY8,"Glutamate-1-semialdehyde 2,1-aminomutase (GSA) (EC 5.4.3.8) (Glutamate-1-semialdehyde aminotransferase) (GSA-AT)",VNG_2326G,protoporphyrinogen IX biosynthetic process [GO:0006782]
+Q9HRI1,"Fructose-1,6-bisphosphatase class 1 (FBPase class 1) (EC 3.1.3.11) (D-fructose-1,6-bisphosphate 1-phosphohydrolase class 1)",VNG_0684G,"fructose 1,6-bisphosphate metabolic process [GO:0030388]; fructose 6-phosphate metabolic process [GO:0006002]; fructose metabolic process [GO:0006000]; gluconeogenesis [GO:0006094]; sucrose biosynthetic process [GO:0005986]"
+Q9HRY0,Protein GrpE (HSP-70 cofactor),VNG_0494G,protein folding [GO:0006457]
+P84699,Protein VNG_0358C,VNG_0358C,
+Q9HML8,Phosphate import ATP-binding protein PstB 2 (EC 7.3.2.1) (ABC phosphate transporter 2) (Phosphate-transporting ATPase 2),VNG_2482G,
+Q9HNX6,GTP cyclohydrolase MptA (EC 3.5.4.39) (GTP cyclohydrolase IV),VNG_1901C,
+P0CW99,Probable transcription termination protein NusA,VNG_2661G,"DNA-templated transcription, termination [GO:0006353]; transcription antitermination [GO:0031564]"
+Q9HS13,Phosphate import ATP-binding protein PstB 1 (EC 7.3.2.1) (ABC phosphate transporter 1) (Phosphate-transporting ATPase 1),VNG_0452G,
+Q9HR36,Proteasome subunit beta (EC 3.4.25.1) (20S proteasome beta subunit) (Proteasome core protein PsmB),VNG_0880G,proteasomal protein catabolic process [GO:0010498]; proteasomal ubiquitin-independent protein catabolic process [GO:0010499]; proteasome-mediated ubiquitin-dependent protein catabolic process [GO:0043161]
+Q9HRF0,Putative 2-dehydropantoate 2-reductase (EC 1.1.1.169) (Ketopantoate reductase) (KPA reductase) (KPR),VNG_0730C,pantothenate biosynthetic process [GO:0015940]
+Q9HPT6,3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11) (Ketopantoate hydroxymethyltransferase) (KPHMT),VNG_1478G,pantothenate biosynthetic process [GO:0015940]
+Q9HRW6,Proteasome-activating nucleotidase 1 (PAN 1) (Proteasomal ATPase 1) (Proteasome regulatory ATPase 1) (Proteasome regulatory particle 1),VNG_0510G,proteasomal protein catabolic process [GO:0010498]; protein unfolding [GO:0043335]
+Q9HNP9,Proteasome-activating nucleotidase 2 (PAN 2) (Proteasomal ATPase 2) (Proteasome regulatory ATPase 2) (Proteasome regulatory particle 2),VNG_2000G,proteasomal protein catabolic process [GO:0010498]; protein unfolding [GO:0043335]
+Q9HNQ6,Probable glucose-6-phosphate isomerase (GPI) (EC 5.3.1.9) (Phosphoglucose isomerase) (PGI) (Phosphohexose isomerase) (PHI),VNG_1992G,gluconeogenesis [GO:0006094]; glucose 6-phosphate metabolic process [GO:0051156]; glycolytic process [GO:0006096]
+Q9HN20,Glutamate mutase epsilon subunit (EC 5.4.99.1) (Glutamate mutase E chain) (Glutamate mutase large subunit) (Methylaspartate mutase),VNG_2288G,anaerobic glutamate catabolic process [GO:0019670]; glutamate catabolic process via L-citramalate [GO:0019553]
+Q9HN21,Glutamate mutase sigma subunit (EC 5.4.99.1) (Glutamate mutase S chain) (Glutamate mutase small subunit) (Methylaspartate mutase),VNG_2286G,anaerobic glutamate catabolic process [GO:0019670]; glutamate catabolic process via L-citramalate [GO:0019553]
+Q9HNS5,Glycerol kinase (EC 2.7.1.30) (ATP:glycerol 3-phosphotransferase) (Glycerokinase) (GK),VNG_1967G,glycerol-3-phosphate metabolic process [GO:0006072]; glycerol catabolic process [GO:0019563]; glycerol metabolic process [GO:0006071]
+P0DMR7,Cell division protein FtsZ 2,VNG_0192G,cell division [GO:0051301]; division septum assembly [GO:0000917]; FtsZ-dependent cytokinesis [GO:0043093]; protein polymerization [GO:0051258]
+Q9HP78,Translation initiation factor 5A (Hypusine-containing protein) (eIF-5A),VNG_1768G,positive regulation of translational elongation [GO:0045901]; positive regulation of translational termination [GO:0045905]; translational frameshifting [GO:0006452]
+Q9HNI2,Glutamine synthetase (GS) (EC 6.3.1.2) (Glutamate--ammonia ligase) (Glutamine synthetase I alpha) (GSI alpha),VNG_2093G,glutamine biosynthetic process [GO:0006542]; polyamine catabolic process [GO:0006598]
+Q9HP33,GMP synthase [glutamine-hydrolyzing] subunit B (EC 6.3.5.2) (GMP synthetase),VNG_1829G,GMP biosynthetic process [GO:0006177]
+Q9HI24,Protein GvpI 1,VNG_5023G; VNG_6023G,
+P33956,Gas vesicle protein GvpJ 2,VNG_6232G,
+P08958,Gas vesicle structural protein 1 (GVP) (P-VAC),VNG_5030G; VNG_6029G,
+Q9HS17,Glucose 1-dehydrogenase (GDH) (GlcDH) (EC 1.1.1.47),VNG_0446G,non-phosphorylated glucose catabolic process [GO:0019595]
+Q9HNS3,Probable anaerobic glycerol-3-phosphate dehydrogenase subunit B (Anaerobic G-3-P dehydrogenase subunit B) (Anaerobic G3Pdhase B) (EC 1.1.5.3),VNG_1971G,glycerol catabolic process [GO:0019563]
+Q9HHT0,Gas vesicle protein C 2,VNG_6242G,gas vesicle organization [GO:0031412]
+O51968,Protein GvpO 1,VNG_5034G; VNG_6033G,gas vesicle organization [GO:0031412]
+Q9HP72,Glutamyl-tRNA reductase (GluTR) (EC 1.2.1.70),VNG_1774G,protoporphyrinogen IX biosynthetic process [GO:0006782]
+Q9HQ89,Probable cyclic pyranopterin monophosphate synthase (EC 4.6.1.17) (Molybdenum cofactor biosynthesis protein C),VNG_1273G,Mo-molybdopterin cofactor biosynthetic process [GO:0006777]
+Q9HST4,"Probable GTP 3',8-cyclase (EC 4.1.99.22) (Molybdenum cofactor biosynthesis protein A)",VNG_0085G,Mo-molybdopterin cofactor biosynthetic process [GO:0006777]
+Q9HRW4,DNA double-strand break repair protein Mre11 (EC 3.1.-.-),VNG_0512G,double-strand break repair [GO:0006302]
+Q9HN51,5-methylthioadenosine/S-adenosylhomocysteine deaminase (MTA/SAH deaminase) (EC 3.5.4.28) (EC 3.5.4.31),VNG_2249G,
+Q9HQG0,Peptide methionine sulfoxide reductase MsrA (Protein-methionine-S-oxide reductase) (EC 1.8.4.11) (Peptide-methionine (S)-S-oxide reductase) (Peptide Met(O) reductase),VNG_1180G,cellular protein modification process [GO:0006464]
+Q9HRT9,Ribosome biogenesis protein Nop10,VNG_0548C,pseudouridine synthesis [GO:0001522]; rRNA processing [GO:0006364]
+P57697,Proteasome subunit alpha (EC 3.4.25.1) (20S proteasome alpha subunit) (Proteasome core protein PsmA),VNG_0166G,proteasomal protein catabolic process [GO:0010498]; proteasomal ubiquitin-independent protein catabolic process [GO:0010499]; proteasome-mediated ubiquitin-dependent protein catabolic process [GO:0043161]
+Q9HSN7,Putative nickel-responsive regulator,VNG_0147C,response to nickel cation [GO:0010045]
+Q9HN47,DNA primase large subunit PriL,VNG_2254C,
+Q9HPU3,DNA primase small subunit PriS (EC 2.7.7.-),VNG_1470G,"DNA replication, synthesis of RNA primer [GO:0006269]"
+Q9HSM6,DNA mismatch repair protein MutL,VNG_0159G,mismatch repair [GO:0006298]
+Q9HS36,Nascent polypeptide-associated complex protein,VNG_0424C,protein transport [GO:0015031]
+Q9HSM2,DNA mismatch repair protein MutS 1,VNG_0163G,mismatch repair [GO:0006298]
+Q9HSL6,DNA mismatch repair protein MutS 2,VNG_0172G,mismatch repair [GO:0006298]
+Q9HPI4,Replication factor C large subunit (RFC large subunit) (Clamp loader large subunit),VNG_1622G,DNA replication [GO:0006260]
+Q9HRB2,FAD synthase (EC 2.7.7.2) (FMN adenylyltransferase) (Flavin adenine dinucleotide synthase),VNG_0777G,FAD biosynthetic process [GO:0006747]; FMN metabolic process [GO:0046444]
+Q9HN45,DNA polymerase sliding clamp (Proliferating cell nuclear antigen homolog) (PCNA),VNG_2256G,leading strand elongation [GO:0006272]; regulation of DNA replication [GO:0006275]
+Q9HNN8,Uridylate kinase (UK) (EC 2.7.4.22) (Uridine monophosphate kinase) (UMP kinase) (UMPK),VNG_2015C,'de novo' CTP biosynthetic process [GO:0044210]; UDP biosynthetic process [GO:0006225]
+Q9HP57,Pyridoxal 5'-phosphate synthase subunit PdxS (PLP synthase subunit PdxS) (EC 4.3.3.6) (Pdx1),VNG_1793C,cellular amino acid metabolic process [GO:0006520]; pyridoxal phosphate biosynthetic process [GO:0042823]; pyridoxine biosynthetic process [GO:0008615]
+Q9HPR5,Protein pelota homolog (EC 3.1.-.-),VNG_1506G,"nonfunctional rRNA decay [GO:0070651]; nuclear-transcribed mRNA catabolic process, no-go decay [GO:0070966]; nuclear-transcribed mRNA catabolic process, non-stop decay [GO:0070481]; ribosome disassembly [GO:0032790]; RNA surveillance [GO:0071025]"
+Q9HMN2,Prefoldin subunit alpha (GimC subunit alpha),VNG_2465C,protein folding [GO:0006457]
+Q9HRF9,Phosphoglycolate phosphatase (PGP) (PGPase) (EC 3.1.3.18),VNG_0718C,carbohydrate metabolic process [GO:0005975]
+Q9HNI8,Phosphonates import ATP-binding protein PhnC (EC 7.3.2.2),VNG_2085G,
+Q9HNZ0,L-aspartate oxidase (LASPO) (EC 1.4.3.16) (Quinolinate synthase B),VNG_1883G,NAD biosynthetic process [GO:0009435]
+Q9HNM7,NH(3)-dependent NAD(+) synthetase (EC 6.3.1.5),VNG_2031G,NAD biosynthetic process [GO:0009435]
+Q9HNX7,NAD kinase (EC 2.7.1.23) (ATP-dependent NAD kinase),VNG_1900C,NAD metabolic process [GO:0019674]; NADP biosynthetic process [GO:0006741]
+Q9HNZ1,Quinolinate synthase A (EC 2.5.1.72),VNG_1882G,'de novo' NAD biosynthetic process from aspartate [GO:0034628]
+Q9HSC4,Nicotinamide-nucleotide adenylyltransferase (EC 2.7.7.1) (NAD(+) diphosphorylase) (NAD(+) pyrophosphorylase) (NMN adenylyltransferase),VNG_0301C,NAD biosynthetic process [GO:0009435]
+P61136,Nucleoside diphosphate kinase (NDK) (NDP kinase) (EC 2.7.4.6) (Nucleoside-2-P kinase),VNG_1160G,CTP biosynthetic process [GO:0006241]; GTP biosynthetic process [GO:0006183]; UTP biosynthetic process [GO:0006228]
+Q9HNQ0,Pyruvoyl-dependent arginine decarboxylase (PvlArgDC) (EC 4.1.1.19) [Cleaved into: Pyruvoyl-dependent arginine decarboxylase subunit beta; Pyruvoyl-dependent arginine decarboxylase subunit alpha],VNG_1999H,arginine catabolic process [GO:0006527]
+Q9HQD1,Phosphoglycerate kinase (EC 2.7.2.3),VNG_1216G,gluconeogenesis [GO:0006094]; glycolytic process [GO:0006096]; positive regulation of oxidative phosphorylation [GO:1903862]
+Q9HP73,Putative pterin-4-alpha-carbinolamine dehydratase (PHS) (EC 4.2.1.96) (4-alpha-hydroxy-tetrahydropterin dehydratase) (Pterin carbinolamine dehydratase) (PCD),VNG_1773G,tetrahydrobiopterin biosynthetic process [GO:0006729]
+Q9HSH0,Prefoldin subunit beta (GimC subunit beta),VNG_0234C,protein folding [GO:0006457]
+P57684,Potassium-transporting ATPase potassium-binding subunit (ATP phosphohydrolase [potassium-transporting] A chain) (Potassium-binding and translocating subunit A) (Potassium-translocating ATPase A chain),VNG_6176G,potassium ion transmembrane transport [GO:0071805]
+Q9HQS1,Putative adenylate kinase (AK) (EC 2.7.4.3) (ATP-AMP transphosphorylase),VNG_1031C,
+Q9HPA5,Cytidylate kinase (CK) (EC 2.7.4.25) (Cytidine monophosphate kinase) (CMP kinase),VNG_1727G,pyrimidine nucleotide metabolic process [GO:0006220]
+Q9HSF3,Inorganic pyrophosphatase (EC 3.6.1.1) (Pyrophosphate phospho-hydrolase) (PPase),VNG_0259G,phosphate-containing compound metabolic process [GO:0006796]
+Q9HPD7,Methenyltetrahydromethanopterin cyclohydrolase (EC 3.5.4.27) (Methenyl-H4MPT cyclohydrolase),VNG_1686G,one-carbon metabolic process [GO:0006730]
+Q9HPQ9,Thymidine kinase (EC 2.7.1.21),VNG_1515G,DNA biosynthetic process [GO:0071897]; DNA metabolic process [GO:0006259]; thymidine metabolic process [GO:0046104]
+Q9HHY8,ORC1-type DNA replication protein 2,VNG_6164G,DNA replication [GO:0006260]; mitotic cell cycle [GO:0000278]; mitotic DNA replication checkpoint [GO:0033314]
+Q9HHR1,ORC1-type DNA replication protein 5,VNG_6272G,DNA replication [GO:0006260]; mitotic cell cycle [GO:0000278]; mitotic DNA replication checkpoint [GO:0033314]
+Q9HHZ9,ORC1-type DNA replication protein 1,VNG_6150G,DNA replication [GO:0006260]; mitotic cell cycle [GO:0000278]; mitotic DNA replication checkpoint [GO:0033314]
+Q9HN74,Dihydrolipoyl dehydrogenase (EC 1.8.1.4) (Dihydrolipoamide dehydrogenase),VNG_2220G,cell redox homeostasis [GO:0045454]; glycolytic process [GO:0006096]
+Q9HME0,Probable GTP-binding protein EngB,VNG_2587C,division septum assembly [GO:0000917]
+Q9HRJ8,Protoheme IX farnesyltransferase (EC 2.5.1.141) (Heme B farnesyltransferase) (Heme O synthase),VNG_0666G,cellular respiration [GO:0045333]; heme O biosynthetic process [GO:0048034]
+Q9HNE5,Lycopene beta-cyclase (EC 5.5.1.19),VNG_2137G,carotenoid biosynthetic process [GO:0016117]
+Q9HMM6,Probable cysteine desulfurase (EC 2.8.1.7),VNG_2471G,cysteine metabolic process [GO:0006534]
+Q9HSK7,Probable endonuclease 4 (EC 3.1.21.2) (Endodeoxyribonuclease IV) (Endonuclease IV),VNG_0183G,base-excision repair [GO:0006284]
+Q9HN82,tRNA-splicing endonuclease (EC 4.6.1.16) (tRNA-intron endonuclease),VNG_2210G,tRNA-type intron splice site recognition and cleavage [GO:0000379]
+Q9HR35,DNA ligase (EC 6.5.1.1) (Polydeoxyribonucleotide synthase [ATP]),VNG_0881G,cell cycle [GO:0007049]; cell division [GO:0051301]; DNA biosynthetic process [GO:0071897]; DNA ligation involved in DNA repair [GO:0051103]; DNA recombination [GO:0006310]; lagging strand elongation [GO:0006273]
+Q9HRT8,Translation initiation factor 2 subunit alpha (aIF2-alpha) (eIF-2-alpha),VNG_0549G,
+Q9HNQ2,Probable translation initiation factor IF-2,VNG_1997G,
+Q9HPD9,Lycopene elongase (EC 2.5.1.-),VNG_1682C,
+Q9HMV8,Malate dehydrogenase (EC 1.1.1.37),VNG_2367G,carbohydrate metabolic process [GO:0005975]; tricarboxylic acid cycle [GO:0006099]
+Q9HQN3,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase (SEPHCHC synthase) (EC 2.2.1.9) (Menaquinone biosynthesis protein MenD),VNG_1081G,menaquinone biosynthetic process [GO:0009234]
+Q9HNV4,Probable thymidylate kinase (EC 2.7.4.9) (dTMP kinase),VNG_1929G,dTDP biosynthetic process [GO:0006233]; dTTP biosynthetic process [GO:0006235]; dUDP biosynthetic process [GO:0006227]
+Q9HP55,Homoserine kinase (HK) (HSK) (EC 2.7.1.39),VNG_1797G,threonine biosynthetic process [GO:0009088]
+Q9HS70,D-aminoacyl-tRNA deacylase (EC 3.1.1.96) (D-tyrosyl-tRNA(Tyr) deacylase),VNG_0378C,D-amino acid catabolic process [GO:0019478]
+Q9HR44,Glutamyl-tRNA(Gln) amidotransferase subunit C (Glu-ADT subunit C) (EC 6.3.5.-),VNG_0870G,regulation of translational fidelity [GO:0006450]; translation [GO:0006412]
+Q9HP20,Glutamyl-tRNA(Gln) amidotransferase subunit D (Glu-ADT subunit D) (EC 6.3.5.-),VNG_1844G,cellular amino acid metabolic process [GO:0006520]; regulation of translational fidelity [GO:0006450]; translation [GO:0006412]
+Q9HQE1,Glutamate dehydrogenase A2 (EC 1.4.1.-),VNG_1204G,cellular amino acid metabolic process [GO:0006520]
+Q9HQK6,Diphthine synthase (EC 2.1.1.98) (Diphthamide biosynthesis methyltransferase),VNG_1118G,peptidyl-diphthamide biosynthetic process from peptidyl-histidine [GO:0017183]
+Q9HN64,Translation initiation factor 1A 1 (aIF-1A 1),VNG_2234G,
+Q9HPR6,Heme-based aerotactic transducer HemAT,VNG_1505G,aerotaxis [GO:0009454]; signal transduction [GO:0007165]
+Q9HP40,Isopentenyl-diphosphate Delta-isomerase (IPP isomerase) (EC 5.3.3.2) (IPP:DMAPP isomerase) (Isopentenyl pyrophosphate isomerase),VNG_1818G,dimethylallyl diphosphate biosynthetic process [GO:0050992]; isopentenyl diphosphate biosynthetic process [GO:0009240]
+Q9HP87,Translation initiation factor 1A 2 (aIF-1A 2),VNG_1756G,
+Q9HNK9,Translation initiation factor 2 subunit gamma (aIF2-gamma) (eIF-2-gamma),VNG_2056G,formation of translation preinitiation complex [GO:0001731]
+Q9HT00,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16) (D-fructose-6-phosphate amidotransferase) (GFAT) (Glucosamine-6-phosphate synthase) (Hexosephosphate aminotransferase) (L-glutamine--D-fructose-6-phosphate amidotransferase),VNG_0006G,carbohydrate metabolic process [GO:0005975]; fructose 6-phosphate metabolic process [GO:0006002]; glutamine metabolic process [GO:0006541]; protein N-linked glycosylation [GO:0006487]; UDP-N-acetylglucosamine metabolic process [GO:0006047]
+Q9HMV6,ATP-dependent DNA helicase Hel308 (EC 3.6.4.12),VNG_2368G,DNA repair [GO:0006281]
+P57699,Potassium-transporting ATPase ATP-binding subunit (EC 7.2.2.6) (ATP phosphohydrolase [potassium-transporting] B chain) (Potassium-binding and translocating subunit B) (Potassium-translocating ATPase B chain),VNG_6177G,
+P57687,Potassium-transporting ATPase KdpC subunit (ATP phosphohydrolase [potassium-transporting] C chain) (Potassium-binding and translocating subunit C) (Potassium-translocating ATPase C chain),VNG_6178G,potassium ion transmembrane transport [GO:0071805]
+Q9HHT6,Protein GvpH 2,VNG_6235G,
+Q9HHT7,Protein GvpI 2,VNG_6233G,
+P24574,Gas vesicle protein C 1,VNG_5032G; VNG_6031G,"gas vesicle organization [GO:0031412]; regulation of transcription, DNA-templated [GO:0006355]"
+Q9HHS8,Protein GvpO 2,VNG_6246G,gas vesicle organization [GO:0031412]
+P13044,Protein GvpE 1,VNG_5028G; VNG_6027G,
+P24375,Protein GvpK 1,VNG_5021G; VNG_6021G,gas vesicle organization [GO:0031412]
+P33963,Protein GvpK 2,VNG_6230G,gas vesicle organization [GO:0031412]
+P24377,Gas vesicle protein GvpM 1,VNG_5019G; VNG_6019G,
+Q48311,Protein GvpE 2,VNG_6239G,
+P33959,Protein GvpF 2,VNG_6237G,gas vesicle organization [GO:0031412]
+P24374,Gas vesicle protein GvpJ 1,VNG_5022G; VNG_6022G,
+P08959,Gas vesicle structural protein 2 (GVP) (C-VAC),VNG_6241G,
+P24371,Protein GvpG 1,VNG_5026G; VNG_6025G,
+P33960,Protein GvpG 2,VNG_6236G,
+Q9HMY5,Probable porphobilinogen deaminase (PBG) (EC 2.5.1.61) (Hydroxymethylbilane synthase) (HMBS) (Pre-uroporphyrinogen synthase),VNG_2330G,heme biosynthetic process [GO:0006783]; peptidyl-pyrromethane cofactor linkage [GO:0018160]; protoporphyrinogen IX biosynthetic process [GO:0006782]
+Q9HSH4,GMP synthase [glutamine-hydrolyzing] subunit A (EC 6.3.5.2) (Glutamine amidotransferase),VNG_0228G,glutamine metabolic process [GO:0006541]; GMP biosynthetic process [GO:0006177]
+Q9HHS9,Gas vesicle protein GvpN 2,VNG_6244G,gas vesicle organization [GO:0031412]
+P13043,Protein GvpD 1,VNG_5029G; VNG_6028G,
+Q9HI21,Protein GvpF 1,VNG_5027G; VNG_6026G,gas vesicle organization [GO:0031412]
+P24372,Protein GvpH 1,VNG_5025G; VNG_6024G,
+Q9HI27,Protein GvpL 1,VNG_5020G; VNG_6020G,gas vesicle organization [GO:0031412]
+Q9HHU0,Protein GvpL 2,VNG_6229G,gas vesicle organization [GO:0031412]
+Q9HI16,Gas vesicle protein GvpN 1,VNG_5033G; VNG_6032G,gas vesicle organization [GO:0031412]
+Q9HHT2,Protein GvpD 2,VNG_6240G,
+Q9HS81,Endonuclease V (EC 3.1.21.7) (Deoxyinosine 3'endonuclease) (Deoxyribonuclease V) (DNase V),VNG_0363G,DNA repair [GO:0006281]
+Q9HSL7,Endonuclease NucS 1 (EC 3.1.-.-),VNG_0171C,
+Q9HNR1,Endonuclease NucS 2 (EC 3.1.-.-),VNG_1986C,
+Q9HQ73,S-adenosylmethionine synthase (AdoMet synthase) (EC 2.5.1.6) (Methionine adenosyltransferase),VNG_1297C,one-carbon metabolic process [GO:0006730]; S-adenosylmethionine biosynthetic process [GO:0006556]
+P57715,Homoserine O-acetyltransferase (HAT) (EC 2.3.1.31) (Homoserine transacetylase) (HTA),VNG_2420G,homoserine metabolic process [GO:0009092]; methionine biosynthetic process [GO:0009086]
+Q9HSA3,Probable L-aspartate decarboxylase (ADC) (EC 4.1.1.11),VNG_0327G,carboxylic acid metabolic process [GO:0019752]; coenzyme A biosynthetic process [GO:0015937]
+Q9HN78,Probable lipoyl synthase (EC 2.8.1.8) (Lip-syn) (LS) (Lipoate synthase) (Lipoic acid synthase) (Sulfur insertion protein LipA),VNG_2216G,lipoate biosynthetic process [GO:0009107]; protein lipoylation [GO:0009249]
+Q9HSC3,Archaeal Lon protease (EC 3.4.21.-) (ATP-dependent protease La homolog),VNG_0303G,"protein catabolic process [GO:0030163]; regulation of transcription, DNA-templated [GO:0006355]"
+Q9HPW5,Histidinol dehydrogenase (HDH) (EC 1.1.1.23),VNG_1444G,histidine biosynthetic process [GO:0000105]
+Q9HN23,Phosphoribosyl-AMP cyclohydrolase (PRA-CH) (EC 3.5.4.19),VNG_2284G,histidine biosynthetic process [GO:0000105]
+Q9HR52,Imidazole glycerol phosphate synthase subunit HisF (EC 4.3.2.10) (IGP synthase cyclase subunit) (IGP synthase subunit HisF) (ImGP synthase subunit HisF) (IGPS subunit HisF),VNG_0862G,histidine biosynthetic process [GO:0000105]
+Q9HRT1,HGPRTase-like protein (EC 2.4.2.-),VNG_0559G,purine ribonucleoside salvage [GO:0006166]
+Q9HNI6,Imidazole glycerol phosphate synthase subunit HisH (EC 4.3.2.10) (IGP synthase glutaminase subunit) (EC 3.5.1.2) (IGP synthase subunit HisH) (ImGP synthase subunit HisH) (IGPS subunit HisH),VNG_2087G,glutamine metabolic process [GO:0006541]; histidine biosynthetic process [GO:0000105]
+Q9HN13,Imidazoleglycerol-phosphate dehydratase (IGPD) (EC 4.2.1.19),VNG_2295G,histidine biosynthetic process [GO:0000105]
+Q9HN14,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase (EC 5.3.1.16) (Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase),VNG_2294G,'de novo' pyrimidine nucleobase biosynthetic process [GO:0006207]; histidine biosynthetic process [GO:0000105]; tryptophan biosynthetic process [GO:0000162]
+Q9HQS0,Histidinol-phosphate aminotransferase (EC 2.6.1.9) (Imidazole acetol-phosphate transaminase),VNG_1033G,histidine biosynthetic process [GO:0000105]
+Q9HN53,ATP phosphoribosyltransferase (ATP-PRT) (ATP-PRTase) (EC 2.4.2.17),VNG_2247G,histidine biosynthetic process [GO:0000105]
+Q9HMD4,Phosphoribosyl-ATP pyrophosphatase (PRA-PH) (EC 3.6.1.31),VNG_2596G,histidine biosynthetic process [GO:0000105]
+Q9HQ21,Signal recognition particle 19 kDa protein (SRP19),VNG_1367G,SRP-dependent cotranslational protein targeting to membrane [GO:0006614]
+Q9HPW0,HTH-type sugar sensing transcriptional regulator TrmB,VNG_1451C,
+Q9HMN5,Signal recognition particle 54 kDa protein (SRP54),VNG_2459G,SRP-dependent cotranslational protein targeting to membrane [GO:0006614]
+P57705,"tRNA (guanine(26)-N(2))-dimethyltransferase (EC 2.1.1.216) (tRNA 2,2-dimethylguanosine-26 methyltransferase) (tRNA(guanine-26,N(2)-N(2)) methyltransferase) (tRNA(m(2,2)G26)dimethyltransferase)",VNG_2088G,tRNA N2-guanine methylation [GO:0002940]
+Q9HRC8,tRNA (cytidine(56)-2'-O)-methyltransferase (EC 2.1.1.206) (tRNA ribose 2'-O-methyltransferase aTrm56),VNG_0755C,tRNA nucleoside ribose methylation [GO:0002128]
+Q9HRA5,30S ribosomal protein S3Ae (Ribosomal protein S1e),VNG_0787G,translation [GO:0006412]
+P15009,30S ribosomal protein S3 (HHAS3) (HS4),VNG_1697G,DNA repair [GO:0006281]; positive regulation of DNA repair [GO:0045739]; translation [GO:0006412]
+Q9HQJ6,30S ribosomal protein S4,VNG_1133G,positive regulation of translational fidelity [GO:0045903]; translation [GO:0006412]
+Q9HHY2,Smc-like protein Sph2,VNG_6173C,
+P09224,Superoxide dismutase [Mn] 2 (EC 1.15.1.1),VNG_1332G,
+Q9HHM7,Smc-like protein Sph1,VNG_6320C,
+Q9HR31,Type 2 DNA topoisomerase 6 subunit B (EC 5.99.1.3) (Type II DNA topoisomerase VI subunit B) (TopoVI-B),VNG_0885G,DNA topological change [GO:0006265]; DNA unwinding involved in DNA replication [GO:0006268]
+Q9HNA2,Transcription initiation factor IIB 1 (TFIIB 1),VNG_2184G,"DNA-templated transcription, initiation [GO:0006352]; transcription preinitiation complex assembly [GO:0070897]"
+Q9HHK5,Transcription initiation factor IIB 3 (TFIIB 3),VNG_6351G,"DNA-templated transcription, initiation [GO:0006352]; transcription preinitiation complex assembly [GO:0070897]"
+Q9HNP5,Histidine--tRNA ligase (EC 6.1.1.21) (Histidyl-tRNA synthetase) (HisRS),VNG_2005G,histidyl-tRNA aminoacylation [GO:0006427]
+Q9HN97,Isoleucine--tRNA ligase (EC 6.1.1.5) (Isoleucyl-tRNA synthetase) (IleRS),VNG_2190G,isoleucyl-tRNA aminoacylation [GO:0006428]
+Q9HNN7,Lysine--tRNA ligase (EC 6.1.1.6) (Lysyl-tRNA synthetase) (LysRS),VNG_2017G,lysyl-tRNA aminoacylation [GO:0006430]
+Q9HS52,Proline--tRNA ligase (EC 6.1.1.15) (Prolyl-tRNA synthetase) (ProRS),VNG_0403G,prolyl-tRNA aminoacylation [GO:0006433]
+Q9HNJ8,Serine--tRNA ligase (EC 6.1.1.11) (Seryl-tRNA synthetase) (SerRS) (Seryl-tRNA(Ser/Sec) synthetase),VNG_2072G,selenocysteine biosynthetic process [GO:0016260]; selenocysteinyl-tRNA(Sec) biosynthetic process [GO:0097056]; seryl-tRNA aminoacylation [GO:0006434]
+Q9HPL8,UPF0284 protein VNG_1572C,VNG_1572C,cobalamin biosynthetic process [GO:0009236]
+Q9HPK2,Uncharacterized solute-binding protein VNG_1595C,VNG_1595C,
+Q9HPH7,Putative ABC transporter ATP-binding protein VNG_1631G (EC 3.6.3.-),VNG_1631G,cobalt ion transport [GO:0006824]
+Q06847,Uncharacterized protein VNG_1688C,VNG_1688C,
+Q9HQS4,Triosephosphate isomerase (TIM) (TPI) (EC 5.3.1.1) (Triose-phosphate isomerase),VNG_1027G,gluconeogenesis [GO:0006094]; glyceraldehyde-3-phosphate biosynthetic process [GO:0046166]; glycerol catabolic process [GO:0019563]; glycolytic process [GO:0006096]
+Q9HMZ4,Putative ABC transporter ATP-binding protein VNG_2317G (EC 3.6.3.-),VNG_2317G,
+Q9HNP6,tRNA pseudouridine synthase A (EC 5.4.99.12) (tRNA pseudouridine(38-40) synthase) (tRNA pseudouridylate synthase I) (tRNA-uridine isomerase I),VNG_2003G,tRNA pseudouridine synthesis [GO:0031119]
+Q9HPA4,Probable tRNA pseudouridine synthase B (EC 5.4.99.25) (tRNA pseudouridine(55) synthase) (Psi55 synthase) (tRNA pseudouridylate synthase) (tRNA-uridine isomerase),VNG_1729G,box H/ACA snoRNA 3'-end processing [GO:0000495]; mRNA pseudouridine synthesis [GO:1990481]; rRNA pseudouridine synthesis [GO:0031118]; snRNA pseudouridine synthesis [GO:0031120]; tRNA pseudouridine synthesis [GO:0031119]
+P58015,UPF0146 protein VNG_2609C,VNG_2609C,
+Q9HMH2,Protein VNG_2543C,VNG_2543C,
+Q9HSG5,Probable tRNA pseudouridine synthase D (EC 5.4.99.27) (tRNA pseudouridine(13) synthase) (tRNA pseudouridylate synthase D) (tRNA-uridine isomerase D),VNG_0243C,tRNA pseudouridine synthesis [GO:0031119]
+Q9HNP3,DNA-binding protein VNG_2008H,VNG_2008H,
+Q9HNN4,Putative heme-binding protein VNG_2021C,VNG_2021C,
+Q9HPG6,"Anthranilate synthase component 2 (AS) (ASII) (EC 4.1.3.27) (Anthranilate synthase, GATase component) (Anthranilate synthase, glutamine amidotransferase component)",VNG_1646G,glutamine metabolic process [GO:0006541]; tryptophan biosynthetic process [GO:0000162]
+Q9HS66,Anthranilate synthase component 1 2 (EC 4.1.3.27) (Anthranilate synthase component I 2),VNG_0384G,tryptophan biosynthetic process [GO:0000162]
+Q9HMV2,Probable tryptophanase (EC 4.1.99.1) (L-tryptophan indole-lyase) (TNase),VNG_2373G,
+Q9HPZ6,UPF0179 protein VNG_1401C,VNG_1401C,
+Q9HPG3,Anthranilate phosphoribosyltransferase (EC 2.4.2.18),VNG_1649G,tryptophan biosynthetic process [GO:0000162]
+Q9HPG4,N-(5'-phosphoribosyl)anthranilate isomerase (PRAI) (EC 5.3.1.24),VNG_1648G,tryptophan biosynthetic process [GO:0000162]
+Q9HMQ5,UPF0145 protein VNG_2432C,VNG_2432C,
+Q9HMP0,UPF0200 protein VNG_2452C,VNG_2452C,
+Q9HNR6,tRNA (pseudouridine(54)-N(1))-methyltransferase (EC 2.1.1.257),VNG_1980C,tRNA methylation [GO:0030488]
+Q9HMM5,Nitrogen fixation protein,VNG_2472G,cellular iron ion homeostasis [GO:0006879]; iron-sulfur cluster assembly [GO:0016226]
+Q9HRM3,N5-carboxyaminoimidazole ribonucleotide synthase (N5-CAIR synthase) (EC 6.3.4.18) (5-(carboxyamino)imidazole ribonucleotide synthetase),VNG_0632G,'de novo' IMP biosynthetic process [GO:0006189]
+Q9HHV0,Monooxygenase,VNG_6214G,siderophore biosynthetic process [GO:0019290]
+Q9HP47,Uncharacterized protein,VNG_1806H,
+Q9HRA0,ABC transporter (Lipoprotein),VNG_0794G,
+Q9HQJ8,Uncharacterized protein,VNG_1130H,
+Q9HMG8,Uncharacterized protein,VNG_2549C,
+Q9HR39,Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1) (AIR synthase) (AIRS) (Phosphoribosyl-aminoimidazole synthetase),VNG_0876G,'de novo' IMP biosynthetic process [GO:0006189]; adenine biosynthetic process [GO:0046084]; purine nucleotide biosynthetic process [GO:0006164]
+Q9HHQ3,Vng6284h,VNG_6284H,
+Q9HND2,Electron transfer flavoprotein subunit alpha,VNG_2151G,
+Q9HRP1,Uncharacterized protein,VNG_0609C,
+Q9HMN4,Uncharacterized protein,VNG_2461H,
+Q9HNF9,Uncharacterized protein,VNG_2121C,
+Q9HNY6,Uncharacterized protein,VNG_1889H,
+Q9HMW7,Glycine-tRNA synthetase,VNG_2352G,glycyl-tRNA aminoacylation [GO:0006426]
+Q9HNL7,Uncharacterized protein,VNG_2044H,
+Q9HRX9,Uncharacterized protein,VNG_0496H,
+Q9HQN8,Long-chain fatty-acid-CoA ligase,VNG_1073G,menaquinone biosynthetic process [GO:0009234]
+Q9HMI8,Uncharacterized protein,VNG_2522C,
+,,,
+Q9HRD7,Spore cortex synthesis protein,VNG_0745G,
+Q9HHK2,Vng6355h,VNG_6355H,
+Q9HNM8,Uncharacterized protein,VNG_2029H,
+Q9HHF7,Vng6424h,VNG_6424H,
+Q9HSW5,UDP-glucose 6-dehydrogenase (EC 1.1.1.22),VNG_0046G,polysaccharide biosynthetic process [GO:0000271]
+,,,
+Q9HR91,Succinate-semialdehyde dehydrogenase,VNG_0808G,
+Q9HMG1,Ferric enterobactin transport protein,VNG_2558G,
+Q9HMV3,DNA repair protein,VNG_2372G,
+Q9HMI9,Uncharacterized protein,VNG_2521H,
+Q9HML1,Uncharacterized protein,VNG_2495H,
+Q9HHQ5,sn-glycerol-3-phosphate transport system ATP-binding,VNG_6281G,
+Q9HMC0,Uncharacterized protein,VNG_2613H,
+Q9HQM1,Uncharacterized protein,VNG_1095H,
+Q9HR96,Uncharacterized protein,VNG_0799C,
+Q9HSI2,Uncharacterized protein,VNG_0217H,
+,,,
+Q9HNW7,Phosphoribosyl transferase,VNG_1912G,tryptophan biosynthetic process [GO:0000162]
+Q9HSV1,UDP-glucose 4-epimerase,VNG_0063G,
+Q9HSA8,Bifunctional short chain isoprenyl diphosphate synthase,VNG_0321G,
+Q9HRR5,Uncharacterized protein,VNG_0579H,
+Q9HMS7,DNA damage-inducible protein,VNG_2404G,
+Q9HMU9,Nitrite/nitrate reduction protein,VNG_2377G,transmembrane transport [GO:0055085]
+Q9HHI0,Vng6385h,VNG_6385H,
+Q9HPY7,Uncharacterized protein,VNG_1412H,
+Q9HNC7,Uncharacterized protein,VNG_2156C,
+Q9HNL8,HAM1 protein homolog,VNG_2043G,nucleoside triphosphate catabolic process [GO:0009143]
+Q9HMU4,Ribonucleoside reductase small chain,VNG_2383G,deoxyribonucleotide biosynthetic process [GO:0009263]
+Q9HP49,Uncharacterized protein,VNG_1802H,
+Q9HSX8,Uncharacterized protein,VNG_0032H,
+Q9HR04,Iron-binding protein,VNG_0924G,
+Q9HMU7,Uncharacterized protein,VNG_2379H,
+Q9HHP3,Vng6297c,VNG_6297C,
+Q9HHI5,Vng6378h,VNG_6378H,
+Q9HRR2,Cytochrome b6,VNG_0583G,respiratory electron transport chain [GO:0022904]
+Q9HPV3,Phytoene synthase,VNG_1458G,carotenoid biosynthetic process [GO:0016117]; ergosterol biosynthetic process [GO:0006696]
+Q9HRF1,Uncharacterized protein,VNG_0729H,
+Q9HPB0,Uncharacterized protein,VNG_1720H,
+Q9HSS6,Putative heat shock protein,VNG_0097G,
+Q9HHR3,Vng6269c,VNG_6269C,
+Q9HRM0,NADH dehydrogenase/oxidoreductase,VNG_0636G,aerobic respiration [GO:0009060]; electron transport coupled proton transport [GO:0015990]
+Q9HPU4,Uncharacterized protein,VNG_1468H,
+Q9HNZ6,Uncharacterized protein,VNG_1874C,
+Q9HS26,Na+/H+ antiporter,VNG_0436G,
+Q9HQA9,Uncharacterized protein,VNG_1246H,
+Q9HP52,Uncharacterized protein,VNG_1798H,
+Q9HNM6,Enoyl-CoA hydratase,VNG_2032G,
+Q9HHI8,PhiH1 repressor homolog,VNG_6373G,
+Q9HNR9,Uncharacterized protein,VNG_1976H,
+Q9HNV8,TRK potassium uptake system protein,VNG_1924G,
+Q9HS00,Uncharacterized protein,VNG_0469H,
+Q9HMY1,Uncharacterized protein,VNG_2334C,"regulation of transcription, DNA-templated [GO:0006355]"
+Q9HHW7,Vng6194h,VNG_6194H,
+Q9HRJ7,"ABC transporter, ATP-binding protein homolog",VNG_0667G,
+Q9HP39,Uncharacterized protein,VNG_1820H,
+Q9HRA9,Uncharacterized protein,VNG_0780H,
+Q9HQ40,"N5,N10-methylenetetrahydromethanopterin reductase",VNG_1342G,
+Q9HRJ3,Uncharacterized protein,VNG_0671H,
+Q9HQK3,Uncharacterized protein,VNG_1120H,
+,,,
+Q9HPH0,Uncharacterized protein,VNG_1641H,
+Q9HQA6,Uncharacterized protein,VNG_1250H,
+Q9HMW1,Oligopeptide ABC transporter ATP-binding,VNG_2363G,peptide transport [GO:0015833]
+Q9HMF7,TRK potassium uptake system protein,VNG_2565G,
+Q9HHR5,Vng6266h,VNG_6266H,
+Q9HRY4,Uncharacterized protein,VNG_0488H,
+Q9HRR1,Uncharacterized protein,VNG_0584H,
+Q9HM92,Uncharacterized protein,VNG_2645H,
+Q9HS28,30S ribosomal protein S10,VNG_0433C,translation [GO:0006412]
+Q9HS45,LPS biosynthesis,VNG_0410G,
+Q9HME9,Uncharacterized protein,VNG_2576H,
+Q9HMR9,Uncharacterized protein,VNG_2415H,
+Q9HN02,Hemolysin protein,VNG_2308G,
+Q9HSQ1,Uncharacterized protein,VNG_0130H,
+Q9HSU2,Uncharacterized protein,VNG_0073C,
+Q9HN44,Na+/Ca2+-exchanging protein,VNG_2257G,calcium ion transmembrane transport [GO:0070588]; cellular calcium ion homeostasis [GO:0006874]
+Q9HPY3,Uncharacterized protein,VNG_1417H,
+Q9HP93,Uncharacterized protein,VNG_1748C,
+Q9HT04,Uncharacterized protein,VNG_0001H,
+Q9HQ02,Uncharacterized protein,VNG_1390H,
+Q9HSK1,Uncharacterized protein,VNG_0190C,tRNA wobble position uridine thiolation [GO:0002143]
+Q9HHH6,Vng6393h,VNG_6393H,
+Q9HPP6,Uncharacterized protein,VNG_1534H,
+Q9HSU1,Uncharacterized protein,VNG_0075H,
+Q9HRT4,Uncharacterized protein,VNG_0555C,
+Q9HHK8,Vng6347h,VNG_6347H,
+Q9HR24,Cytidine aminohydrolase,VNG_0896G,cytidine deamination [GO:0009972]
+Q9HNS8,Uncharacterized protein,VNG_1963H,
+Q9HSY5,Uncharacterized protein,VNG_0025H,
+Q9HSB0,Uncharacterized protein,VNG_0319H,
+Q9HNR7,Uncharacterized protein,VNG_1978H,
+Q9HRM6,Aminotransferase (EC 2.6.1.-),VNG_0629G,biosynthetic process [GO:0009058]
+Q9HP90,Uncharacterized protein,VNG_1752C,
+Q9HQW3,Uncharacterized protein,VNG_0979H,
+Q9HRL4,NADH dehydrogenase/oxidoreductase-like protein,VNG_0643G,ATP synthesis coupled electron transport [GO:0042773]
+Q9HRF6,Probable peptidase,VNG_0723G,
+Q9HQ43,Uncharacterized protein,VNG_1339C,
+Q9HPK5,Uncharacterized protein,VNG_1590H,
+Q9HSY9,Uncharacterized protein,VNG_0020H,
+Q9HR87,Spermidine/putrescine-binding protein,VNG_0813G,
+Q9HMG7,Ferrichrome ABC transporter permease,VNG_2551G,
+Q9HN65,Uncharacterized protein,VNG_2233C,
+Q9HR59,Uncharacterized protein,VNG_0851C,
+Q9HR80,Uncharacterized protein,VNG_0822C,
+Q9HMQ9,Acyl-CoA thioester hydrolase,VNG_2426G,acyl-CoA metabolic process [GO:0006637]
+Q9HMW2,Oligopeptide transport permease protein,VNG_2361G,transmembrane transport [GO:0055085]
+Q9HPS7,Bacterio-opsin activator-like protein,VNG_1488G,
+Q9HRH2,Molybdenum-binding protein,VNG_0700G,
+Q9HQV4,Uncharacterized protein,VNG_0990H,
+Q9HRZ8,Uncharacterized protein,VNG_0471C,
+Q9HSR7,"Type I restriction modification enzyme, R subunit",VNG_0108G,DNA restriction-modification system [GO:0009307]
+,,,
+Q9HSE7,Uncharacterized protein,VNG_0267H,
+Q9HPX0,Aspartate-semialdehyde dehydrogenase,VNG_1435G,homoserine biosynthetic process [GO:0009090]; methionine biosynthetic process [GO:0009086]; threonine biosynthetic process [GO:0009088]
+Q9HSS3,Cold shock protein,VNG_0101G,
+Q9HQG7,Cystathionine alpha synthase,VNG_1172G,cysteine biosynthetic process via cystathionine [GO:0019343]; transsulfuration [GO:0019346]
+Q9HMD5,Uncharacterized protein,VNG_2594C,
+Q9HP26,Cold shock protein,VNG_1836G,
+Q9HRV3,Iron-dependent repressor,VNG_0530G,"negative regulation of transcription, DNA-templated [GO:0045892]"
+Q9HRU8,Transcription repressor,VNG_0536G,"negative regulation of transcription, DNA-templated [GO:0045892]"
+Q9HN95,Cytochrome c oxidase subunit I,VNG_2193G,aerobic respiration [GO:0009060]
+Q9HSN5,Zinc-transporting ATPase,VNG_0149G,
+Q9HHX5,Cationic amino acid transporter,VNG_6184G,
+Q9HPQ0,"Methylmalonyl-CoA decarboxylase, subunit alpha",VNG_1529G,fatty acid biosynthetic process [GO:0006633]
+Q9HHQ4,Vng6283h,VNG_6283H,
+Q9HRD9,Uncharacterized protein,VNG_0742H,
+Q9HRR8,Aminopeptidase,VNG_0575G,
+Q9HSR0,Uncharacterized protein,VNG_0119H,
+Q9HHU9,Iron transport protein C,VNG_6216G,siderophore biosynthetic process [GO:0019290]
+Q9HS75,Acyl-CoA dehydrogenase,VNG_0371G,
+Q9HQ67,Phosphoribosylamine--glycine ligase (EC 6.3.4.13) (GARS) (Glycinamide ribonucleotide synthetase) (Phosphoribosylglycinamide synthetase),VNG_1305G,'de novo' IMP biosynthetic process [GO:0006189]; purine nucleobase biosynthetic process [GO:0009113]
+Q9HSI8,Uncharacterized protein,VNG_0208H,
+Q9HHI2,L-lactate permease,VNG_6383G,
+Q9HP97,Uncharacterized protein,VNG_1740C,
+Q9HQ74,Uncharacterized protein,VNG_1296C,
+Q9HHQ0,Vng6288c,VNG_6288C,"regulation of transcription, DNA-templated [GO:0006355]"
+Q9HHF3,Vng6431h,VNG_6431H,
+Q9HSP2,Uncharacterized protein,VNG_0141H,
+Q9HPH8,Uncharacterized protein,VNG_1630H,
+Q9HSL8,Uncharacterized protein,VNG_0170C,
+Q9HN86,Uncharacterized protein,VNG_2205H,
+Q9HNZ9,Spermidine/putrescine ABC transporter,VNG_1871G,tungstate ion transport [GO:0070614]
+Q9HNI9,Transport protein,VNG_2084G,
+Q9HRY8,Acetyl-CoA synthetase,VNG_0484G,
+Q9HRZ0,Uncharacterized protein,VNG_0482H,
+Q9HRZ5,"Pyruvate ferredoxin oxidoreductase, subunit alpha",VNG_0474G,response to oxidative stress [GO:0006979]
+Q9HR34,p-nitrophenyl phosphatase,VNG_0882G,
+Q9HSG4,Uncharacterized protein,VNG_0244H,
+Q9HHL4,Vng6339h,VNG_6339H,
+Q9HQZ7,Uncharacterized protein,VNG_0932C,
+Q9HI14,Transcription initiation factor IID,VNG_6037G,"DNA-templated transcription, initiation [GO:0006352]; transcription by RNA polymerase II [GO:0006366]"
+Q9HRE2,Uncharacterized protein,VNG_0737H,
+Q9HNB1,Uncharacterized protein,VNG_2174H,
+Q9HRY5,Uncharacterized protein,VNG_0487H,
+,,,
+Q9HHK0,Vng6359h,VNG_6359H,
+Q9HSC6,Uncharacterized protein,VNG_0298H,
+Q9HRU2,Uncharacterized protein,VNG_0543H,
+Q9HRD2,Uncharacterized protein,VNG_0751C,
+Q9HPX7,Uncharacterized protein,VNG_1426H,
+Q9HMP2,Aminopeptidase homolog,VNG_2449G,
+Q9HNA4,Uncharacterized protein,VNG_2182H,
+Q9HND3,Electron transfer flavoprotein subunit beta,VNG_2150G,
+Q9HRL6,Uncharacterized protein,VNG_0641C,
+Q9HNP4,Uncharacterized protein,VNG_2006C,
+Q9HN39,Probable queuosine precursor transporter (Q precursor transporter),VNG_2264C,queuosine salvage [GO:1990397]
+Q9HMZ6,Uncharacterized protein,VNG_2315H,
+Q9HMC8,Uncharacterized protein,VNG_2603H,
+Q9HP30,Uncharacterized protein,VNG_1832H,
+Q9HPN6,Uncharacterized protein,VNG_1546H,cell redox homeostasis [GO:0045454]
+Q9HR05,Iron transporter-like protein,VNG_0923G,transmembrane transport [GO:0055085]
+Q9HR64,Carbonic anhydrase,VNG_0841G,
+Q9HMD6,GTP-binding protein homolog,VNG_2595G,
+Q9HHQ7,sn-glycerol-3-phosphate transport system permease,VNG_6279G,transmembrane transport [GO:0055085]
+Q9HMI2,Dipeptide ABC transporter permease,VNG_2529G,transmembrane transport [GO:0055085]
+Q9HML7,Phosphate transport system permease protein PstA,VNG_2483G,phosphate ion transmembrane transport [GO:0035435]
+Q9HR25,Uridine phosphorylase,VNG_0893G,nucleoside metabolic process [GO:0009116]
+Q9HR54,Uncharacterized protein,VNG_0858C,
+Q9HS29,Diadenosine tetraphosphate pyrophosphohydrolase,VNG_0431G,
+Q9HQU6,Uncharacterized protein,VNG_0999H,
+Q9HRJ9,Cytochrome c oxidase subunit II,VNG_0665G,ATP synthesis coupled electron transport [GO:0042773]
+Q9HPM8,Uncharacterized protein,VNG_1558H,
+Q9HP06,Cation efflux system protein (Zinc/cadmium),VNG_1862G,
+Q9HMQ6,Uncharacterized protein,VNG_2431C,
+Q9HNR2,Uncharacterized protein,VNG_1985C,
+Q9HSX3,Uncharacterized protein,VNG_0038H,
+Q9HM75,Cytochrome oxidase subunit I homolog,VNG_2669G,
+Q9HQ87,Uncharacterized protein,VNG_1276C,mature ribosome assembly [GO:0042256]
+Q9HMP4,Uncharacterized protein,VNG_2446H,
+Q9HMY2,Uncharacterized protein,VNG_2333C,
+Q9HMH6,Uncharacterized protein,VNG_2535H,
+Q9HPV6,Uncharacterized protein,VNG_1455H,
+Q9HPQ8,Uncharacterized protein,VNG_1518H,
+Q9HST1,L-isoaspartyl protein carboxyl methyltransferase,VNG_0089G,
+Q9HS12,Phosphate transport system permease protein PstA,VNG_0453G,phosphate ion transmembrane transport [GO:0035435]
+Q9HQ77,Uncharacterized protein,VNG_1291H,
+Q9HSP8,Archaeal histone A1,VNG_0134G,
+Q9HMC9,Arsenite transport protein,VNG_2602G,potassium ion transport [GO:0006813]
+Q9HQ83,TRK potassium uptake system protein,VNG_1282G,
+Q9HRN1,Propionyl-CoA carboxylase homolog,VNG_0623G,leucine catabolic process [GO:0006552]
+Q9HS61,Glucose-1-phosphate thymidylyltransferase,VNG_0390G,biosynthetic process [GO:0009058]
+Q9HNQ3,Uncharacterized protein,VNG_1995C,
+Q9HNJ9,Uncharacterized protein,VNG_2073C,
+Q9HSJ9,Uncharacterized protein,VNG_0194H,"regulation of transcription, DNA-templated [GO:0006355]"
+Q9HP41,Transcription regulator,VNG_1816G,
+Q9HHX6,Vng6183c,VNG_6183C,
+Q9HPL6,Cobalamin adenosyltransferase,VNG_1574G,cobalamin biosynthetic process [GO:0009236]
+Q9HRN2,Uncharacterized protein,VNG_0622H,
+Q9HRU9,Uncharacterized protein,VNG_0535C,
+Q9HHP1,Hydrogenase expression/formation protein,VNG_6299G,
+Q9HM70,Uncharacterized protein,VNG_2678H,
+Q9HMS6,Uncharacterized protein,VNG_2406C,
+Q9HPJ1,Uncharacterized protein,VNG_1613H,
+Q9HSJ7,Uncharacterized protein,VNG_0196H,
+Q9HNQ8,Uncharacterized protein,VNG_1989H,
+Q9HR66,Integrase/recombinase,VNG_0838G,DNA integration [GO:0015074]; DNA recombination [GO:0006310]
+Q9HRK7,"Methylmalonyl-CoA mutase, subunit alpha",VNG_0653G,
+Q9HQW7,Chemotaxis protein,VNG_0971G,chemotaxis [GO:0006935]
+Q9HPV7,tRNA-splicing ligase RtcB (EC 6.5.1.-),VNG_1454C,"tRNA exon ligation utilizing 2',3' cyclic phosphate of 5'-exon as source of linkage phosphate [GO:0000971]; tRNA splicing, via endonucleolytic cleavage and ligation [GO:0006388]"
+Q9HP61,Uncharacterized protein,VNG_1787H,
+Q9HQK5,Uncharacterized protein,VNG_1117C,tRNA methylation [GO:0030488]; tRNA N1-guanine methylation [GO:0002939]
+Q9HQR3,Uncharacterized protein,VNG_1041H,
+Q9HNN3,General stress protein 69,VNG_2023G,
+Q9HNV6,Pyruvate dehydrogenase alpha subunit,VNG_1926G,
+Q9HPG0,Uncharacterized protein,VNG_1655H,
+Q9HPN3,Cobalamin biosynthesis,VNG_1551G,cobalamin biosynthetic process [GO:0009236]; oxidation-reduction process [GO:0055114]
+Q9HQ82,Uncharacterized protein,VNG_1283H,
+Q9HQU1,Uncharacterized protein,VNG_1005H,
+Q9HRH6,Uncharacterized protein,VNG_0692C,
+Q9HRG1,Sensory histidine protein kinase homolog,VNG_0716G,
+Q9HRG5,Uncharacterized protein,VNG_0709C,
+Q9HRP4,Uncharacterized protein,VNG_0604H,
+Q9HP63,Pantothenate permease,VNG_1785G,
+Q9HQB9,Uncharacterized protein,VNG_1234C,protein autophosphorylation [GO:0046777]
+Q9HQF2,Uncharacterized protein,VNG_1189H,
+Q9HS05,Uncharacterized protein,VNG_0463C,
+Q9HNA5,MCM / cell division control protein 21,VNG_2181G,cell division [GO:0051301]; DNA replication initiation [GO:0006270]; intein-mediated protein splicing [GO:0016539]
+Q9HN26,Uncharacterized protein,VNG_2281C,
+Q9HQ85,Uncharacterized protein,VNG_1280C,
+Q9HQE6,Bacterioferritin comigrating protein,VNG_1197G,cell redox homeostasis [GO:0045454]; cellular response to oxidative stress [GO:0034599]
+Q9HME4,Uncharacterized protein,VNG_2582H,
+Q9HI00,Vng6149h,VNG_6149H,
+Q9HRG9,Uncharacterized protein,VNG_0704C,
+Q9HP45,Uncharacterized protein,VNG_1809H,
+Q9HPA6,Htr-like protein,VNG_1726G,
+Q9HN71,Alanine dehydrogenase (AlaDH) (EC 1.4.1.1),VNG_2224G,alanine metabolic process [GO:0006522]
+Q9HNA3,Uncharacterized protein,VNG_2183H,
+Q9HS58,Uncharacterized protein,VNG_0394C,
+Q9HRV9,DNA polymerase (EC 2.7.7.7),VNG_0521G,DNA-dependent DNA replication [GO:0006261]
+Q9HMG3,Uncharacterized protein,VNG_2555C,
+,,,
+Q9HST2,Molybdenum cofactor biosynthesis protein,VNG_0090G,molybdenum incorporation into molybdenum-molybdopterin complex [GO:0018315]; molybdopterin cofactor biosynthetic process [GO:0032324]; Mo-molybdopterin cofactor biosynthetic process [GO:0006777]
+Q9HR67,Uncharacterized protein,VNG_0837H,
+Q9HHK7,Vng6348h,VNG_6348H,
+Q9HP56,Uncharacterized protein,VNG_1794C,
+F2Z6H5,Chemotaxis protein,VNG_0974G,phosphorelay signal transduction system [GO:0000160]
+Q9HPG9,Uncharacterized protein,VNG_1642H,
+Q9HPA0,Uncharacterized protein,VNG_1735C,
+Q9HSF9,Uncharacterized protein,VNG_0251C,
+Q9HRF2,Uncharacterized protein,VNG_0727C,
+Q9HHX8,Vng6181h,VNG_6181H,
+Q9HSS9,Uncharacterized protein,VNG_0094C,
+Q9HRJ5,Uncharacterized protein,VNG_0669H,transmembrane transport [GO:0055085]
+Q9HSM9,Uncharacterized protein,VNG_0156C,
+Q9HMJ6,Aldehyde dehydrogenase (Retinol),VNG_2513G,
+Q9HHS3,Vng6255c,VNG_6255C,
+Q9HMC2,GTPase HflX (GTP-binding protein HflX),VNG_2611G,
+Q9HQG4,Archaeal nucleolar protein homolog,VNG_1174G,
+Q9HNR8,Uncharacterized protein,VNG_1977H,
+Q9HQ65,Succinate dehydrogenase subunit B,VNG_1308G,aerobic respiration [GO:0009060]; respiratory electron transport chain [GO:0022904]; tricarboxylic acid cycle [GO:0006099]
+Q9HNG9,Uncharacterized protein,VNG_2109H,
+Q9HS82,Uncharacterized protein,VNG_0361C,
+Q9HN37,Sec-independent protein translocase protein TatC,VNG_2267G,intracellular protein transmembrane transport [GO:0065002]; protein transport by the Tat complex [GO:0043953]
+Q9HQU9,Bacterio-opsin activator-like protein,VNG_0996G,DNA integration [GO:0015074]; DNA recombination [GO:0006310]
+Q9HN00,Uncharacterized protein,VNG_2311H,cell redox homeostasis [GO:0045454]; cellular response to oxidative stress [GO:0034599]
+Q9HMU3,Vitamin B12-dependent ribonucleotide reductase (EC 1.17.4.1),VNG_2384G,deoxyribonucleotide biosynthetic process [GO:0009263]; DNA biosynthetic process [GO:0071897]; DNA replication [GO:0006260]
+Q9HRV5,Uncharacterized protein,VNG_0527C,iron-sulfur cluster assembly [GO:0016226]
+Q9HPR9,Uncharacterized protein,VNG_1500H,
+Q9HRV1,Uncharacterized protein,VNG_0533H,
+Q9HMI4,Dipeptide ABC transporter ATP-binding,VNG_2526G,peptide transport [GO:0015833]
+Q9HQZ1,GufA protein,VNG_0938G,zinc ion transmembrane transport [GO:0071577]
+Q9HN96,Uncharacterized protein,VNG_2191H,
+Q9HP48,NADH oxidase,VNG_1804G,
+Q9HS10,Phosphate ABC transporter periplasmic phosphate-binding,VNG_0457G,
+Q9HSS0,Uncharacterized protein,VNG_0105H,
+Q9HSK5,Aminopeptidase homolog,VNG_0186G,
+Q9HRJ6,Uncharacterized protein,VNG_0668C,
+Q9HRE7,Uncharacterized protein,VNG_0733H,
+Q9HHY4,Vng6170h,VNG_6170H,
+Q9HNP2,30S ribosomal protein S19e,VNG_2010G,ribosomal small subunit assembly [GO:0000028]; translation [GO:0006412]
+Q9HPZ1,Uncharacterized protein,VNG_1407C,
+Q9HP79,Agmatinase,VNG_1767G,
+Q9HN94,Cytochrome c oxidase subunit II,VNG_2195G,
+Q9HP31,Uncharacterized protein,VNG_1831H,
+Q9HS62,Uncharacterized protein,VNG_0389C,
+Q9HRB1,Uncharacterized protein,VNG_0778C,
+Q9HRI7,Uncharacterized protein,VNG_0677H,
+Q9HR63,Uncharacterized protein,VNG_0845C,
+Q9HP94,Uncharacterized protein,VNG_1746C,
+Q9HQA4,Phosphoesterase,VNG_1252G,
+Q9HNS6,Uncharacterized protein,VNG_1965H,
+Q9HQZ6,NADH-dependent flavin oxidoreductase,VNG_0933G,
+Q9HHS0,Tubulin-like protein CetZ,VNG_6260G,cell division [GO:0051301]; regulation of cell shape [GO:0008360]
+Q9HPA9,TRK potassium uptake system protein,VNG_1721G,
+Q9HRG4,Uncharacterized protein,VNG_0711C,cell redox homeostasis [GO:0045454]
+Q9HSJ0,Uncharacterized protein,VNG_0205H,
+Q9HHJ0,Mrr restriction system protein homolog,VNG_6371G,DNA restriction-modification system [GO:0009307]
+Q9HMZ8,Uncharacterized protein,VNG_2313H,
+Q9HHJ2,Vng6368h,VNG_6368H,
+Q9HI09,Vng6126h,VNG_6126H,
+Q9HQT6,Uncharacterized protein,VNG_1012H,cell redox homeostasis [GO:0045454]
+Q9HHR0,Vng6275h,VNG_6275H,
+Q9HS67,Uncharacterized protein,VNG_0383H,
+Q9HQ03,Diadenylate cyclase (DAC) (EC 2.7.7.85) (Cyclic-di-AMP synthase) (c-di-AMP synthase),VNG_1389C,second-messenger-mediated signaling [GO:0019932]
+Q9HNJ0,DNA polymerase bacteriophage-type,VNG_2082G,
+Q9HQY4,Flagella accessory protein J,VNG_0947G,
+Q9HNT9,Uncharacterized protein,VNG_1948H,
+Q9HQC0,X-pro aminopeptidase homolog,VNG_1233G,
+Q9HQ54,Uncharacterized protein,VNG_1323C,
+Q9HRU5,Immunogenic protein,VNG_0540G,
+Q9HQ39,"6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase (HPPK) (EC 2.7.6.3) (2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase) (6-hydroxymethyl-7,8-dihydropterin diphosphokinase) (6-HMPDK) (7,8-dihydro-6-hydroxymethylpterin diphosphokinase) (7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase) (PPPK)",VNG_1343C,folic acid biosynthetic process [GO:0046656]; tetrahydrofolate biosynthetic process [GO:0046654]
+Q9HR38,Inosine-5'-monophosphate dehydrogenase-like,VNG_0878G,
+Q9HQ79,Uncharacterized protein,VNG_1287C,
+Q9HND0,Putative isopentenyl pyrophosphate isomerase,VNG_2153G,isoprenoid biosynthetic process [GO:0008299]
+Q9HN49,Holliday junction resolvase Hjc (Hjc) (EC 3.1.22.4),VNG_2252G,DNA recombination [GO:0006310]; DNA repair [GO:0006281]
+Q9HQN4,"1,4-dihydroxy-2-naphthoyl-CoA synthase (DHNA-CoA synthase) (EC 4.1.3.36)",VNG_1079G,menaquinone biosynthetic process [GO:0009234]
+Q9HSL0,Uncharacterized protein,VNG_0179C,maturation of SSU-rRNA [GO:0030490]
+Q9HP67,Uncharacterized protein,VNG_1781C,polyprenol biosynthetic process [GO:0016094]
+Q9HSV5,Uncharacterized protein,VNG_0058H,
+Q9HHG0,Vng6418h,VNG_6418H,
+Q9HSM8,Oxalate/formate antiporter,VNG_0157G,transmembrane transport [GO:0055085]
+Q9HS48,Uncharacterized protein,VNG_0407H,
+Q9HMH8,Uncharacterized protein,VNG_2536C,cellular protein modification process [GO:0006464]
+Q9HMB5,Uncharacterized protein,VNG_2619H,
+Q9HNB2,DNA repair protein,VNG_2173G,
+Q9HHI4,Vng6379c,VNG_6379C,
+Q9HI11,Vng6117h,VNG_6117H,
+Q9HI07,Vng6134h,VNG_6134H,
+Q9HMD7,Uncharacterized protein,VNG_2593H,
+Q9HQX0,Chemotaxis protein,VNG_0966G,
+Q9HNS1,Uncharacterized protein,VNG_1973H,
+Q9HN92,Uncharacterized protein,VNG_2197H,
+Q9HQ28,Uncharacterized protein,VNG_1357C,
+Q9HM72,Uncharacterized protein,VNG_2675C,
+Q9HP22,Uncharacterized protein,VNG_1842H,
+Q9HHU8,TRK potassium uptake system protein,VNG_6218G,
+Q9HSZ9,Glucose-1-phosphate thymidylyltransferase,VNG_0008G,biosynthetic process [GO:0009058]
+Q9HS57,Uncharacterized protein,VNG_0396C,
+Q9HSH6,Serine proteinase,VNG_0226G,
+Q9HS79,Arsenical pump-driving ATPase,VNG_0365G,
+Q9HS35,L-isoaspartyl protein carboxyl methyltransferase,VNG_0425G,tRNA methylation [GO:0030488]
+,,,
+Q9HR90,Uncharacterized protein,VNG_0810H,
+Q9HRF8,Uncharacterized protein,VNG_0719G,
+Q9HMH1,Uncharacterized protein,VNG_2544H,
+Q9HMH4,Uncharacterized protein,VNG_2539H,
+Q9HPV5,Uncharacterized protein,VNG_1456H,
+Q9HR84,Chitinase,VNG_0816G,carbohydrate metabolic process [GO:0005975]
+Q9HQY8,Chemotaxis protein,VNG_0942G,chemotaxis [GO:0006935]; signal transduction [GO:0007165]
+Q9HP89,Photolyase/cryptochrome,VNG_1754G,protein-chromophore linkage [GO:0018298]
+Q9HQP3,Succinoglycan biosynthesis protein,VNG_1067G,
+Q9HRT0,Uncharacterized protein,VNG_0560C,
+Q9HQN7,Chloromuconate cycloisomerase,VNG_1074G,
+Q9HNH9,Uncharacterized protein,VNG_2097C,
+Q9HME6,Uncharacterized protein,VNG_2580C,nucleoside phosphate metabolic process [GO:0006753]; ribose phosphate metabolic process [GO:0019693]
+Q9HND7,Uncharacterized protein,VNG_2146H,
+Q9HSD7,Uncharacterized protein,VNG_0282H,
+Q9HSN1,Uncharacterized protein,VNG_0153C,cell morphogenesis [GO:0000902]
+Q9HPL9,Uncharacterized protein,VNG_1570H,cobalamin biosynthetic process [GO:0009236]
+Q9HHU3,Vng6224h,VNG_6224H,
+Q9HMA6,Uncharacterized protein,VNG_2631H,
+Q9HP66,Uncharacterized protein,VNG_1782C,
+Q9HPR4,Uncharacterized protein,VNG_1508C,rescue of stalled ribosome [GO:0072344]; ribosome-associated ubiquitin-dependent protein catabolic process [GO:1990116]
+Q9HQA8,ABC-type transport protein,VNG_1247G,
+Q9HSW9,Neutral proteinase,VNG_0042G,
+Q9HMT2,24-sterol C-methyltransferase,VNG_2398G,
+Q9HMV5,Uncharacterized protein,VNG_2369C,
+Q9HSK2,Uncharacterized protein,VNG_0189C,dGTP catabolic process [GO:0006203]
+Q9HPD8,Phytoene dehydrogenase,VNG_1684G,carotenoid biosynthetic process [GO:0016117]
+Q9HSC5,Uncharacterized protein,VNG_0300C,
+Q9HSE8,Uncharacterized protein,VNG_0266H,
+Q9HQN1,Sulfite oxidase homolog,VNG_1084G,nitrate assimilation [GO:0042128]
+Q9HRJ1,Uncharacterized protein,VNG_0674C,
+Q9HMK6,Uncharacterized protein,VNG_2501C,glutamine metabolic process [GO:0006541]
+Q9HNC8,Uncharacterized protein,VNG_2155C,
+Q9HPH3,Halocyanin-like,VNG_1637G,
+Q9HQ10,Uncharacterized protein,VNG_1381H,
+Q9HQ38,Dihydropteroate synthase,VNG_1344G,tetrahydrofolate biosynthetic process [GO:0046654]
+Q9HQM8,Uncharacterized protein,VNG_1087C,
+Q9HI01,Vng6148h,VNG_6148H,"transposition, DNA-mediated [GO:0006313]"
+Q9HNH2,Uncharacterized protein,VNG_2105H,
+Q9HNL1,DNA-directed RNA polymerase subunit E,VNG_2053G,"transcription, DNA-templated [GO:0006351]"
+Q9HQA3,Uncharacterized protein,VNG_1253C,
+Q9HST9,Uncharacterized protein,VNG_0077H,
+Q9HN35,DNA-binding protein MutS2,VNG_2270G,mismatch repair [GO:0006298]; negative regulation of DNA recombination [GO:0045910]
+Q9HI06,Vng6135c,VNG_6135C,DNA methylation [GO:0006306]
+Q9HNY2,Uncharacterized protein,VNG_1894C,
+Q9HMG6,Ferrichrome ABC transporter ATP-binding protein,VNG_2552G,
+,,,
+Q9HP62,Uncharacterized protein,VNG_1786H,
+Q9HQF4,Membrane protein,VNG_1187G,
+Q9HM93,Uncharacterized protein,VNG_2646C,formation of translation preinitiation complex [GO:0001731]; translation reinitiation [GO:0002188]
+Q9HPW1,"2',3'-cyclic-nucleotide 2'-phosphodiesterase",VNG_1450G,nucleotide catabolic process [GO:0009166]
+Q9HMB4,Repair helicase,VNG_2620G,DNA repair [GO:0006281]; recombinational repair [GO:0000725]
+Q9HHI9,Vng6372h,VNG_6372H,
+Q9HP70,Heme biosynthesis protein,VNG_1776G,
+Q9HQ70,Cysteine synthase,VNG_1301G,cysteine biosynthetic process from serine [GO:0006535]
+Q9HHS4,Vng6254c,VNG_6254C,
+Q9HSB2,Uncharacterized protein,VNG_0316C,
+Q9HMZ7,Uncharacterized protein,VNG_2314H,
+Q9HS34,DNA-directed RNA-polymerase subunit M,VNG_0426G,"regulation of transcription, DNA-templated [GO:0006355]; transcription, DNA-templated [GO:0006351]"
+Q9HHJ1,Vng6370h,VNG_6370H,
+Q9HME2,Uncharacterized protein,VNG_2585H,
+Q9HSE3,Uncharacterized protein,VNG_0272H,
+Q9HT02,Uncharacterized protein,VNG_0003C,
+Q9HI29,Vng6012h,VNG_6012H,
+,,,
+Q9HSH1,Uncharacterized protein,VNG_0233H,
+Q9HRS9,Uncharacterized protein,VNG_0562C,
+Q9HRG8,Uncharacterized protein,VNG_0705C,
+Q9HR09,Transcriptional regulatory protein,VNG_0917G,phosphorelay signal transduction system [GO:0000160]
+Q9HRL7,NADH dehydrogenase/oxidoreductase-like protein,VNG_0640G,aerobic respiration [GO:0009060]
+Q9HRH0,Uncharacterized protein,VNG_0703H,
+P82854,Thioredoxin,VNG_1259G,
+Q9HQT5,Htr13 transducer,VNG_1013G,chemotaxis [GO:0006935]; signal transduction [GO:0007165]
+Q9HN48,Uncharacterized protein,VNG_2253H,
+Q9HMW5,ATP-dependent RNA helicase homolog eIF-4A,VNG_2356G,DNA repair [GO:0006281]
+Q9HSV0,Glucose-1-phosphate thymidylyltransferase,VNG_0064G,biosynthetic process [GO:0009058]
+Q9HS25,Uncharacterized protein,VNG_0437C,folic acid catabolic process [GO:0046657]
+Q9HN11,Uncharacterized protein,VNG_2296C,
+Q9HNY8,Uncharacterized protein,VNG_1886C,
+Q9HHH1,Vng6402h,VNG_6402H,"regulation of transcription, DNA-templated [GO:0006355]"
+,,,
+Q9HPI2,Malate dehydrogenase,VNG_1624G,malate metabolic process [GO:0006108]
+Q9HHW6,Vng6195h,VNG_6195H,
+Q9HN12,Uncharacterized protein,VNG_2297H,
+Q9HSU9,GDP-D-mannose dehydratase,VNG_0065G,
+Q9HR85,Quinone oxidoreductase,VNG_0815G,
+Q9HRJ4,Uncharacterized protein,VNG_0670H,
+Q9HMH5,Isochorismatase,VNG_2537G,
+Q9HS95,Chromosome partition protein Smc,VNG_0342G,chromosome condensation [GO:0030261]; DNA replication [GO:0006260]; sister chromatid cohesion [GO:0007062]
+Q9HRV4,Uncharacterized protein,VNG_0529H,
+Q9HSZ4,Uncharacterized protein,VNG_0015H,
+Q9HQP1,Uncharacterized protein,VNG_1069C,
+Q9HNB6,Zinc metalloprotease,VNG_2168C,
+Q9HQE2,Uncharacterized protein,VNG_1202C,
+Q9HSU5,Uncharacterized protein,VNG_0069H,
+Q9HMM3,Uncharacterized protein,VNG_2474C,
+Q9HHF4,Vng6430c,VNG_6430C,
+Q9HMD8,Uncharacterized protein,VNG_2591C,
+Q9HSF2,Uncharacterized protein,VNG_0261H,
+Q9HSK4,Uncharacterized protein,VNG_0187H,
+Q9HNG4,Uncharacterized protein,VNG_2116C,adenine transport [GO:0015853]; guanine transport [GO:0015854]
+Q9HPP4,Uncharacterized protein,VNG_1537C,dGTP catabolic process [GO:0006203]
+Q9HRZ7,Uncharacterized protein,VNG_0472H,
+Q9HS56,Endonuclease III,VNG_0398G,"base-excision repair, AP site formation [GO:0006285]"
+Q9HQG5,PhoR protein homolog,VNG_1175G,
+Q9HQF8,Uncharacterized protein,VNG_1182H,
+Q9HQG1,Uncharacterized protein,VNG_1179C,
+Q9HS60,Uncharacterized protein,VNG_0391C,peptidyl-diphthamide biosynthetic process from peptidyl-histidine [GO:0017183]
+Q9HI13,Vng6094h,VNG_6094H,
+Q9HR20,Uncharacterized protein,VNG_0903C,
+Q9HSK3,Uncharacterized protein,VNG_0188H,
+Q9HNK4,Probable acetyl-coa acetyltransferase,VNG_2063G,fatty acid beta-oxidation [GO:0006635]
+Q9HSB5,Uncharacterized protein,VNG_0312H,
+Q9HQ07,Uncharacterized protein,VNG_1384H,
+Q9HR12,Uncharacterized protein,VNG_0914H,
+Q9HSN9,Uncharacterized protein,VNG_0144H,
+Q9HRH3,Uncharacterized protein,VNG_0698H,
+Q9HNK8,Uncharacterized protein,VNG_2059H,
+Q9HSY0,Uncharacterized protein,VNG_0030H,
+Q9HPT3,Serine acetyltransferase,VNG_1481G,cysteine biosynthetic process from serine [GO:0006535]
+Q9HQE9,Uncharacterized protein,VNG_1193C,phosphorylation [GO:0016310]; signal transduction [GO:0007165]
+Q9HMW0,Oligopeptide ABC transporter ATP-binding,VNG_2365G,peptide transport [GO:0015833]
+Q9HN85,Phosphomannomutase,VNG_2206G,carbohydrate metabolic process [GO:0005975]
+Q9HNC4,Mannose-1-phosphate guanylyltransferase,VNG_2159G,biosynthetic process [GO:0009058]
+Q9HSF4,Uncharacterized protein,VNG_0258H,
+Q9HQ66,Succinate dehydrogenase subunit A,VNG_1306G,anaerobic respiration [GO:0009061]
+Q9HMU8,Copper transport ATP-binding protein,VNG_2378G,
+Q9HN61,Uncharacterized protein,VNG_2238C,
+Q9HMP5,Uncharacterized protein,VNG_2445C,
+Q9HNJ4,Mismatch repair protein,VNG_2079G,
+Q9HNQ5,Uncharacterized protein,VNG_1993H,
+Q9HHR6,Adhesion protein,VNG_6265G,metal ion transport [GO:0030001]
+Q9HRQ3,Uncharacterized protein,VNG_0594H,
+Q9HRX6,3-isopropylmalate dehydratase,VNG_0500G,
+Q9HPW9,Phosphoglycerate dehydrogenase,VNG_1437G,
+Q9HHZ0,Vng6162h,VNG_6162H,
+Q9HRS6,Uncharacterized protein,VNG_0564H,
+Q9HNV2,Tubulin-like protein CetZ,VNG_1933G,cell division [GO:0051301]; microtubule-based process [GO:0007017]; regulation of cell shape [GO:0008360]
+Q9HRR7,Uncharacterized protein,VNG_0576C,NAD metabolic process [GO:0019674]; NADP biosynthetic process [GO:0006741]
+Q9HR08,Galactosyltransferase homolog,VNG_0919G,
+Q9HMA0,Geranylgeranyl hydrogenase,VNG_2638G,oxidation-reduction process [GO:0055114]
+Q9HMY7,Uncharacterized protein,VNG_2328H,
+Q9HI05,Vng6142c,VNG_6142C,
+Q9HN25,Uncharacterized protein,VNG_2282C,cell redox homeostasis [GO:0045454]
+Q9HNT3,Uncharacterized protein,VNG_1956H,
+Q9HN29,Uncharacterized protein,VNG_2277H,
+Q9HMP6,Phosphoesterase (EC 3.1.4.-),VNG_2444C,
+Q9HQB6,Uncharacterized protein,VNG_1237C,
+Q9HR65,Uncharacterized protein,VNG_0840H,
+Q9HQK9,Uncharacterized protein,VNG_1112H,
+Q9HPX3,Uncharacterized protein,VNG_1431C,
+Q9HS09,Phosphate regulatory protein homolog,VNG_0458G,
+Q9HNI7,Possible phosphate binding protein,VNG_2086G,
+Q9HPX8,Uncharacterized protein,VNG_1425H,
+Q9HPQ7,Uncharacterized protein,VNG_1519H,
+Q9HSM1,Hydrogenase expression/formation,VNG_0164G,
+Q9HMK0,Uncharacterized protein,VNG_2509H,
+Q9HNE8,Uncharacterized protein,VNG_2133H,
+Q9HMI3,Dipeptide ABC transporter ATP-binding,VNG_2527G,
+Q9HNB8,Uncharacterized protein,VNG_2166C,
+Q9HPW8,Uncharacterized protein,VNG_1438H,
+Q9HSG0,Uncharacterized protein,VNG_0250C,
+Q9HQB4,Uncharacterized protein,VNG_1238C,
+Q9HSI4,Uncharacterized protein,VNG_0215C,
+Q9HMN6,Uncharacterized protein,VNG_2458C,
+Q9HQI6,Mevalonate kinase (MK) (MVK) (EC 2.7.1.36),VNG_1145G,"galactose metabolic process [GO:0006012]; isopentenyl diphosphate biosynthetic process, mevalonate pathway [GO:0019287]"
+Q9HPA2,Htr17 transducer,VNG_1733G,chemotaxis [GO:0006935]; signal transduction [GO:0007165]
+Q9HQ11,Uncharacterized protein,VNG_1380H,
+Q9HSW7,Uncharacterized protein,VNG_0044H,
+Q9HSV9,Uncharacterized protein,VNG_0054H,
+Q9HSR6,Uncharacterized protein,VNG_0110C,
+Q9HPF4,Uncharacterized protein,VNG_1663C,
+Q9HHM5,Vng6322h,VNG_6322H,
+Q9HSC8,Uncharacterized protein,VNG_0296H,
+Q9HSX9,Uncharacterized protein,VNG_0031H,
+Q9HRX1,Uncharacterized protein,VNG_0505C,
+Q9HS20,Starvation sensing protein,VNG_0442G,cellular amino acid catabolic process [GO:0009063]
+Q9HQE5,Uncharacterized protein,VNG_1198C,oxidation-reduction process [GO:0055114]
+Q9HSK6,Uncharacterized protein,VNG_0184H,
+Q9HSK8,Lipoate protein ligase,VNG_0181G,cellular protein modification process [GO:0006464]
+Q9HHM4,Vng6323h,VNG_6323H,
+Q9HS40,Uncharacterized protein,VNG_0419C,
+Q9HRC5,Uncharacterized protein,VNG_0759H,
+Q9HP75,Uncharacterized protein,VNG_1771C,
+Q9HPE5,Uncharacterized protein,VNG_1675H,
+Q9HHN6,Vng6306c,VNG_6306C,
+Q9HHG7,Vng6407h,VNG_6407H,
+Q9HHK4,Vng6353h,VNG_6353H,
+Q9HQV2,Uncharacterized protein,VNG_0992H,
+Q9HP28,Monooxygenase,VNG_1834G,cell redox homeostasis [GO:0045454]; cellular response to oxidative stress [GO:0034599]
+Q9HRI0,Uncharacterized protein,VNG_0686C,
+Q9HP35,Uncharacterized protein,VNG_1826H,
+Q9HRM4,Uncharacterized protein,VNG_0631C,
+Q9HRN6,Htr16 transducer,VNG_0614G,chemotaxis [GO:0006935]; signal transduction [GO:0007165]
+Q9HRA1,Htr6 transducer,VNG_0793G,chemotaxis [GO:0006935]; signal transduction [GO:0007165]
+Q9HMW4,Oligopeptide binding protein,VNG_2358G,
+Q9HHK6,Vng6349c,VNG_6349C,
+Q9HRV7,"ABC transporter, ATP-binding protein",VNG_0524G,
+Q9HP77,Uncharacterized protein,VNG_1769C,riboflavin biosynthetic process [GO:0009231]
+Q9HQZ8,3-ketoacyl-CoA thiolase,VNG_0931G,
+Q9HQF0,Acyl-CoA dehydrogenase,VNG_1191G,
+Q9HRB7,Uncharacterized protein,VNG_0768H,
+Q9HPP8,Biotin carboxylase,VNG_1532G,
+Q9HQ25,Uncharacterized protein,VNG_1362H,
+Q9HRD1,UDP-glucose 4-epimerase,VNG_0752G,galactose catabolic process [GO:0019388]; galactose catabolic process via UDP-galactose [GO:0033499]
+Q9HSC2,Uncharacterized protein,VNG_0306C,DNA repair [GO:0006281]
+Q9HN41,Uncharacterized protein,VNG_2262H,
+Q9HPQ3,Uncharacterized protein,VNG_1525C,
+Q9HS74,Uncharacterized protein,VNG_0373H,
+Q9HSR5,Uncharacterized protein,VNG_0113H,
+Q9HQQ8,Uncharacterized protein,VNG_1050H,
+Q9HR22,Ribose ABC transporter permease,VNG_0898G,
+Q9HQB5,Uncharacterized protein,VNG_1239H,
+Q9HSF1,Uncharacterized protein,VNG_0262C,
+Q9HNZ7,"Isocitrate dehydrogenase, NADP",VNG_1873G,tricarboxylic acid cycle [GO:0006099]
+Q9HSQ4,"Dihydroneopterin aldolase (DHNA) (EC 4.1.2.25) (7,8-dihydroneopterin aldolase)",VNG_0127C,folic acid biosynthetic process [GO:0046656]; tetrahydrofolate biosynthetic process [GO:0046654]
+Q9HQK2,Aminotransferase (EC 2.6.1.-),VNG_1121G,biosynthetic process [GO:0009058]
+Q9HPY2,Uncharacterized protein,VNG_1418C,
+Q9HHP4,Vng6296c,VNG_6296C,
+Q9HRU4,Threonine synthase,VNG_0541G,
+Q9HHS6,Phosphate transporter,VNG_6250G,phosphate ion transmembrane transport [GO:0035435]
+Q9HQ94,8-oxoguanine DNA glycosylase,VNG_1266G,"base-excision repair, AP site formation [GO:0006285]"
+Q9HN16,Uncharacterized protein,VNG_2292H,
+Q9HR01,Uncharacterized protein,VNG_0927C,
+Q9HSW8,Uncharacterized protein,VNG_0043H,"transposition, DNA-mediated [GO:0006313]"
+Q9HP23,Uncharacterized protein,VNG_1838H,
+Q9HSL3,Uncharacterized protein,VNG_0176H,
+Q9HHH0,Vng6403h,VNG_6403H,
+Q9HMP9,Helicase,VNG_2441G,nucleobase-containing compound metabolic process [GO:0006139]
+,,,
+Q9HMM2,tRNA(Phe) (4-demethylwyosine(37)-C(7)) aminocarboxypropyltransferase (EC 2.5.1.114) (tRNA wyosine derivatives biosynthesis protein Taw2),VNG_2475C,tRNA methylation [GO:0030488]; wybutosine biosynthetic process [GO:0031591]
+Q9HMT1,Uncharacterized protein,VNG_2399H,
+Q9HP09,Uncharacterized protein,VNG_1857C,
+Q9HPI9,Uncharacterized protein,VNG_1618H,
+Q9HNG8,tRNA(Ile2) 2-agmatinylcytidine synthetase TiaS (tRNA(Ile2)-agm2C synthetase) (EC 6.3.4.22) (tRNA(Ile2) agmatidine synthetase),VNG_2110C,tRNA wobble cytosine modification [GO:0002101]
+Q9HQS3,Uncharacterized protein,VNG_1029C,
+Q9HSF0,Uncharacterized protein,VNG_0264H,
+Q9HR51,Uncharacterized protein,VNG_0861H,
+Q9HRF3,Uncharacterized protein,VNG_0726C,
+Q9HQY7,Uncharacterized protein,VNG_0943C,
+Q9HRZ9,Daunorubicin resistance ABC transporter ATP-binding protein,VNG_0470G,
+F2Z681,Arginine deiminase,VNG_6317G,
+Q9HQK4,Uncharacterized protein,VNG_1119H,
+Q9HRC6,Uncharacterized protein,VNG_0758C,
+Q9HS21,Uncharacterized protein,VNG_0441H,
+Q9HHY5,Vng6168h,VNG_6168H,
+Q9HRD8,Uncharacterized protein,VNG_0743H,
+Q9HPR0,Uncharacterized protein,VNG_1514H,
+Q9HMC1,RNase L inhibitor homolog,VNG_2612G,ribosomal subunit export from nucleus [GO:0000054]; translational initiation [GO:0006413]; translational termination [GO:0006415]
+Q9HN54,Uncharacterized protein,VNG_2246H,
+Q9HQA1,Riboflavin-specific deaminase,VNG_1256G,riboflavin biosynthetic process [GO:0009231]
+Q9HSS2,Uncharacterized protein,VNG_0102C,dephosphorylation [GO:0016311]; DNA repair [GO:0006281]
+Q9HQY0,Uncharacterized protein,VNG_0954C,archaeal or bacterial-type flagellum-dependent cell motility [GO:0097588]
+Q9HMR5,Uncharacterized protein,VNG_2419C,
+Q9HS99,Uncharacterized protein,VNG_0332C,biosynthetic process [GO:0009058]
+Q9HNB9,Uncharacterized protein,VNG_2165H,
+Q9HHH5,Vng6396h,VNG_6396H,rRNA catabolic process [GO:0016075]
+Q9HRP6,Uncharacterized protein,VNG_0601H,
+Q9HPU1,Cell division cycle protein,VNG_1472G,cell division [GO:0051301]
+Q9HNK7,ATP-binding protein,VNG_2060G,
+Q9HNY0,Uncharacterized protein,VNG_1896C,
+Q9HPM6,Uncharacterized protein,VNG_1561C,
+Q9HQW5,Chemotaxis protein,VNG_0976G,chemotaxis [GO:0006935]; signal transduction [GO:0007165]
+Q9HNR5,Uncharacterized protein,VNG_1983H,
+Q9HQI7,Uncharacterized protein,VNG_1144H,
+Q9HMA3,Uncharacterized protein,VNG_2634H,
+Q9HMD3,Uncharacterized protein,VNG_2597C,
+Q9HMN3,Signal recognition particle receptor FtsY (SRP receptor),VNG_2462G,protein targeting [GO:0006605]; SRP-dependent cotranslational protein targeting to membrane [GO:0006614]
+Q9HPW2,Uncharacterized protein,VNG_1448H,
+Q9HPD6,Uncharacterized protein,VNG_1687C,transmembrane transport [GO:0055085]
+Q9HQA0,Uncharacterized protein,VNG_1257H,
+Q9HNX0,Uncharacterized protein,VNG_1907H,
+Q9HPK1,Uncharacterized protein,VNG_1598H,
+Q9HMI1,Dipeptide ABC transporter permease,VNG_2531G,transmembrane transport [GO:0055085]
+Q9HQA5,ATP-dependent helicase,VNG_1251G,
+Q9HHY6,Ribonuclease VapC (RNase VapC) (EC 3.1.-.-) (Putative toxin VapC),VNG_6166H,rRNA catabolic process [GO:0016075]
+Q9HPU2,Uncharacterized protein,VNG_1471C,
+Q9HR18,Uncharacterized protein,VNG_0906H,
+Q9HMD0,Thioredoxin,VNG_2600G,cell redox homeostasis [GO:0045454]; glycerol ether metabolic process [GO:0006662]
+Q9HRC4,Competence-damage protein CinA-like,VNG_0761G,
+Q9HS59,Uncharacterized protein,VNG_0393C,
+Q9HSP7,Acetoin utilization protein,VNG_0136G,
+Q9HSX2,Uncharacterized protein,VNG_0039H,
+Q9HSR9,"Type I restriction modification enzyme, M subunit",VNG_0106G,DNA methylation [GO:0006306]
+Q9HRR3,Uncharacterized protein,VNG_0582C,
+Q9HQR8,Uncharacterized protein,VNG_1035C,
+Q9HRA3,Uncharacterized protein,VNG_0789C,
+Q9HRQ7,Uncharacterized protein,VNG_0590H,
+Q9HNU1,Phosphoribosylformylglycinamidine synthase subunit PurS (FGAM synthase) (EC 6.3.5.3) (Formylglycinamide ribonucleotide amidotransferase subunit III) (FGAR amidotransferase III) (FGAR-AT III) (Phosphoribosylformylglycinamidine synthase subunit III),VNG_1944C,'de novo' IMP biosynthetic process [GO:0006189]
+Q9HN77,Pyruvate dehydrogenase alpha subunit,VNG_2217G,
+Q9HPJ6,Chemotaxis protein,VNG_1607G,
+Q9HQ55,Calcium-binding protein homology,VNG_1320G,
+Q9HPE8,Uncharacterized protein,VNG_1670C,
+Q9HRG3,Uncharacterized protein,VNG_0713C,
+Q9HR57,Uncharacterized protein,VNG_0853C,
+Q9HQS5,Uncharacterized protein,VNG_1026H,
+Q9HPK3,Sulfate transport system permease protein,VNG_1592G,transmembrane transport [GO:0055085]
+Q9HHX9,Vng6180h,VNG_6180H,
+Q9HHP8,Vng6291h,VNG_6291H,
+Q9HSI0,Uncharacterized protein,VNG_0219H,
+Q9HPX5,Htr-like protein,VNG_1428G,
+Q9HHL7,Vng6334h,VNG_6334H,
+Q9HN76,Pyruvate dehydrogenase beta subunit,VNG_2218G,branched-chain amino acid catabolic process [GO:0009083]; response to nutrient [GO:0007584]
+Q9HMA2,Excision nuclease chain A,VNG_2636G,nucleotide-excision repair [GO:0006289]
+Q9HHP2,Vng6298c,VNG_6298C,ketone body catabolic process [GO:0046952]
+Q9HSP0,Uncharacterized protein,VNG_0143H,
+Q9HRQ2,Uncharacterized protein,VNG_0595H,
+Q9HN89,Uncharacterized protein,VNG_2202H,
+Q9HRQ5,Endonuclease III (EC 4.2.99.18) (DNA-(apurinic or apyrimidinic site) lyase),VNG_0592G,"base-excision repair, AP site formation [GO:0006285]"
+Q9HMR0,D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95),VNG_2424G,cellular amino acid metabolic process [GO:0006520]; L-serine biosynthetic process [GO:0006564]
+Q9HNF1,Cell division inhibitor,VNG_2130G,cell division [GO:0051301]; negative regulation of cell division [GO:0051782]
+Q9HQD9,Uncharacterized protein,VNG_1207C,
+Q9HQE4,Uncharacterized protein,VNG_1200H,
+Q9HN98,Uncharacterized protein,VNG_2189H,
+Q9HQ14,Uncharacterized protein,VNG_1376H,
+Q9HHZ1,Vng6160h,VNG_6160H,
+Q9HPW3,Uncharacterized protein,VNG_1447H,
+Q9HPH4,Putative cobalt transport protein CbiM (Energy-coupling factor transporter probable substrate-capture protein CbiM) (ECF transporter S component CbiM),VNG_1635G,cobalamin biosynthetic process [GO:0009236]; cobalt ion transport [GO:0006824]
+Q9HRS1,Coenzyme A biosynthesis bifunctional protein CoaBC (EC 4.1.1.36) (EC 6.3.2.5) (DNA/pantothenate metabolism flavoprotein),VNG_0572G,coenzyme A biosynthetic process [GO:0015937]; pantothenate catabolic process [GO:0015941]
+Q9HQ50,Flavoprotein,VNG_1327G,
+Q9HP74,3-phosphoglycerate kinase,VNG_1772G,dephosphorylation [GO:0016311]; DNA repair [GO:0006281]
+Q9HRH5,Endonuclease III,VNG_0694G,
+Q9HNW9,Uncharacterized protein,VNG_1910H,
+Q9HHV5,Vng6209h,VNG_6209H,
+Q9HN17,4-hydroxybutyrate CoA transferase,VNG_2291G,"acetate metabolic process [GO:0006083]; acetyl-CoA metabolic process [GO:0006084]; propionate metabolic process, methylcitrate cycle [GO:0019679]"
+Q9HNV5,Uncharacterized protein,VNG_1927H,
+Q9HQH4,Uncharacterized protein,VNG_1162H,methionine biosynthetic process [GO:0009086]
+Q9HHX7,Vng6182h,VNG_6182H,"transposition, DNA-mediated [GO:0006313]"
+Q9HS97,Uncharacterized protein,VNG_0339H,
+Q9HSW1,LPS biosynthesis,VNG_0051G,
+Q9HMA8,Uncharacterized protein,VNG_2628H,iron-sulfur cluster assembly [GO:0016226]
+Q9HNK6,Aaa superfamily atpase,VNG_2062G,
+Q9HRK2,Uncharacterized protein,VNG_0660H,
+,,,
+Q9HMF9,Uncharacterized protein,VNG_2562H,
+,,,
+Q9HS18,Uncharacterized protein,VNG_0447H,
+Q9HQ16,Signal-transducing histidine kinase homolog,VNG_1374G,protein autophosphorylation [GO:0046777]
+Q9HNB3,Uncharacterized protein,VNG_2172C,
+Q9HS38,Uncharacterized protein,VNG_0421C,
+Q9HR13,Uncharacterized protein,VNG_0913H,
+Q9HNI1,Transcription regulator,VNG_2094G,
+Q9HQX7,Uncharacterized protein,VNG_0959H,
+Q9HN73,Prephenate dehydratase,VNG_2222G,L-phenylalanine biosynthetic process [GO:0009094]
+Q9HQH2,Uncharacterized protein,VNG_1164C,transmembrane transport [GO:0055085]
+Q9HNP8,Oligopeptidase,VNG_2001G,
+Q9HNW0,Uncharacterized protein,VNG_1920H,
+Q9HPS1,Endoglucanase,VNG_1498G,
+Q9HNB7,DNA binding protein eukaryotic-like,VNG_2167G,"DNA replication, Okazaki fragment processing [GO:0033567]"
+Q9HSD3,Uncharacterized protein,VNG_0287H,
+Q9HSL1,Uncharacterized protein,VNG_0178H,DNA restriction-modification system [GO:0009307]
+Q9HR26,Uncharacterized protein,VNG_0892H,
+Q9HQ80,Transcription regulator,VNG_1285G,potassium ion transport [GO:0006813]
+,,,
+Q9HR83,Uncharacterized protein,VNG_0818C,carbohydrate metabolic process [GO:0005975]
+Q9HT03,"Amino acid ABC transporter, ATP-binding protein",VNG_0002G,
+Q9HPN7,Uncharacterized protein,VNG_1547C,
+Q9HQP0,Glycerol-3-phosphate dehydrogenase chain A,VNG_1070G,glycerol-3-phosphate metabolic process [GO:0006072]
+Q9HR94,Uncharacterized protein,VNG_0801C,protein secretion [GO:0009306]
+Q9HP13,Sugar kinase,VNG_1851G,carbohydrate phosphorylation [GO:0046835]
+Q9HSQ6,Uncharacterized protein,VNG_0124C,riboflavin biosynthetic process [GO:0009231]
+Q9HPT9,Carboxylesterase,VNG_1474G,
+Q9HS98,Purine phosphoribosyltransferase,VNG_0335G,nucleoside metabolic process [GO:0009116]
+Q9HP02,Spermidine/putrescine ABC transporter permease,VNG_1867G,transmembrane transport [GO:0055085]
+Q9HSM5,Bacterio-opsin activator-like protein,VNG_0160G,
+Q9HQB1,Uncharacterized protein,VNG_1244C,chorismate metabolic process [GO:0046417]; salicylic acid biosynthetic process [GO:0009697]
+Q9HHZ8,Vng6152h,VNG_6152H,
+Q9HHN9,Vng6302c,VNG_6302C,
+Q9HPP0,Succinate--CoA ligase [ADP-forming] subunit alpha (EC 6.2.1.5) (Succinyl-CoA synthetase subunit alpha) (SCS-alpha),VNG_1542G,nucleoside triphosphate biosynthetic process [GO:0009142]; succinate metabolic process [GO:0006105]; succinyl-CoA metabolic process [GO:0006104]; tricarboxylic acid cycle [GO:0006099]
+Q9HP29,Uncharacterized protein,VNG_1833C,
+Q9HN08,Thioredoxin reductase,VNG_2301G,
+Q9HRZ4,Uncharacterized protein,VNG_0475C,
+Q9HP59,Uncharacterized protein,VNG_1790H,
+,,,
+Q9HHW0,Vng6203h,VNG_6203H,
+Q9HQF9,Flagellin,VNG_1181G,
+Q9HRE5,HoxA-like transcriptional regulator,VNG_0735G,phosphorelay signal transduction system [GO:0000160]
+Q9HSC7,Uncharacterized protein,VNG_0297H,
+Q9HPQ5,Htr8 transducer,VNG_1523G,chemotaxis [GO:0006935]; signal transduction [GO:0007165]
+Q9HR75,Uncharacterized protein,VNG_0828H,
+Q9HPE2,Uncharacterized protein,VNG_1679H,
+Q9HMR8,Signal sequence peptidase,VNG_2416G,signal peptide processing [GO:0006465]
+Q9HQY9,Uncharacterized protein,VNG_0941C,
+Q9HMK8,Uncharacterized protein,VNG_2498H,
+Q9HPW4,Uncharacterized protein,VNG_1446H,
+Q9HM86,Uncharacterized protein,VNG_2653C,"transposition, DNA-mediated [GO:0006313]"
+Q9HHW9,Vng6191h,VNG_6191H,
+Q9HNC1,Uncharacterized protein,VNG_2163H,"regulation of transcription, DNA-templated [GO:0006355]"
+Q9HSP3,Uncharacterized protein,VNG_0140H,
+Q9HNH1,Succinate dehydrogenase subunit,VNG_2106G,
+Q9HR56,2-(3-amino-3-carboxypropyl)histidine synthase (EC 2.5.1.108),VNG_0854C,peptidyl-diphthamide biosynthetic process from peptidyl-histidine [GO:0017183]
+Q9HRS5,Uncharacterized protein,VNG_0566C,
+Q9HNM0,Uncharacterized protein,VNG_2041H,
+Q9HPW6,Htr12 transducer,VNG_1442G,chemotaxis [GO:0006935]; signal transduction [GO:0007165]
+Q9HRG6,Uncharacterized protein,VNG_0708H,
+Q9HQW0,Uncharacterized protein,VNG_0983C,potassium ion transport [GO:0006813]
+Q9HSJ3,Uncharacterized protein,VNG_0200C,
+Q9HHY7,Vng6165h,VNG_6165H,
+Q9HR02,Uncharacterized protein,VNG_0926H,
+Q9HRT2,Uncharacterized protein,VNG_0557H,
+Q9HQ78,Uncharacterized protein,VNG_1289H,
+Q9HSL9,Uncharacterized protein,VNG_0168H,
+Q9HPP5,Uncharacterized protein,VNG_1536C,
+Q9HQ57,Uncharacterized protein,VNG_1318H,
+Q9HRQ6,Uncharacterized protein,VNG_0591C,
+Q9HR03,Uncharacterized protein,VNG_0925C,plant-type cell wall biogenesis [GO:0009832]; UDP-L-arabinose metabolic process [GO:0033356]
+Q9HMJ0,Uncharacterized protein,VNG_2520C,
+Q9HQV6,Uncharacterized protein,VNG_0988H,
+Q9HND9,H+-transporting ATP synthase subunit K,VNG_2143G,ATP hydrolysis coupled proton transport [GO:0015991]
+Q9HQB3,Amino acid transporter,VNG_1240G,
+Q9HR88,Htr18 transducer,VNG_0812G,chemotaxis [GO:0006935]; signal transduction [GO:0007165]
+Q9HSY4,Uncharacterized protein,VNG_0026C,
+Q9HS54,mRNA 3'-end processing factor homolog,VNG_0401G,
+Q9HHQ8,Glycerol-3-phosphate-binding protein,VNG_6277G,
+Q9HSZ0,Uncharacterized protein,VNG_0019H,
+Q9HQI0,Uncharacterized protein,VNG_1154H,
+Q9HMB9,Uncharacterized protein,VNG_2614H,
+Q9HMR6,Aspartate aminotransferase,VNG_2418G,"glycine biosynthetic process, by transamination of glyoxylate [GO:0019265]"
+Q9HSM3,Medium-chain acyl-CoA ligase,VNG_0162G,
+Q9HS80,Oxidoreductase,VNG_0364G,triglyceride catabolic process [GO:0019433]
+Q9HRB8,Uncharacterized protein,VNG_0767H,
+Q9HMV0,Uncharacterized protein,VNG_2376H,
+Q9HPV2,Uncharacterized protein,VNG_1459H,
+Q9HMG0,Ferrichrome ABC transporter permease protein,VNG_2560G,
+Q9HQ53,Uncharacterized protein,VNG_1324C,polysaccharide biosynthetic process [GO:0000271]
+Q9HHM0,Vng6329h,VNG_6329H,
+Q9HMB7,Metal-dependent carboxypeptidase (EC 3.4.17.19),VNG_2616G,
+Q9HSY6,Uncharacterized protein,VNG_0024H,
+Q9HHU2,Vng6225c,VNG_6225C,
+Q9HSJ4,Uncharacterized protein,VNG_0199H,
+Q9HRJ0,Uncharacterized protein,VNG_0675C,
+Q9HML6,Phosphate transport system permease protein,VNG_2484G,phosphate ion transport [GO:0006817]
+Q9HNQ9,Protein-export membrane protein SecF,VNG_1988G,intracellular protein transmembrane transport [GO:0065002]; protein targeting [GO:0006605]
+Q9HRQ1,Uncharacterized protein,VNG_0596H,
+Q9HN09,Uncharacterized protein,VNG_2299H,
+,,,
+Q9HRZ1,"Methylmalonyl-CoA mutase, subunit alpha",VNG_0481G,
+Q9HMP3,L-allo-threonine aldolase,VNG_2447G,glycine biosynthetic process [GO:0006545]; threonine catabolic process [GO:0006567]
+Q9HN22,Uncharacterized protein,VNG_2285C,
+Q9HHQ1,Vng6287h,VNG_6287H,
+Q9HNY5,Uncharacterized protein,VNG_1890H,
+Q9HMY6,Uncharacterized protein,VNG_2329C,
+Q9HPY1,Uncharacterized protein,VNG_1420H,
+Q9HPN8,Chloride channel,VNG_1544G,
+Q9HSQ8,Uncharacterized protein,VNG_0121H,
+Q9HNH6,Threonine dehydratase,VNG_2100G,L-serine catabolic process [GO:0006565]; threonine catabolic process [GO:0006567]
+Q9HSD1,Uncharacterized protein,VNG_0291H,
+Q9HPT0,Uncharacterized protein,VNG_1484H,
+Q9HQW2,Uncharacterized protein,VNG_0981C,biosynthetic process [GO:0009058]
+Q9HRI6,Acyl-CoA dehydrogenase,VNG_0679G,
+Q9HMY3,Uroporphyrin-III C-methyltransferase,VNG_2332G,tetrapyrrole biosynthetic process [GO:0033014]
+Q9HRB9,Phosphate regulatory protein homolog,VNG_0766G,
+Q9HS78,Uncharacterized protein,VNG_0367H,
+Q9HMX0,Dipeptide ABC transporter permease,VNG_2347G,transmembrane transport [GO:0055085]
+Q9HR47,Asparagine synthetase,VNG_0867G,asparagine biosynthetic process [GO:0006529]
+Q9HSH7,Methanol dehydrogenase regulatory protein,VNG_0223G,
+Q9HSU3,Uncharacterized protein,VNG_0072H,rRNA catabolic process [GO:0016075]
+Q9HSG1,Uncharacterized protein,VNG_0248C,
+Q9HNH7,Uncharacterized protein,VNG_2099C,organonitrogen compound catabolic process [GO:1901565]
+Q9HHS2,Lipoate protein ligase,VNG_6256G,cellular protein modification process [GO:0006464]
+Q9HMA7,Glucose kinase,VNG_2629G,
+Q9HRM9,Molybdenum cofactor biosynthesis protein,VNG_0626G,
+Q9HNB4,Uncharacterized protein,VNG_2170H,
+Q9HPA8,Uncharacterized protein,VNG_1723H,
+Q9HQV3,Uncharacterized protein,VNG_0991H,
+Q9HNN2,Uncharacterized protein,VNG_2024H,
+Q9HQE8,Uncharacterized protein,VNG_1194H,
+Q9HMH7,Uncharacterized protein,VNG_2534C,
+Q9HNM1,Uncharacterized protein,VNG_2039H,
+Q9HRB5,Aldehyde dehydrogenase (Retinol),VNG_0771G,
+Q9HN30,Phosphoglucomutase/phospho-mannomutase,VNG_2276G,carbohydrate metabolic process [GO:0005975]
+Q9HQW1,Uncharacterized protein,VNG_0982C,
+Q9HQW8,Uncharacterized protein,VNG_0969H,
+Q9HQH0,Uncharacterized protein,VNG_1168C,
+Q9HRI4,3-hydroxyacyl-CoA dehydrogenase,VNG_0681G,fatty acid metabolic process [GO:0006631]
+Q9HRM1,NADH dehydrogenase/oxidoreductase-like protein,VNG_0635G,
+Q9HNZ5,3-hydroxy-3-methylglutaryl coenzyme A reductase (HMG-CoA reductase) (EC 1.1.1.34),VNG_1875G,coenzyme A metabolic process [GO:0015936]; isoprenoid biosynthetic process [GO:0008299]; sterol biosynthetic process [GO:0016126]
+Q9HHR7,"ABC transporter, ATP-binding protein",VNG_6264G,
+Q9HS86,Htr14 transducer,VNG_0355G,chemotaxis [GO:0006935]; signal transduction [GO:0007165]
+Q9HQD0,Uncharacterized protein,VNG_1218C,
+Q9HRQ8,Uncharacterized protein,VNG_0587H,
+Q9HSV4,LPS glycosyltransferase,VNG_0060G,
+Q9HQ98,Uncharacterized protein,VNG_1261H,
+Q9HHP7,Vng6292c,VNG_6292C,
+Q9HQ49,Uncharacterized protein,VNG_1329H,
+Q9HS32,Enoyl-CoA hydratase,VNG_0428G,fatty acid beta-oxidation [GO:0006635]
+Q9HQY5,Cell division inhibitor,VNG_0946G,cell division [GO:0051301]; negative regulation of cell division [GO:0051782]
+Q9HM98,Aminomethyltransferase,VNG_2640G,
+Q9HMB3,Uncharacterized protein,VNG_2622H,
+Q9HMG5,"6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating (6PGDH) (EC 1.1.1.343)",VNG_2553G,D-gluconate metabolic process [GO:0019521]; pentose-phosphate shunt [GO:0006098]
+Q9HHP9,Vng6290h,VNG_6290H,"transposition, DNA-mediated [GO:0006313]"
+Q9HMQ0,Uncharacterized protein,VNG_2440H,
+Q9HSH5,Uncharacterized protein,VNG_0227H,
+Q9HQ44,Uncharacterized protein,VNG_1337C,
+Q9HMT8,Uncharacterized protein,VNG_2392H,
+Q9HPZ4,Uncharacterized protein,VNG_1405C,
+Q9HNF3,S-adenosyl-L-methionine-dependent tRNA 4-demethylwyosine synthase (EC 4.1.3.44) (tRNA wyosine derivatives biosynthesis protein Taw1),VNG_2128C,tRNA processing [GO:0008033]
+Q9HMB1,Uncharacterized protein,VNG_2625C,
+Q9HRQ0,Uncharacterized protein,VNG_0597H,
+Q9HMX9,Uncharacterized protein,VNG_2337C,iron-sulfur cluster assembly [GO:0016226]
+Q9HR79,Type II secretion system protein,VNG_0823G,
+Q9HRX5,Multidrug resistance protein homolog,VNG_0501G,transmembrane transport [GO:0055085]
+Q9HQZ3,Uncharacterized protein,VNG_0936C,nitrogen compound metabolic process [GO:0006807]
+Q9HSJ2,Uncharacterized protein,VNG_0204H,
+Q9HRS0,Uncharacterized protein,VNG_0573C,
+Q9HMT4,Sulfate transport system permease protein,VNG_2396G,transmembrane transport [GO:0055085]
+Q9HMX6,Uncharacterized protein,VNG_2340H,
+Q9HQV1,Uncharacterized protein,VNG_0993H,
+Q9HQH3,Protoporphyrinogen oxidase,VNG_1163G,
+Q9HPS6,Uncharacterized protein,VNG_1490H,
+Q9HQ37,Uncharacterized protein,VNG_1345H,
+Q9HP24,Uncharacterized protein,VNG_1839H,
+Q9HR58,Uncharacterized protein,VNG_0852C,
+Q9HN91,Uncharacterized protein,VNG_2199H,
+Q9HPF8,Uncharacterized protein,VNG_1656H,
+Q9HNX1,Uncharacterized protein,VNG_1906H,
+Q9HRA7,CDP-diacylglycerol-serine O-phosphatidyltransferase,VNG_0784G,phospholipid biosynthetic process [GO:0008654]
+Q9HQ15,Uncharacterized protein,VNG_1375C,protein autophosphorylation [GO:0046777]
+Q9HSH8,Uncharacterized protein,VNG_0222C,
+Q9HQC5,Uncharacterized protein,VNG_1226H,
+Q9HQM7,Uncharacterized protein,VNG_1088C,
+Q9HRB6,Uncharacterized protein,VNG_0769H,
+Q9HRR6,Uncharacterized protein,VNG_0578H,
+Q9HRV8,Oxidoreductase homolog,VNG_0523G,
+Q9HSD0,Uncharacterized protein,VNG_0293H,
+Q9HS33,Multidrug resistance protein homolog,VNG_0427G,transmembrane transport [GO:0055085]
+Q9HRX8,Uncharacterized protein,VNG_0498C,
+Q9HSG2,Uncharacterized protein,VNG_0247C,
+Q9HNI3,Uncharacterized protein,VNG_2091H,
+Q9HNT2,Archaeosine tRNA-ribosyltransferase,VNG_1957G,tRNA modification [GO:0006400]
+Q9HR98,Cystathionine gamma-synthase,VNG_0796G,cysteine biosynthetic process via cystathionine [GO:0019343]; transsulfuration [GO:0019346]
+Q9HMU6,Uncharacterized protein,VNG_2380H,
+Q9HQ31,Uncharacterized protein,VNG_1353C,
+Q9HRX3,Uncharacterized protein,VNG_0503C,
+Q9HQN5,Glycine betaine transporter,VNG_1077G,nitrogen compound transport [GO:0071705]
+,,,
+Q9HMM1,Uncharacterized protein,VNG_2476C,nucleobase-containing compound metabolic process [GO:0006139]
+Q9HNC6,Uncharacterized protein,VNG_2157C,
+Q9HR86,Uncharacterized protein,VNG_0814C,
+Q9HRR9,Uncharacterized protein,VNG_0574C,
+Q9HP50,Small heat shock protein,VNG_1801G,
+Q9HQQ4,Glucose-1-phosphate thymidylyltransferase,VNG_1055G,biosynthetic process [GO:0009058]
+Q9HPZ8,Uncharacterized protein,VNG_1398C,UDP-N-acetylglucosamine biosynthetic process [GO:0006048]
+Q9HS02,Aldehyde reductase,VNG_0467G,
+Q9HRC9,Uncharacterized protein,VNG_0754C,
+Q9HQR0,Uncharacterized protein,VNG_1046H,
+Q9HSY1,Uncharacterized protein,VNG_0029H,
+Q9HQS2,CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase,VNG_1030G,phospholipid biosynthetic process [GO:0008654]
+Q9HRG0,Uncharacterized protein,VNG_0717H,
+Q9HSE5,Uncharacterized protein,VNG_0270C,transmembrane transport [GO:0055085]
+Q9HPR2,Uncharacterized protein,VNG_1511C,translation [GO:0006412]
+Q9HR61,Uncharacterized protein,VNG_0847H,
+,,,
+F2Z5Y8,Chemotaxis protein,VNG_0970G,
+Q9HN99,Uncharacterized protein,VNG_2187H,
+Q9HNQ1,Uncharacterized protein,VNG_1998H,
+Q9HHJ9,Neutral proteinase,VNG_6361G,
+,,,
+Q9HRN4,Uncharacterized protein,VNG_0617H,
+Q9HPT5,Uncharacterized protein,VNG_1479H,
+Q9HHP0,Alkaline phosphatase,VNG_6301G,
+Q9HRP5,Uncharacterized protein,VNG_0602C,
+Q9HM94,Uncharacterized protein,VNG_2644C,cell septum assembly [GO:0090529]
+Q9HMC4,Uncharacterized protein,VNG_2608C,dephosphorylation [GO:0016311]; DNA repair [GO:0006281]
+Q9HP18,Uncharacterized protein,VNG_1846C,lipid metabolic process [GO:0006629]
+Q9HN63,Uncharacterized protein,VNG_2236H,
+Q9HQ60,Uncharacterized protein,VNG_1314H,
+Q9HNK2,Uncharacterized protein,VNG_2067H,polysaccharide biosynthetic process [GO:0000271]
+Q9HNI4,Uncharacterized protein,VNG_2089H,
+Q9HHW1,Heat shock protease protein,VNG_6201G,
+Q9HND5,Uncharacterized protein,VNG_2148H,
+Q9HQQ1,Uncharacterized protein,VNG_1058H,
+Q9HQR2,Uncharacterized protein,VNG_1042H,
+Q9HNH4,Citrate synthase (EC 2.3.3.16),VNG_2102G,carbohydrate metabolic process [GO:0005975]; tricarboxylic acid cycle [GO:0006099]
+Q9HN36,Sec-independent protein translocase protein TatC,VNG_2269G,intracellular protein transmembrane transport [GO:0065002]; protein transport by the Tat complex [GO:0043953]
+Q9HM73,Uncharacterized protein,VNG_2674H,
+,,,
+Q9HSV8,Uncharacterized protein,VNG_0055H,
+Q9HHV8,Vng6205c,VNG_6205C,
+Q9HNM2,Uncharacterized protein,VNG_2037C,
+Q9HP37,Molybdenum cofactor biosynthesis protein,VNG_1822G,Mo-molybdopterin cofactor biosynthetic process [GO:0006777]
+Q9HQQ7,Uncharacterized protein,VNG_1052H,
+Q9HRN0,Uncharacterized protein,VNG_0624H,
+Q9HSU4,Uncharacterized protein,VNG_0070H,
+Q9HPG1,Cell division cycle protein,VNG_1654G,cell division [GO:0051301]
+Q9HHV1,Iron transport protein B,VNG_6213G,
+Q9HR00,MAPK-activated protein kinase,VNG_0928G,
+Q9HSN3,Uncharacterized protein,VNG_0151C,
+Q9HRD5,Kinase anchor protein,VNG_0748G,
+Q9HHL0,Vng6344h,VNG_6344H,
+Q9HNM3,HoxA-like transcriptional regulator,VNG_2036G,phosphorelay signal transduction system [GO:0000160]
+Q9HNX3,Uncharacterized protein,VNG_1904H,
+Q9HNY9,Nicotinate-nucleotide pyrophosphorylase [carboxylating] (EC 2.4.2.19) (Quinolinate phosphoribosyltransferase [decarboxylating]),VNG_1884G,NAD biosynthetic process [GO:0009435]; quinolinate catabolic process [GO:0034213]
+Q9HNM9,Uncharacterized protein,VNG_2028H,
+Q9HNA7,Uncharacterized protein,VNG_2179H,
+Q9HR07,Uncharacterized protein,VNG_0920H,
+Q9HR15,Uncharacterized protein,VNG_0909H,
+Q9HST8,Uncharacterized protein,VNG_0079H,
+Q9HSQ0,Uncharacterized protein,VNG_0132C,
+Q9HPZ5,Uncharacterized protein,VNG_1403H,
+Q9HS64,Branched-chain amino acid aminotransferase,VNG_0387G,folic acid biosynthetic process [GO:0046656]
+Q9HQU0,Uncharacterized protein,VNG_1006H,
+Q9HSY2,Uncharacterized protein,VNG_0028C,
+Q9HQE3,Fuculose-1-phosphate aldolase,VNG_1201G,pentose catabolic process [GO:0019323]
+Q9HR27,NADH dehydrogenase,VNG_0891G,
+Q9HHK1,Vng6357h,VNG_6357H,
+Q9HS30,Uncharacterized protein,VNG_0430H,
+Q9HHR2,sn-glycerol-1-phosphate dehydrogenase,VNG_6270G,
+Q9HR41,Possible signaling protein,VNG_0874G,
+Q9HHL1,Vng6343h,VNG_6343H,
+Q9HQ04,Uncharacterized protein,VNG_1388H,transmembrane transport [GO:0055085]
+Q9HHY1,TRK potassium uptake system protein,VNG_6175G,potassium ion transport [GO:0006813]
+Q9HQ09,Uncharacterized protein,VNG_1382H,
+Q9HQ22,Uncharacterized protein,VNG_1366H,pseudouridine synthesis [GO:0001522]; ribosome biogenesis [GO:0042254]
+Q9HS50,Uncharacterized protein,VNG_0405C,galactose catabolic process [GO:0019388]; galactose catabolic process via UDP-galactose [GO:0033499]
+,,,
+Q9HN57,Uncharacterized protein,VNG_2242C,tRNA methylation [GO:0030488]
+Q9HR11,Kynureninase (EC 3.7.1.3),VNG_0915G,anthranilate metabolic process [GO:0043420]; L-kynurenine catabolic process [GO:0097053]; NAD biosynthetic process [GO:0009435]; tryptophan catabolic process to kynurenine [GO:0019441]
+Q9HRN3,Proteinase IV homolog,VNG_0620G,
+Q9HM96,Uncharacterized protein,VNG_2642H,
+Q9HQA2,Uncharacterized protein,VNG_1255C,
+Q9HQR4,Uncharacterized protein,VNG_1039H,
+Q9HSU0,Uncharacterized protein,VNG_0076H,
+Q9HSW3,Uncharacterized protein,VNG_0049H,
+Q9HSD5,Uncharacterized protein,VNG_0285C,"transposition, DNA-mediated [GO:0006313]"
+Q9HPK6,Uncharacterized protein,VNG_1589C,
+Q9HN06,Uncharacterized protein,VNG_2304H,
+Q9HPH2,Uncharacterized protein,VNG_1638H,
+Q9HP38,Alcohol dehydrogenase,VNG_1821G,
+Q9HS76,Uncharacterized protein,VNG_0370H,
+Q9HPK7,Uncharacterized protein,VNG_1587H,"transposition, DNA-mediated [GO:0006313]"
+Q9HRD0,Phosphate transporter,VNG_0753G,phosphate ion transmembrane transport [GO:0035435]
+Q9HSB7,Uncharacterized protein,VNG_0311H,
+Q9HRA4,Uncharacterized protein,VNG_0788H,
+Q9HMJ1,Uncharacterized protein,VNG_2519H,
+Q9HPE1,Phytoene synthase,VNG_1680G,carotenoid biosynthetic process [GO:0016117]; ergosterol biosynthetic process [GO:0006696]
+Q9HHS1,Vng6258c,VNG_6258C,
+Q9HRX0,Uncharacterized protein,VNG_0506H,
+Q9HPR7,Uncharacterized protein,VNG_1503C,
+Q9HQ36,Uncharacterized protein,VNG_1347C,tRNA nucleoside ribose methylation [GO:0002128]
+,,,
+Q9HQB8,Uncharacterized protein,VNG_1235C,oxidation-reduction process [GO:0055114]; tyrosine biosynthetic process [GO:0006571]
+Q9HSI9,Uncharacterized protein,VNG_0207H,
+Q9HPT8,Uncharacterized protein,VNG_1475C,
+Q9HS06,Uncharacterized protein,VNG_0462C,
+Q9HSE6,Uncharacterized protein,VNG_0268C,
+Q9HPV9,Translation initiation factor eIF-2B subunit delta,VNG_1452G,L-methionine salvage from methylthioadenosine [GO:0019509]
+Q9HQ06,Acetyltransferase homolog,VNG_1385G,
+Q9HP15,Uncharacterized protein,VNG_1849H,
+Q9HS73,Transcription elongation factor Spt5,VNG_0374G,"regulation of transcription, DNA-templated [GO:0006355]"
+Q9HQX3,Phycocyanin alpha phycocyanobilin lyase-like,VNG_0963G,
+Q9HPM2,Cobalamin biosynthesis protein,VNG_1566G,cobalamin biosynthetic process [GO:0009236]
+Q9HPQ4,Uncharacterized protein,VNG_1524C,gamma-aminobutyric acid catabolic process [GO:0009450]
+Q9HQU5,Uncharacterized protein,VNG_1000H,
+Q9HHK9,Vng6346h,VNG_6346H,
+Q9HMX4,Uncharacterized protein,VNG_2342H,
+Q9HSG6,Uncharacterized protein,VNG_0240C,
+Q9HND6,Membrane protein,VNG_2147G,
+Q9HQS7,Uncharacterized protein,VNG_1024C,
+Q9HQ91,Uncharacterized protein,VNG_1271H,
+Q9HI12,Vng6109h,VNG_6109H,
+Q9HSW2,Uncharacterized protein,VNG_0050C,
+Q9HHE8,Vng6439h,VNG_6439H,
+Q9HMH3,Uncharacterized protein,VNG_2541C,NAD biosynthetic process [GO:0009435]
+Q9HRJ2,Methylmalonyl-CoA mutase,VNG_0673G,
+Q9HRT3,Succinoglycan biosynthesis transport protein,VNG_0556G,
+Q9HMS8,Uncharacterized protein,VNG_2402H,
+Q9HMT3,Sulfate transport system ATP-binding protein,VNG_2397G,
+Q9HPQ6,"A/G specific adenine glycosylase, repair protein",VNG_1520G,base-excision repair [GO:0006284]; DNA repair [GO:0006281]; mismatch repair [GO:0006298]
+Q9HHJ5,Vng6365h,VNG_6365H,
+Q9HS69,Cation antiporter,VNG_0380G,calcium ion transmembrane transport [GO:0070588]; cellular calcium ion homeostasis [GO:0006874]
+Q9HHW8,Vng6193h,VNG_6193H,"regulation of transcription, DNA-templated [GO:0006355]"
+Q9HNY1,Uncharacterized protein,VNG_1895H,
+Q9HNL0,Uncharacterized protein,VNG_2054H,
+Q9HHK3,Competence-like protein,VNG_6354G,
+Q9HS22,Uncharacterized protein,VNG_0440C,
+Q9HMT5,Uncharacterized protein,VNG_2395C,thiamine transport [GO:0015888]
+Q9HMV7,Uncharacterized protein,VNG_2370C,
+Q9HP05,Histidine triad protein,VNG_1864G,
+Q9HPX6,Uncharacterized protein,VNG_1427H,
+Q9HRX2,GTP-binding protein homolog,VNG_0504G,
+Q9HHF2,Vng6432h,VNG_6432H,
+Q9HMT7,Probable thiosulfate sulfurtransferase,VNG_2393G,
+Q9HHG9,Vng6404h,VNG_6404H,
+Q9HHY9,Vng6163h,VNG_6163H,
+Q9HP00,Uncharacterized protein,VNG_1869C,
+Q9HMN8,Uncharacterized protein,VNG_2455C,
+Q9HQQ3,Uncharacterized protein,VNG_1056C,
+Q9HS85,Uncharacterized protein,VNG_0357H,
+Q9HPJ4,Uncharacterized protein,VNG_1609C,
+Q9HPR1,Uncharacterized protein,VNG_1513H,
+Q9HML0,Zinc-containing ferredoxin,VNG_2496G,
+Q9HPM0,Precorrin-3 methylase,VNG_1568G,cobalamin biosynthetic process [GO:0009236]
+Q9HSZ6,Uncharacterized protein,VNG_0013C,
+Q9HQZ9,Alkanal monooxygenase homolog,VNG_0930G,
+Q9HRF4,Uncharacterized protein,VNG_0725H,
+Q9HRL3,F420H2:quinone oxidoreductase chain L,VNG_0646G,ATP synthesis coupled electron transport [GO:0042773]
+Q9HSA1,Phosphoenolpyruvate synthase,VNG_0330G,pyruvate metabolic process [GO:0006090]
+Q9HPF7,Uncharacterized protein,VNG_1658C,
+Q9HRR0,Uncharacterized protein,VNG_0585H,
+Q9HHY0,Cationic amino acid transporter,VNG_6179G,
+Q9HRV2,Uncharacterized protein,VNG_0532H,
+Q9HNX2,Uncharacterized protein,VNG_1905C,
+Q9HPM7,Uncharacterized protein,VNG_1559H,
+Q9HHR4,Vng6268c,VNG_6268C,transmembrane transport [GO:0055085]
+Q9HHG4,Vng6411h,VNG_6411H,
+Q9HRP9,Uncharacterized protein,VNG_0598C,
+Q9HRT5,Uncharacterized protein,VNG_0553C,
+Q9HRC3,Uncharacterized protein,VNG_0762H,
+,,,
+Q9HP64,Uncharacterized protein,VNG_1783H,
+Q9HHN7,7-carboxy-7-deazaguanine synthase (CDG synthase) (EC 4.3.99.3) (Archaeosine biosynthesis protein QueE),VNG_6305C,
+Q9HML2,Uncharacterized protein,VNG_2493C,
+Q9HHP6,Vng6293c,VNG_6293C,
+Q9HNJ3,Probable acetyltransferase,VNG_2078G,
+Q9HHZ3,Vng6158h,VNG_6158H,
+Q9HNN0,Uncharacterized protein,VNG_2027H,
+Q9HI10,Vng6120h,VNG_6120H,
+Q9HMQ7,Threonine synthase (EC 4.2.3.1),VNG_2430G,threonine biosynthetic process [GO:0009088]
+Q9HRC0,Uncharacterized protein,VNG_0765H,
+Q9HSL5,Cationic amino acid transporter,VNG_0174G,
+Q9HQL6,Uncharacterized protein,VNG_1101C,
+Q9HHV2,Iron transport protein A,VNG_6212G,siderophore biosynthetic process [GO:0019290]
+Q9HNZ2,Uncharacterized protein,VNG_1880C,
+Q9HRN9,Uncharacterized protein,VNG_0611H,
+Q9HPL3,Probable cobalamin biosynthesis protein CobD,VNG_1578H,cobalamin biosynthetic process [GO:0009236]
+Q9HPS9,Uncharacterized protein,VNG_1486H,
+Q9HQ75,Uncharacterized protein,VNG_1295H,
+Q9HNL3,Uncharacterized protein,VNG_2049C,
+Q9HS90,DNA topoisomerase I,VNG_0349G,DNA topological change [GO:0006265]
+Q9HNF8,Branched-chain-amino-acid aminotransferase (BCAT) (EC 2.6.1.42),VNG_2122G,isoleucine biosynthetic process [GO:0009097]; leucine biosynthetic process [GO:0009098]; valine biosynthetic process [GO:0009099]
+Q9HHJ4,Vng6366h,VNG_6366H,
+Q9HST0,Uncharacterized protein,VNG_0091C,
+,,,
+Q9HS77,Uncharacterized protein,VNG_0368C,
+Q9HR19,Phosphomannomutase,VNG_0905G,carbohydrate metabolic process [GO:0005975]
+Q9HP04,Uncharacterized protein,VNG_1865H,
+Q9HSA7,Uncharacterized protein,VNG_0322H,
+Q9HSV7,Uncharacterized protein,VNG_0056H,
+Q9HPM9,Cobalamin biosynthesis,VNG_1557G,cobalamin biosynthetic process [GO:0009236]
+Q9HN10,Uncharacterized protein,VNG_2298H,
+Q9HNP7,Uncharacterized protein,VNG_2002H,
+Q9HNK5,Uncharacterized protein,VNG_2064H,
+Q9HNT7,Subtilisin homolog,VNG_1951G,polysaccharide catabolic process [GO:0000272]
+Q9HQP5,Uncharacterized protein,VNG_1065C,
+Q9HMD9,Uncharacterized protein,VNG_2589C,
+Q9HQ48,Uncharacterized protein,VNG_1330H,
+Q9HHM2,Daunorubicin resistance ABC transporter ATP-binding protein,VNG_6326G,
+Q9HMW3,Oligopeptide ABC permease,VNG_2359G,transmembrane transport [GO:0055085]
+Q9HQX9,Flagella-related protein E,VNG_0955G,archaeal or bacterial-type flagellum-dependent cell motility [GO:0097588]
+Q9HRL5,Uncharacterized protein,VNG_0642C,
+Q9HS42,Adenylosuccinate lyase,VNG_0415G,IMP biosynthetic process [GO:0006188]
+Q9HN52,Uncharacterized protein,VNG_2248H,
+Q9HSU6,Uncharacterized protein,VNG_0068H,
+Q9HS87,Uncharacterized protein,VNG_0354C,
+Q9HSV2,LPS biosynthesis protein,VNG_0062G,
+Q9HRV6,Uncharacterized protein,VNG_0525C,iron-sulfur cluster assembly [GO:0016226]
+Q9HPK4,Uncharacterized protein,VNG_1591H,
+Q9HMV1,Aspartokinase (EC 2.7.2.4),VNG_2374G,homoserine biosynthetic process [GO:0009090]; lysine biosynthetic process via diaminopimelate [GO:0009089]; threonine biosynthetic process [GO:0009088]
+Q9HRH9,Uncharacterized protein,VNG_0688H,
+Q9HMC6,Hydroxymethylpyrimidine phosphate kinase,VNG_2606G,thiamine biosynthetic process [GO:0009228]
+Q9HRI9,Uncharacterized protein,VNG_0676C,
+Q9HST3,Molybdenum cofactor biosynthesis protein,VNG_0086G,molybdenum incorporation into molybdenum-molybdopterin complex [GO:0018315]; molybdopterin cofactor biosynthetic process [GO:0032324]; Mo-molybdopterin cofactor biosynthetic process [GO:0006777]
+Q9HQQ9,UDP-glucose 6-dehydrogenase (EC 1.1.1.22),VNG_1048G,polysaccharide biosynthetic process [GO:0000271]
+Q9HHQ6,sn-glycerol-3-phosphate transport system permease,VNG_6280G,glycerol-3-phosphate transmembrane transport [GO:0015794]; glycerophosphodiester transmembrane transport [GO:0001407]
+Q9HNF5,GTP cyclohydrolase II,VNG_2125G,riboflavin biosynthetic process [GO:0009231]
+Q9HHW3,Vng6198h,VNG_6198H,
+Q9HNJ2,Uncharacterized protein,VNG_2080C,
+,,,
+Q9HPW7,Uncharacterized protein,VNG_1440H,
+Q9HNU0,Formyltetrahydrofolate deformylase,VNG_1946G,'de novo' IMP biosynthetic process [GO:0006189]
+Q9HMI5,Uncharacterized protein,VNG_2525H,
+Q9HSN2,Regulatory protein,VNG_0152G,
+Q9HHF8,Vng6420h,VNG_6420H,
+Q9HT01,Uncharacterized protein,VNG_0005H,
+Q9HSD9,Sarcosine oxidase,VNG_0281G,
+Q9HQM5,UPF0434 protein VNG_1090H,VNG_1090H,
+Q9HR42,Acyl-CoA hydrolase,VNG_0873G,acyl-CoA metabolic process [GO:0006637]
+Q9HPJ5,Uncharacterized protein,VNG_1608C,
+Q9HPF3,Uncharacterized protein,VNG_1664H,
+Q9HQ34,Uncharacterized protein,VNG_1350C,
+Q9HNT0,Uncharacterized protein,VNG_1960H,
+Q9HHI6,Vng6377h,VNG_6377H,
+Q9HQT0,Uncharacterized protein,VNG_1020C,phospholipid biosynthetic process [GO:0008654]
+Q9HQH9,tRNA(Met) cytidine acetyltransferase TmcA (EC 2.3.1.193),VNG_1156G,rRNA acetylation involved in maturation of SSU-rRNA [GO:1904812]; tRNA acetylation [GO:0051391]; tRNA wobble cytosine modification [GO:0002101]
+Q9HSR4,Oxidoreductase,VNG_0115G,
+Q9HNJ7,Uncharacterized protein,VNG_2074H,
+Q9HRL0,Uncharacterized protein,VNG_0650C,potassium ion transport [GO:0006813]
+Q9HHG5,Vng6409h,VNG_6409H,
+Q9HHN5,Proton/sodium-glutamate symport protein,VNG_6308G,
+Q9HST7,Uncharacterized protein,VNG_0080H,
+Q9HPI3,Cytochrome aa3 controlling protein,VNG_1623G,heme a biosynthetic process [GO:0006784]
+Q9HSL4,TRK potassium uptake system protein,VNG_0175G,
+Q9HPY6,Uncharacterized protein,VNG_1413H,
+Q9HQ41,3-oxoacyl-[acyl-carrier-protein] reductase,VNG_1341G,
+Q9HMG4,Uncharacterized protein,VNG_2554H,
+Q9HMX1,Dipeptide ABC transporter permease,VNG_2346G,transmembrane transport [GO:0055085]
+Q9HM84,Uncharacterized protein,VNG_2656H,
+Q9HHW2,Cell division cycle protein,VNG_6199G,cell division [GO:0051301]
+Q9HML3,Uncharacterized protein,VNG_2490H,
+Q9HP03,Methionine aminopeptidase (MAP) (MetAP) (EC 3.4.11.18) (Peptidase M),VNG_1866G,protein initiator methionine removal [GO:0070084]
+Q9HNA9,Uncharacterized protein,VNG_2177H,
+Q9HN90,Heavy-metal transporting CPx-type ATPase,VNG_2201G,
+Q9HNT5,Uncharacterized protein,VNG_1953C,
+Q9HS84,Uncharacterized protein,VNG_0359C,
+Q9HP16,Potassium channel homolog,VNG_1847G,
+Q9HP34,Uncharacterized protein,VNG_1827H,
+Q9HMH0,Aminopeptidase homolog,VNG_2546G,
+Q9HMA5,Oxidoreductase,VNG_2632G,
+Q9HRA6,Plastocyanin homology,VNG_0786G,
+Q9HRX7,Proliferating-cell nucleolar antigen,VNG_0499G,
+Q9HP98,Htr-like protein,VNG_1739G,
+Q9HS94,Uncharacterized protein,VNG_0343H,
+Q9HSH9,Uncharacterized protein,VNG_0220H,
+Q9HQD3,Uncharacterized protein,VNG_1214H,
+Q9HRQ4,Diphosphomevalonate decarboxylase,VNG_0593G,"isopentenyl diphosphate biosynthetic process, mevalonate pathway [GO:0019287]"
+Q9HN01,Uncharacterized protein,VNG_2310H,cell redox homeostasis [GO:0045454]
+Q9HNM4,Uncharacterized protein,VNG_2035H,
+Q9HP58,Uncharacterized protein,VNG_1791C,
+Q9HMM8,Uncharacterized protein,VNG_2468C,
+Q9HSR1,Uncharacterized protein,VNG_0118H,
+Q9HHI7,Vng6375h,VNG_6375H,
+Q9HQI3,Geranylgeranyl diphosphate synthase,VNG_1150G,isoprenoid biosynthetic process [GO:0008299]
+Q9HMB6,Alcohol dehydrogenase,VNG_2617G,
+Q9HQK1,Transcription regulator,VNG_1123G,
+Q9HNL2,Transcription elongation factor Spt4,VNG_2051G,"regulation of transcription, DNA-templated [GO:0006355]"
+Q9HHV3,"L-2,4-diaminobutyrate decarboxylase",VNG_6211G,cellular amino acid metabolic process [GO:0006520]
+Q9HRL2,F420H2:quinone oxidoreductase chain M,VNG_0647G,aerobic respiration [GO:0009060]; ATP synthesis coupled electron transport [GO:0042773]; electron transport coupled proton transport [GO:0015990]
+Q9HMP8,Uncharacterized protein,VNG_2442H,
+Q9HMM0,Uncharacterized protein,VNG_2477H,
+Q9HHE7,Vng6441h,VNG_6441H,
+Q9HHH4,Vng6397h,VNG_6397H,
+Q9HSV3,Uncharacterized protein,VNG_0061C,
+Q9HRB0,Uncharacterized protein,VNG_0779C,
+Q9HPT4,Uncharacterized protein,VNG_1480C,
+Q9HHI3,Vng6381h,VNG_6381H,
+Q9HMZ2,Putative acetyltransferase,VNG_2321G,
+Q9HN28,Uncharacterized protein,VNG_2279H,
+Q9HHH9,Vng6387h,VNG_6387H,
+Q9HRU0,Uncharacterized protein,VNG_0546C,
+Q9HQZ0,Acetyl-CoA synthetase,VNG_0940G,nucleoside triphosphate biosynthetic process [GO:0009142]; succinate metabolic process [GO:0006105]; succinyl-CoA metabolic process [GO:0006104]; tricarboxylic acid cycle [GO:0006099]
+Q9HNN9,Uncharacterized protein,VNG_2014H,
+Q9HHZ2,Vng6159h,VNG_6159H,
+Q9HNU5,Uncharacterized protein,VNG_1941C,
+Q9HP69,Uncharacterized protein,VNG_1777H,
+Q9HPS5,Uncharacterized protein,VNG_1492C,
+Q9HML9,Uncharacterized protein,VNG_2480H,
+Q9HPM1,Precorrin isomerase,VNG_1567G,cobalamin biosynthetic process [GO:0009236]
+Q9HQP7,Uncharacterized protein,VNG_1063H,
+Q9HMJ2,Uncharacterized protein,VNG_2518C,
+Q9HS55,Uncharacterized protein,VNG_0399H,
+Q9HMF0,Pab N-terminal acetyltransferase,VNG_2575G,N-terminal protein amino acid acetylation [GO:0006474]
+Q9HHU4,Vng6223c,VNG_6223C,
+Q9HS47,Uncharacterized protein,VNG_0408H,
+Q9HRK3,Uncharacterized protein,VNG_0659H,
+Q9HNP0,Uncharacterized protein,VNG_2012C,
+Q9HSE1,Phytoene dehydrogenase,VNG_0277G,
+Q9HRK9,Inosine-5'-monophosphate dehydrogenase,VNG_0651G,
+Q9HSM0,Uncharacterized protein,VNG_0167H,
+Q9HNM5,Uncharacterized protein,VNG_2034H,
+Q9HNU4,Uncharacterized protein,VNG_1942H,
+Q9HSY8,Uncharacterized protein,VNG_0022H,
+Q9HSQ5,Uncharacterized protein,VNG_0125H,
+Q9HQV8,Uncharacterized protein,VNG_0986H,
+Q9HMS5,Uncharacterized protein,VNG_2408C,
+Q9HQ56,Uncharacterized protein,VNG_1319H,
+Q9HPM4,Uncharacterized protein,VNG_1564H,
+Q9HN07,Acylaminoacyl-peptidase,VNG_2302G,
+Q9HRE3,Uncharacterized protein,VNG_0738H,
+Q9HHH7,Vng6390h,VNG_6390H,
+Q9HQV9,Uncharacterized protein,VNG_0985H,
+Q9HSA2,Zinc metalloproteinase homolog,VNG_0329G,CAAX-box protein processing [GO:0071586]
+Q9HHY3,Vng6171h,VNG_6171H,
+Q9HNY3,ABC transport protein,VNG_1893G,
+Q9HQU3,Uncharacterized protein,VNG_1002H,
+Q9HQN9,Transcription repressor,VNG_1071G,
+Q9HR93,Uncharacterized protein,VNG_0804C,
+Q9HS92,Uncharacterized protein,VNG_0346H,
+Q9HN93,Halocyanin-like,VNG_2196G,
+Q9HSP4,Uncharacterized protein,VNG_0139H,
+Q9HSG7,Uncharacterized protein,VNG_0238H,
+Q9HS88,Uncharacterized protein,VNG_0352H,
+Q9HN03,Phosphate transporter,VNG_2307C,phosphate ion transmembrane transport [GO:0035435]
+Q9HRS7,Uncharacterized protein,VNG_0565C,
+Q9HR33,Uncharacterized protein,VNG_0883H,
+Q9HRK8,Uncharacterized protein,VNG_0652H,
+Q9HSJ1,Uncharacterized protein,VNG_0203C,
+Q9HSF5,Uncharacterized protein,VNG_0256H,
+Q9HNQ7,Uncharacterized protein,VNG_1991H,
+Q9HR62,Uncharacterized protein,VNG_0846C,peptidyl-glutamic acid carboxylation [GO:0017187]
+Q9HQ58,Uncharacterized protein,VNG_1317H,
+Q9HSY3,Uncharacterized protein,VNG_0027H,
+Q9HR28,Inosine-5'-monophosphate dehydrogenase,VNG_0890G,"regulation of transcription, DNA-templated [GO:0006355]"
+Q9HPI8,Uncharacterized protein,VNG_1616C,
+Q9HPR3,Uncharacterized protein,VNG_1510C,tRNA wobble base 5-methoxycarbonylmethyl-2-thiouridinylation [GO:0002926]
+Q9HNX8,Circadian regulator,VNG_1899G,
+Q9HSB1,Dolichol-P-glucose synthetase,VNG_0318G,protein N-linked glycosylation [GO:0006487]
+Q9HQ23,Uncharacterized protein,VNG_1365C,
+Q9HRN7,Uncharacterized protein,VNG_0613H,
+Q9HMQ1,Uncharacterized protein,VNG_2439H,
+Q9HHJ6,Vng6364h,VNG_6364H,
+Q9HNA6,Uncharacterized protein,VNG_2180C,
+Q9HQX8,Htr15 transducer,VNG_0958G,"chemotaxis [GO:0006935]; regulation of transcription, DNA-templated [GO:0006355]; signal transduction [GO:0007165]"
+Q9HMY9,Uncharacterized protein,VNG_2324H,
+Q9HP14,Uridine phosphorylase,VNG_1850G,nucleoside metabolic process [GO:0009116]
+Q9HP25,Chloromuconate cycloisomerase,VNG_1837G,cellular amino acid catabolic process [GO:0009063]
+Q9HHF5,Vng6429h,VNG_6429H,
+F2Z6I7,Putative 2-ketoglutarate ferredoxin oxidoreductase (Beta),VNG_1125G,
+Q9HPG7,Uncharacterized protein,VNG_1645H,
+Q9HHJ3,Vng6367h,VNG_6367H,
+Q9HSV6,Uncharacterized protein,VNG_0057H,
+Q9HQV5,Uncharacterized protein,VNG_0989C,DNA integration [GO:0015074]; DNA recombination [GO:0006310]
+,,,
+Q9HSI6,Uncharacterized protein,VNG_0212H,
+Q9HHS7,TRK potassium uptake system protein,VNG_6247G,
+Q9HNR4,tRNA pseudouridine synthase Pus10 (EC 5.4.99.25) (tRNA pseudouridine 54/55 synthase) (Psi54/55 synthase),VNG_1982C,tRNA pseudouridine synthesis [GO:0031119]
+Q9HMZ3,Heterodisulfide reductase,VNG_2320G,
+Q9HRD4,Protein kinase,VNG_0749G,
+Q9HQA7,Uncharacterized protein,VNG_1249C,
+Q9HSA6,Uncharacterized protein,VNG_0323H,
+Q9HHI1,Vng6384h,VNG_6384H,
+Q9HM99,UDP-N-acetylglucosamine 2-epimerase,VNG_2639G,
+Q9HRW5,Uncharacterized protein,VNG_0511H,
+Q9HRS3,Uncharacterized protein,VNG_0568C,
+Q9HMS9,Uncharacterized protein,VNG_2403H,
+Q9HN18,Monoamine oxidase regulatory-like,VNG_2290G,
+Q9HPJ2,Uncharacterized protein,VNG_1611C,
+Q9HN81,Uncharacterized protein,VNG_2211H,
+Q9HMJ8,Uncharacterized protein,VNG_2511H,
+Q9HS11,Phosphate transport system permease protein,VNG_0455G,phosphate ion transport [GO:0006817]
+Q9HNS0,Uncharacterized protein,VNG_1974H,
+Q9HR30,DNA gyrase subunit B (EC 5.99.1.3),VNG_0887G,DNA-dependent DNA replication [GO:0006261]; DNA topological change [GO:0006265]
+Q9HMB8,Uncharacterized protein,VNG_2615C,
+Q9HQS8,Uncharacterized protein,VNG_1023C,oxidation-reduction process [GO:0055114]
+Q9HSW0,Uncharacterized protein,VNG_0053H,
+Q9HS43,Phosphoribosylaminoimidazole-succinocarboxamide formyltransferase,VNG_0414G,'de novo' IMP biosynthetic process [GO:0006189]
+Q9HR14,Uncharacterized protein,VNG_0911H,
+Q9HR60,Uncharacterized protein,VNG_0849C,
+Q9HQC6,Uncharacterized protein,VNG_1227H,
+Q9HSU7,Uncharacterized protein,VNG_0067H,
+Q9HPQ2,Daunorubicin resistance ABC transporter ATP-binding protein,VNG_1526G,
+Q9HSE9,Tubulin-like protein CetZ,VNG_0265G,cell division [GO:0051301]; microtubule-based process [GO:0007017]; regulation of cell shape [GO:0008360]
+Q9HNN1,Acetyltransferase homolog,VNG_2025G,
+Q9HPP9,Uncharacterized protein,VNG_1530H,
+Q9HMK7,Glutaryl-CoA dehydrogenase,VNG_2499G,
+Q9HN67,Uncharacterized protein,VNG_2231C,
+Q9HNK0,Long-chain fatty-acid-CoA ligase,VNG_2071G,
+,,,
+Q9HQL8,Uncharacterized protein,VNG_1099C,
+Q9HHZ5,Vng6156h,VNG_6156H,
+Q9HHG6,Phenazine biosynthetic protein,VNG_6408G,biosynthetic process [GO:0009058]
+Q9HHJ8,DNA polymerase B2,VNG_6362G,
+Q9HQG2,Uncharacterized protein,VNG_1178H,
+Q9HRK1,Cytochrome c oxidase subunit III,VNG_0662G,aerobic electron transport chain [GO:0019646]; aerobic respiration [GO:0009060]
+Q9HNS2,Glycerol-3-phosphate dehydrogenase chain C,VNG_1972G,anaerobic respiration [GO:0009061]
+Q9HP53,Uncharacterized protein,VNG_1796H,
+Q9HPN9,Modification methylase (EC 2.1.1.113),VNG_1543G,DNA restriction-modification system [GO:0009307]
+Q9HQY3,Type II secretion system protein,VNG_0949G,
+Q9HMW9,Dipeptide ABC transporter dipeptide-binding,VNG_2349G,
+Q9HQJ9,Putative 2-ketoglutarate ferredoxin oxidoreductase (Alpha),VNG_1128G,response to oxidative stress [GO:0006979]
+Q9HRY6,Probable acetyltransferase,VNG_0486G,
+Q9HSH2,Uncharacterized protein,VNG_0231C,
+Q9HQ81,TRK potassium uptake system protein,VNG_1284G,
+Q9HR81,Uncharacterized protein,VNG_0821C,tRNA wobble uridine modification [GO:0002098]
+Q9HSP5,Uncharacterized protein,VNG_0138H,
+Q9HN87,Uncharacterized protein,VNG_2204H,
+Q9HPH6,Cobalt transport protein,VNG_1632G,cobalt ion transport [GO:0006824]
+Q9HNG6,Uncharacterized protein,VNG_2113C,transmembrane transport [GO:0055085]
+Q9HQF3,Halocyanin-like,VNG_1188G,
+Q9HMP1,Uncharacterized protein,VNG_2451H,
+Q9HNU3,Uncharacterized protein,VNG_1943H,
+Q9HP51,Uncharacterized protein,VNG_1800H,
+Q9HQD4,Uncharacterized protein,VNG_1213C,
+Q9HQR6,"2-hydroxyhepta-2,4-diene-1,7-dioate isomerase",VNG_1037G,
+Q9HNV1,Uncharacterized protein,VNG_1934H,
+Q9HRK5,Uncharacterized protein,VNG_0656H,
+Q9HRG7,Uncharacterized protein,VNG_0707C,
+Q9HS23,Ferredoxin,VNG_0438G,
+Q9HS03,Uncharacterized protein,VNG_0466C,
+Q9HPL1,Uncharacterized protein,VNG_1581C,
+Q9HNE9,Ferredoxin,VNG_2132G,
+Q9HNK1,Uncharacterized protein,VNG_2068C,
+Q9HPV8,Uncharacterized protein,VNG_1453H,
+Q9HRU3,Uncharacterized protein,VNG_0542C,
+Q9HQP4,Uncharacterized protein,VNG_1066C,
+Q9HSZ5,Uncharacterized protein,VNG_0014C,
+Q9HHV9,Vng6204h,VNG_6204H,
+Q9HQ99,Uncharacterized protein,VNG_1260C,
+Q9HNY4,Uncharacterized protein,VNG_1891H,
+Q9HQ84,Uncharacterized protein,VNG_1281H,tRNA processing [GO:0008033]
+Q9HRE0,Uncharacterized protein,VNG_0741H,
+Q9HRW1,Uncharacterized protein,VNG_0518H,
+Q9HM91,Ribonuclease II family protein,VNG_2647G,
+Q9HNH0,Threonine synthase,VNG_2108G,cellular amino acid metabolic process [GO:0006520]
+Q9HP07,Uncharacterized protein,VNG_1861C,tRNA methylthiolation [GO:0035600]
+Q9HN68,Uncharacterized protein,VNG_2230H,
+Q9HN79,DNA damage-inducible protein,VNG_2214G,
+Q9HHL2,Vng6341h,VNG_6341H,
+Q9HQW9,Chemotaxis protein,VNG_0967G,chemotaxis [GO:0006935]
+Q9HPV4,Uncharacterized protein,VNG_1457C,
+Q9HRH4,Uncharacterized protein,VNG_0697H,
+Q9HHF6,Vng6427h,VNG_6427H,
+Q9HHU5,Vng6222h,VNG_6222H,
+Q9HMA1,Uncharacterized protein,VNG_2637H,
+Q9HQT2,Uncharacterized protein,VNG_1017H,
+Q9HS08,Nodulation protein,VNG_0459G,
+Q9HNV7,Uncharacterized protein,VNG_1925H,
+Q9HQS6,Uncharacterized protein,VNG_1025H,
+Q9HQN2,Isochorismate synthase,VNG_1083G,salicylic acid biosynthetic process [GO:0009697]
+Q9HQX2,Uncharacterized protein,VNG_0964C,
+Q9HNW8,Heme biosynthesis protein,VNG_1911G,
+Q9HPP3,Uncharacterized protein,VNG_1538H,
+Q9HQ08,Helicase,VNG_1383G,nucleobase-containing compound metabolic process [GO:0006139]
+Q9HRZ2,Probable oxidoreductase,VNG_0479G,
+Q9HS24,Uncharacterized protein,VNG_0439C,oxidation-reduction process [GO:0055114]
+Q9HNX5,Uncharacterized protein,VNG_1902H,
+Q9HNG3,Uncharacterized protein,VNG_2117C,nucleoside metabolic process [GO:0009116]; purine-containing compound salvage [GO:0043101]; xanthine metabolic process [GO:0046110]
+Q9HMQ4,Uncharacterized protein,VNG_2433H,
+,,,
+Q9HRD3,Uncharacterized protein,VNG_0750C,
+Q9HHX3,Vng6186h,VNG_6186H,
+Q9HMJ7,mRNA 3'-end processing factor homolog,VNG_2512G,
+Q9HR97,Uncharacterized protein,VNG_0798H,
+Q9HSD8,Uncharacterized protein,VNG_0283C,
+Q9HHZ7,Spo0A activation inhibitor,VNG_6153G,
+Q9HMS4,GTP-binding protein homolog,VNG_2410G,
+Q9HPH9,Aryl-alcohol dehydrogenase,VNG_1628G,
+Q9HQW4,Uncharacterized protein,VNG_0978H,
+Q9HPH1,Uncharacterized protein,VNG_1640H,
+Q9HHG1,Vng6416h,VNG_6416H,
+Q9HMZ1,Delta-aminolevulinic acid dehydratase (EC 4.2.1.24),VNG_2322G,heme biosynthetic process [GO:0006783]
+Q9HR82,Uncharacterized protein,VNG_0819C,carbohydrate metabolic process [GO:0005975]
+Q9HNT8,Inosine-5'-monophosphate dehydrogenase-like,VNG_1949G,
+Q9HQP8,Rhamnosyl transferase,VNG_1062G,
+Q9HP91,Uncharacterized protein,VNG_1751H,
+Q9HRZ6,"Pyruvate ferredoxin oxidoreductase, subunit beta",VNG_0473G,
+Q9HS31,Uncharacterized protein,VNG_0429H,
+Q9HHG8,Vng6406h,VNG_6406H,
+Q9HMN1,Uncharacterized protein,VNG_2466C,
+Q9HSI3,Uncharacterized protein,VNG_0216H,
+Q9HHL9,Vng6330h,VNG_6330H,
+Q9HMS0,Uncharacterized protein,VNG_2414H,
+Q9HNZ3,Thiamin-binding periplasmic protein homolog,VNG_1879G,thiamine transport [GO:0015888]
+Q9HP60,Uncharacterized protein,VNG_1788C,
+Q9HNV9,Transcription regulator,VNG_1922G,
+Q9HNR0,Protein-export membrane protein SecD,VNG_1987G,intracellular protein transmembrane transport [GO:0065002]; protein targeting [GO:0006605]
+Q9HQV0,Uncharacterized protein,VNG_0995H,
+Q9HRL9,NADH dehydrogenase/oxidoreductase,VNG_0637G,
+Q9HSD6,Uncharacterized protein,VNG_0284C,
+Q9HSI5,Uncharacterized protein,VNG_0214C,
+Q9HMZ0,Uncharacterized protein,VNG_2323H,
+Q9HP19,Uncharacterized protein,VNG_1845C,
+Q9HI02,Vng6145h,VNG_6145H,
+Q9HRA8,Uncharacterized protein,VNG_0782H,
+Q9HMB2,Riboflavin synthase alpha subunit,VNG_2624G,riboflavin biosynthetic process [GO:0009231]
+Q9HMW6,Uncharacterized protein,VNG_2353H,
+Q9HHR9,Sodium-dependent transporter,VNG_6261G,
+Q9HNC0,Uncharacterized protein,VNG_2164C,
+,,,
+Q9HMF2,Halolysin,VNG_2573G,
+Q9HS89,DNA repair protein,VNG_0351C,DNA repair [GO:0006281]
+Q9HM87,Uncharacterized protein,VNG_2652H,
+Q9HI04,Vng6143h,VNG_6143H,
+Q9HHW5,Sodium-dependent phosphate transporter,VNG_6196G,phosphate ion transmembrane transport [GO:0035435]
+Q9HSM7,2-keto-3-deoxygluconate kinase,VNG_0158G,
+Q9HQZ5,Uncharacterized protein,VNG_0934H,
+Q9HSN4,Uncharacterized protein,VNG_0150H,cytochrome complex assembly [GO:0017004]; oxidation-reduction process [GO:0055114]
+Q9HSR2,Uncharacterized protein,VNG_0117H,
+Q9HQQ2,Uncharacterized protein,VNG_1057C,
+,,,
+Q9HSA5,Pyruvate kinase (EC 2.7.1.40),VNG_0324G,glycolytic process [GO:0006096]
+Q9HNW3,Geranylgeranylglyceryl phosphate synthase (GGGP synthase) (GGGPS) (EC 2.5.1.41) ((S)-3-O-geranylgeranylglyceryl phosphate synthase) (Phosphoglycerol geranylgeranyltransferase),VNG_1918C,glycerophospholipid biosynthetic process [GO:0046474]
+Q9HNW5,Uncharacterized protein,VNG_1916H,
+Q9HP86,Uncharacterized protein,VNG_1758H,
+Q9HQM2,Uncharacterized protein,VNG_1094H,
+Q9HMN9,UPF0201 protein VNG_2454C,VNG_2454C,
+Q9HQK8,Glyoxalase,VNG_1114G,
+Q9HQQ6,Glycosyl transferase-like,VNG_1053G,
+Q9HPI0,Uncharacterized protein,VNG_1626C,
+Q9HML5,Phosphate ABC transporter binding,VNG_2486G,
+Q9HHQ9,Vng6276h,VNG_6276H,
+Q9HSJ6,Uncharacterized protein,VNG_0197C,
+Q9HSQ7,ABC transport protein,VNG_0123G,
+Q9HPT2,Acyl-CoA dehydrogenase,VNG_1482G,
+Q9HPE4,GTP-binding protein homolog,VNG_1676G,translational elongation [GO:0006414]
+Q9HQ17,Uncharacterized protein,VNG_1372C,
+Q9HNJ1,Uncharacterized protein,VNG_2081H,
+Q9HMZ9,Uncharacterized protein,VNG_2312C,regulation of translational fidelity [GO:0006450]
+Q9HMR1,Phosphoserine phosphatase,VNG_2423G,dephosphorylation [GO:0016311]; L-serine biosynthetic process [GO:0006564]
+Q9HNC9,Uncharacterized protein,VNG_2154C,
+Q9HHX0,Vng6189h,VNG_6189H,
+Q9HSI1,Type II secretion system protein,VNG_0218G,
+Q9HQ64,Membrane anchor,VNG_1309G,
+Q9HRZ3,Uncharacterized protein,VNG_0478C,L-methylmalonyl-CoA metabolic process [GO:0046491]
+Q9HQD2,Sporulation regulator homolog,VNG_1215G,
+Q9HSZ8,Glucose-1-phosphate thymidylyltransferase,VNG_0009G,biosynthetic process [GO:0009058]
+Q9HPZ0,UDP-sugar hydrolase,VNG_1408G,nucleotide catabolic process [GO:0009166]
+Q9HPF9,Uncharacterized protein,VNG_1657H,
+Q9HNB0,Uncharacterized protein,VNG_2176H,
+,,,
+Q9HND4,Uncharacterized protein,VNG_2149H,
+Q9HQ71,Uncharacterized protein,VNG_1300H,
+Q9HMI7,Uncharacterized protein,VNG_2523H,
+Q9HP11,Translation initiation factor eIF-2B subunit alpha,VNG_1853G,L-methionine salvage from methylthioadenosine [GO:0019509]
+Q9HPI6,Uncharacterized protein,VNG_1619H,
+Q9HSQ3,NAD-dependent glucose-6-phosphate dehydrogenase (Glc6PDH) (EC 1.1.1.388),VNG_0128C,glucose metabolic process [GO:0006006]; pentose-phosphate shunt [GO:0006098]
+Q9HPL0,Histidinol-phosphate transaminase,VNG_1582G,cobalamin biosynthetic process [GO:0009236]
+Q9HRC2,Membrane protein,VNG_0763G,
+Q9HME8,Uncharacterized protein,VNG_2577C,
+Q9HMW8,Uncharacterized protein,VNG_2351C,
+Q9HN69,Uncharacterized protein,VNG_2227C,
+Q9HSD2,Uncharacterized protein,VNG_0289H,
+Q9HMY0,Uncharacterized protein,VNG_2335H,
+Q9HPT1,Uncharacterized protein,VNG_1483C,
+Q9HQ96,Uncharacterized protein,VNG_1263C,
+Q9HRW2,Uncharacterized protein,VNG_0516H,
+Q9HQE0,Uncharacterized protein,VNG_1205C,
+Q9HQ12,Extragenic suppressor homolog,VNG_1379G,inositol phosphate dephosphorylation [GO:0046855]; phosphatidylinositol phosphorylation [GO:0046854]; signal transduction [GO:0007165]
+Q9HSE0,Uncharacterized protein,VNG_0280H,
+F2Z6G9,Peptidyl-prolyl cis-trans isomerase,VNG_1294G,
+Q9HN38,Uncharacterized protein,VNG_2268H,"regulation of transcription, DNA-templated [GO:0006355]"
+Q9HPU9,Bacterio-opsin linked product,VNG_1463G,
+Q9HPS4,Amidophosphoribosyltransferase (ATase) (EC 2.4.2.14) (Glutamine phosphoribosylpyrophosphate amidotransferase) (GPATase),VNG_1493G,'de novo' IMP biosynthetic process [GO:0006189]; glutamine metabolic process [GO:0006541]; nucleoside metabolic process [GO:0009116]; purine nucleobase biosynthetic process [GO:0009113]
+Q9HSE4,Uncharacterized protein,VNG_0271C,
+Q9HNG0,Proline dehydrogenase,VNG_2120G,proline catabolic process to glutamate [GO:0010133]
+Q9HSE2,Uncharacterized protein,VNG_0274C,
+Q9HHV7,Vng6206h,VNG_6206H,
+Q9HS15,Uncharacterized protein,VNG_0450C,cell redox homeostasis [GO:0045454]
+Q9HHM3,Vng6325h,VNG_6325H,
+Q9HRH1,Uncharacterized protein,VNG_0702H,metal ion transport [GO:0030001]
+Q9HRW7,Uncharacterized protein,VNG_0509H,
+Q9HMF8,Uncharacterized protein,VNG_2563H,
+Q9HP99,Uncharacterized protein,VNG_1737H,
+Q9HMI6,Uncharacterized protein,VNG_2524H,
+Q9HPN1,Cobalamin biosynthesis,VNG_1554G,cobalamin biosynthetic process [GO:0009236]
+Q9HR68,Uncharacterized protein,VNG_0836H,
+Q9HP83,Putative ABC transporter,VNG_1762G,
+Q9HS01,Uncharacterized protein,VNG_0468C,oxidation-reduction process [GO:0055114]
+Q9HHZ4,Vng6157h,VNG_6157H,
+Q9HN19,Methylaspartate ammonia-lyase,VNG_2289G,
+Q9HI03,Transfer complex protein,VNG_6144G,
+Q9HRK0,Biotin acetyl-CoA carboxylase ligase,VNG_0664G,cellular protein modification process [GO:0006464]
+Q9HN58,Uncharacterized protein,VNG_2241H,
+Q9HHH2,Vng6401h,VNG_6401H,
+Q9HQP6,Uncharacterized protein,VNG_1064H,
+Q9HQF7,Heme biosynthesis protein,VNG_1184G,heme biosynthetic process [GO:0006783]
+Q9HMT6,Thiosulfate sulfurtransferase,VNG_2394G,
+Q9HRU6,Uncharacterized protein,VNG_0539C,
+Q9HMJ4,Uncharacterized protein,VNG_2515H,
+Q9HNF6,Uncharacterized protein,VNG_2124C,
+Q9HQU2,Uncharacterized protein,VNG_1003H,
+Q9HNZ4,Uncharacterized protein,VNG_1877C,
+Q9HR17,Uncharacterized protein,VNG_0907H,
+Q9HNQ4,Uncharacterized protein,VNG_1994C,maturation of SSU-rRNA [GO:0030490]
+Q9HPS0,Uncharacterized protein,VNG_1497C,
+Q9HSX0,Uncharacterized protein,VNG_0041C,
+Q9HM97,Uncharacterized protein,VNG_2641H,
+Q9HNB5,Alcohol dehydrogenase,VNG_2171G,
+Q9HQI5,Isopentenyl phosphate kinase (IPK) (EC 2.7.4.26),VNG_1148G,
+Q9HSY7,Uncharacterized protein,VNG_0023H,
+Q9HMU1,Uncharacterized protein,VNG_2386C,
+Q9HMA4,Uncharacterized protein,VNG_2633H,
+Q9HNG5,Uncharacterized protein,VNG_2115H,cell redox homeostasis [GO:0045454]
+Q9HNZ8,Uncharacterized protein,VNG_1872C,protein maturation [GO:0051604]
+,,,
+Q9HQN0,Uncharacterized protein,VNG_1085H,
+Q9HNV3,NADH dehydrogenase/oxidoreductase-like protein,VNG_1932G,ubiquinone-6 biosynthetic process [GO:1901006]
+Q9HMF1,Aconitase,VNG_2574G,tricarboxylic acid cycle [GO:0006099]
+Q9HMX5,Uncharacterized protein,VNG_2341H,
+Q9HSX7,Uncharacterized protein,VNG_0033H,
+Q9HPE0,Uncharacterized protein,VNG_1681C,
+Q9HQC4,Uncharacterized protein,VNG_1228C,
+Q9HSX1,Uncharacterized protein,VNG_0040C,
+Q9HPN0,Cobalamin biosynthesis,VNG_1555G,cobalamin biosynthetic process [GO:0009236]
+Q9HR48,Uncharacterized protein,VNG_0865C,
+Q9HP21,Uncharacterized protein,VNG_1843C,"regulation of transcription, DNA-templated [GO:0006355]"
+Q9HPZ7,Uncharacterized protein,VNG_1402H,
+Q9HNS4,Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3),VNG_1969G,glycerol-3-phosphate catabolic process [GO:0046168]; polyol catabolic process [GO:0046174]
+Q9HPI5,Uncharacterized protein,VNG_1621H,
+Q9HHM1,Vng6327h,VNG_6327H,
+Q9HP95,Uncharacterized protein,VNG_1744H,
+Q9HR29,DNA gyrase subunit A (EC 5.99.1.3),VNG_0889G,DNA-dependent DNA replication [GO:0006261]; DNA topological change [GO:0006265]
+Q9HR46,Uncharacterized protein,VNG_0868H,
+Q9HQY2,Flagella-related protein H,VNG_0950G,
+,,,
+Q9HRY9,Uncharacterized protein,VNG_0483C,
+Q9HHU6,Vng6221h,VNG_6221H,
+Q9HR40,Uncharacterized protein,VNG_0875C,
+Q9HN42,Uncharacterized protein,VNG_2260H,
+Q9HN75,Dihydrolipoamide S-acetyltransferase,VNG_2219G,
+Q9HQG9,Uncharacterized protein,VNG_1169C,"DNA-templated transcription, initiation [GO:0006352]"
+Q9HMX2,Oligopeptide ABC transporter,VNG_2344G,peptide transport [GO:0015833]
+Q9HP10,Htr3 transducer,VNG_1856G,chemotaxis [GO:0006935]; signal transduction [GO:0007165]
+Q9HN59,Replication factor C small subunit,VNG_2240G,DNA-dependent DNA replication [GO:0006261]
+Q9HMK1,Uncharacterized protein,VNG_2508C,DNA protection [GO:0042262]
+Q9HSZ1,Uncharacterized protein,VNG_0018H,
+Q9HSZ7,Uncharacterized protein,VNG_0011C,
+Q9HPR8,DNA helicase,VNG_1501G,"DNA replication, Okazaki fragment processing [GO:0033567]"
+Q9HQ61,3-hydroxyacyl-CoA dehydrogenase,VNG_1313G,fatty acid metabolic process [GO:0006631]
+Q9HRW8,Uncharacterized protein,VNG_0508H,
+Q9HPS2,SnRNP homolog,VNG_1496G,
+Q9HRH8,"ABC transporter, ATP-binding protein",VNG_0689G,
+Q9HPJ0,3-hydroxy-3-methylglutaryl-coenzyme A synthase,VNG_1615G,"acetyl-CoA metabolic process [GO:0006084]; farnesyl diphosphate biosynthetic process, mevalonate pathway [GO:0010142]"
+Q9HMC5,Uncharacterized protein,VNG_2607C,copper ion import [GO:0015677]; iron ion import across cell outer membrane [GO:0098706]; NADPH regeneration [GO:0006740]; oxidation-reduction process [GO:0055114]
+Q9HP71,Uncharacterized protein,VNG_1775C,siroheme biosynthetic process [GO:0019354]
+Q9HHF9,Vng6419h,VNG_6419H,
+,,,
+Q9HPY9,Uncharacterized protein,VNG_1409C,
+Q9HHL3,Vng6340h,VNG_6340H,
+Q9HPZ3,Transcription regulator,VNG_1404G,cellular response to oxidative stress [GO:0034599]; protein repair [GO:0030091]
+Q9HQC3,Uncharacterized protein,VNG_1229H,
+Q9HSP9,Replication A related protein,VNG_0133G,
+Q9HSA0,Uncharacterized protein,VNG_0331H,
+Q9HNS7,Uncharacterized protein,VNG_1964H,mitotic cell cycle [GO:0000278]; mitotic DNA replication checkpoint [GO:0033314]
+Q9HI08,Vng6133h,VNG_6133H,
+Q9HM71,Uncharacterized protein,VNG_2677H,
+Q9HPM5,Uncharacterized protein,VNG_1562H,
+Q9HQ24,Ornithine cyclodeaminase,VNG_1364G,
+Q9HHM6,Vng6321h,VNG_6321H,
+Q9HHS5,Vng6251h,VNG_6251H,
+Q9HMF4,Uncharacterized protein,VNG_2569H,
+Q9HS91,Uncharacterized protein,VNG_0347H,
+Q9HQ51,Uncharacterized protein,VNG_1326H,
+Q9HHG2,Vng6413h,VNG_6413H,
+Q9HQM9,Uncharacterized protein,VNG_1086C,
+Q9HS83,Uncharacterized protein,VNG_0360C,
+Q9HSZ2,Uncharacterized protein,VNG_0017H,
+Q9HPP2,Glucose 1-dehydrogenase,VNG_1540G,
+Q9HN80,Pre-mRNA splicing helicase,VNG_2213G,
+Q9HPI7,Uncharacterized protein,VNG_1617H,
+Q9HPK8,Uncharacterized protein,VNG_1585C,
+Q9HRF5,Uncharacterized protein,VNG_0724H,
+Q9HQF5,Coenzyme PQQ synthesis protein,VNG_1185G,
+Q9HRW9,Uncharacterized protein,VNG_0507C,
+Q9HSN0,Mercury(II) reductase,VNG_0154G,cell redox homeostasis [GO:0045454]; oxidation-reduction process [GO:0055114]
+Q9HMG2,Uncharacterized protein,VNG_2556H,
+Q9HPU0,Uncharacterized protein,VNG_1473H,
+Q9HNA0,Histidine triad protein,VNG_2186G,
+Q9HHV6,Vng6208c,VNG_6208C,
+Q9HHX4,Vng6185h,VNG_6185H,
+Q9HQ01,Uncharacterized protein,VNG_1394H,
+Q9HPL4,Uncharacterized protein,VNG_1577C,
+Q9HSN6,Uncharacterized protein,VNG_0148H,
+,,,
+Q9HHU7,Cationic amino acid transporter,VNG_6220G,
+Q9HMX3,Oligopeptide ABC transporter ATP-binding,VNG_2343G,peptide transport [GO:0015833]
+Q9HPI1,Uncharacterized protein,VNG_1625H,
+Q9HQT3,Uncharacterized protein,VNG_1015H,
+Q9HMU2,Uncharacterized protein,VNG_2385H,
+Q9HRM2,N5-carboxyaminoimidazole ribonucleotide mutase (N5-CAIR mutase) (EC 5.4.99.18) (5-(carboxyamino)imidazole ribonucleotide mutase),VNG_0633G,'de novo' IMP biosynthetic process [GO:0006189]
+Q9HRU1,Uncharacterized protein,VNG_0544H,
+Q9HQ93,Uncharacterized protein,VNG_1268H,
+Q9HSX5,Uncharacterized protein,VNG_0035H,"transposition, DNA-mediated [GO:0006313]"
+,,,
+Q9HMF6,Uncharacterized protein,VNG_2566H,
+Q9HQ88,GTP-binding protein,VNG_1275G,
+Q9HP46,Uncharacterized protein,VNG_1807H,
+Q9HRS2,Uncharacterized protein,VNG_0571C,
+Q9HSC9,N-methyltransferase homolog,VNG_0294G,
+Q9HHU1,Vng6226h,VNG_6226H,
+Q9HR55,Uncharacterized protein,VNG_0857C,
+Q9HRI5,Farnesyl-diphosphate farnesyltransferase,VNG_0680G,ergosterol biosynthetic process [GO:0006696]; farnesyl diphosphate metabolic process [GO:0045338]
+Q9HND1,Uncharacterized protein,VNG_2152C,
+Q9HNX4,Uncharacterized protein,VNG_1903C,
+Q9HPY8,Uncharacterized protein,VNG_1410H,
+Q9HST6,Molybdenum cofactor biosynthesis protein,VNG_0081G,molybdopterin cofactor biosynthetic process [GO:0032324]; Mo-molybdopterin cofactor biosynthetic process [GO:0006777]
+Q9HP88,Phytoene dehydrogenase,VNG_1755G,carotenoid biosynthetic process [GO:0016117]
+Q9HMT0,Uncharacterized protein,VNG_2400H,
+Q9HS37,Cytochrome P450,VNG_0422G,
+Q9HRC1,Uncharacterized protein,VNG_0764C,NADP biosynthetic process [GO:0006741]
+Q9HQL7,Uncharacterized protein,VNG_1100C,
+Q9HPV0,Cell division cycle protein,VNG_1462G,cell division [GO:0051301]
+Q9HI30,Vng6005h,VNG_6005H,
+Q9HRY7,Uncharacterized protein,VNG_0485H,
+Q9HQP2,Transmembrane oligosaccharyl transferase,VNG_1068G,protein glycosylation [GO:0006486]
+Q9HP76,Uncharacterized protein,VNG_1770C,
+Q9HSS5,Ribosomal protein S6 modification protein,VNG_0098G,
+Q9HQX1,Uncharacterized protein,VNG_0965C,
+Q9HRF7,DNA damage-inducible protein,VNG_0720G,
+Q9HQV7,Uncharacterized protein,VNG_0987H,
+,,,
+Q9HQP9,Uncharacterized protein,VNG_1060H,
+Q9HQQ0,Uncharacterized protein,VNG_1059C,
+,,,
+Q9HM74,Uncharacterized protein,VNG_2673H,
+Q9HS63,Uncharacterized protein,VNG_0388C,
+Q9HSS8,Uncharacterized protein,VNG_0096C,
+Q9HRB4,Uncharacterized protein,VNG_0772H,
+Q9HSJ5,Uncharacterized protein,VNG_0198H,
+Q9HRH7,Uncharacterized protein,VNG_0690C,
+Q9HR10,Adaptive-response sensory-kinase,VNG_0916G,"regulation of transcription, DNA-templated [GO:0006355]"
+Q9HHF0,Vng6437c,VNG_6437C,
+Q9HQY6,Uncharacterized protein,VNG_0945H,
+Q9HPS8,Uncharacterized protein,VNG_1487H,
+Q9HSA9,Uncharacterized protein,VNG_0320H,
+Q9HMS1,Uncharacterized protein,VNG_2413H,
+Q9HSI7,Uncharacterized protein,VNG_0209H,DNA integration [GO:0015074]; DNA recombination [GO:0006310]
+Q9HRI3,Uncharacterized protein,VNG_0682C,
+Q9HQR7,Uncharacterized protein,VNG_1036H,
+Q9HRM8,Citrate (Pro-3S)-lyase,VNG_0627G,oxaloacetate metabolic process [GO:0006107]
+Q9HS39,Uncharacterized protein,VNG_0420H,
+Q9HMR2,Glycolate oxidase subunit,VNG_2422G,lactate catabolic process [GO:1903457]
+Q9HR70,Uncharacterized protein,VNG_0834C,
+Q9HHW4,Vng6197h,VNG_6197H,
+Q9HME5,Uncharacterized protein,VNG_2581H,metal ion transport [GO:0030001]
+Q9HRY1,Uncharacterized protein,VNG_0492H,
+Q9HSS1,Phosphoglycerate dehydrogenase,VNG_0104G,cellular amino acid metabolic process [GO:0006520]
+Q9HNS9,Uncharacterized protein,VNG_1962C,nucleoside phosphate metabolic process [GO:0006753]; ribose phosphate metabolic process [GO:0019693]
+Q9HR99,Halocyanin-like,VNG_0795G,
+Q9HMN7,Uncharacterized protein,VNG_2456C,
+Q9HNC5,Putative oxidoreductase,VNG_2158G,
+Q9HQN6,"1,4-dihydroxy-2-naphthoate octaprenyltransferase (DHNA-octaprenyltransferase) (EC 2.5.1.74)",VNG_1075G,"menaquinone biosynthetic process [GO:0009234]; ubiquinone biosynthetic process via 3,4-dihydroxy-5-polyprenylbenzoate [GO:0032194]; vitamin K biosynthetic process [GO:0042371]"
+Q9HNX9,Uncharacterized protein,VNG_1898C,
+Q9HNT6,Uncharacterized protein,VNG_1952H,
+Q9HNW4,Uncharacterized protein,VNG_1917H,
+Q9HQU7,Probable oxidoreductase,VNG_0998G,
+Q9HRW0,Uncharacterized protein,VNG_0520H,
+Q9HQZ4,NADH oxidase,VNG_0935G,
+Q9HPA1,Uncharacterized protein,VNG_1734H,
+Q9HNN6,Uncharacterized protein,VNG_2019C,membrane protein intracellular domain proteolysis [GO:0031293]
+Q9HNT4,Uncharacterized protein,VNG_1954H,
+Q9HS96,Uncharacterized protein,VNG_0340C,
+Q9HQ62,3-methyladenine DNA glycosylase,VNG_1311G,"base-excision repair, AP site formation [GO:0006285]; DNA dealkylation involved in DNA repair [GO:0006307]"
+Q9HQ13,Transcription regulator,VNG_1377G,
+Q9HNH5,Uncharacterized protein,VNG_2101H,
+Q9HNF2,Uncharacterized protein,VNG_2129H,
+Q9HS14,Phosphate-specific transport system accessory protein PhoU,VNG_0451G,cellular phosphate ion homeostasis [GO:0030643]; negative regulation of phosphate metabolic process [GO:0045936]; phosphate ion transport [GO:0006817]
+P82857,Cytochrome-like protein,VNG_0249G,
+Q9HPN2,Cobalamin biosynthesis,VNG_1553G,cobalamin biosynthetic process [GO:0009236]
+Q9HHG3,Vng6412h,VNG_6412H,
+Q9HQ35,Uncharacterized protein,VNG_1349C,
+Q9HML4,Uncharacterized protein,VNG_2488C,
+Q9HSD4,Uncharacterized protein,VNG_0286C,
+Q9HR95,Uncharacterized protein,VNG_0800H,
+Q9HMJ3,Uncharacterized protein,VNG_2516C,
+Q9HR78,Probable molybdenum cofactor guanylyltransferase (MoCo guanylyltransferase) (EC 2.7.7.77) (GTP:molybdopterin guanylyltransferase) (Mo-MPT guanylyltransferase) (Molybdopterin guanylyltransferase) (Molybdopterin-guanine dinucleotide synthase) (MGD synthase),VNG_0824G,Mo-molybdopterin cofactor biosynthetic process [GO:0006777]
+Q9HRK6,Uncharacterized protein,VNG_0654C,
+Q9HRR4,Uncharacterized protein,VNG_0581H,
+Q9HP36,Uncharacterized protein,VNG_1823C,
+Q9HR21,Ribose ABC transporter ATP-binding,VNG_0901G,
+Q9HMY4,S-adenosyl-L-methionine:uroporphyrinogen III methyltransferase,VNG_2331G,oxidation-reduction process [GO:0055114]; siroheme biosynthetic process [GO:0019354]
+Q9HQE7,Uncharacterized protein,VNG_1196H,
+Q9HR50,Uncharacterized protein,VNG_0863H,
+Q9HQT1,Alcohol dehydrogenase,VNG_1018G,
+Q9HHR8,"ABC transporter, permease protein",VNG_6262G,
+Q9HNU6,Uncharacterized protein,VNG_1940H,
+Q9HRQ9,Uncharacterized protein,VNG_0586C,
+Q9HN84,Uncharacterized protein,VNG_2207H,
+Q9HHX1,Vng6188h,VNG_6188H,
+Q9HRE1,Uncharacterized protein,VNG_0740C,tryptophan catabolic process to kynurenine [GO:0019441]
+Q9HRN8,Uncharacterized protein,VNG_0612H,
+Q9HQQ5,Probable transport protein,VNG_1054G,
+Q9HSN8,Uncharacterized protein,VNG_0146H,
+Q9HP92,GTP-binding protein homolog,VNG_1749G,
+Q9HMQ8,D-lactate dehydrogenase,VNG_2429G,transmembrane transport [GO:0055085]
+Q9HP44,Succinoglycan biosynthesis,VNG_1811G,response to antibiotic [GO:0046677]
+Q9HNH8,Uncharacterized protein,VNG_2098H,
+Q9HPE3,Uncharacterized protein,VNG_1678H,
+Q9HSQ9,Uncharacterized protein,VNG_0120H,
+Q9HRL1,NADH dehydrogenase/oxidoreductase,VNG_0648G,ATP synthesis coupled electron transport [GO:0042773]
+Q9HSP1,Uncharacterized protein,VNG_0142C,
+Q9HMM7,Uncharacterized protein,VNG_2470C,
+Q9HM95,Uncharacterized protein,VNG_2643H,
+Q9HME7,Iron-dependent repressor homolog,VNG_2579G,"negative regulation of transcription, DNA-templated [GO:0045892]"
+Q9HR69,Iron-dependent repressor homolog,VNG_0835G,"negative regulation of transcription, DNA-templated [GO:0045892]"
+Q9HNC3,Uncharacterized protein,VNG_2160C,
+Q9HR77,Uncharacterized protein,VNG_0825C,Mo-molybdopterin cofactor biosynthetic process [GO:0006777]
+Q9HNK3,Dolichol-P-glucose transferase,VNG_2065G,protein N-linked glycosylation [GO:0006487]
+Q9HRE4,Signal-transducing histidine kinase homolog,VNG_0736G,"regulation of transcription, DNA-templated [GO:0006355]"
+Q9HMR3,O-acetyl homoserine,VNG_2421G,cellular amino acid metabolic process [GO:0006520]
+Q9HNW6,Peptidyl-prolyl isomerase,VNG_1914G,protein folding [GO:0006457]
+Q9HPM3,Protoporphyrin IX magnesium chelatase,VNG_1565G,
+Q9HQ30,Uncharacterized protein,VNG_1355H,
+Q9HPX9,Uncharacterized protein,VNG_1423H,
+Q9HQ26,Uncharacterized protein,VNG_1360H,
+Q9HHL8,Vng6332h,VNG_6332H,
+Q9HST5,Molybdenum cofactor biosynthesis protein,VNG_0084G,
+Q9HRB3,Acyl-CoA dehydrogenase,VNG_0775G,
+Q9HS53,Uncharacterized protein,VNG_0402H,
+Q9HRX4,Aspartate aminotransferase,VNG_0502G,biosynthetic process [GO:0009058]
+Q9HS51,Uncharacterized protein,VNG_0404H,
+Q9HSZ3,Uncharacterized protein,VNG_0016H,
+Q9HRS4,Uncharacterized protein,VNG_0570H,
+Q9HPA3,Uncharacterized protein,VNG_1732C,
+Q9HQY1,Uncharacterized protein,VNG_0953C,
+Q9HQM0,Uncharacterized protein,VNG_1096H,
+Q9HS46,Uncharacterized protein,VNG_0409C,
+Q9HMU0,Uncharacterized protein,VNG_2387H,
+Q9HQ42,Uncharacterized protein,VNG_1340C,
+Q9HQ76,Uncharacterized protein,VNG_1292H,
+Q9HPE7,Uncharacterized protein,VNG_1672H,
+Q9HPN5,Uncharacterized protein,VNG_1548C,"regulation of transcription, DNA-templated [GO:0006355]"
+Q9HQ59,Uncharacterized protein,VNG_1315H,
+Q9HPQ1,Sodium-and chloride-dependent transporter,VNG_1528G,
+Q9HMX7,Uncharacterized protein,VNG_2339C,
+Q9HPT7,Uncharacterized protein,VNG_1476C,
+Q9HP96,Uncharacterized protein,VNG_1743C,"regulation of transcription, DNA-templated [GO:0006355]; transcription, DNA-templated [GO:0006351]"
+Q9HHL6,Vng6335h,VNG_6335H,
+Q9HNL9,Uncharacterized protein,VNG_2042H,
+Q9HPY0,Uncharacterized protein,VNG_1422H,
+Q9HI15,Vng6036h,VNG_6036H,
+Q9HMI0,Uncharacterized protein,VNG_2532H,
+Q9HMJ9,Uncharacterized protein,VNG_2510H,
+Q9HM88,Homoserine dehydrogenase,VNG_2650G,homoserine biosynthetic process [GO:0009090]; lysine biosynthetic process via diaminopimelate [GO:0009089]
+Q9HS04,Copper transport ATP-binding protein,VNG_0465G,
+Q9HQC8,Uncharacterized protein,VNG_1220H,
+F2Z6F3,Vng6319h,VNG_6319H,
+Q9HHV4,Gamma-aminobutyrate aminotransferase,VNG_6210G,biosynthetic process [GO:0009058]
+Q9HRP8,Uncharacterized protein,VNG_0600C,
+Q9HSR3,Uncharacterized protein,VNG_0116H,
+Q9HMK9,Uncharacterized protein,VNG_2497H,
+Q9HPP7,Uncharacterized protein,VNG_1533H,
+Q9HPG8,Vitamin B12-dependent ribonucleotide reductase (EC 1.17.4.1),VNG_1644G,DNA biosynthetic process [GO:0071897]; DNA replication [GO:0006260]
+Q9HPJ3,Uncharacterized protein,VNG_1610C,
+Q9HN04,Uncharacterized protein,VNG_2306H,
+Q9HRU7,Uncharacterized protein,VNG_0537C,
+Q9HRE9,Uncharacterized protein,VNG_0731H,
+Q9HRL8,NADH dehydrogenase/oxidoreductase,VNG_0639G,aerobic respiration [GO:0009060]
+Q9HNA8,Uncharacterized protein,VNG_2178H,
+,,,
+Q9HQR1,Uncharacterized protein,VNG_1047H,
+Q9HR23,Ribose ABC transporter permease,VNG_0897G,
+Q9HNF7,Na+/H+ antiporter,VNG_2123G,
+Q9HS41,Uncharacterized protein,VNG_0417H,
+Q9HHH3,Vng6400h,VNG_6400H,
+Q9HQJ7,Iron-sulfur cluster carrier protein,VNG_1131G,iron-sulfur cluster assembly [GO:0016226]
+Q9HRP3,Cysteine synthase,VNG_0606G,
+Q9HR89,Uncharacterized protein,VNG_0811H,
+Q9HMK5,Uncharacterized protein,VNG_2502C,dGTP catabolic process [GO:0006203]
+Q9HR16,Proline permease,VNG_0908G,proline transport [GO:0015824]
+Q9HQI2,Uncharacterized protein,VNG_1151H,
+Q9HHL5,Spo0A activation inhibitor,VNG_6337G,
+Q9HHF1,Vng6434h,VNG_6434H,
+Q9HQM4,Uncharacterized protein,VNG_1092C,
+Q9HP12,Uncharacterized protein,VNG_1852H,
+Q9HQ68,Uncharacterized protein,VNG_1303C,
+Q9HP54,Uncharacterized protein,VNG_1795C,
+Q9HQR9,Uncharacterized protein,VNG_1034H,
+Q9HMZ5,Uncharacterized protein,VNG_2316C,
+Q9HQ69,Uncharacterized protein,VNG_1302H,
+Q9HNN5,Uncharacterized protein,VNG_2020C,
+Q9HP17,Uncharacterized protein,VNG_1848H,
+Q9HMF5,Uncharacterized protein,VNG_2567C,
+Q9HRI8,3-ketoacyl-CoA thiolase,VNG_0678G,
+Q9HQ92,Uncharacterized protein,VNG_1270H,
+Q9HPV1,Uncharacterized protein,VNG_1461H,
+Q9HQB7,Uncharacterized protein,VNG_1236C,
+Q9HMS2,Uncharacterized protein,VNG_2412H,
+Q9HQ05,Uncharacterized protein,VNG_1387H,
+Q9HN55,Uncharacterized protein,VNG_2244H,
+Q9HPF1,Uncharacterized protein,VNG_1666H,
+Q9HNC2,Uncharacterized protein,VNG_2162C,
+Q9HQF6,Uncharacterized protein,VNG_1183H,
+Q9HR06,Spermidine/putrescine ABC transporter ATP-binding,VNG_0921G,
+Q9HP01,Spermidine/putrescine ABC transporter permease,VNG_1868G,transmembrane transport [GO:0055085]
+Q9HHQ2,Vng6286h,VNG_6286H,
+Q9HQ33,Transcription regulator,VNG_1351G,
+Q9HNH3,Potassium channel homolog,VNG_2104G,potassium ion transport [GO:0006813]
+Q9HSH3,Uncharacterized protein,VNG_0230C,
+Q9HN32,Uncharacterized protein,VNG_2273H,
+Q9HSR8,"Type I restriction modification enzyme, S subunit",VNG_0107G,DNA modification [GO:0006304]
+Q9HRV0,Uncharacterized protein,VNG_0534C,
+Q9HNA1,Uncharacterized protein,VNG_2185H,
+Q9HSX4,Uncharacterized protein,VNG_0037H,
+Q9HRP2,Uncharacterized protein,VNG_0608C,
+Q9HSX6,Uncharacterized protein,VNG_0034H,
+Q9HHZ6,Vng6155h,VNG_6155H,
+Q9HPG2,Uncharacterized protein,VNG_1650H,
+Q9HSW4,Glucose-1-phosphate thymidylyltransferase,VNG_0047G,biosynthetic process [GO:0009058]
+Q9HRS8,NADH dehydrogenase/oxidoreductase,VNG_0563G,ATP synthesis coupled electron transport [GO:0042773]
+Q9HQU8,Acetyl-CoA synthetase,VNG_0997G,acetyl-CoA biosynthetic process from acetate [GO:0019427]
+,,,
+Q9HHM8,Transcription regulator,VNG_6318G,"negative regulation of transcription, DNA-templated [GO:0045892]"
+Q9HMB0,Uncharacterized protein,VNG_2626H,
+Q9HQZ2,Glyceraldehyde-3-phosphate dehydrogenase,VNG_0937G,
+Q9HRN5,Uncharacterized protein,VNG_0615C,potassium ion transport [GO:0006813]
+Q9HS27,Uncharacterized protein,VNG_0435H,
+Q9HPE6,Uncharacterized protein,VNG_1674H,
+O51981,Vng6103h,VNG_6103H,
+O54613,Vng6083h (Vng6443h),VNG_6083H VNG_6443H,
+O51972,Vng6038h,VNG_6038H,"transposition, DNA-mediated [GO:0006313]"
+O54662,Probable membrane transporter protein,VNG_6071C VNG_6455C,
+O51989,Vng6119h,VNG_6119H,
+O54573,SojC (Spo0A activation inhibitor),VNG_6086G,
+O54533,Vng6085h,VNG_6085H,
+O54664,Vng6084h (Vng6442h),VNG_0021H VNG_6084H VNG_6442H,
+O51979,Vng6101h,VNG_6101H,
+O51976,Vng6095c,VNG_6095C,
+O54559,Vng6061h (Vng6465h),VNG_6061H VNG_6465H,
+O54644,Vng6042h (Vng6484h),VNG_6042H; VNG_6484H,"transposition, DNA-mediated [GO:0006313]"
+O51977,Vng6097c,VNG_6097C,
+O51962,SojA (Spo0A activation inhibitor),VNG_6010G,
+Q9HHE1,Vng6078h (Vng6448h),VNG_6078H VNG_6448H,
+O51966,Vng6016h (Vng6395h),VNG_0052H; VNG_6016H; VNG_6395H,"transposition, DNA-mediated [GO:0006313]"
+Q9HHE6,Vng6077h (Vng6449h),VNG_6077H VNG_6449H,
+Q7LYM0,Vng6040h (Vng6486h),VNG_6040H; VNG_6486H,"transposition, DNA-mediated [GO:0006313]"
+Q9HHD7,Vng6051h (Vng6475h),VNG_6051H VNG_6475H,
+O51963,Vng6011h,VNG_6011H,
+O51965,RepH (Replication protein),VNG_6013G,
+O51955,Vng6001h,VNG_6001H,
+O52003,ATP-dependent RNA helicase,VNG_6139G,
+O51987,Vng6116h,VNG_6116H,
+O51991,SojD (Spo0A activation inhibitor),VNG_6123G,
+Q9HHE5,Vng6070h (Vng6456h),VNG_6070H VNG_6456H,
+,,,
+Q9HI34,Vng6106h (Vng6161h) (Vng6345h),VNG_1653H; VNG_6106H; VNG_6161H; VNG_6345H,"transposition, DNA-mediated [GO:0006313]"
+O54648,Vng6079h (Vng6147h) (Vng6447h),VNG_0059H; VNG_0337H; VNG_2175H; VNG_6079H; VNG_6147H; VNG_6447H,"transposition, DNA-mediated [GO:0006313]"
+O51959,Vng6007h,VNG_6007H,
+O54596,CydB (Cytochrome d oxidase chain II),VNG_6055G; VNG_6471G,aerobic electron transport chain [GO:0019646]
+O51960,Vng6008h,VNG_6008H,
+O54601,Vng6062h (Vng6464h),VNG_6062H; VNG_6464H,
+O51993,Vng6125h,VNG_6125H,
+O54654,Vng6087c,VNG_6087C,
+Q9HI32,Vng6015h (Vng6111h),VNG_0112H VNG_6015H VNG_6111H,
+O54590,Vng6076h (Vng6450h),VNG_6076H; VNG_6450H,DNA integration [GO:0015074]; DNA recombination [GO:0006310]
+O51969,SojB (Spo0A activation inhibitor),VNG_6034G,
+O51996,Vng6129c,VNG_6129C,
+O54646,Vng6082h (Vng6444h),VNG_6082H VNG_6444H,
+O51961,Vng6009h,VNG_6009H,
+O51994,Vng6127h,VNG_6127H,
+O46709,Thioredoxin (TrxA),VNG_6073G; VNG_6453G,cell redox homeostasis [GO:0045454]; glycerol ether metabolic process [GO:0006662]
+Q9HHD5,Thioredoxin reductase-like protein,VNG_6075G VNG_6451G,
+,,,
+O51986,Vng6115h,VNG_6115H,
+O51990,Vng6121h,VNG_6121H,
+O51978,Vng6099h,VNG_6099H,
+O51956,Vng6003h,VNG_6003H,
+O52001,Vng6136h,VNG_6136H,DNA modification [GO:0006304]
+O54630,Vng6068c (Vng6457c),VNG_6068C; VNG_6457C,transmembrane transport [GO:0055085]
+O51980,Vng6102h,VNG_6102H,
+O51985,Vng6113h,VNG_6113H,
+Q9HHD8,Vng6047h (Vng6479h),VNG_6047H; VNG_6479H,
+O51970,Htr-like protein,VNG_6035G,"regulation of transcription, DNA-templated [GO:0006355]"
+O54564,Vng6057c (Vng6469c),VNG_6057C; VNG_6469C,
+O51967,Vng6017h,VNG_6017H,
+O54535,Thioredoxin reductase (TrxB),VNG_6074G; VNG_6452G,
+O54575,Vng6088c,VNG_6088C,
+,,,
+Q9HHE0,Vng6045h (Vng6481h),VNG_6045H; VNG_6481H,
+,,,
+O54523,Phosphate transporter,VNG_6064G; VNG_6462G,phosphate ion transmembrane transport [GO:0035435]
+O54562,Vng6090c,VNG_6090C,
+O54637,Bacterio-opsin activator-like protein,VNG_6065G VNG_6461G,
+O51997,DNA repair protein,VNG_6130G,
+O51998,Vng6131h,VNG_6131H,
+O51995,Vng6128h,VNG_6128H,
+O54661,Vng6066c (Vng6460c),VNG_6066C VNG_6460C,
+Q9HHD9,Vng6052h (Vng6474h),VNG_6052H VNG_6474H,
+,,,
+O54663,Vng6072c (Vng6454c),VNG_6072C VNG_6454C,
+O51999,RepI (Replication protein),VNG_6132G,
+Q9HI31,Vng6093h (Vng6098h) (Vng6141h) (Vng6146h) (Vng6391h),VNG_0210H VNG_0994H VNG_1007H VNG_1651H VNG_6093H VNG_6098H VNG_6141H VNG_6146H VNG_6391H,
+O54647,Vng6060c (Vng6466c),VNG_6060C VNG_6466C,
+O54610,CydA (Cytochrome d oxidase chain I),VNG_6053G VNG_6473G,aerobic electron transport chain [GO:0019646]
+Q9HHD6,Vng6046h (Vng6480h),VNG_6046H VNG_6480H,
+O51984,Vng6112h,VNG_6112H,DNA integration [GO:0015074]; DNA recombination [GO:0006310]
+O52023,Vng6331h,VNG_6331H,"transposition, DNA-mediated [GO:0006313]"
+O54583,Vng6039h (Vng6487h),VNG_6039H VNG_6487H,
+,,,
+Q9HHE2,Vng6048h (Vng6478h),VNG_6048H VNG_6478H,
+O51982,Vng6105h,VNG_6105H,
+Q9HHE3,Vng6080h (Vng6446h),VNG_6080H VNG_6446H,
