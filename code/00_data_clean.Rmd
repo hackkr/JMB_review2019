@@ -1,0 +1,231 @@
+---
+title: "Cleaning data sets"
+output:
+  html_document:
+    df_print: paged
+---
+
+##Data download and wrangling
+Load libraries:
+```{r, message=FALSE, warning=FALSE, collapse=TRUE}
+library(tidyverse)
+library(magrittr) 
+library(cowplot)
+library(viridis)
+library(gplots)
+library(dendextend)
+
+source("00_custom_functions.R")
+```
+
+Load in raw data sets:  
+```{r, message=FALSE, warning=FALSE, collapse=TRUE}
+hbt <- read_tsv("http://egrin2.systemsbiology.net/static/Downloads/Expression/hal_exp.txt")
+
+gasch.complete <- read_tsv("http://genome-www.stanford.edu/yeast_stress/data/rawdata/complete_dataset.txt") %>%
+  .[,-c(2:3)] 
+
+gasch.fig1 <- read_tsv("http://genome-www.stanford.edu/yeast_stress/data/figure1/figure1.cdt") %>%
+  .[-1,] %>%
+  .[,-c(1, 3:4)]
+```
+
+cluster the 868 genes identified to be a part of the ESR (figure3), use entire data set. 
+```{r, message=FALSE, warning=FALSE, collapse=TRUE}
+yeast <- read_tsv("http://genome-www.stanford.edu/yeast_stress/data/rawdata/complete_dataset.txt") %>%
+  .[,-c(2:3)]
+esr.list <- read_tsv("http://www-genome.stanford.edu/yeast_stress/data/figure3/figure3.cdt") %>%
+  .[-1,] %>%
+  .[,1]
+esr <- yeast[yeast$UID %in% esr.list$UID,]
+t.esr <- data.t(esr, esr$UID, scaled = "gene")
+esr.cor <- select(t.esr, -cond) %>%
+  cor(use = "pairwise.complete.obs")
+esr.dist <- as.dist(1-esr.cor)
+esr.dend <- as.dendrogram(hclust(esr.dist, method = "complete"))
+esr.clusters <- cutree(esr.dend, k=2) %>% 
+  data.frame(gene = names(.), cluster = ., row.names = NULL, stringsAsFactors = F)
+```
+
+remove unnecessary columns. keep only expt/conditions and gene names  
+```{r}
+colnames(hbt)[1] <- "gene"
+colnames(gasch.complete)[1] <- "gene"
+colnames(gasch.fig1)[1] <- "gene"
+```
+
+Check:  
+```{r, collapse= TRUE}
+#head(hbt, n=10); head(gasch.complete, n=10)
+dim(hbt); dim(gasch.complete)
+```
+
+transpose data frames (so that genes are in the columns)  
+```{r, collapse= T, results="hide"}
+gasch.w <- data.t(gasch.complete, gasch.complete$gene, scaled = F)
+  colnames(gasch.w) <-colnames(gasch.w) %>% str_replace_all(., "\\.", "-")
+gasch.1 <- data.t(gasch.fig1, gasch.fig1$gene, scaled = F)
+  colnames(gasch.1) <-colnames(gasch.1) %>% str_replace_all(., "\\.", "-")
+hbt.w <- data.t(hbt, hbt$gene, scaled = F)
+```
+
+get data into long format
+```{r, collapse=T}
+gasch.long <- gather(gasch.w, gene, expression, -cond)
+gasch1.long <- gather(gasch.1, gene, expression, -cond)
+hbt.long <- gather(hbt.w, gene, expression, -cond)
+
+var.check(gasch.long); var.check(hbt.long)
+```
+
+changing 0 to NA does not affect variance
+```{r, collapse=T, echo=FALSE}
+#set 0 to NA
+gasch.long[gasch.long == 0] <- NA
+gasch1.long[gasch1.long == 0] <- NA
+hbt.long[hbt.long == 0] <- NA
+var.check(gasch.long);var.check(hbt.long) 
+```
+
+
+```{r, collapse=T}
+#S. cer
+head(gasch.long)
+#Hbt. sal
+head(hbt.long)
+```
+Wrangling complete. 
+
+##Data filtering
+To clean:  
+  1. keep genes whose expression has been detected in at least 90% of the conditions  
+  2. keep the 1000 genes with the highest expression variance across conditions  
+
+get variances and missing value distributions of wrangled data:  
+```{r, results="hide"}
+gasch.long %>% 
+  group_by(gene) %>% 
+  summarise(na.count = sum(is.na(expression))) -> gasch.nacounts
+gasch.long %>% 
+  group_by(gene) %>% 
+  summarise(var = var(expression, na.rm = TRUE)) -> gasch.var
+
+merge(gasch.nacounts, gasch.var, key = gene) -> combined.g
+
+gasch1.long %>% 
+  group_by(gene) %>% 
+  summarise(na.count = sum(is.na(expression))) -> gasch1.nacounts
+gasch1.long %>% 
+  group_by(gene) %>% 
+  summarise(var = var(expression, na.rm = TRUE)) -> gasch1.var
+
+merge(gasch1.nacounts, gasch1.var, key = gene) -> combined.g1
+
+hbt.long %>% 
+  group_by(gene) %>% 
+  summarise(na.count = sum(is.na(expression))) -> hbt.nacounts
+hbt.long %>% 
+  group_by(gene) %>% 
+  summarise(var = var(expression, na.rm = TRUE)) -> hbt.var
+
+merge(hbt.nacounts, hbt.var, key = gene) -> combined.hbt
+```
+
+genes that were measured in 90% of tested conditions:
+```{r, collapse=T, echo=F}
+gasch.present90 <- na.cutoff(gasch.nacounts, gasch.w, .9)
+gasch1.present90 <- na.cutoff(gasch1.nacounts, gasch.w, .9)
+hbt.present90 <- na.cutoff(hbt.nacounts, hbt.w, .9) 
+```
+
+filter variance genes by those in the 90th percentile, and take 1000 most variable genes
+```{r, collapse=TRUE}
+clean.gasch <- gasch.complete[gasch.complete$gene %in% gasch.present90,]
+clean.gasch1 <- gasch.fig1[gasch.fig1$gene %in% gasch1.present90,]
+clean.hbt <- hbt[hbt$gene %in% hbt.present90,]
+
+dim(clean.gasch); dim(clean.hbt); dim(clean.gasch1)
+```
+
+```{r, results="hide"}
+gasch.1000var <- gasch.var[gasch.var$gene %in% gasch.present90,] %>% 
+  var.cutoff(., 1000, return.list = T)
+gasch.1000var <- gasch.complete[gasch.complete$gene %in% gasch.1000var,]
+
+gasch1.1000var <- gasch1.var[gasch1.var$gene %in% gasch1.present90,] %>% 
+  var.cutoff(., 1000, return.list = T)
+gasch1.1000var <- gasch.fig1[gasch.fig1$gene %in% gasch1.1000var,]
+
+hbt.1000var <- hbt.var[hbt.var$gene %in% hbt.present90,] %>% 
+  var.cutoff(., 1000, return.list = T)
+hbt.1000var <- hbt[hbt$gene %in% hbt.1000var,]
+
+#dim(gasch.1000var); dim(hbt.1000var)
+```
+
+##Filtering perspectives and export
+
+How many ESR genes are in each cluster?  
+```{r, echo=FALSE}
+esr.clusters %>%
+  group_by(cluster)%>%
+  tally()
+```
+
+How many ESR genes are present after each filtering step?  
+after 90% observation:  
+```{r, echo=FALSE}
+length(gasch.present90[gasch.present90 %in% esr.list$UID])
+```
+
+after taking the 1000 most variable genes:    
+```{r, echo=FALSE}
+length(gasch.1000var$gene[gasch.1000var$gene %in% esr.list$UID])
+```
+
+visualize the Gasch ESR subset relative to the raw data, and the subset of data we filtered.
+```{r, fig.height=5, fig.width=7, echo=FALSE, warning=FALSE}
+a <- ggplot(combined.g, aes(x=na.count, y=var, color=factor(gene %in% esr.list$UID))) +
+  geom_point() +
+  labs(title = "S. cerevisae", x = "NAs per gene", y = "log10(variance)", color = "In the ESR") +
+  scale_y_log10() + scale_color_viridis(begin = 0.1, end = 0.9, discrete = T, option = "C") + theme_classic()
+
+b <-  ggplot(combined.g, aes(x=na.count, y=var, color=factor(gene %in% gasch.1000var$gene))) +
+  geom_point() +
+  labs(title = "Filtered S. cerevisae", x = "NAs per gene", y = "log10(variance)", color = "cleaned data") +
+  scale_y_log10() + scale_color_viridis(begin = 0.1, end = 0.9, discrete = T, option = "C") + theme_classic() +
+  theme(legend.position = "none")
+
+c <- ggplot(combined.hbt, aes(x=na.count, y=var, color=factor(gene %in% hbt.1000var$gene))) +
+  geom_jitter(width = 0.1, height = 0) +
+  labs(title = " Filtered Hbt. salinarum", x = "NAs per gene", y = "log10(variance)", color = "cleaned data") +
+  scale_y_log10() + scale_color_viridis(begin = 0.1, end = 0.9, discrete = T, option = "C") + theme_classic()
+
+plot_grid(b,c, labels = c("B", "C"), rel_widths = c(0.75, 1)) -> panelb
+plot_grid(a, panelb, labels = c("A", NA), ncol = 1) -> clean.graph
+plot(clean.graph)
+```
+
+Figure shows in yellow the genes that were identified as ESR in Gasch et al. (A), or genes that passed our filtering requirements and were considered for the analysis discussed in this review. 
+
+####Export cleaned data for enrichment and clustering:
+```{r, results="hide"}
+write_csv(esr.clusters, "../output/clustered_genelists/esrclusters.csv") 
+
+write_csv(hbt, "../output/cleaned_data/hbt_total.csv")
+write_csv(clean.hbt, "../output/cleaned_data/hbt_present90percent.csv")
+write_csv(hbt.1000var, "../output/cleaned_data/hbt_1000_var.csv")
+
+write_csv(gasch.complete, "../output/cleaned_data/gasch_total.csv")
+write_csv(clean.gasch, "../output/cleaned_data/gasch_present90percent.csv")
+write_csv(gasch.1000var, "../output/cleaned_data/gasch_1000_var.csv")
+
+#write_csv(clean.gasch1, "../output/cleaned_data/gasch_fig1_present90percent.csv")
+#write_csv(gasch1.1000var, "../output/cleaned_data/gasch_fig1_1000_var.csv")
+```
+
+```{r, results="hide", warning=FALSE}
+tiff("../output/figures/supplemental_fig1.tiff", height = 800, width = 800)
+plot(clean.graph)
+dev.off()
+```

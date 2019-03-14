@@ -1,0 +1,304 @@
+---
+title: "Figure 2: COG function enrichments"
+output:
+  html_document:
+    df_print: paged
+---
+This notebook contains the analysis to generate figure 2 of the review. In order to perform functional enrichment, we need the distribution of functions in the whole genome. We generated this by using complete Ref Seq protein sequences for each organisms and mapping those sequences to orthologous groups (and functions) using eggnog mapper 4.5. 
+
+##Set up
+```{r, warning=FALSE, message=FALSE}
+library(plyr);library(tidyverse); library(eulerr); library(forcats); library(viridis); library(cowplot)
+source("00_custom_functions.R")
+```
+
+Load files:
+```{r, message=FALSE}
+#whole genomes nog files:
+hbt.wg <- read_csv("../data/20181113_hbt_GCF_000006805.1_ASM680v1_eggnog.csv")
+sc.wg <- read_csv("../data/20181113_scer_GCF_000146045.2_R64_eggnog.csv")
+colnames(hbt.wg)[1] <- "acc"
+colnames(sc.wg)[1] <- "acc"
+
+#key files to convert from Wp/Np (protein acc) to locus names:
+hbt.key <- read_csv("../data/20181113_hbt_GCF_000006805.1_ASM680v1_locusnames.csv")
+hbt.key <- hbt.key[!is.na(hbt.key$old_locus_tag),]
+sc.key <- read_csv("../data/20181113_scer_GCF_000146045.2_R64_locusnames.csv")
+
+#cog descriptions:
+cog.cats <- read_csv("../data/COG-descriptions.csv")
+
+#whole genomes clusters:
+scer.clust <- read_csv("../output/clustered_genelists/yeast2clusters.csv")
+colnames(scer.clust)[1] <- "locus_tag"
+hbt.clust <- read_csv("../output/clustered_genelists/hbt2clusters.csv")
+colnames(hbt.clust)[1] <- "old_locus_tag"
+
+#ESR clusters for comparison:
+ESR.clust <- read_csv("../output/clustered_genelists/esrclusters.csv")
+
+#manually curated NOG files
+#Some genes weren't in the eggnog file. I manually searched eggNOG mapper and curated the NOG functional classification for those missing genes. 
+sc.man <- read_csv("../output/clustered_genelists/sc_clust_missing_COG_curated.csv")
+hbt.man <- read_csv("../output/clustered_genelists/hbt_clust_missing_COG_curated.csv")
+
+left_join(hbt.key[c(1,3,8)], hbt.wg, by = "acc") -> hbt.wg
+```
+
+###Manually correct some annotations:
+If both the eggNOG mapper and single letter functional code are unassigned, assign to "S" or unknown function.  
+```{r, collapse=TRUE}
+hbt.wg$COG_category[which(!is.na(hbt.wg$NOGs) & is.na(hbt.wg$COG_category))] <- "S"
+```
+
+If no orthologous group could be assigned, and the protein is annotated as hypothetical, manually assign functional category "S", and text description "Function unknown".   
+```{r, collapse=T}
+hbt.wg$COG_category[which((hbt.wg$annotation == "hypothetical protein") & !is.na(hbt.wg$NOGs) & is.na(hbt.wg$COG_category))] <- "S"
+
+hbt.wg$HMM_description[which((hbt.wg$annotation == "hypothetical protein") & !is.na(hbt.wg$NOGs) & is.na(hbt.wg$COG_category))] <- "Function unknown" 
+```
+
+Some annotations were assigned a single letter functional COG code through eggNOG, but the text description did not reflect that.   
+```{r, collapse=T}
+hbt.wg$COG_category[which(hbt.wg$NOGs == "0YGV9@NOG")] <- "L" #as returned by egNOG 
+
+hbt.wg$COG_category[which(hbt.wg$NOGs == "12548@NOG" 
+                       | hbt.wg$NOGs == "111DM@NOG" 
+                       | hbt.wg$NOGs == "0YM3N@NOG" 
+                       | hbt.wg$NOGs == "0Z4Q9@NOG" 
+                       | hbt.wg$NOGs == "0ZFJ2@NOG")] <- "K"
+```
+
+Finally, annotations were cross-check with the Hbt. salinarum NRC1 reference genome hosted by the Baliga Lab. Any proteins with assigned function were undated accordingly.
+```{r, collapse=T}
+hbt.wg$COG_category[which(hbt.wg$old_locus_tag == "VNG6287H")] <- "K"
+  hbt.wg$HMM_description[which(hbt.wg$old_locus_tag == "VNG6287H")] <- "Transcriptional regulator, arsr family"
+
+hbt.wg$COG_category[which(hbt.wg$old_locus_tag == "VNG6142C")] <- "L"
+  hbt.wg$HMM_description[which(hbt.wg$old_locus_tag == "VNG6142C")] <- "conserved halobacteria DNA primase"
+
+hbt.wg$COG_category[which(hbt.wg$annotation== "ISNCY family transposase ISH7A")] <- "L"
+  hbt.wg$HMM_description[which(hbt.wg$annotation == "ISNCY family transposase ISH7A")] <- "transposase"
+```
+
+###Subset genome dataframes by cluster
+Add locus tag columns to getNOG files and subset NOG files according to genes in cluster files:
+```{r, collapse=T}
+sc.wg <- left_join(sc.wg, sc.key[1:2], by = "acc")
+sc <- right_join(sc.wg, scer.clust, by = "locus_tag")
+hbt <- right_join(hbt.wg, hbt.clust, by = "old_locus_tag")
+```
+
+Merge with the manually curated cog cats:
+```{r, collapse=T}
+hbt.cog <-  left_join(hbt, hbt.man, by = c("COG_category", "HMM_description", "old_locus_tag", "cluster"))
+sc.cog <- left_join(sc, sc.man, by = c("COG_category", "HMM_description", "locus_tag", "cluster"))
+```
+
+Check that all loci in the clusters are represented in the final dfs:
+```{r}
+length(intersect(hbt.cog$old_locus_tag, hbt.clust$old_locus_tag))
+length(intersect(sc.cog$locus_tag, scer.clust$locus_tag))
+```
+
+##create distribution of COGs in each genome
+Conduct on the domain annotation level.
+```{r, warning=F, message=F, results="hide"}
+full_join(plyr::count(sc.wg$COG_category) %>%
+    all.domains(., missingasS = T) %>%
+    freq.as.percent(., "sc.percent"), 
+  plyr::count(hbt.wg$COG_category) %>%
+    all.domains(., missingasS = T) %>%
+    freq.as.percent(., "hbt.percent"), by = "cogs") -> NOG.domain.freq
+left_join(NOG.domain.freq, cog.cats, by = "cogs") -> NOG.domain.freq
+```
+Check that we have complete coverage of the genome:  
+```{r, echo=F}
+select_if(NOG.domain.freq, is.numeric) %>% colSums(., na.rm = T)
+```
+```{r, include=F}
+#create factors and order dataframe as needed
+NOG.domain.long <-gather(NOG.domain.freq, key = species, value = percent, -cogs, -Description)
+NOG.domain.long$Description <- factor(NOG.domain.long$Description, levels = NOG.domain.freq$Description)
+NOG.domain.long$cogs <- factor(NOG.domain.long$cogs, levels = NOG.domain.freq$cogs)
+NOG.domain.long$species <- factor(NOG.domain.long$species, levels = c("sc.percent", "hbt.percent"))
+NOG.domain.long$cogs <- ordered(NOG.domain.long$cogs, levels = sort(levels(NOG.domain.long$cogs), decreasing = T))
+```
+
+####functional annotation across each species' genome:
+```{r, echo=FALSE, warning=F, message=F}
+ggplot(NOG.domain.long, aes(x=Description, y=percent, group = species, fill = species)) +
+  geom_bar(aes(group = species), stat="identity", position=position_dodge()) +
+  labs(y = "% annotated domains", x = NULL, title = "Domain Functions Across Species") +
+  scale_fill_viridis(option = "C", begin = 0.25, end = 0.75, discrete = T)+
+  coord_flip() + theme_classic() +
+  theme(legend.position="bottom", legend.title = element_blank(), legend.spacing.x = unit(0.2, 'cm'))
+```
+
+####whole genome functional annotation, stacked bar graph:
+```{r, echo=FALSE, warning=F, message=F}
+filter(NOG.domain.long, species == "hbt.percent") %>%
+ggplot(., aes(x = species, y = percent, fill = cogs, label = cogs)) +
+  geom_col(color = "white") +
+  scale_fill_viridis(option = "C", begin = 0.15, discrete = T) +
+  labs(x = NULL, y = NULL) + coord_flip() +
+  scale_x_discrete(breaks="hbt.percent", labels="Hbt. salinarum") +
+  scale_y_continuous(breaks = c(0, 5.49542/2, 6.078268, 9.825146, 14.3214, 16.75687,20.12906, 23.58451, 
+                                27.87261, 35.09575, 43.13072,48.33472, 50.54122, 53.24729, 57.80599, 
+                                61.7194, 78.99667, 96.39883, 99.12573),
+                     labels = c("B", "C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","S", "T", "V"))+
+  theme_classic() +
+  theme(axis.text.y = element_text(face = "bold.italic", size = 14, hjust = 0.5), 
+        axis.text.x  = element_text(face = "bold", size = 11), legend.position="none",
+        axis.ticks.y = element_blank(), axis.ticks.x = element_blank(),
+        axis.line = element_blank()) -> hbt.gn
+
+filter(NOG.domain.long, species == "sc.percent") %>%
+ggplot(., aes(x = species, y = percent, fill = cogs, label = cogs))+
+  geom_col(color = "white") +
+  scale_fill_viridis(option = "C", begin = 0.15, discrete = T)+
+  labs(x = NULL, y = NULL)+
+  coord_flip()+
+  #geom_text(size = 4, position = position_stack(vjust = 0.5))+
+  scale_x_discrete(breaks="sc.percent", labels="S. cerevisiae")+
+  scale_y_continuous(breaks = c(2.324154, 5.700754, 8.805473, 12.44519, 15.82179, 18.34766, 21.54885, 
+                                25.03947, 27.32854, 32.52938, 41.00158, 48.09683, 55.36748, 60.77004, 
+                                62.80477, 73.18891, 85.19558, 92.21189, 98.86862),
+                     labels = c("A","B","C","D","E","F","G","H","I","J","K","L","O","P","Q","S","T","U","Z"))+
+  theme_classic() +
+  theme(axis.text.y = element_text(face = "bold.italic", size = 14, hjust = 0.5), 
+        axis.text.x  = element_text(face = "bold", size = 11), legend.position="none",
+        axis.ticks.y = element_blank(), axis.ticks.x = element_blank(),
+        axis.line = element_blank()) -> sc.gn
+
+plot_grid(sc.gn, hbt.gn, ncol = 1) -> COGs.gn
+plot(COGs.gn)
+```
+
+#####The Hbt. salinarum genome is dominated by proteins of unknown function. 
+"S" accounts for 19.5% of domains in S. cer and	32.3% of domains in Hbt. sal
+
+##Test for Functional Enrichment:
+Test for enrichment of the different clusters, using the hyper geometric test. 
+
+Compare S. cer clusters from this analysis with previously reported ESR genes:
+```{r, include=FALSE}
+sc.cog.1 <-  nogtest(filter(sc.cog, cluster == 1)$locus_tag, sc.wg, "locus_tag", 1, cutoff = 5) %>%
+  mutate(logp = -log(probability), 
+         cluster = rep("repressed", length(COG)))
+sc.cog.2 <-  nogtest(filter(sc.cog, cluster == 2)$locus_tag, sc.wg, "locus_tag", 1, cutoff = 5) %>%
+  mutate(logp = -log(probability), 
+         cluster = rep("induced", length(COG)))
+sc.cog.results <- bind_rows(sc.cog.1, sc.cog.2)
+```
+
+```{r, echo=FALSE}
+filter(sc.cog.results, probability <= 0.05) %>%
+ggplot(., aes(x=reorder(COG, desc(COG)), y=logp, fill = cluster)) +
+  geom_bar(stat="identity", position=position_dodge()) +
+  labs(y = "-log(pvalue)", x = NULL, title = "S. cerevisiae") +
+  scale_fill_viridis(option = "C", begin = 0.1, end = 0.9, discrete = T, direction = -1)+
+  scale_x_discrete(limits=c("C", "G", "E", "A", "F", "J"), 
+                   labels = c("Energy production\nand conversion", "Carbohydrate transport\nand metabolism", "Amino acid transport\nand metabolism", "RNA processing\nand modification", "Nucleotide transport\nand metabolism", "Translation, ribosome structure\nand biogenesis"))+
+  coord_flip() + theme_classic() +
+  theme(text = element_text(family = "sans"), legend.position="none",
+        plot.title = element_text(face = "bold.italic", size = 14, hjust = 0.5), 
+        axis.text.y = element_text(face = "bold", size = 10), 
+        axis.line.y = element_blank(), axis.line.x = element_line(size = 1), 
+        axis.text.x = element_text( size = 10), axis.ticks = element_blank(),
+        axis.title.x = element_text(size = 10), legend.box.spacing = unit(0.05, "cm")) -> sc.cogs
+```
+
+```{r, echo=F, fig.height= 4, fig.width= 10}
+resr.cog <-  nogtest(filter(ESR.clust, cluster == 1)$gene, sc.wg, "locus_tag", 0.05, cutoff = 5) %>%
+  mutate(logp = -log(probability), 
+         cluster = rep("repressed", length(COG)))
+iesr.cog <-  nogtest(filter(ESR.clust, cluster == 2)$gene, sc.wg, "locus_tag", 0.05, cutoff = 5) %>%
+  mutate(logp = -log(probability), 
+         cluster = rep("induced", length(COG)))
+esr.cog.results <- bind_rows(resr.cog, iesr.cog)
+
+filter(esr.cog.results, probability <= 0.05) %>%
+ggplot(., aes(x=reorder(COG, desc(COG)), y=logp, fill = cluster)) +
+  geom_bar(stat="identity", position=position_dodge()) +
+  labs(y = "-log(pvalue)", x = NULL, title = "S. cerevisiae ESR") +
+  scale_fill_viridis(option = "C", begin = 0.1, end = 0.9, discrete = T, direction = -1)+
+  scale_x_discrete(limits=c("S", "C", "O", "G", "A", "F", "J"), 
+                   labels = c("Unknown unction", "Energy production\nand conversion", "Post-translational mod\nand chaperons", "Carbohydrate transport\nand metabolism", "RNA processing\nand modification", "Nucleotide transport\nand metabolism", "Translation, ribosome structure\nand biogenesis")) +
+  coord_flip() + theme_classic() +
+  theme(text = element_text(family = "sans"), legend.position="none",
+        plot.title = element_text(face = "bold.italic", size = 14, hjust = 0.5), 
+        axis.text.y = element_text(face = "bold", size = 10), 
+        axis.line.y = element_blank(), axis.line.x = element_line(size = 1), 
+        axis.text.x = element_text( size = 10), axis.ticks = element_blank(),
+        axis.title.x = element_text(size = 10), legend.box.spacing = unit(0.05, "cm")) -> esr.cogs
+
+plot_grid(sc.cogs, esr.cogs, nrow = 1)
+```
+The same COG functional categories are repressed between the to S. cer analyses. Amino acid transport and metabolism is not identified in the original ESR set, and significantly enriched in both clusters according to our analysis. Therefore, it is likely that amino acid transport and metabolism varies predominately by condition (and perhaps have different, more specific GO annotations). Export list of genes in involved in amino.acid transport and metabolism for GO analysis:  
+```{r, results="hide"}
+sc.amino <- na.omit(sc.cog[sc.cog$COG_category == "E",])
+write_csv(sc.amino, "../output/sc_E_for_GO.csv")
+```
+
+Functional enrichment in Halobacterium clusters:
+```{r, include=FALSE}
+hbt.cog.1 <-  nogtest(filter(hbt.cog, cluster == 1)$old_locus_tag, hbt.wg, "old_locus_tag", 1, cutoff = 5) %>%
+  mutate(logp = -log(probability), 
+         cluster = rep("repressed", length(COG)))
+hbt.cog.2 <-  nogtest(filter(hbt.cog, cluster == 2)$old_locus_tag, hbt.wg, "old_locus_tag", 1, cutoff = 5) %>%
+  mutate(logp = -log(probability), 
+         cluster = rep("induced", length(COG)))
+hbt.cog.results <- bind_rows(hbt.cog.1, hbt.cog.2)
+```
+
+```{r, echo=F}
+filter(hbt.cog.results, probability <= 0.05) %>%
+ggplot(., aes(x=reorder(COG, desc(COG)), y=logp, fill = cluster)) +
+  geom_bar(stat="identity", position=position_dodge()) +
+  labs(y = "-log(pvalue)", x = NULL, title = "Hbt. salinarum") +
+  scale_fill_viridis(option = "C", begin = 0.1, end = 0.9, discrete = T, direction = -1)+
+  scale_x_discrete(limits=c("T", "N", "I", "E", "C","J"), 
+                   labels = c("Signal transduction", "Cell motility", "Lipid transport\nand metabolism", "Amino acid transport\nand metabolism", "Energy production\nand conversion", "Translation, ribosome structure\nand biogenesis"))+
+  coord_flip() + theme_classic() +
+  theme(text = element_text(family = "sans"), legend.position="bottom",legend.title = element_blank(),
+        legend.spacing.x = unit(0.2, 'cm'),legend.text = element_text(face = "bold", size = 8),
+        plot.title = element_text(face = "bold.italic", size = 14, hjust = 0.5), 
+        axis.text.y = element_text(face = "bold", size = 10), 
+        axis.line.y = element_blank(), axis.line.x = element_line(size = 1), 
+        axis.text.x = element_text( size = 10), axis.ticks = element_blank(),
+        axis.title.x = element_text(size = 10), legend.box.spacing = unit(0.05, "cm")) ->hbt.cogs
+
+legends <- get_legend(hbt.cogs)
+hbt.cogs <- hbt.cogs + theme(legend.position = "none")
+plot(hbt.cogs)
+```
+We see some similarities in the functions of repressed genes. Also export genes in the repressed cluster involved in amino acid transport and metabolism for GO analysis.
+```{r, results="hide"}
+hbt.amino <- na.omit(hbt.cog[hbt.cog$COG_category == "E",]) %>% .[.$cluster == 2,]
+write_csv(hbt.amino, "../output/hbt_E_for_GO.csv")
+```
+
+#complie figure and export
+```{r, fig.width=6, fig.height=8}
+plot_grid(sc.cogs, hbt.cogs, plot_grid(NULL, legends, nrow = 1, rel_widths = c(0.5,1)), 
+          ncol = 1, rel_heights = c(1,1,0.1)) -> sig.COGs
+plot(sig.COGs)
+```
+
+```{r, results="hide", message=F}
+#save plot
+tiff("../output/figures/Figure2.tif", units="in", width=6, height=8, res=300)
+plot(sig.COGs)
+dev.off()
+
+pdf("../output/figures/Figure2.pdf")
+plot(sig.COGs)
+dev.off()
+
+#save legend
+tiff("../output/figures/cluster_legend.tif", units="in", width=5, height=1, res=300)
+plot(legends)
+dev.off()
+```
+

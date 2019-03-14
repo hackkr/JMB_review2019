@@ -1,0 +1,230 @@
+---
+title: "01_cluster_genes_expression"
+output:
+  html_document:
+    df_print: paged
+---
+This notebook clusters expression data sets into two clusters and exports gene lists of those clusters. It also produces the panels in Figure 1 or the review. 
+```{r, message=FALSE, warning=FALSE, collapse=TRUE}
+library(tidyverse); library(dplyr); library(dendextend)
+library(viridis); library(gplots); library(scales)
+
+source("00_custom_functions.R")
+
+#load files:
+yeast00 <- read_csv("../output/cleaned_data/gasch_1000_var.csv")
+hbt07 <- read_csv("../output/cleaned_data/hbt_1000_var.csv")
+
+dim(yeast00);dim(hbt07)
+```
+
+Transform data:  
+```{r, collapse=TRUE}
+t.yeast00 <- data.t(yeast00, yeast00$gene, scaled = "gene")
+colnames(t.yeast00) <-  colnames(t.yeast00) %>% str_replace_all(., "\\.", "-")
+t.hbt07 <- data.t(hbt07, hbt07$gene, scaled = "gene")
+```
+
+##Gene-by-gene correlations
+create correlation and distance matrices
+```{r, collapse=TRUE}
+set.seed(123)
+yeast.cor <- select(t.yeast00, -cond) %>% cor(use = "pairwise.complete.obs")
+yeast.dist <- as.dist(1-yeast.cor)
+
+hbt.cor <- select(t.hbt07, -cond) %>% cor(use = "pairwise.complete.obs")
+hbt.dist <- as.dist(1-hbt.cor)
+```
+
+make dendrograms
+```{r, collapse=TRUE}
+yeast.dend <- as.dendrogram(hclust(yeast.dist, method = "complete"))
+hbt.dend <- as.dendrogram(hclust(hbt.dist, method = "complete"))
+```
+
+###Plot correlation matrices. 
+####S.cer gene-by-gene correlation:  
+```{r, fig.height=7, fig.width=7, include=TRUE, results="hide"}
+tmp <- color_branches(yeast.dend, k=2, col = plasma(2, begin = 0.1, end = 0.9)) 
+
+heatmap.2(yeast.cor, Rowv = ladderize(tmp), Colv = ladderize(tmp),
+          dendrogram = "row", 
+          col = plasma(15, begin = 0.1, end = 0.9), 
+          trace = "none", density.info = "none",
+          labRow = FALSE, labCol = FALSE,
+          key.title = NA,
+          key.xlab = "expression correlation")
+```
+
+####Halobacterium gene-by-gene correlation:  
+```{r, fig.height=7, fig.width=7, include=TRUE, results="hide"}
+tmp <- color_branches(hbt.dend, k=2, col = plasma(2, begin = 0.1, end = 0.9)) 
+
+heatmap.2(hbt.cor, Rowv = ladderize(tmp), Colv = ladderize(tmp),
+          dendrogram = "row", 
+          col = plasma(15, begin = 0.1, end = 0.9), 
+          trace = "none", density.info = "none",
+          labRow = FALSE, labCol = FALSE,
+          key.title = NA,
+          key.xlab = "expression correlation")
+```
+
+###Split the correlated genes into two clusters  
+get gene lists of the 2 clusters for each data set and export for NOG analysis.  
+```{r, collapse=TRUE}
+clusters.yeast <- cutree(yeast.dend, k=2) %>% 
+  data.frame(gene = names(.), cluster = ., row.names = NULL, stringsAsFactors = F)
+clusters.hbt2 <- cutree(hbt.dend, k=2) %>% 
+  data.frame(gene = names(.), cluster = ., row.names = NULL, stringsAsFactors = F)
+```
+(splitting halobacterium into 3 clusters splits cluster 1 into 2 clusters)
+
+wide to long format for later analysis:  
+```{r, collapse=TRUE}
+yeast.long <- gather(t.yeast00, gene, expression, -cond)
+hbt.long <- gather(t.hbt07, gene, expression, -cond)
+
+#set 0 to NA
+yeast.long[yeast.long == 0] <- NA
+hbt.long[hbt.long == 0] <- NA
+```
+
+##Average Expression across conditons
+This is where the scaling becomes important/apparent. Selected scaling by genes, as it scaled the range of expression, to facilitate comparison between S. cer and Hbt. sal, but did not affect apparent dynamics or between gene comparisons. This is illustrated in the scaling vignette on the github repository. Scaling dose not effect clustering, though it affects the correlation of the two Hbt. sal clusters slightly (-0.78 to -0.76). 
+
+####Calculate average expression for each gene  
+use cluster information to filter expression data. Mean of all gene expression across conditions:  
+```{r, collapse=TRUE}
+ex.yeast <- full_join(clusters.yeast, yeast.long, by = "gene")
+ex.yeast[is.na(ex.yeast)] <- 0
+
+#get mean expression by conditon for clusters and overall
+ex.yeast %>%
+  group_by(cluster, cond) %>%
+  summarise(rep = length(expression), avg_expression = mean(expression),
+            CI95 = conf_int95(expression)) -> y.avg.ex
+
+#order by condition clusters
+y.cond.cor <- select(yeast00, -gene) %>% cor(use = "pairwise.complete.obs")
+order.dendrogram(make.dend(y.cond.cor))->idx
+labels(make.dend(y.cond.cor))->tmp
+y.cond<-tmp[order(idx)]
+
+ex.hbt <- full_join(clusters.hbt2, hbt.long, by = "gene")
+ex.hbt[is.na(ex.hbt)] <- 0
+
+#get mean expression by conditon for clusters and overall
+ex.hbt %>%
+  group_by(cluster, cond) %>%
+  summarise(rep = length(expression), avg_expression = mean(expression),
+            CI95 = conf_int95(expression)) -> hbt.avg.ex
+
+#make ratio of avg expression
+#hbt.cluster1$ratio <- hbt.cluster1$avg_expression / hbt.all$avg_expression
+#hbt.cluster2$ratio <- hbt.cluster2$avg_expression / hbt.all$avg_expression
+
+#order by condition clusters
+hbt.cond.cor <- select(hbt07, -gene) %>% cor(use = "pairwise.complete.obs")
+order.dendrogram(make.dend(hbt.cond.cor))->idx
+labels(make.dend(hbt.cond.cor))->tmp
+hbt.cond<-tmp[order(desc(idx))]
+```
+
+Yeast entire data set:  
+```{r, collapse=TRUE, message=FALSE, echo=FALSE, fig.width=7}
+hbt.avg.ex[hbt.avg.ex$cond %in% str_subset(hbt.avg.ex$cond, "H2O2.*Rec"),]$cond -> h2o2
+condition <- "H2O2.*Rec"
+
+ggplot(y.avg.ex, aes(x = cond, y = avg_expression, group = cluster, color = cluster)) +
+  geom_line(show.legend = F) +
+  geom_ribbon(aes(
+      ymin = avg_expression - CI95,
+      ymax = avg_expression + CI95,
+      fill = cluster), color = NA, alpha = 0.3) +
+  scale_color_viridis(option = "C", begin = 0.1, end = 0.9) + 
+  scale_fill_viridis(option = "C", begin = 0.1, end = 0.9) +
+  ylim(-3,3) + scale_x_discrete(limits = y.cond) +
+  xlab('condition') + ylab('Average expression ratio') + theme_classic() +
+  theme(axis.text.x = element_blank(), axis.ticks.x = element_blank())
+ggsave("../output/figures/scer_avgexp.tif", device = "tiff", dpi = 600)
+```
+
+Halobacterium entire data set:  
+```{r, collapse=TRUE, message=FALSE, echo=FALSE, fig.width=7}
+ggplot(hbt.avg.ex, aes(x = cond, y = avg_expression, group = cluster, color = cluster)) +
+  geom_line(show.legend = F) +
+  geom_ribbon(aes(
+      ymin = avg_expression - CI95,
+      ymax = avg_expression + CI95, fill = cluster), color = NA, alpha = 0.3) +
+  geom_segment(aes(x = 789, xend = 840, y=-1.2, yend =-1.2), color = "grey25", size = 1.5) + #got window using the sort() and which() functions
+  ylim(-3, 3) +
+  scale_color_viridis(option = "C", begin = 0.1, end = 0.9) + 
+  scale_fill_viridis(option = "C", begin = 0.1, end = 0.9) +
+  xlab('condition') + ylab('Average expression ratio') + theme_classic() +
+  theme(axis.text.x = element_blank(), axis.ticks.x = element_blank())
+ggsave("../output/figures/hbt_avgexp.tif", device = "tiff", dpi = 600)
+```
+
+Halobacterium expression during treatment with hydrogen peroxide:  
+```{r, collapse=TRUE, message=FALSE, echo=FALSE, fig.width=7}
+hbt.avg.ex[hbt.avg.ex$cond %in% str_subset(hbt.avg.ex$cond, condition),] %>%
+  ggplot(aes(x = cond, y = avg_expression, group = cluster, color = cluster)) +
+    geom_line(show.legend = F) +
+    geom_ribbon(aes(
+        ymin = avg_expression - CI95,
+        ymax = avg_expression + CI95,
+        fill = cluster), color = NA, alpha = 0.3) +
+    scale_color_viridis(option = "C", begin = 0.1, end = 0.9) + 
+    scale_fill_viridis(option = "C", begin = 0.1, end = 0.9) +
+    ylim(-1.2,2.7) + xlab("[Hydrogen peroxide]") + ylab('Average expression ratio') +
+  scale_x_discrete(breaks = c("H2O2_Recov._set_1_0mM_030min_vs_NRC-1d.sig", "H2O2_Recov._set_1_50mM_030min_vs_NRC-1d.sig", "H2O2_Recov._set_2_0mM_040min_vs_NRC-1f.sig", "H2O2_Recov._set_2_25mM_040min_vs_NRC-1f.sig", "H2O2_Recov._set_3_0mM_040min_vs_NRC-1f.sig", "H2O2_Recov._set_3_25mM_040min_vs_NRC-1f.sig"), labels = c("low", "high", "low", "high", "low", "high")) + theme_classic() 
+ggsave("../output/figures/hbt_H2O2.tif", device = "tiff", dpi = 600)
+```
+
+##How correlated ARE the two clusters?
+calculate spearman's rho correlation efficient for the gene clusters:  
+```{r, collapse=TRUE, echo=FALSE}
+cor.test(filter(y.avg.ex, cluster == 1)$avg_expression, filter(y.avg.ex, cluster == 2)$avg_expression, method = "spearman")
+
+cor.test(filter(hbt.avg.ex, cluster == 1)$avg_expression, filter(hbt.avg.ex, cluster == 2)$avg_expression, method = "spearman")
+```
+get the same result using rcorr function:  
+```{r}
+#library(Hmisc)
+#tmp <- cbind(filter(y.avg.ex, cluster == 1)$avg_expression, filter(y.avg.ex, cluster == 2)$avg_expression)
+#rcorr(tmp, type = "spearman")
+#tmp <- cbind(filter(hbt.avg.ex, cluster == 1)$avg_expression, filter(hbt.avg.ex, cluster == 2)$avg_expression)
+#rcorr(tmp, type = "spearman")
+```
+
+##Which cluster is induced or repressed?
+```{r, collapse=TRUE}
+#Hbt sal
+hbt.avg.ex %>%
+  group_by(cluster) %>%
+  summarise(avg = mean(avg_expression), reps = mean(rep))
+
+#S. cer
+y.avg.ex %>%
+  group_by(cluster) %>%
+  summarise(avg = mean(avg_expression), reps = mean(rep))
+```
+In both cases, cluster 2 likely contains the ESR specific genes (Those that are up regulated during stress). The colors for line plots of avg expression are consistent with heat maps. Yellow = cluster 2, and purple = cluster 1.  
+
+##Export files
+Write out cluster gene lists
+```{r}
+write_csv(clusters.yeast, "../output/clustered_genelists/yeast2clusters.csv")
+write_csv(clusters.hbt2, "../output/clustered_genelists/hbt2clusters.csv")
+```
+
+plot heat maps!
+```{r, results="hide"}
+png("../output/figures/scer.1000.2clust.png", height = 1000, width = 1000)
+heat.plus.dend(yeast.cor, yeast.dend)
+dev.off()
+
+png("../output/figures/hbt..2clust.png", height = 1000, width = 1000)
+heat.plus.dend(hbt.cor, hbt.dend)
+dev.off()
+```
