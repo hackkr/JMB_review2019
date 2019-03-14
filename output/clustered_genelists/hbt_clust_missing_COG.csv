@@ -1,0 +1,190 @@
+old_locus_tag,cluster,COG_category,HMM_description
+VNG1387H,2,,no othrolog
+VNG1406G,2,L,type iii restriction protein res subunit
+VNG1459H,2,S,function unknown
+VNG1468H,2,,no ortholog
+VNG1486H,1,S,function unknown
+VNG1494G,1,J,Binds to the 23S rRNA (By similarity)
+VNG1519H,2,S,function unknown
+VNG1535G,2,,no ortholog
+VNG1561C,1,C,Ferredoxin
+VNG1585C,1,S,function unknown
+VNG1590H,2,L,transposase
+VNG1591H,1,S,function unknown
+VNG1598H,2,S,function unknown
+VNG1642H,1,S,function unknown
+VNG1674H,2,S,function unknown
+VNG1678H,2,S,no ortholog
+VNG1781C,2,I,polyprenol biosynthetic process
+VNG1796H,2,,no ortholog
+VNG1832H,2,,no ortholog
+VNG1890H,2,,no ortholog
+VNG1902H,2,S,function unknown
+VNG1904H,2,,no othrolog
+VNG1956H,2,,no ortholog
+VNG1963H,2,,no othrolog
+VNG1977H,2,K,transcriptional regulator
+VNG2024H,2,,no othrolog
+VNG2028H,2,S,function unknown
+VNG2034H,2,,no othrolog
+VNG2049C,1,S,function unknown
+VNG2159G,2,M,mannose-1-phosphate guanylyltransferase activity
+VNG2174H,2,,no othrolog
+VNG2177H,1,,no ortholog
+VNG2193G,2,C,Cytochrome C oxidase subunit I
+VNG2197H,1,,no ortholog
+VNG2202H,2,S,function unknown
+VNG2236H,2,,no ortholog
+VNG2246H,2,,no ortholog
+VNG2298H,2,S,function unknown
+VNG2335H,2,S,function unknown
+VNG2363G,2,"E,P","Amino acid transport and metabolism, Inorganic ion transport and metabolism"
+VNG2385H,2,,no ortholog
+VNG2387H,2,,no ortholog
+VNG2433H,2,,no ortholog
+VNG2439H,2,,no ortholog
+VNG2466C,2,,no ortholog
+VNG2477H,2,S,function unknown
+VNG2480H,2,P,phosphate uptake regulator PhoU
+VNG2511H,2,S,function unknown
+VNG2515H,1,S,function unknown
+VNG2544H,2,,no ortholog
+VNG2604G,2,G,Thiamine thiazole synthase
+VNG2619H,2,S,function unknown
+VNG2654G,1,J,Elongation factor 2
+VNG2664G,1,K,DNA-dependent RNA polymerase
+VNG5008H,1,L,ISNCY family transposase ISH7A
+VNG5009H,1,K,transcriptional regulator
+VNG5010G,1,D,"Cell cycle control, cell division, chromosome partitioning; COG1192"
+VNG5012H,1,,no ortholog
+VNG5017H,2,,no ortholog
+VNG5020G,1,S,gas vesicle
+VNG5022G,1,S,gas vesicle
+VNG5025G,1,S,gas vesicle
+VNG5027G,1,S,gas vesicle
+VNG5028G,2,K,transcriptional regulator; COG1695
+VNG5029G,2,S,gas vesicle
+VNG5030G,2,S,gas vesicle
+VNG5032G,2,S,gas vesicle
+VNG5033G,2,S,function unknown
+VNG5034G,2,S,gas vesicle
+VNG5035G,2,D,"Cell cycle control, cell division, chromosome partitioning; COG1192"
+VNG5038H,2,,no ortholog
+VNG5041H,2,,no ortholog
+VNG5042H,1,L,transposase
+VNG5044H,1,L,transposase
+VNG5047H,2,,no ortholog
+VNG5049H,1,,no ortholog
+VNG5050H,1,K,PadR/MarR transcriptional regulator
+VNG5055G,2,C,cytochrome d oxidase chain I
+VNG5057G,2,C,cytochrome d oxidase chain II: cydB2
+VNG5062C,1,P,MBL fold metallo-hydrolase
+VNG5064H,2,S,no ortholog
+VNG5066G,2,P,inorganic phosphate transport protein
+VNG5069C,2,P,COG0607
+VNG5071C,2,U,COG0477
+VNG5073H,2,,no ortholog
+VNG5074C,2,S,membrane; sulfite exporter TauE/SafE family protein
+VNG5079H,2,L,integrase; COG0582
+VNG5083H,2,,no ortholog
+VNG5097H,2,,no ortholog
+VNG5100C,2,S,function unknown
+VNG5102H,2,,no ortholog
+VNG5104H,2,,no ortholog
+VNG5106H,2,,no ortholog
+VNG5108H,2,,no ortholog
+VNG5112H,2,,no ortholog
+VNG5120H,2,,no ortholog
+VNG5129H,2,,no ortholog
+VNG5135H,2,,no ortholog
+VNG5136G,2,L,repI;
+VNG5139C,1,L,class I SAM-dependent D methyltransferase
+VNG5141G,2,L,hepA; COG0553
+VNG5143C,2,,no ortholog
+VNG5145H,2,U,based on homology to B.sub secA
+VNG5149H,2,I,insertion element; COG3677
+VNG5150H,2,,no ortholog
+VNG5152H,2,,no ortholog
+VNG5153H,2,,no ortholog
+VNG5154H,2,,no ortholog
+VNG5157H,2,,no ortholog
+VNG5160H,2,,no ortholog
+VNG5163G,2,K,tpbD; general transcription factor
+VNG5164C,2,S,COG1896
+VNG5166H,2,,no ortholog
+VNG5167H,2,,no ortholog
+VNG5168H,2,,no ortholog
+VNG5173H,1,,no ortholog
+VNG5175H,2,,no ortholog
+VNG5177C,2,Q,arsM; methyltransferase
+VNG5180G,2,P,arsA2; COG0003
+VNG5183G,2,T,ArsC; protein tyrpsine phosphatase; COG0394
+VNG5185H,2,,no ortholog
+VNG5186H,2,,no ortholog
+VNG5195H,2,,no ortholog
+VNG5197H,2,,no ortholog
+VNG5199H,2,,no ortholog
+VNG6005H,2,,no ortholog
+VNG6052H,2,,no ortholog
+VNG6133H,2,L,transposase
+VNG6142C,2,,no ortholog
+VNG6152H,2,,no ortholog
+VNG6157H,2,,no ortholog
+VNG6158H,2,,no ortholog
+VNG6159H,1,,no ortholog
+VNG6160H,2,,no ortholog
+VNG6170H,2,,no ortholog
+VNG6186H,2,,no ortholog
+VNG6187G,2,L,orc3; COG1474
+VNG6194H,1,,no ortholog
+VNG6195H,2,S,putative RNA binding
+VNG6197H,2,,no ortholog
+VNG6198H,2,,no ortholog
+VNG6203H,2,,no ortholog
+VNG6204H,2,,no ortholog
+VNG6206H,2,,no ortholog
+VNG6222H,2,,no ortholog
+VNG6224H,2,,no ortholog
+VNG6251H,2,S,COG3462
+VNG6266H,2,,no ortholog
+VNG6284H,2,,no ortholog
+VNG6286H,2,,no ortholog
+VNG6290H,2,,no ortholog
+VNG6291H,2,,no ortholog
+VNG6292C,2,L,IS6 family transposase
+VNG6297C,2,S,COG1520; Part of the outer membrane protein assembly complex
+VNG6322H,2,,no ortholog
+VNG6325H,2,,no ortholog
+VNG6329H,2,,no ortholog
+VNG6330H,2,,no ortholog
+VNG6332H,2,,no ortholog
+VNG6334H,2,,no ortholog
+VNG6339H,2,,no ortholog
+VNG6343H,2,,no ortholog
+VNG6344H,2,,no ortholog
+VNG6346H,2,,no ortholog
+VNG6347H,1,,no ortholog
+VNG6348H,2,,no ortholog
+VNG6355H,1,,no ortholog
+VNG6359H,2,,no ortholog
+VNG6364H,2,V,COG1403; HNH endonuclease
+VNG6366H,2,,no ortholog
+VNG6378H,2,,no ortholog
+VNG6384H,2,,no ortholog
+VNG6390H,2,,no ortholog
+VNG6393H,2,,no ortholog
+VNG6404H,2,,no ortholog
+VNG6406H,2,L,COG0675; transposase
+VNG6407H,2,,no ortholog
+VNG6409H,2,,no ortholog
+VNG6411H,2,,no ortholog
+VNG6416H,2,,no ortholog
+VNG6420H,1,,no ortholog
+VNG6424H,2,,no ortholog
+VNG6427H,2,,no ortholog
+VNG6429H,2,,no ortholog
+VNG6430C,2,L,COG3316; transposase
+VNG6431H,2,,no ortholog
+VNG6432H,2,,no ortholog
+VNG6434H,2,,no ortholog
+VNG6439H,2,,no ortholog

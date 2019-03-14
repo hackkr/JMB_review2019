@@ -1,0 +1,237 @@
+old_locus_tag,cluster,COG_category,HMM_description
+VNG1387H,2,,no othrolog
+VNG1459H,2,S,function unknown
+VNG1468H,2,,no ortholog
+VNG1486H,1,S,function unknown
+VNG1494G,1,J,Binds to the 23S rRNA (By similarity)
+VNG1519H,2,S,function unknown
+VNG1535G,2,,no ortholog
+VNG1590H,2,L,transposase
+VNG1591H,1,S,function unknown
+VNG1598H,2,S,function unknown
+VNG1642H,1,S,function unknown
+VNG1674H,2,S,function unknown
+VNG1678H,2,S,no ortholog
+VNG1781C,2,I,polyprenol biosynthetic process
+VNG1796H,2,,no ortholog
+VNG1832H,2,,no ortholog
+VNG1890H,2,,no ortholog
+VNG1902H,2,S,function unknown
+VNG1904H,2,,no othrolog
+VNG1956H,2,,no ortholog
+VNG1963H,2,,no othrolog
+VNG2024H,2,,no othrolog
+VNG2028H,2,S,function unknown
+VNG2034H,2,,no othrolog
+VNG2049C,1,S,function unknown
+VNG2174H,2,,no othrolog
+VNG2177H,1,,no ortholog
+VNG2197H,1,,no ortholog
+VNG2202H,2,S,function unknown
+VNG2236H,2,,no ortholog
+VNG2246H,2,,no ortholog
+VNG2298H,2,S,function unknown
+VNG2335H,2,S,function unknown
+VNG2385H,2,,no ortholog
+VNG2387H,2,,no ortholog
+VNG2433H,2,,no ortholog
+VNG2439H,2,,no ortholog
+VNG2466C,2,,no ortholog
+VNG2477H,2,S,function unknown
+VNG2511H,2,S,function unknown
+VNG2515H,1,S,function unknown
+VNG2544H,2,,no ortholog
+VNG2619H,2,S,function unknown
+VNG5008H,1,L,ISNCY family transposase ISH7A
+VNG5009H,1,K,transcriptional regulator
+VNG5010G,1,D,"Cell cycle control, cell division, chromosome partitioning; COG1192"
+VNG5012H,1,,no ortholog
+VNG5017H,2,,no ortholog
+VNG5020G,1,S,gas vesicle
+VNG5022G,1,S,gas vesicle
+VNG5025G,1,S,gas vesicle
+VNG5027G,1,S,gas vesicle
+VNG5028G,2,K,transcriptional regulator; COG1695
+VNG5029G,2,S,gas vesicle
+VNG5030G,2,S,gas vesicle
+VNG5032G,2,S,gas vesicle
+VNG5033G,2,S,function unknown
+VNG5034G,2,S,gas vesicle
+VNG5035G,2,D,"Cell cycle control, cell division, chromosome partitioning; COG1192"
+VNG5038H,2,,no ortholog
+VNG5041H,2,,no ortholog
+VNG5042H,1,L,transposase
+VNG5044H,1,L,transposase
+VNG5047H,2,,no ortholog
+VNG5049H,1,,no ortholog
+VNG5050H,1,K,PadR/MarR transcriptional regulator
+VNG5055G,2,C,cytochrome d oxidase chain I
+VNG5057G,2,C,cytochrome d oxidase chain II: cydB2
+VNG5062C,1,P,MBL fold metallo-hydrolase
+VNG5064H,2,S,no ortholog
+VNG5066G,2,P,inorganic phosphate transport protein
+VNG5069C,2,P,COG0607
+VNG5071C,2,U,COG0477
+VNG5073H,2,,no ortholog
+VNG5074C,2,S,membrane; sulfite exporter TauE/SafE family protein
+VNG5079H,2,L,integrase; COG0582
+VNG5083H,2,,no ortholog
+VNG5097H,2,,no ortholog
+VNG5100C,2,S,function unknown
+VNG5102H,2,,no ortholog
+VNG5104H,2,,no ortholog
+VNG5106H,2,,no ortholog
+VNG5108H,2,,no ortholog
+VNG5112H,2,,no ortholog
+VNG5120H,2,,no ortholog
+VNG5129H,2,,no ortholog
+VNG5135H,2,,no ortholog
+VNG5136G,2,L,repI;
+VNG5139C,1,L,class I SAM-dependent D methyltransferase
+VNG5141G,2,L,hepA; COG0553
+VNG5143C,2,,no ortholog
+VNG5145H,2,U,based on homology to B.sub secA
+VNG5149H,2,I,insertion element; COG3677
+VNG5150H,2,,no ortholog
+VNG5152H,2,,no ortholog
+VNG5153H,2,,no ortholog
+VNG5154H,2,,no ortholog
+VNG5157H,2,,no ortholog
+VNG5160H,2,,no ortholog
+VNG5163G,2,K,tpbD; general transcription factor
+VNG5164C,2,S,COG1896
+VNG5166H,2,,no ortholog
+VNG5167H,2,,no ortholog
+VNG5168H,2,,no ortholog
+VNG5173H,1,,no ortholog
+VNG5175H,2,,no ortholog
+VNG5177C,2,Q,arsM; methyltransferase
+VNG5180G,2,P,arsA2; COG0003
+VNG5183G,2,T,ArsC; protein tyrpsine phosphatase; COG0394
+VNG5185H,2,,no ortholog
+VNG5186H,2,,no ortholog
+VNG5195H,2,,no ortholog
+VNG5197H,2,,no ortholog
+VNG5199H,2,,no ortholog
+VNG6005H,2,,no ortholog
+VNG6052H,2,,no ortholog
+VNG6133H,2,L,transposase
+VNG6142C,2,,no ortholog
+VNG6152H,2,,no ortholog
+VNG6157H,2,,no ortholog
+VNG6158H,2,,no ortholog
+VNG6159H,1,,no ortholog
+VNG6160H,2,,no ortholog
+VNG6170H,2,,no ortholog
+VNG6186H,2,,no ortholog
+VNG6194H,1,,no ortholog
+VNG6197H,2,,no ortholog
+VNG6198H,2,,no ortholog
+VNG6203H,2,,no ortholog
+VNG6204H,2,,no ortholog
+VNG6206H,2,,no ortholog
+VNG6222H,2,,no ortholog
+VNG6224H,2,,no ortholog
+VNG6251H,2,S,COG3462
+VNG6266H,2,,no ortholog
+VNG6284H,2,,no ortholog
+VNG6286H,2,,no ortholog
+VNG6290H,2,,no ortholog
+VNG6291H,2,,no ortholog
+VNG6322H,2,,no ortholog
+VNG6325H,2,,no ortholog
+VNG6329H,2,,no ortholog
+VNG6330H,2,,no ortholog
+VNG6332H,2,,no ortholog
+VNG6334H,2,,no ortholog
+VNG6339H,2,,no ortholog
+VNG6343H,2,,no ortholog
+VNG6344H,2,,no ortholog
+VNG6346H,2,,no ortholog
+VNG6347H,1,,no ortholog
+VNG6348H,2,,no ortholog
+VNG6359H,2,,no ortholog
+VNG6366H,2,,no ortholog
+VNG6378H,2,,no ortholog
+VNG6384H,2,,no ortholog
+VNG6390H,2,,no ortholog
+VNG6393H,2,,no ortholog
+VNG6404H,2,,no ortholog
+VNG6406H,2,L,COG0675; transposase
+VNG6407H,2,,no ortholog
+VNG6409H,2,,no ortholog
+VNG6411H,2,,no ortholog
+VNG6416H,2,,no ortholog
+VNG6420H,1,,no ortholog
+VNG6424H,2,,no ortholog
+VNG6427H,2,,no ortholog
+VNG6429H,2,,no ortholog
+VNG6431H,2,,no ortholog
+VNG6432H,2,,no ortholog
+VNG6434H,2,,no ortholog
+VNG0014C,2,E,"COG0065: Catalyzes the isomerization between 2-isopropylmalate and 3-isopropylmalate, via the formation of 2-isopropylmaleate (By similarity)"
+VNG0019H,2,K,putative repressor
+VNG0020H,2,,no ortholog
+VNG0022H,2,,no ortholog
+VNG0023H,2,,no ortholog
+VNG0027H,2,,no ortholog
+VNG0029H,2,,no ortholog
+VNG0032H,2,,no ortholog
+VNG0034H,2,S,function unknown
+VNG0055H,2,,no ortholog
+VNG0076H,2,,no ortholog
+VNG0079H,2,,no ortholog
+VNG0105H,2,,no ortholog
+VNG0112H,1,L,COG3385: transposase
+VNG0116H,2,,no ortholog
+VNG0117H,2,,no ortholog
+VNG0138H,2,S,function unknown
+VNG0139H,2,,no ortholog
+VNG0140H,2,L,COG0582: integrase
+VNG0141H,2,,no ortholog
+VNG0143H,2,,no ortholog
+VNG0148H,2,,no ortholog
+VNG0167H,2,O,COG0526: thioredoxin
+VNG0203C,2,U,type ii secretion system
+VNG0205H,2,,putative DnaK-like protein
+VNG0207H,1,,putative molybdenum cofactor biosynthesis protein
+VNG0208H,1,,no ortholog
+VNG0214C,1,S,function unknown
+VNG0216H,2,,no ortholog
+VNG0261H,2,,no ortholog
+VNG0280H,1,,"no ortholog, overlaps VNG281G (COG0665, E)"
+VNG0287H,1,,"no ortholog, overlaps VNG287A (COG3269, S)"
+VNG0346H,2,,no ortholog
+VNG0347H,2,,no ortholog
+VNG0357H,2,,"no ortholog, overlaps 3bp with VNG0359C (S)"
+VNG0402H,2,S,function unknown
+VNG0430H,2,S,function unknown
+VNG0506H,2,,"no ortholog, overlap 3bp with 505C (COG1253, P)"
+VNG0518H,2,S,function unknown
+VNG0532H,2,,"no ortholog, overlaps 1bp with 533H (COG2013, S)"
+VNG0535C,2,S,COG2119: transmembrane protein 165
+VNG0544H,2,,no ortholog
+VNG0553C,2,S,"no ortholog, overlap ~100bp with 555C (COG5427, S)"
+VNG0596H,2,S,Protein of unknown function (DUF2797)
+VNG0613H,2,,no ortholog
+VNG0652H,2,,no ortholog
+VNG0772H,2,T,"overlaps VNG0772a, Rio1 family protein (T)"
+VNG0836H,2,,no ortholog
+VNG0840H,2,,no ortholog
+VNG0863H,1,,no ortholog
+VNG0926H,2,,"no ortholog, overlaps 1bp with 925C (S)"
+VNG0934H,2,,no ortholog
+VNG0988H,2,S,COG3815: DUF2085
+VNG0990H,2,,no ortholog
+VNG0991H,2,,no ortholog
+VNG1007H,1,S,function unknown
+VNG1039H,2,,no ortholog
+VNG1041H,2,,no ortholog
+VNG1047H,2,S,function unknown
+VNG1200H,2,,no ortholog
+VNG1239H,2,,no ortholog
+VNG1292H,1,,no ortholog
+VNG1300H,2,S,function unknown
+VNG1317H,2,,no ortholog
+VNG1376H,1,,no ortholog
+VNG1382H,2,,no ortholog

@@ -1,0 +1,177 @@
+locus_tag,cluster,COG_category,HMM_description
+YJL136C,1,J,40s ribosomal protein S21
+YKR057W,1,J,40s ribosomal protein S21
+YGR118W,1,J,"COG0048; Interacts with and stabilizes bases of the 16S rRNA that are involved in tRNA selection in the A site and with the mRNA backbone. Located at the interface of the 30S and 50S subunits, it traverses the body of the 30S subunit contacting proteins on the other side and probably holding the rRNA structure together. The combined cluster of proteins S8, S12 and S17 appears to hold together the shoulder and platform of the 30S subunit (By similarity) "
+YPR132W,1,J,"COG0048; Interacts with and stabilizes bases of the 16S rRNA that are involved in tRNA selection in the A site and with the mRNA backbone. Located at the interface of the 30S and 50S subunits, it traverses the body of the 30S subunit contacting proteins o"
+YGR214W,1,J,COG0052; 30S ribosomal protein S2
+YLR048W,1,J,COG0052; 30S ribosomal protein S2
+YOL127W,1,J,COG0089; One of the early assembly proteins it binds 23S rRNA. One of the proteins that surrounds the polypeptide exit tunnel on the outside of the ribosome. Forms the main docking site for trigger factor binding to the ribosome (By similarity)
+YFR031C-A,1,J,"COG0090; One of the primary rRNA binding proteins. Required for association of the 30S and 50S subunits to form the 70S ribosome, for tRNA binding and peptide bond formation. It has been suggested to have peptidyltransferase activity"
+YIL018W,1,J,"COG0090; One of the primary rRNA binding proteins. Required for association of the 30S and 50S subunits to form the 70S ribosome, for tRNA binding and peptide bond formation. It has been suggested to have peptidyltransferase activity"
+YJL177W,1,J,"COG0091; The globular domain of the protein is located near the polypeptide exit tunnel on the outside of the subunit, while an extended beta-hairpin is found that lines the wall of the exit tunnel in the center of the 70S ribosome (By similarity)"
+YKL180W,1,J,"COG0091; The globular domain of the protein is located near the polypeptide exit tunnel on the outside of the subunit, while an extended beta-hairpin is found that lines the wall of the exit tunnel in the center of the 70S ribosome (By similarity)"
+YBL087C,1,J,COG0093; Binds to 23S rRNA. Forms part of two intersubunit bridges in the 70S ribosome (By similarity)
+YER117W,1,J,COG0093; Binds to 23S rRNA. Forms part of two intersubunit bridges in the 70S ribosome (By similarity)
+YLR367W,1,J,"COG0096; One of the primary rRNA binding proteins, it binds directly to 16S rRNA central domain where it helps coordinate assembly of the platform of the 30S subunit (By similarity)"
+YDR450W,1,J,"COG0099; Located at the top of the head of the 30S subunit, it contacts several helices of the 16S rRNA. In the 70S ribosome it contacts the 23S rRNA (bridge B1a) and protein L5 of the 50S subunit (bridge B1b), connecting the 2 subunits"
+YML026C,1,J,"COG0099; Located at the top of the head of the 30S subunit, it contacts several helices of the 16S rRNA. In the 70S ribosome it contacts the 23S rRNA (bridge B1a) and protein L5 of the 50S subunit (bridge B1b), connecting the 2 subunits"
+YCR031C,1,J,"COG0100; Located on the platform of the 30S subunit, it bridges several disparate RNA helices of the 16S rRNA. Forms part of the Shine-Dalgarno cleft in the 70S ribosome (By similarity)"
+YIL133C,1,J,"COG0102; This protein is one of the early assembly proteins of the 50S ribosomal subunit, although it is not seen to bind rRNA by itself. It is important during the early stages of 50S assembly (By similarity)"
+YNL069C,1,J,"COG0102; This protein is one of the early assembly proteins of the 50S ribosomal subunit, although it is not seen to bind rRNA by itself. It is important during the early stages of 50S assembly (By similarity)"
+YDL083C,1,J,COG0103; 30S ribosomal protein S9
+YDR064W,1,J,COG0184; Forms an intersubunit bridge (bridge B4) with the 23S rRNA of the 50S subunit in the ribosome (By similarity)
+YBR048W,1,J,"COG0186; One of the primary rRNA binding proteins, it binds specifically to the 5'-end of 16S ribosomal"
+YDR025W,1,J,"COG0186; One of the primary rRNA binding proteins, it binds specifically to the 5'-end of 16S ribosomal"
+YGR034W,1,J,COG0198; One of the proteins that surrounds the polypeptide exit tunnel on the outside of the subunit (By similarity)
+YLR344W,1,J,COG0198; One of the proteins that surrounds the polypeptide exit tunnel on the outside of the subunit (By similarity)
+YGL103W,1,J,COG0200; binds to 23s rRNA
+YDL191W,1,J,COG0255; 50s ribosomal protein l29
+YNL112W,1,L,COG0513; purine NTP-dependent helicase activity
+YAR073W,1,F,"COG0516; Catalyzes the conversion of inosine 5'-phosphate (IMP) to xanthosine 5'-phosphate (XMP), the first committed and rate- limiting step in the de novo synthesis of guanine nucleotides, and therefore plays an important role in the regulation of cell growth (By similarity)"
+YAR075W,1,F,"COG0516; Catalyzes the conversion of inosine 5'-phosphate (IMP) to xanthosine 5'-phosphate (XMP), the first committed and rate- limiting step in the de novo synthesis of guanine nucleotides, and therefore plays an important role in the regulation of cell growth (By similarity)"
+YML056C,1,F,"COG0516; Catalyzes the conversion of inosine 5'-phosphate (IMP) to xanthosine 5'-phosphate (XMP), the first committed and rate- limiting step in the de novo synthesis of guanine nucleotides, and therefore plays an important role in the regulation of cell "
+YBR189W,1,J,COG0522; rRNA binding proteins
+YPL081W,1,J,COG0522; rRNA binding proteins
+YKL081W,1,O,COG0665; glutathione Stransferase
+YFL056C,2,C,COG0667; aldo keto reductase
+YNR053C,1,S,COG1161; Required for a late step of 50S ribosomal subunit assembly. Has GTPase activity (By similarity)
+YML024W,1,J,COG1383; ribosomal protein
+YHR203C,1,J,COG1471; ribosomal protein
+YJR145C,1,J,COG1471; ribosomal protein
+YKR094C,1,J,COG1522; ribosomal protein
+YHR141C,1,J,COG1631; ribosomal protein
+YNL162W,1,J,COG1631; ribosomal protein
+YNL301C,1,J,COG1727; ribosomal protein
+YOL120C,1,J,COG1727; ribosomal protein
+YGL076C,1,J,COG1841; ribosomal large subunit biogenesis
+YPL198W,1,J,COG1841; ribosomal large subunit biogenesis
+YGL030W,1,J,COG1911; ribosomal protein
+YPR043W,1,J,COG1997; ribosomal protein
+YER074W,1,J,COG2004; 40S ribosomal protein S24
+YHR021C,1,J,COG2051; 40s ribosomal protein S27
+YAL003W,1,J,"COG2092; Promotes the exchange of GDP for GTP in EF-1-alpha GDP, thus allowing the regeneration of EF-1-alpha GTP that could then be used to form the ternary complex EF-1-alpha GTP AAtRNA (By similarity)"
+YDL075W,1,J,COG2097; ribosomal protein
+YBR181C,1,J,COG2125; 40s ribosomal protein s6
+YPL090C,1,J,COG2125; 40s ribosomal protein s6
+YDR500C,1,J,COG2126; binds to 23s rRNA
+YLR185W,1,J,COG2126; binds to 23s rRNA
+YBR191W,1,J,COG2139; ribosomal protein
+YPL079W,1,J,COG2139; ribosomal protein
+YBR084C-A,1,J,COG2147; ribosomal protein L19a
+YBL027W,1,J,COG2147; ribosomal protein L19b
+YMR242C,1,J,COG2157; ribosomal protein
+YOR312C,1,J,COG2157; ribosomal protein
+YDR471W,1,J,COG2163; ribosomal protein
+YHL001W,1,J,COG2163; ribosomal protein
+YHR010W,1,J,COG2163; ribosomal protein
+YKL006W,1,J,COG2163; ribosomal protein
+YLR448W,1,J,COG2163; ribosomal protein
+YML073C,1,J,COG2163; ribosomal protein
+YJL189W,1,J,COG2167; ribosomal protein
+YER056C-A,1,J,COG2174; ribosomal protein
+YIL052C,1,J,COG2174; ribosomal protein
+YOL121C,1,J,COG2238; ribosomal protein
+YOR234C,1,J,COG2451; ribosomal protein
+YPL143W,1,J,COG2451; ribosomal protein
+YML045W,1,L,COG2801; retrotransposon protein
+YDL082W,1,J,COG4352; cytoplasmic translation
+YMR142C,1,J,COG4352; cytoplasmic translation
+YMR230W,1,J,COG5045; ribosomal protein
+YMR194W,1,J,COG5051; 60S ribosomal protein l36
+YOR293W,1,J,COG5054; ribosomal protein
+YDR059C,2,O,COG5078; ubiquitin-conjugating enzyme
+YIL111W,2,O,Cytochrome c oxidase subunit
+YBR051W,2,,"dubious ORF, partially overlaps REG2 (repressive TF, K)"
+YCR013C,2,S,function unknown
+YDR417C,1,S,function unknown
+YHR097C,2,S,function unknown
+YLR339C,1,S,function unknown
+YMR116C,1,S,function unknown
+YGR272C,1,S,involved in rRNA processing (By similarity)
+YGR225W,2,S,meiosis-specific APC C activator protein AMA1
+YOR031W,2,O,metallothionein
+YOR239W,1,S,methyltransferase-like
+YLR061W,1,J,ribosomal protein
+YNL096C,1,J,ribosomal protein S7
+YOR096W,1,J,ribosomal protein S7
+YGR183C,2,I,Ubiquinol--cytochrome c reductase
+YEL012W,2,O,ubiquitin-conjugating enzyme
+YBL048W,2,,no ortholog
+YBL077W,1,,"Dubious ORF, partially overlaps ILS1 (COG0060, J)"
+YBR050C,2,S,Protein phosphatase type 1 complex subunit Hex2 Reg1
+YBR116C,2,,"dubious ORF, partially overlaps TKL2 (COG0021, G)"
+YBR230C,2,O,via GO:0006626
+YBR266C,1,,"dubious ORF, overlaps REI1 (S, ribosome biogenesis)"
+YBR285W,2,,no ortholog
+YCL042W,2,,no ortholog
+YDL023C,2,,"dubious ORF, overlaps GPD1 (COG0240, C)"
+YDL038C,1,,no ortholog
+YDL062W,1,,"dubious ORF, partially overlaps SYO1 (S, ribosome biogenesis)"
+YDL223C,2,S,no ortholog
+YDR112W,2,,"dubious orf, overlap YDR111C (E)"
+YDR209C,2,,no ortholog
+YDR275W,2,S,paralog has function U
+YER084W,2,S,function unknown
+YER121W,2,,no ortholog
+YER188W,2,,no ortholog
+YGL102C,1,,"dubious, overlaps RPL28 gene"
+YGL177W,2,,no ortholog
+YGR146C,2,,extends chronological lifespan
+YGR160W,1,,"dubious ORF, overlaps NSR1 (S, ribonucleoprotein)"
+YGR265W,1,,"dubious ORF, partially overlaps MES1 (COG0143, S)"
+YGR290W,2,,"dubious ORF, oberlaps maltose transporter (G)"
+YIR016W,2,S,via paralog
+YJL142C,2,,"dubious ORF, overlap YAK1 (T)"
+YJL144W,2,O,by SGD function
+YJL188C,1,,88% overlap with RPL39 (J)
+YJR071W,1,,overlap with Lia1 ©
+YKL036C,2,,no ortholog
+YKL093W,2,C,By SGD function: aerobic respiration
+YKL109W,2,K,"By SGD function: heme-activated, glucose-repressed transcription factor"
+YLL020C,2,,partially overlaps KNS1 (T)
+YLL044W,1,,overlap RPL8B (J)
+YLR042C,2,,cell wall associated
+YLR053C,2,,no ortholog
+YLR062C,1,,98% overlap with RPL22A (J)
+YLR076C,1,,partial overlap PRL10 (J)
+YLR156W,2,,no ortholog
+YLR159W,2,,no ortholog
+YLR198C,1,,"dubious ORF, overlaps SIK1 (COG1498, J)"
+YLR217W,2,,"dubious ORF, overlaps CPR6 (COG0652, O)"
+YLR252W,2,,no ortholog
+YLR297W,2,,no ortholog
+YLR311C,2,,no ortholog
+YLR346C,2,,localized to mito
+YMR173W-A,2,,"Dubious ORF, overlaps DDR48 (L)"
+YMR174C,2,,"PAI3, involved in protein catabolism within vacuole"
+YMR175W,2,,SIP18
+YMR195W,2,,"essential in petite cells, morphology phenotypes"
+YMR251W-A,2,,no ortholog
+YNL114C,1,,"dubious ORF, 100% overlap RPC19 (COG1761, K)"
+YNL174W,1,,"dubious ORF, overlaps NOP13 (COG0724, S)"
+YNL203C,2,,"dubious ORF, overlaps SPS19 (COG1028, S)"
+YNL296W,1,,"dubious ORF, overlaps MON2 (S)"
+YNR014W,2,,no ortholog
+YOL047C,2,,spore wall asspembly (M)
+YOL048C,2,S,spore wall asspembly (M)
+YOL150C,2,,"dubious ORF, overlaps GRE2 (M)"
+YOL153C,2,,blocked reading frame (2 stop codons)
+YOR121C,2,,"Dubious ORF, overlaps CGcy1 (S, COG0656)"
+YOR135C,2,,"Dubious ORF, overlaps IDH2 (COG0473, E)"
+YOR146W,1,,"Dubious ORF, overlaps PNO1 (COG1094, S or J)"
+YOR186W,2,,"sphingolipid dependents expression in heat, vacuole locatizations"
+YOR248W,1,,"dubious ORF, overlaps with SRL1 (cell wall stability, )"
+YOR309C,1,,"dubious ORF, overlaps NOP58 (COG1498, J)"
+YOR392W,2,,no ortholog
+YPL027W,2,,prospore membrane and sporulation
+YPL044C,1,,"dubious ORF, overlaps NOP4 (S)"
+YPL142C,1,,"dubious ORF, overlaps RPL33A (J)"
+YPL185W,2,,"dubious ORF, partially overlaps UIP4 (O?)"
+YPL200W,2,D,Chromosome segregation in meiosis (sporulation)
+YPL223C,2,,"GRE1, "
+YPL238C,1,,"dubious ORF, parially overlaps SUI3 (COG1601, J)"
+YPL250C,2,,required for autophagy
+YPR005C,2,,involved in halotolerance
+YPR044C,1,,"dubious ORF, overlaps RPL43A (COG1997, J)"
+YPR142C,1,,"Dubious ORF, partially overlaps RRP15 (S, ribosomal processing)"
+YPR150W,2,,"Dubious ORF, partially overlaps SUE1 (O)"

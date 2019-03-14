@@ -1,0 +1,942 @@
+ORF Name,cluster,Function
+VNG0005H,growth,
+VNG0011C,growth,
+VNG0042G,growth,putative transposase
+VNG0043H,growth,
+VNG0047G,growth,Glucose-1-phosphate thymidylyltransferase
+VNG0049H,growth,Protein-L-Isoaspartate O-Methyltransferase (catalyzes protein repair)
+VNG0050C,growth,putative membrane protein involved in teichoic acid and exopolysaccharide export.
+VNG0060G,growth,LPS glycosyltransferase
+VNG0061C,growth,putative arylsulfatase; potential involvement in glycerosphyngolipid biosynthesis.
+VNG0063G,growth,UDP-glucose 4-epimerase
+VNG0065G,growth,GDP-D-mannose dehydratase
+VNG0077H,growth,
+VNG0091C,growth,
+VNG0098G,growth,Ribosomal protein S6 modification protein
+VNG0099G,growth,50S ribosomal protein L10e
+VNG0107G,growth,"Type I restriction modification enzyme, S subunit"
+VNG0119H,growth,
+VNG0120H,growth,
+VNG0127C,growth,
+VNG0133G,growth,Replication A related protein
+VNG0134G,growth,Archaeal histone A1
+VNG0136G,growth,histone deacetylase
+VNG0137G,growth,tRNA nucleotidyltransferase
+VNG0147C,growth,Putative metal responsive regulator
+VNG0150H,growth,"cytochrome C biogenesis protein, This protein consists of the transmembrane (i.e. non-catalytic) region of Cytochrome C biogenesis proteins also known as disulphide interchange proteins."
+VNG0151C,growth,profilin-like contractile protein
+VNG0152G,growth,Regulatory protein
+VNG0163G,growth,Mismatch repair protein
+VNG0172G,growth,Mismatch repair protein
+VNG0174G,growth,Cationic amino acid transporter
+VNG0175G,growth,TRK potassium uptake system protein
+VNG0177G,growth,50S ribosomal protein L15e
+VNG0179C,growth,RIO1 family eukaryotic protein kinase
+VNG0184H,growth,
+VNG0187H,growth,
+VNG0190C,growth,
+VNG0197C,growth,
+VNG0237H,growth,"DNA-directed RNA polymerase, 7 kDa subunit "
+VNG0239C,growth,50S ribosomal protein L37Ae
+VNG0240C,growth,
+VNG0245G,growth,Probable deoxycytidine triphosphate deaminase 
+VNG0251C,growth,
+VNG0252C,growth,
+VNG0259G,growth,Inorganic pyrophosphatase 
+VNG0280H,growth,
+VNG0285C,growth,transposase
+VNG0286C,growth,probable transposase
+VNG0287H,growth,"submitted to robetta: 3d-jury hit to a DNA binding protein PDB 1du6A/1ig6A, medium confidence."
+VNG0294G,growth,N-methyltransferase homolog
+VNG0296H,growth,
+VNG0300C,growth,
+VNG0311H,growth,
+VNG0318G,growth,"Putative glycosyltransferase. COG match to ""glycosyltransferases involved in cell wall biosynthesis.""  "
+VNG0351C,growth,
+VNG0361C,growth,Putative membrane protein of the rhomboid serine protease family
+VNG0373H,growth,
+VNG0374G,growth,Transcription termination-antitermination factor
+VNG0375G,growth,Preprotein translocase secE subunit (Protein transport protein SEC61 gamma subunit homolog)
+VNG0378C,growth,
+VNG0380G,growth,Cation antiporter
+VNG0390G,growth,Glucose-1-phosphate thymidylyltransferase
+VNG0394C,growth,
+VNG0396C,growth,
+VNG0398G,growth,Endonuclease III
+VNG0401G,growth,mRNA 3'-end processing factor homolog.
+VNG0403G,growth,Proline-tRNA synthetase
+VNG0405C,growth,
+VNG0406C,growth,Glycerol dehdrogenase
+VNG0410G,growth,LPS biosynthesis
+VNG0412G,growth,Dihydropteroate synthase
+VNG0420H,growth,
+VNG0421C,growth,
+VNG0426G,growth,DNA-directed RNA-polymerase subunit M
+VNG0430H,growth,
+VNG0431G,growth,Diadenosine tetraphosphate pyrophosphohydrolase
+VNG0433C,growth,
+VNG0439C,growth,putative flavoprotein
+VNG0461G,growth,Aspartyl-tRNA synthetase 
+VNG0468C,growth,putative flavoprotein
+VNG0471C,growth,putative transcription regulator
+VNG0473G,growth,"pyruvate ferredoxin oxidoreductase, subunit beta"
+VNG0474G,growth,"pyruvate ferredoxin oxidoreductase, subunit alpha"
+VNG0475C,growth,putative flavodoxin reductase (ferredoxin-NADPH reductases) family 1
+VNG0481G,growth,"Methylmalonyl-CoA mutase, subunit alpha"
+VNG0483C,growth,
+VNG0485H,growth,
+VNG0487H,growth,
+VNG0489G,growth,Chaperone protein dnaJ
+VNG0494G,growth,GrpE protein (HSP-70 cofactor)
+VNG0496H,growth,
+VNG0501G,growth,Multidrug resistance protein homolog
+VNG0504G,growth,GTP-binding protein homolog
+VNG0509H,growth,
+VNG0530G,growth,Iron-dependent repressor
+VNG0543H,growth,
+VNG0546C,growth,"archaeal proteins of unknown function, PF01908 - may be transmembrane proteins."
+VNG0548C,growth,Nucleolar RNA-binding protein
+VNG0549G,growth,Probable translation initiation factor 2 alpha subunit (eIF-2-alpha)
+VNG0550G,growth,30S ribosomal protein S27e
+VNG0551G,growth,50S ribosomal protein L44E
+VNG0559G,growth,Adenine phosphoribosyltransferase
+VNG0586C,growth,PetE plastocyanin.  
+VNG0587H,growth,
+VNG0592G,growth,Endonuclease III
+VNG0593G,growth,Diphosphomevalonate decarboxylase
+VNG0598C,growth,predicted glycosyltransferase.  Possibly involved in cell wall biosynthesis
+VNG0599C,growth,
+VNG0600C,growth,
+VNG0608C,growth,predicted CoA binding protein
+VNG0610G,growth,4-hydroxybenzoate octaprenyltransferase
+VNG0630G,growth,"6,7-dimethyl-8-ribityllumazine synthase "
+VNG0631C,growth,
+VNG0642C,growth,
+VNG0647G,growth,F420H2:quinone oxidoreductase chain M
+VNG0648G,growth,NADH dehydrogenase/oxidoreductase
+VNG0650C,growth,
+VNG0656H,growth,
+VNG0659H,growth,
+VNG0660H,growth,
+VNG0662G,growth,Cytochrome c oxidase subunit III
+VNG0666G,growth,Heme synthase
+VNG0667G,growth,"ABC transporter, ATP-binding protein homolog"
+VNG0668C,growth,ABC transporter
+VNG0669H,growth,
+VNG0678G,growth,3-ketoacyl-CoA thiolase
+VNG0686C,growth,
+VNG0694G,growth,Endonuclease III
+VNG0717H,growth,
+VNG0724H,growth,
+VNG0726C,growth,putative transcription regulator (TetR family)
+VNG0738H,growth,
+VNG0740C,growth,
+VNG0741H,growth,
+VNG0753G,growth,Anion permease
+VNG0754C,growth,
+VNG0759H,growth,
+VNG0761G,growth,Competence-damage protein CinA-like
+VNG0767H,growth,
+VNG0769H,growth,
+VNG0777G,growth,Glycerol-3-phosphate cytidyltransferase
+VNG0778C,growth,
+VNG0782H,growth,HEAT repeat-containing protein. 
+VNG0784G,growth,CDP-diacylglycerol-serine O-phosphatidyltransferase
+VNG0787G,growth,30S ribosomal protein S3Ae
+VNG0788H,growth,
+VNG0789C,growth,
+VNG0790G,growth,30S ribosomal protein S15P
+VNG0821C,growth,
+VNG0847H,growth,
+VNG0854C,growth,
+VNG0857C,growth,Predicted RNA methylase
+VNG0860G,growth,DNA-directed RNA polymerase subunit L 
+VNG0861H,growth,
+VNG0862G,growth,Imidazole glycerol phosphate synthase subunit hisF 
+VNG0863H,growth,
+VNG0865C,growth,
+VNG0867G,growth,Asparagine synthetase
+VNG0868H,growth,Putative nudix domain-containing protein
+VNG0874G,growth,Possible signaling protein/possible conjugation(mating) protein
+VNG0879C,growth,
+VNG0881G,growth,DNA ligase 
+VNG0891G,growth,NADH dehydrogenase
+VNG0892H,growth,
+VNG0893G,growth,Uridine phosphorylase
+VNG0896G,growth,Cytidine aminohydrolase
+VNG0901G,growth,ABC transporter ATP-binding
+VNG0903C,growth,
+VNG0905G,growth,Phosphomannomutase
+VNG0907H,growth,
+VNG0917G,growth,Transcriptional regulatory protein
+VNG0920H,growth,
+VNG0928G,growth,MAPK-activated protein kinase
+VNG0943C,growth,
+VNG0959H,growth,
+VNG0983C,growth,Putative K+ transporter
+VNG0987H,growth,
+VNG0989C,growth,"putative integrase (PFAM, COG matches)"
+VNG1000H,growth,
+VNG1006H,growth,
+VNG1031C,growth,putative kinase
+VNG1034H,growth,
+VNG1053G,growth,Glycosyl transferase-like
+VNG1056C,growth,
+VNG1058H,growth,
+VNG1062G,growth,putative glycosyltransferase
+VNG1067G,growth,Succinoglycan biosynthesis protein
+VNG1068G,growth,Transmembrane oligosaccharyl transferase
+VNG1069C,growth,
+VNG1071G,growth,unknown function
+VNG1079G,growth,Dihydroxynaphthoic acid synthase
+VNG1083G,growth,Isochorismate synthase
+VNG1084G,growth,Sulfite oxidase homolog
+VNG1090H,growth,
+VNG1094H,growth,
+VNG1097G,growth,Cysteinyl-tRNA synthetase 
+VNG1099C,growth,
+VNG1100C,growth,
+VNG1101C,growth,predicted membrane protein.
+VNG1103G,growth,50S ribosomal protein L12P ('A' type) (HL20)
+VNG1104G,growth,Acidic ribosomal protein P0 homolog (L10E)
+VNG1105G,growth,50S ribosomal protein L1P (HL8)
+VNG1108G,growth,50S ribosomal protein L11P
+VNG1110C,growth,
+VNG1111G,growth,Hypothetical protein Vng1111g
+VNG1112H,growth,
+VNG1114G,growth,Glyoxalase
+VNG1117C,growth,
+VNG1132G,growth,30S ribosomal protein S13P/S18E (HS13)
+VNG1133G,growth,30S ribosomal protein S4P
+VNG1134G,growth,30S ribosomal protein S11P
+VNG1136G,growth,DNA-directed RNA polymerase subunit D 
+VNG1137G,growth,50S ribosomal protein L18e (HeL18)
+VNG1138G,growth,50S ribosomal protein L13P
+VNG1139G,growth,30S ribosomal protein S9P
+VNG1140G,growth,DNA-directed RNA polymerase subunit N 
+VNG1141G,growth,DNA-directed RNA polymerase subunit K 
+VNG1142G,growth,Enolase 
+VNG1143G,growth,30S ribosomal protein S2P
+VNG1145G,growth,Mevalonate kinase
+VNG1148G,growth,"N-Acetyl-L-Glutamate Kinase , in an operon with mvk"
+VNG1149C,growth,Predicted hydrolase (metallo-beta-lactamase superfamily)
+VNG1150G,growth,Geranylgeranyl diphosphate synthase
+VNG1153G,growth,Glutamyl-tRNA synthetase
+VNG1157G,growth,50S ribosomal protein L7Ae
+VNG1158G,growth,30S ribosomal protein S28E
+VNG1159G,growth,50S ribosomal protein L24E (LSU ribosomal protein L24E)
+VNG1160G,growth,Nucleoside diphosphate kinase 
+VNG1163G,growth,AdoMet (SAM) binding methyltransferase. 
+VNG1164C,growth,"Mechanosensitive ion channel (small conductance), Mechanosensitive channels provide protection against hypo-osmotic shock, responding both to stretching of the cell membrane and to membrane depolarisation.The pressure threshold for MscS opening is 50% that of MscL (large conductance)."
+VNG1165G,growth,Dimethyladenosine transferase
+VNG1169C,growth,RNA polymerase Rpb4
+VNG1170G,growth,50S ribosomal protein L21e
+VNG1173G,growth,Elongation factor 1-beta (EF-1-beta) (aEF-1beta)
+VNG1188G,growth,Halocyanin precursor-like
+VNG1194H,growth,
+VNG1196H,growth,
+VNG1198C,growth,putative flavoprotein
+VNG1201G,growth,Fuculose-1-phosphate aldolase
+VNG1202C,growth,L-2-haloacid dehalogenase
+VNG1205C,growth,
+VNG1219G,growth,Uridine kinase 
+VNG1220H,growth,
+VNG1224G,growth,Orc / cell division control protein 6
+VNG1227H,growth,
+VNG1235C,growth,putative prephenate dehydrogenase 
+VNG1236C,growth,
+VNG1241G,growth,Acid phosphatase surE 
+VNG1245C,growth,archaeal-specific shikimate kinase; previous annotation homoserine kinase
+VNG1246H,growth,
+VNG1247G,growth,ABC-type transport protein
+VNG1249C,growth,
+VNG1250H,growth,
+VNG1257H,growth,putative cytochrome oxidase
+VNG1263C,growth,"Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific"
+VNG1280C,growth,
+VNG1281H,growth,
+VNG1282G,growth,"TRK potassium uptake system protein, NAD-binding component"
+VNG1285G,growth,Transcription regulator
+VNG1287C,growth,
+VNG1289H,growth,
+VNG1291H,growth,
+VNG1292H,growth,
+VNG1294G,growth,"FK506 binding protein (Peptidyl-prolyl cis-trans isomerase), Peptidylprolyl isomerases accelerate protein folding by catalyzing the cis-trans isomerization of proline imidic peptide bonds in oligopeptides. These proteins are found in a variety of organisms. "
+VNG1297C,growth,S-adenosylmethionine synthetase 
+VNG1299C,growth,Probable thiamine biosynthesis protein thiI
+VNG1319H,growth,
+VNG1320G,growth,Calcium-binding protein homology
+VNG1325C,growth,"Thymidylate synthase complementing protein, Thymidylate synthase complementing protein (Thy1) complements the thymidine growth requirement of the organisms in which it is found, but shows no homology to thymidylate synthase PUBMED:9665876."
+VNG1329H,growth,
+VNG1344G,growth,Dihydropteroate synthase
+VNG1347C,growth,
+VNG1350C,growth,Integral membrane protein (PF00892).  PDB match to 2nq101 with GTPase domains of the signal sequence recognition protein Fhf from Thermus Aquaticus.
+VNG1352G,growth,Glu-tRNA amidotransferase
+VNG1355H,growth,
+VNG1356G,growth,Fumarate hydratase
+VNG1357C,growth,
+VNG1359G,growth,DNA repair protein
+VNG1360H,growth,acetyltransferase family protein (PF00583)
+VNG1365C,growth,
+VNG1370G,growth,Iron (III) ABC transporter permease
+VNG1376H,growth,
+VNG1377G,growth,Transcription regulator
+VNG1379G,growth,Extragenic suppressor homolog
+VNG1397C,growth,
+VNG1401C,growth,
+VNG1402H,growth,
+VNG1403H,growth,
+VNG1405C,growth,putative transcription regulator
+VNG1407C,growth,
+VNG1409C,growth,
+VNG1410H,growth,
+VNG1420H,growth,
+VNG1432G,growth,Probable deoxyhypusine synthase 
+VNG1433G,growth,30S ribosomal protein S17e
+VNG1435G,growth,Aspartate-semialdehyde dehydrogenase
+VNG1438H,growth,
+VNG1451C,growth,putative sugar-specific transcription regulator
+VNG1452G,growth,Translation initiation factor eIF-2B subunit delta
+VNG1454C,growth,
+VNG1462G,growth,Cell division cycle protein
+VNG1466H,growth,
+VNG1470G,growth,"DNA primase , small subunit"
+VNG1471C,growth,
+VNG1475C,growth,
+VNG1476C,growth,
+VNG1479H,growth,
+VNG1480C,growth,
+VNG1481G,growth,Serine acetyltransferase
+VNG1486H,growth,
+VNG1487H,growth,
+VNG1488G,growth,Bacterio-opsin activator-like protein
+VNG1494G,growth,50S ribosomal protein L37e
+VNG1496G,growth,snRNP homolog
+VNG1500H,growth,
+VNG1501G,growth,DNA helicase
+VNG1506G,growth,Putative peptide chain release factor pelota
+VNG1510C,growth,
+VNG1511C,growth,putative recJ-like exonuclease
+VNG1518H,growth,
+VNG1530H,growth,
+VNG1538H,growth,
+VNG1543G,growth,CTAG modification methylase
+VNG1572C,growth,"Nicotinate Mononucleotide: 5,6-Dimethylbenzimidazole Phosphoribosyltransferase"
+VNG1573G,growth,"Cobyrinic acid a,c-diamide synthase"
+VNG1578H,growth,adenosylcobinamide (Ado-Cbi)-phosphate synthase
+VNG1585C,growth,Uncharacterized conserved protein
+VNG1591H,growth,
+VNG1608C,growth,
+VNG1611C,growth,
+VNG1616C,growth,putative transcriptional regulator
+VNG1640H,growth,ATPase subunit of protease ClpXt / PDB 1DPU C-terminal domain of replication protein A COG1219.
+VNG1654G,growth,Cell division cycle protein
+VNG1655H,growth,
+VNG1657H,growth,conserved hypothetical protein.
+VNG1670C,growth,
+VNG1673G,growth,"Orotidine 5'-phosphate decarboxylase  (also called ura3), This gene is an ortholog of the ura3 gene in yeast.  It is used as a counter-selectable marker in a two-step homologous recombination strategy for gene replacement in Halobacterium sp."
+VNG1688C,growth,
+VNG1689G,growth,50S ribosomal protein L13P
+VNG1690G,growth,50S ribosomal protein L4E
+VNG1691G,growth,50S ribosomal protein L23P
+VNG1692G,growth,50S ribosomal protein L2P
+VNG1693G,growth,30S ribosomal protein S19P (HHAS19)
+VNG1695G,growth,50S ribosomal protein L22P (HHAL22)
+VNG1697G,growth,30S ribosomal protein S3P (HS4) (HHAS3)
+VNG1698G,growth,50S ribosomal protein L29P (HHAL29)
+VNG1699C,growth,putative RNAse P residing within ribosomal operon
+VNG1700G,growth,30S ribosomal protein S17 (HHAS17)
+VNG1701G,growth,50S ribosomal protein L14P (HHAL14)
+VNG1702G,growth,50S ribosomal protein L24P
+VNG1703G,growth,30S ribosomal protein S4e
+VNG1705G,growth,50S ribosomal protein L5P (HSal5)
+VNG1706G,growth,30S ribosomal protein S14P
+VNG1707G,growth,30S ribosomal protein S8P
+VNG1709G,growth,50S ribosomal protein L6P
+VNG1711G,growth,50S ribosomal protein L32E
+VNG1713G,growth,Ribosomal protein L19
+VNG1714G,growth,50S ribosomal protein L18P (HSal18)
+VNG1715G,growth,30S ribosomal protein S5P
+VNG1716G,growth,50S ribosomal protein L30P
+VNG1718G,growth,50S ribosomal protein L15P
+VNG1719G,growth,Protein translocase
+VNG1724G,growth,Adenylate kinase 
+VNG1727G,growth,Cytidylate kinase 
+VNG1729G,growth,Probable tRNA pseudouridine synthase B 
+VNG1749G,growth,GTP-binding protein homolog
+VNG1756G,growth,Probable translation initiation factor 1A-2 (aIF-1A-2)
+VNG1765G,growth,Sensory rhodopsin II transducer (HTR-II) (Methyl-accepting phototaxis protein II) (MPP-II)
+VNG1766C,growth,
+VNG1767G,growth,Agmatinase
+VNG1768G,growth,Translation initiation factor 5A (eIF-5A) (Hypusine-containing protein)
+VNG1770C,growth,
+VNG1771C,growth,
+VNG1773G,growth,Putative pterin-4-alpha-carbinolamine dehydratase 
+VNG1774G,growth,Glutamyl-tRNA reductase 
+VNG1775C,growth,"Siroheme Biosynthesis Protein, A Bifunctional Nad-Dependent Dehydrogenase and Ferrochelatase Involved In Siroheme Synthesis."
+VNG1776G,growth,"putative transcription regulator, structural match to lrp-like transcriptional regulator (e = 1x10E-28), COG1552."
+VNG1777H,growth,
+VNG1779C,growth,
+VNG1809H,growth,
+VNG1818G,growth,Probable isopentenyl-diphosphate delta-isomerase 
+VNG1820H,growth,
+VNG1827H,growth,
+VNG1829G,growth,GMP synthase [glutamine-hydrolyzing] subunit B 
+VNG1830G,growth,CTP synthase/GATase (glutamyl amidotransferase)
+VNG1843C,growth,"predicted transcriptional regulator, strong hit to COG1777 (predicted transcriptional regulators, only archaeal proteins in COG)"
+VNG1844G,growth,L-asparaginase
+VNG1845C,growth,"putative acetyltransferase, COG0454, PFAM00583, pdblast yeast histone acetyltransferase (e = 3e-9)"
+VNG1849H,growth,
+VNG1850G,growth,Uridine phosphorylase
+VNG1861C,growth,
+VNG1873G,growth,"Isocitrate dehydrogenase, NADP"
+VNG1874C,growth,
+VNG1875G,growth,3-hydroxy-3-methylglutaryl-coenzyme A reductase
+VNG1877C,growth,
+VNG1879G,growth,Thiamin-binding periplasmic protein precursor homolog
+VNG1907H,growth,
+VNG1910H,growth,
+VNG1918C,growth,
+VNG1926G,growth,Pyruvate dehydrogenase alpha subunit
+VNG1935C,growth,
+VNG1937C,growth,Putative SAM-binding thiamine biosynthesis enzyme
+VNG1941C,growth,putative Fe-S oxidoreductase
+VNG1948H,growth,
+VNG1954H,growth,
+VNG1969G,growth,Glycerol-3-phosphate dehydrogenase chain A
+VNG1971G,growth,anaerobic glycerol-3-phosphate dehydrogenase chain B
+VNG1972G,growth,Glycerol-3-phosphate dehydrogenase chain C
+VNG1982C,growth,putative pseudouridine synthase
+VNG1983H,growth,
+VNG1984G,growth,RNAase H
+VNG1997G,growth,Probable translation initiation factor IF-2
+VNG2005G,growth,Histidyl-tRNA synthetase
+VNG2011G,growth,Thiamine monophosphate kinase
+VNG2015C,growth,"Amino acid kinase family protein, This family includes kinases that phosphorylate a variety of amino acid substrates, as well as uridylate kinase and carbamate kinase. "
+VNG2017G,growth,Lysyl-tRNA synthetase
+VNG2020C,growth,"predicted transcriptional regulator (marR/padR family), COG1695:predicted transcriptional regulators\nPFAM3551:padR familiy of transcriptional repressors."
+VNG2041H,growth,
+VNG2045G,growth,O-sialoglycoprotein endopeptidase homolog
+VNG2047G,growth,30S ribosomal protein S27E
+VNG2048G,growth,30S ribosomal protein S24e
+VNG2049C,growth,
+VNG2051G,growth,DNA-directed RNA polymerase subunit E''
+VNG2053G,growth,DNA-directed RNA polymerase subunit E'
+VNG2054H,growth,
+VNG2056G,growth,Probable translation initiation factor 2 gamma subunit (eIF-2-gamma)
+VNG2060G,growth,"ATP-binding protein, metalo-[beta]-lactamase L1"
+VNG2062G,growth,Aaa superfamily ATPase
+VNG2065G,growth,Dolichol-P-glucose transferase
+VNG2067H,growth,
+VNG2072G,growth,Seryl-tRNA synthetase 
+VNG2075C,growth,
+VNG2076G,growth,50S ribosomal protein L40E
+VNG2084G,growth,Transport protein
+VNG2085G,growth,Phosphonates transport ATP-binding
+VNG2102G,growth,Citrate synthase
+VNG2117C,growth,
+VNG2118G,growth,Orotate phosphoribosyltransferase 
+VNG2124C,growth,
+VNG2128C,growth,
+VNG2129H,growth,
+VNG2149H,growth,
+VNG2153G,growth,Putative isopentenyl pyrophosphate isomerase
+VNG2155C,growth,
+VNG2165H,growth,
+VNG2173G,growth,DNA repair protein
+VNG2178H,growth,
+VNG2181G,growth,MCM / cell division control protein 21
+VNG2182H,growth,
+VNG2183H,growth,
+VNG2189H,growth,
+VNG2190G,growth,Isoleucyl-tRNA synthetase
+VNG2205H,growth,
+VNG2206G,growth,Phosphomannomutase
+VNG2207H,growth,
+VNG2208G,growth,Tryptophanyl-tRNA synthetase
+VNG2210G,growth,tRNA intron endonuclease
+VNG2211H,growth,
+VNG2213G,growth,Pre-mRNA splicing helicase
+VNG2216G,growth,Probable lipoic acid synthetase (Lip-syn) (Lipoate synthase)
+VNG2233C,growth,
+VNG2239C,growth,Metallo Beta Lactamase 
+VNG2252G,growth,Holliday junction resolvase
+VNG2253H,growth,
+VNG2254C,growth,"Eukaryotic-type DNA primase, large subunit "
+VNG2255C,growth,
+VNG2263G,growth,Cell division protein
+VNG2267G,growth,Protein export
+VNG2268H,growth,"putative CopG family transcriptional regulator, COG3609 (predicted transcriptional regulators of the CopG/MetJ/Arc family\n(PET=22)"
+VNG2269G,growth,Protein export
+VNG2277H,growth,"putative histone acetyltransferase, COG0454:histone acetyltransferase HPA2 (PET=9)\nPFAM0583:GNAT acetyltransferase family"
+VNG2304H,growth,
+VNG2306H,growth,
+VNG2307C,growth,
+VNG2331G,growth,S-adenosyl-L-methionine:uroporphyrinogen III methyltransferase
+VNG2332G,growth,Uroporphyrin-III C-methyltransferase
+VNG2333C,growth,recJ-like phosphoesterase (endonuclease)
+VNG2341H,growth,
+VNG2351C,growth,
+VNG2356G,growth,ATP-dependent RNA helicase homolog eIF-4A
+VNG2368G,growth,Putative ski2-type helicase 
+VNG2396G,growth,Sulfate transport system permease protein
+VNG2411G,growth,Orc / cell division control protein 6
+VNG2414H,growth,
+VNG2416G,growth,Signal sequence peptidase
+VNG2417G,growth,DNA polymerase II small subunit 
+VNG2455C,growth,
+VNG2467G,growth,50S ribosomal protein L31e
+VNG2469G,growth,50S ribosomal protein L39e
+VNG2474C,growth,
+VNG2510H,growth,
+VNG2514G,growth,30S ribosomal protein S6e
+VNG2515H,growth,
+VNG2518C,growth,
+VNG2533G,growth,Dihydroorotase
+VNG2536C,growth,
+VNG2547G,growth,Valyl-tRNA synthetase
+VNG2553G,growth,6-phosphogluconate dehydrogenase
+VNG2570G,growth,Deoxycytidine triphosphate deaminase
+VNG2575G,growth,Pab N-terminal acetyltransferase
+VNG2576H,growth,
+VNG2577C,growth,ATP synthase subunit C PDB 1c17M0.
+VNG2587C,growth,Probable GTP-binding protein engB
+VNG2595G,growth,GTPase of unknown function
+VNG2602G,growth,Arsenite transport protein
+VNG2608C,growth,
+VNG2612G,growth,RNase L inhibitor homolog
+VNG2613H,growth,
+VNG2622H,growth,putative metallopeptidase
+VNG2629G,growth,"Glucose kinase/ROK family protein/putative transcriptional regulator, ROK family includes members with transcriptional repressor (e.g. xylR), unknown funcitons, and sugar kinase (e.g. e. coli mlc) functions.\nCOG1940 (transcriptional regulators, PET=80)"
+VNG2636G,growth,Excision nuclease chain A
+VNG2642H,growth,
+VNG2643H,growth,
+VNG2646C,growth,
+VNG2648G,growth,30S ribosomal protein S10P
+VNG2649G,growth,Elongation factor 1-alpha (EF-1-alpha) (Elongation factor Tu) (EF-Tu)
+VNG2650G,growth,Homoserine dehydrogenase
+VNG2652H,growth,
+VNG2654G,growth,Translation elongation factor eEF-2
+VNG2657G,growth,30S ribosomal protein S7P
+VNG2658G,growth,30S ribosomal protein S12P (HmaS12)
+VNG2661G,growth,NusA protein homolog
+VNG2662G,growth,DNA-directed RNA polymerase subunit A 
+VNG2664G,growth,DNA-directed RNA polymerase subunit A
+VNG2665G,growth,DNA-directed RNA polymerase subunit B' 
+VNG2666G,growth,DNA-directed RNA polymerase subunit B 
+VNG2668G,growth,DNA-directed RNA polymerase subunit H 
+VNG2669G,growth,Cytochrome oxidase subunit I homolog
+VNG5146H,growth,
+VNG5148H,growth,
+VNG5156H,growth,"potential transcriptional regulator (repressor), COG1552: transcriptional regulators (PET=15)\nRosetta predicts strong similarity to DtxR repressor family"
+VNG5164C,growth,
+VNG5173H,growth,
+VNG5178H,growth,
+VNG5189H,growth,
+VNG5195H,growth,
+VNG6171H,growth,
+VNG6181H,growth,
+VNG6194H,growth,
+VNG6205C,growth,
+VNG6221H,growth,
+VNG6250G,growth,Sodium-dependent phosphate transporter
+VNG6261G,growth,Sodium-dependent transporter
+VNG6268C,growth,
+VNG6269C,growth,
+VNG6272G,growth,Orc / cell division control protein 6
+VNG6287H,growth,"possible transcriptional regulator, Rosetta predicts strong similarity to eukaryotic Retinoblastoma Tumor Suppressor protein, a transcriptional regulator\nCOGs:1522,0640"
+VNG6299G,growth,Hydrogenase expression/formation protein
+VNG6302C,growth,
+VNG6311G,growth,Aspartate carbamoyltransferase regulatory chain
+VNG6351G,growth,Transcription initiation factor IIB 3 (TFIIB 3)
+VNG6379C,growth,
+VNG0037H,stress,
+VNG0038H,stress,
+VNG0039H,stress,"putative transcription regulator, ArsR Predicted transcriptional regulators (COG0640)"
+VNG0066H,stress,"potential transcriptional regulator, strong Rosetta match to E. coli transcriptional regulator"
+VNG0067H,stress,
+VNG0069H,stress,
+VNG0070H,stress,"putative cytotoxic translational repressor of toxin-antitoxin stability system [Translation, ribosomal structure and biogenesis / Cell division and chromosome partitioning]"
+VNG0090G,stress,Molybdenum cofactor biosynthesis protein
+VNG0097G,stress,Putative heat shock protein
+VNG0102C,stress,
+VNG0125H,stress,
+VNG0129G,stress,Heat shock protein
+VNG0141H,stress,
+VNG0153C,stress,
+VNG0154G,stress,putative dihydrolipoamide Dehydrogenase
+VNG0156C,stress,putative transcription regulator
+VNG0162G,stress,Medium-chain acyl-CoA ligase
+VNG0176H,stress,putative histone acetyl transferase
+VNG0180G,stress,Halorhodopsin precursor (HR)
+VNG0192G,stress,Cell division protein ftsZ homolog
+VNG0194H,stress,putative transcription regulator of the CopG family
+VNG0195H,stress,
+VNG0219H,stress,
+VNG0220H,stress,
+VNG0222C,stress,
+VNG0226G,stress,Serine proteinase
+VNG0227H,stress,
+VNG0261H,stress,
+VNG0262C,stress,
+VNG0265G,stress,Cell division protein
+VNG0270C,stress,
+VNG0274C,stress,
+VNG0281G,stress,Sarcosine oxidase
+VNG0282H,stress,
+VNG0283C,stress,"molecular chaperone (small heat shock protein, Hsp20)"
+VNG0289H,stress,
+VNG0291H,stress,
+VNG0293H,stress,"putative transcription regulator, Rosetta predicted structure matched CATH class 1.10.10.10"
+VNG0303G,stress,Putative protease La homolog type 
+VNG0320H,stress,ArsR family transcription reglator
+VNG0321G,stress,putative membrane-associated protease with homology to HflC.
+VNG0322H,stress,
+VNG0346H,stress,
+VNG0352H,stress,
+VNG0360C,stress,
+VNG0367H,stress,
+VNG0368C,stress,
+VNG0382G,stress,Shikimate 5-dehydrogenase
+VNG0383H,stress,
+VNG0402H,stress,
+VNG0409C,stress,Prolyl Oligopeptidase
+VNG0414G,stress,Phosphoribosylaminoimidazole-succinocarboxamide formyltransferase
+VNG0422G,stress,Putative cytochrome P450 174A1
+VNG0437C,stress,puatative metal-dependent carboxypeptidase
+VNG0444G,stress,Dihydrodipicolinate synthase; putative KDPG aldolase (based on R1 annotation)
+VNG0447H,stress,
+VNG0458G,stress,Phosphate regulatory protein homolog
+VNG0482H,stress,
+VNG0484G,stress,Acetyl-CoA synthetase
+VNG0500G,stress,3-isopropylmalate dehydratase
+VNG0502G,stress,Aspartate aminotransferase
+VNG0518H,stress,
+VNG0520H,stress,
+VNG0525C,stress,COG: Predicted membrane components of an uncharacterized iron-regulated ABC-type transporter SufB
+VNG0533H,stress,
+VNG0534C,stress,
+VNG0553C,stress,
+VNG0557H,stress,putative intracellular cysteine protease homolog of Pyrococcus PfpI
+VNG0579H,stress,
+VNG0602C,stress,
+VNG0606G,stress,Cysteine synthase
+VNG0614G,stress,Htr16 transducer
+VNG0622H,stress,putative NAD/FAD-containing oxidoreductase
+VNG0632G,stress,Phosphoribosylaminoimidazole carboxylase ATP binding subunit
+VNG0633G,stress,Phosphoribosylaminoimidazole carboxylase catalytic subunit
+VNG0651G,stress,Hypothetical protein VNG0651G
+VNG0653G,stress,"Methylmalonyl-CoA mutase, subunit alpha"
+VNG0654C,stress,"putative histone acetyl transferase, Function assigned on the bais of a strong match to COG0454"
+VNG0673G,stress,Methylmalonyl-CoA mutase
+VNG0674C,stress,
+VNG0675C,stress,
+VNG0679G,stress,Acyl-CoA dehydrogenase
+VNG0689G,stress,"ABC transporter, ATP-binding protein"
+VNG0690C,stress,
+VNG0698H,stress,
+VNG0704C,stress,putative transcription regulator
+VNG0705C,stress,
+VNG0708H,stress,
+VNG0709C,stress,
+VNG0715G,stress,Thiamine biosynthesis protein
+VNG0743H,stress,Universal stress protein (UspA) and related nucleotide-binding proteins PF00582. 
+VNG0745G,stress,Spore cortex synthesis protein
+VNG0746C,stress,
+VNG0748G,stress,putative kinase
+VNG0749G,stress,Protein kinase
+VNG0750C,stress,putative GAF domain-containing protein (PF1590)
+VNG0751C,stress,putative transcription regulator (PadR family)
+VNG0764C,stress,"NAD kinase, ATP-NAD kinase PF01513."
+VNG0766G,stress,"Phosphate regulatory protein homolog, Also has SpoVT/AbrB domain in the N-terminus"
+VNG0768H,stress,
+VNG0794G,stress,ABC transporter (Lipoprotein)
+VNG0796G,stress,Cystathionine gamma-synthase
+VNG0798H,stress,
+VNG0799C,stress,
+VNG0801C,stress,twin-arginine protein translocation protein
+VNG0810H,stress,
+VNG0813G,stress,Spermidine/putrescine-binding protein
+VNG0841G,stress,Carbonic anhydrase
+VNG0849C,stress,
+VNG0878G,stress,predicted transcriptional regulator with predicted CBS domain
+VNG0880G,stress,"Proteasome, subunit alpha"
+VNG0906H,stress,
+VNG0931G,stress,3-ketoacyl-CoA thiolase
+VNG0932C,stress,
+VNG0934H,stress,
+VNG0941C,stress,
+VNG0945H,stress,capsid protein
+VNG0946G,stress,Cell division inhibitor
+VNG0949G,stress,Type II secretion system protein
+VNG0950G,stress,Flagella-related protein H
+VNG0953C,stress,"archaeal flagellin-associated protein, This family appears to be distantly related to Arch_flagellin and FlaF_arch which are also components of the archaeal flagellar."
+VNG0954C,stress,"Flagellar Accessory protein D or E, Family of archaeal flaD and flaE proteins. Conserved region found at N-terminus of flaE but towards the C-terminus of flaD.  FlaD and FlaE, are membrane-associated proteins but are not major components of flagella."
+VNG0955G,stress,Flagella-related protein E
+VNG0963G,stress,Phycocyanin alpha phycocyanobilin lyase-like
+VNG0964C,stress,
+VNG0966G,stress,Chemotaxis protein
+VNG0967G,stress,Chemotaxis protein
+VNG0969H,stress,
+VNG0970G,stress,CHEA histidine kinase (Chemotaxis protein)
+VNG0971G,stress,Chemotaxis protein
+VNG0973G,stress,Protein-glutamate methylesterase 
+VNG0974G,stress,CHEY and CHEB genes (Chemotaxis protein)
+VNG0976G,stress,Chemotaxis protein
+VNG0978H,stress,
+VNG0991H,stress,
+VNG0992H,stress,
+VNG0995H,stress,
+VNG0997G,stress,Acetyl-CoA synthetase
+VNG0999H,stress,
+VNG1002H,stress,
+VNG1015H,stress,
+VNG1017H,stress,
+VNG1018G,stress,Alcohol dehydrogenase
+VNG1020C,stress,
+VNG1023C,stress,Zn-binding alcohol dehydrogenase
+VNG1024C,stress,6-pyruvoyl-tetrahydropterin synthase
+VNG1025H,stress,
+VNG1046H,stress,
+VNG1047H,stress,
+VNG1048G,stress,UDP-glucose dehydrogenase
+VNG1052H,stress,
+VNG1057C,stress,
+VNG1059C,stress,
+VNG1060H,stress,
+VNG1063H,stress,
+VNG1085H,stress,
+VNG1086C,stress,
+VNG1087C,stress,
+VNG1088C,stress,
+VNG1092C,stress,
+VNG1121G,stress,Aspartate aminotransferase
+VNG1168C,stress,
+VNG1175G,stress,PhoR protein homolog
+VNG1185G,stress,Coenzyme PQQ synthesis protein
+VNG1189H,stress,
+VNG1190G,stress,Superoxide dismutase [Mn] 1 
+VNG1200H,stress,
+VNG1213C,stress,Archaeal DNA polymerase
+VNG1214H,stress,
+VNG1233G,stress,X-pro aminopeptidase homolog
+VNG1261H,stress,
+VNG1264C,stress,
+VNG1272C,stress,
+VNG1273G,stress,Molybdenum cofactor biosynthesis protein
+VNG1276C,stress,
+VNG1295H,stress,
+VNG1313G,stress,3-hydroxyacyl-CoA dehydrogenase
+VNG1315H,stress,
+VNG1326H,stress,
+VNG1332G,stress,Superoxide dismutase [Mn] 2 
+VNG1337C,stress,
+VNG1339C,stress,
+VNG1342G,stress,"N5,N10-methylenetetrahydromethanopterin reductase"
+VNG1364G,stress,putative alanine dehydrogenase of the Ornithine cyclodeaminase/mu-crystallin family
+VNG1372C,stress,
+VNG1380H,stress,
+VNG1406G,stress,putative DNA helicase
+VNG1412H,stress,
+VNG1413H,stress,
+VNG1422H,stress,
+VNG1423H,stress,
+VNG1425H,stress,
+VNG1446H,stress,
+VNG1458G,stress,Phytoene synthase
+VNG1459H,stress,
+VNG1463G,stress,Bacterio-opsin linked product
+VNG1464G,stress,Bacterio-opsin activator
+VNG1465G,stress,Bacteriorhodopsin related protein
+VNG1467G,stress,Bacteriorhodopsin precursor (BR)
+VNG1468H,stress,
+VNG1524C,stress,
+VNG1534H,stress,
+VNG1536C,stress,Universal stress protein (UspA) and related nucleotide-binding proteins PF00582.
+VNG1540G,stress,Glucose 1-dehydrogenase
+VNG1546H,stress,
+VNG1547C,stress,
+VNG1595C,stress,"putative molybdate transport protein, permease component of ABC transporter"
+VNG1601G,stress,Glycine dehydrogenase subunit 2
+VNG1603G,stress,Glycine dehydrogenase subunit 1
+VNG1609C,stress,
+VNG1621H,stress,
+VNG1625H,stress,
+VNG1630H,stress,
+VNG1632G,stress,Cobalt transport protein
+VNG1634G,stress,Cobalt transport protein cbiN
+VNG1645H,stress,
+VNG1658C,stress,
+VNG1660G,stress,Sensory rhodopsin I (SR-I)
+VNG1663C,stress,
+VNG1664H,stress,
+VNG1667G,stress,CdcH protein
+VNG1675H,stress,
+VNG1676G,stress,GTP-binding protein homolog
+VNG1678H,stress,
+VNG1680G,stress,Phytoene synthase
+VNG1733G,stress,Htr17 transducer
+VNG1740C,stress,
+VNG1743C,stress,"DNA-directed RNA polymerase subunit M/Transcription elongation factor TFIIS-related protein, COG1594\nPFAM2150 (RNA pol M), PFAM1096 (TFIIS)\nStrong PDB match to archaeal general transcription factor"
+VNG1744H,stress,
+VNG1748C,stress,
+VNG1754G,stress,Photolyase/cryptochrome
+VNG1762G,stress,Putative ABC transporter
+VNG1793C,stress,Pyridoxine biosynthesis enzyme
+VNG1794C,stress,"Staphylococcal nuclease homolog (putative ssDNA binding function), Staphylococcus aureus nuclease (SNase) domain is present as four repeats in the human cellular coactivator p100. These repeats may mediate p100's single-stranded DNA-binding function PUBMED:9041650. "
+VNG1800H,stress,
+VNG1801G,stress,Small heat shock protein
+VNG1802H,stress,
+VNG1806H,stress,"succinate dehydrogenase/fumarate reductase, flavoprotein subunits COG1053."
+VNG1821G,stress,Alcohol dehydrogenase
+VNG1822G,stress,Molybdenum cofactor biosynthesis protein
+VNG1823C,stress,
+VNG1826H,stress,
+VNG1838H,stress,
+VNG1853G,stress,Translation initiation factor eIF-2B subunit alpha
+VNG1857C,stress,"putative leucine binding protein, This family includes extracellular ligand binding domains of a wide range of receptors. This family also includes the bacterial amino acid binding proteins of known structure."
+VNG1865H,stress,
+VNG1893G,stress,ABC transport protein
+VNG1898C,stress,Universal stress protein UspA and related nucleotide-binding proteins PF00582.
+VNG1899G,stress,Circadian regulator
+VNG1904H,stress,
+VNG1922G,stress,"Transcription regulator, COG 1522:transcriptional regulators (PRT=44).  "
+VNG1924G,stress,TRK potassium uptake system protein
+VNG1925H,stress,
+VNG1932G,stress,NADH dehydrogenase/oxidoreductase-like protein
+VNG1940H,stress,
+VNG1942H,stress,
+VNG1943H,stress,
+VNG1960H,stress,
+VNG1973H,stress,
+VNG1977H,stress,
+VNG2006C,stress,member of the PP-loop superfamily (PF01171).
+VNG2008H,stress,
+VNG2014H,stress,
+VNG2027H,stress,
+VNG2031G,stress,NAD+ synthetase
+VNG2036G,stress,"putative response regulator, COG0784:cheY-like receiver domain\nPFAM00072:response regulator receiver domain"
+VNG2044H,stress,
+VNG2081H,stress,
+VNG2101H,stress,
+VNG2104G,stress,Potassium channel homolog
+VNG2109H,stress,
+VNG2120G,stress,Proline dehydrogenase
+VNG2122G,stress,Branched-chain amino acid aminotransferase
+VNG2125G,stress,GTP cyclohydrolase II
+VNG2126C,stress,putative transcription regulator
+VNG2130G,stress,Cell division inhibitor
+VNG2154C,stress,
+VNG2157C,stress,
+VNG2170H,stress,"probable nitrogen storage protein, Matches a domain called cupin present in auxin binding proteins, proteins of this family in plants serve as a nitrogen source for germinating seeds."
+VNG2176H,stress,
+VNG2186G,stress,Histidine triad protein
+VNG2191H,stress,
+VNG2193G,stress,Cytochrome c oxidase subunit I
+VNG2195G,stress,Cytochrome c oxidase subunit II
+VNG2196G,stress,Halocyanin precursor-like
+VNG2238C,stress,
+VNG2247G,stress,ATP phosphoribosyltransferase 
+VNG2259C,stress,
+VNG2260H,stress,
+VNG2271G,stress,Orc / cell division control protein 6
+VNG2281C,stress,
+VNG2302G,stress,Acylaminoacyl-peptidase
+VNG2310H,stress,
+VNG2311H,stress,
+VNG2321G,stress,Putative acetyltransferase
+VNG2328H,stress,
+VNG2329C,stress,
+VNG2337C,stress,
+VNG2340H,stress,
+VNG2349G,stress,Dipeptide ABC transporter dipeptide-binding
+VNG2358G,stress,Oligopeptide binding protein
+VNG2359G,stress,Oligopeptide ABC permease
+VNG2361G,stress,Oligopeptide transport permease protein
+VNG2363G,stress,Oligopeptide ABC transporter ATP-binding
+VNG2365G,stress,Oligopeptide ABC transporter ATP-binding
+VNG2372G,stress,DNA repair protein
+VNG2377G,stress,ABC-type transport system permease
+VNG2378G,stress,Copper transport ATP-binding protein
+VNG2385H,stress,
+VNG2392H,stress,
+VNG2393G,stress,Probable thiosulfate sulfurtransferase
+VNG2394G,stress,Thiosulfate sulfurtransferase
+VNG2400H,stress,
+VNG2412H,stress,
+VNG2413H,stress,
+VNG2418G,stress,Aspartate aminotransferase
+VNG2423G,stress,Phosphoserine phosphatase
+VNG2424G,stress,Phosphoglycerate dehydrogenase
+VNG2430G,stress,Threonine synthase
+VNG2431C,stress,
+VNG2432C,stress,
+VNG2433H,stress,
+VNG2436G,stress,Argininosuccinate lyase
+VNG2437G,stress,Argininosuccinate synthetase
+VNG2441G,stress,Helicase
+VNG2443G,stress,Starvation induced DNA binding protein
+VNG2473G,stress,DNA repair and recombination protein radA
+VNG2477H,stress,
+VNG2480H,stress,Uncharacterized conserved protein
+VNG2483G,stress,Phosphate ABC transporter permease
+VNG2484G,stress,Phosphate transporter permease
+VNG2486G,stress,Phosphate ABC transporter binding
+VNG2508C,stress,
+VNG2513G,stress,Aldehyde dehydrogenase (Retinol)
+VNG2520C,stress,
+VNG2522C,stress,"putative histone acetyltransferase, COG0454:histone acetyltransferase HPA2 (PET=64)\nPF00583:GNAT acetyltransferase family\nPDB match: Yeast Gna1 (Glucosamine-Phosphate N-Acetyltransferase) "
+VNG2523H,stress,
+VNG2526G,stress,Dipeptide ABC transporter ATP-binding
+VNG2527G,stress,Dipeptide ABC transporter ATP-binding
+VNG2529G,stress,Dipeptide ABC transporter permease
+VNG2531G,stress,Dipeptide ABC transporter permease
+VNG2532H,stress,
+VNG2537G,stress,Isochorismatase
+VNG2539H,stress,
+VNG2543C,stress,
+VNG2569H,stress,
+VNG2573G,stress,Halolysin
+VNG2593H,stress,
+VNG2594C,stress,
+VNG2603H,stress,
+VNG2604G,stress,Putative thiazole biosynthetic enzyme
+VNG2606G,stress,Hydroxymethylpyrimidine phosphate kinase
+VNG2610C,stress,
+VNG2611G,stress,GTP-binding protein
+VNG2616G,stress,Probable carboxypeptidase
+VNG2617G,stress,Alcohol dehydrogenase
+VNG2619H,stress,
+VNG2627C,stress,
+VNG2631H,stress,
+VNG2641H,stress,
+VNG2644C,stress,
+VNG2645H,stress,
+VNG2673H,stress,
+VNG2674H,stress,
+VNG5143C,stress,
+VNG5145H,stress,"likely involved in protein transport, The Robetta server predicted this function based on a pdb-blast match (over residues 1-133aa) to crystal structure(1tf2A) of B. subtilis SecA protein (over residues 330-447) (complexed with ADP)."
+VNG6179G,stress,potassium transport operon regulator
+VNG6195H,stress,putative RNA-binding protein
+VNG6201G,stress,Heat shock protease protein
+VNG6206H,stress,
+VNG6218G,stress,TRK potassium uptake system protein
+VNG6235G,stress,GvpH protein 2
+VNG6236G,stress,GvpG protein 2
+VNG6237G,stress,GvpF protein 2
+VNG6239G,stress,GvpE protein 2
+VNG6240G,stress,GvpD protein 2
+VNG6241G,stress,Gas vesicle structural protein 2 (GVP) (C-VAC)
+VNG6246G,stress,GvpO protein 2
+VNG6251H,stress,
+VNG6255C,stress,
+VNG6262G,stress,"ABC transporter, permease protein"
+VNG6264G,stress,"ABC transporter, ATP-binding protein"
+VNG6265G,stress,Adhesion protein
+VNG6277G,stress,Glycerol-3-phosphate-binding protein precursor
+VNG6279G,stress,Sn-glycerol-3-phosphate transport system permease
+VNG6280G,stress,Sn-glycerol-3-phosphate transport system permease
+VNG6281G,stress,Sn-glycerol-3-phosphate transport system ATP-binding
+VNG6296C,stress,
+VNG6301G,stress,Alkaline phosphatase
+VNG6313G,stress,"arcD, arginine/ornithine antiporter "
