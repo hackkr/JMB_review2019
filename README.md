@@ -7,16 +7,13 @@ Author: Rylee K. Hackley
 rkh11@duke.edu
 
 ## Files
-
-code:
- contains all scripts and analysis, including access and download of raw data files
- 
-data:
- contains COG annotations of Hbt. salinarum and S. cerevisiae genomes, GO annotations, protein acc to gene locus name conversion files, and COG category descriptions.
- Details and scripts generating the conversion files areis avialable upon request
-
-output:
- contains the results of data wranging, gene-by-gene clustering, COG enrichment, and all figures
+* code:
+  - contains all scripts and analysis, including access and download of raw data files
+* data:
+  - contains COG annotations of Hbt. salinarum and S. cerevisiae genomes, GO annotations, protein acc to gene locus name conversion files, and COG category descriptions.
+  - Details and scripts generating the conversion files areis avialable upon request
+* output:
+  - contains the results of data wranging, gene-by-gene clustering, COG enrichment, and all figures
 
 ## Edit log
 2018-08-20 	created
