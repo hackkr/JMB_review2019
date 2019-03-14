@@ -1,0 +1,62 @@
+acc,NOGs,COG_category,HMM_description,locus_tag,cluster
+NP_009390.1,COG0626@NOG,E,Cys/Met metabolism PLP-dependent enzyme,YAL012W,1
+NP_009560.1,COG1012@NOG,E,Aldehyde dehydrogenase family,YBR006W,2
+NP_009624.4,COG0833@NOG,E,amino acid transmembrane transporter activity,YBR068C,1
+NP_009625.1,COG0833@NOG,E,Amino acid permease,YBR069C,1
+NP_009690.1,COG0833@NOG,E,Amino acid permease,YBR132C,2
+NP_009808.1,COG0722@NOG,E,Stereospecific condensation of phosphoenolpyruvate (PEP) and D-erythrose-4-phosphate (E4P) giving rise to 3-deoxy-D- arabino-heptulosonate-7-phosphate (DAHP) (By similarity),YBR249C,1
+NP_009905.3,COG0833@NOG,E,proline transmembrane transport,YCL025C,1
+NP_009900.2,COG0139@NOG COG0140@NOG COG0141@NOG,E,Histidine biosynthesis trifunctional protein,YCL030C,1
+NP_001018030.1,COG1171@NOG,E,Pyridoxal-phosphate dependent enzyme,YCL064C,1
+NP_010099.1,COG0119@NOG,E,homocitrate synthase,YDL182W,1
+NP_010302.1,COG0404@NOG,E,The glycine cleavage system catalyzes the degradation of glycine (By similarity),YDR019C,1
+NP_010331.3,COG0833@NOG,E,amino acid transmembrane transporter activity,YDR046C,1
+NP_010396.1,COG0436@NOG,E,alanine aminotransferase,YDR111C,1
+NP_010442.3,COG0136@NOG,E,aspartate-semialdehyde dehydrogenase,YDR158W,1
+NP_010520.3,COG1048@NOG,E,Responsible for the dehydration of cis-homoaconitate to homoisocitric acid,YDR234W,1
+NP_010607.3,COG0252@NOG,E,Asparaginase,YDR321W,1
+NP_010668.3,COG3961@NOG,E,"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain",YDR380W,2
+NP_010753.1,10T2S@NOG,E,Arginine N-methyltransferase 2,YDR465C,1
+NP_010796.1,COG0833@NOG,E,proline transmembrane transport,YDR508C,1
+NP_010972.1,COG0527@NOG,E,Aspartokinase,YER052C,1
+NP_010975.3,COG0040@NOG,E,Catalyzes the condensation of ATP and 5-phosphoribose 1- diphosphate to form N'-(5'-phosphoribosyl)-ATP (PR-ATP). Has a crucial role in the pathway because the rate of histidine biosynthesis seems to be controlled primarily by regulation of the enzymatic activity (By similarity),YER055C,1
+NP_010992.1,COG0002@NOG COG0548@NOG,E,Protein of unknown function (DUF619),YER069W,2
+NP_011004.3,COG0111@NOG,E,"3-phosphoglycerate dehydrogenase, catalyzes the first step in serine and glycine biosynthesis",YER081W,2
+NP_011009.1,COG1171@NOG,E,C-terminal regulatory domain of Threonine dehydratase,YER086W,1
+NP_011015.3,COG0620@NOG,E,"Cobalamin-independent synthase, Catalytic domain",YER091C,1
+NP_116686.3,COG0369@NOG COG0674@NOG,E,FAD binding domain,YFR030W,2
+NP_011367.1,COG0082@NOG,E,Chorismate synthase,YGL148W,1
+NP_011331.3,COG0626@NOG,E,cystathionine beta-lyase,YGL184C,2
+NP_011313.1,COG1167@NOG,E,Aromatic amino acid aminotransferase,YGL202W,1
+NP_011533.3,COG0160@NOG,E,Aminotransferase class-III,YGR019W,2
+NP_011640.1,COG0367@NOG,E,Asparagine synthetase,YGR124W,1
+NP_011898.1,COG0263@NOG,E,"Aldehyde dehydrogenase 18 family, member A1",YHR033W,2
+NP_011935.1,COG1899@NOG,E,Catalyzes the NAD-dependent oxidative cleavage of spermidine and the subsequent transfer of the butylamine moiety of spermidine to the epsilon-amino group of a specific lysine residue of the eIF-5A precursor protein to form the intermediate deoxyhypusine residue,YHR068W,1
+NP_012005.1,COG1167@NOG,E,Aminotransferase class I and II,YHR137W,2
+NP_012007.1,COG0252@NOG,E,cell wall assembly,YHR139C,2
+NP_012078.3,COG0115@NOG,E,Branched-chain-amino-acid aminotransferase,YHR208W,1
+NP_012296.1,COG4126@NOG,E,Asp/Glu/Hydantoin racemase,YIR030C,2
+NP_012447.1,COG0078@NOG,E,"Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain",YJL088W,2
+NP_012550.1,COG0129@NOG,E,Dehydratase family,YJR016C,1
+NP_012819.1,COG1362@NOG,E,Aminopeptidase I zinc metalloprotease (M18),YKL103C,2
+NP_012965.3,COG0531@NOG,E,Amino acid permease,YKR039W,2
+NP_013159.1,COG0112@NOG,E,Interconversion of serine and glycine (By similarity),YLR058C,1
+NP_013243.1,COG0506@NOG,E,Proline dehydrogenase,YLR142W,2
+NP_013402.1,COG0405@NOG,E,Gamma-glutamyltranspeptidase,YLR299W,2
+NP_013406.1,COG2873@NOG,E,cysteine synthase activity,YLR303W,2
+NP_013542.1,COG4992@NOG,E,ornithine-oxo-acid transaminase (EC 2.6.1.13),YLR438W,2
+NP_013914.1,COG0403@NOG COG1003@NOG,E,Glycine cleavage system P-protein,YMR189W,1
+NP_013976.1,COG0076@NOG,E,Pyridoxal-dependent decarboxylase conserved domain,YMR250W,2
+NP_014054.3,COG2040@NOG,E,Homocysteine s-methyltransferase,YMR321C,1
+NP_014361.1,COG0473@NOG,E,isocitrate dehydrogenase (NAD+) activity,YNL037C,2
+NP_014239.1,COG0252@NOG,E,cell wall assembly,YNL160W,2
+NP_014448.1,COG1748@NOG,E,Saccharopine dehydrogenase (NADP,YNR050C,1
+NP_014583.2,COG0137@NOG,E,Arginosuccinate synthase,YOL058W,2
+NP_014779.1,COG0473@NOG,E,isocitrate dehydrogenase (NAD+) activity,YOR136W,2
+NP_015020.3,COG0334@NOG,E,glutamate dehydrogenase,YOR375C,1
+NP_015058.1,COG0531@NOG,E,Amino acid permease,YPL265W,2
+NP_015050.1,COG2040@NOG,E,homocysteine S-methyltransferase activity,YPL273W,1
+NP_015360.2,COG0174@NOG,E,glutamine synthetase,YPR035W,1
+NP_015385.1,COG1605@NOG,E,chorismate mutase,YPR060C,1
+NP_015471.1,COG0367@NOG,E,Asparagine synthetase,YPR145W,1
+NP_015493.1,COG0175@NOG,E,Phosphoadenosine phosphosulfate reductase family,YPR167C,2

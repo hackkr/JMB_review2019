@@ -1,0 +1,59 @@
+acc,old_locus_tag,annotation,NOGs,COG_category,HMM_description,cluster
+WP_010902074.1,VNG0161G,glutamate dehydrogese,COG0334@NOG,E,glutamate dehydrogenase,2
+WP_010902119.1,VNG0219H,DUF4129 domain-containing protein,0YSS6@NOG,E,Inherit from NOG: S-layer-related duplication domain protein,2
+WP_010902180.1,VNG0305G,indole-3-glycerol-phosphate synthase,COG0134@NOG,E,Indole-3-glycerol phosphate synthase,2
+WP_010902181.1,VNG0307G,tryptophan synthase subunit beta,COG0133@NOG,E,The beta subunit is responsible for the synthesis of L- tryptophan from indole and L-serine (By similarity),2
+WP_010902182.1,VNG0308G,tryptophan synthase subunit alpha,COG0159@NOG,E,The alpha subunit is responsible for the aldol cleavage of indoleglycerol phosphate to indole and glyceraldehyde 3- phosphate (By similarity),2
+WP_012289139.1,VNG0314G,3-dehydroquise,COG0710@NOG,E,Type I DHQase,2
+WP_010902239.1,VNG0387G,aminodeoxychorismate lyase,COG0115@NOG,E,amino acid aminotransferase,2
+WP_010902257.1,VNG0409C,S9 family peptidase,COG1506@NOG,E,peptidase S9 prolyl oligopeptidase active site domain protein,2
+WP_010902286.1,VNG0446G,glucose dehydrogese,COG1063@NOG,E,Catalyzes the NAD(P)( )-dependent oxidation of D-glucose to D-gluconate via gluconolactone. Can utilize both NAD( ) and NADP( ) as electron acceptor. Is involved in the degradation of glucose through a modified Entner-Doudoroff pathway (By similarity),2
+WP_010902330.1,VNG0502G,aspartate aminotransferase,COG0436@NOG,E,aminotransferase class I and II,2
+WP_010902402.1,VNG0595H,VOC family protein,COG0346@NOG,E,glyoxalase bleomycin resistance protein dioxygenase,2
+WP_010902567.1,VNG0813G,spermidine/putrescine ABC transporter substrate-binding protein,COG0687@NOG,E,Extracellular solute-binding protein family 1,2
+WP_010902644.1,VNG0915G,aminotransferase class V-fold PLP-dependent enzyme,COG3844@NOG,E,"Catalyzes the cleavage of L-kynurenine (L-Kyn) and L-3- hydroxykynurenine (L-3OHKyn) into anthranilic acid (AA) and 3- hydroxyanthranilic acid (3-OHAA), respectively (By similarity)",2
+WP_010902730.1,VNG1023C,oxidoreductase,COG1063@NOG,E,alcohol dehydrogenase,2
+WP_010902806.1,VNG1121G,aspartate aminotransferase,COG0436@NOG,E,Aminotransferase,2
+WP_010902836.1,VNG1162H,hypothetical protein,COG0620@NOG,E,Cobalamin-independent synthase MetE domain protein,2
+WP_010902873.1,VNG1208G,urocate hydratase,COG2987@NOG,E,urocanate hydratase (EC 4.2.1.49),2
+WP_010902874.1,VNG1209G,formimidoylglutamase,COG0010@NOG,E,Arginase family,2
+WP_010902875.1,VNG1211G,imidazolonepropiose,COG1228@NOG,E,Imidazolone-5-propionate hydrolase,2
+WP_012289292.1,VNG1212G,histidine ammonia-lyase,COG2986@NOG,E,histidine ammonia-lyase,2
+WP_010902893.1,VNG1235C,prephete dehydrogese/arogete dehydrogese family protein,COG0287@NOG,E,prephenate dehydrogenase,2
+WP_010902943.1,VNG1301G,cysteine synthase,COG0031@NOG,E,Cysteine synthase,2
+WP_010902996.1,VNG1372C,hypothetical protein,10ZXU@NOG,E,Inherit from arCOG: domain protein,2
+WP_010903155.1,VNG1582G,threonine-phosphate decarboxylase,COG0079@NOG,E,L-threonine-O-3-phosphate decarboxylase,2
+WP_010903199.1,VNG1646G,glutamine amidotransferase,COG0512@NOG,E,anthranilate synthase,2
+WP_010903200.1,VNG1647G,anthranilate synthase component I,COG0147@NOG,E,anthranilate synthase component I,2
+WP_010903201.1,VNG1648G,N-(5'-phosphoribosyl)anthranilate isomerase,COG0135@NOG,E,N-(5'phosphoribosyl)anthranilate isomerase,2
+WP_010903202.1,VNG1649G,anthranilate phosphoribosyltransferase,COG0547@NOG,E,anthranilate phosphoribosyltransferase (EC 2.4.2.18),2
+WP_010903313.1,VNG1797G,homoserine kise,COG0083@NOG,E,Catalyzes the ATP-dependent phosphorylation of L- homoserine to L-homoserine phosphate (By similarity),2
+WP_010903367.1,VNG1867G,ABC transporter permease,COG1177@NOG,E,spermidine putrescine ABC transporter permease,2
+WP_010903369.1,VNG1869C,hypothetical protein,COG0687@NOG,E,Inherit from arCOG: Extracellular solute-binding protein family 1,2
+WP_010903371.1,VNG1872C,asparagise,COG1446@NOG,E,asparaginase,2
+WP_010903403.1,VNG1912G,anthranilate phosphoribosyltransferase,COG0547@NOG,E,anthranilate phosphoribosyltransferase (EC 2.4.2.18),2
+WP_012289415.1,VNG2001G,oligoendopeptidase F,COG1164@NOG,E,oligoendopeptidase F,2
+WP_010903536.1,VNG2087G,imidazole glycerol phosphate synthase subunit HisH,COG0118@NOG,E,"IGPS catalyzes the conversion of PRFAR and glutamine to IGP, AICAR and glutamate. The HisH subunit provides the glutamine amidotransferase activity that produces the ammonia necessary to HisF for the synthesis of IGP and AICAR (By similarity)",2
+WP_010903546.1,VNG2100G,threonine ammonia-lyase,COG1171@NOG,E,Threonine dehydratase,2
+WP_010903701.1,VNG2286G,methylaspartate mutase,COG2185@NOG,E,Glutamate mutase subunit sigma,2
+WP_010903702.1,VNG2288G,glutamate mutase,COG4865@NOG,E,Methylaspartate mutase,2
+WP_010903716.1,VNG2302G,S9 family peptidase,COG1506@NOG,E,peptidase S9 prolyl oligopeptidase active site domain protein,2
+WP_010903759.1,VNG2358G,peptide-binding protein,COG0747@NOG,E,Extracellular solute-binding protein family 5,2
+WP_010903760.1,VNG2359G,ABC transporter permease,COG0601@NOG,E,ABC transporter permease,2
+WP_010903761.1,VNG2361G,ABC transporter permease,COG1173@NOG,E,transport,2
+WP_012289492.1,VNG2363G,ABC transporter ATP-binding protein,COG0444@NOG,E,Oligopeptide dipeptide ABC transporter ATPase,2
+WP_010903763.1,VNG2365G,ABC transporter ATP-binding protein,COG4608@NOG,E,ABC transporter,2
+WP_012289504.1,VNG2420G,homoserine O-acetyltransferase,COG2021@NOG,E,homoserine o-acetyltransferase (EC 2.3.1.31),2
+WP_010903810.1,VNG2421G,O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase,COG2873@NOG,E,O-acetylhomoserine O-acetylserine sulfhydrylase,2
+WP_010903816.1,VNG2430G,threonine synthase,COG0498@NOG,E,Catalyzes the gamma-elimination of phosphate from L- phosphohomoserine and the beta-addition of water to produce L- threonine (By similarity),2
+WP_010903820.1,VNG2436G,argininosuccite lyase,COG0165@NOG,E,argininosuccinate lyase,2
+WP_010903821.1,VNG2437G,argininosuccite synthase,COG0137@NOG,E,argininosuccinate synthase (EC 6.3.4.5),2
+WP_012289509.1,VNG2447G,low specificity L-threonine aldolase,COG2008@NOG,E,threonine aldolase (EC 4.1.2.5),2
+WP_012289523.1,VNG2527G,ABC transporter substrate-binding protein,COG0747@NOG,E,ABC-type transport system periplasmic substrate-binding protein,2
+WP_010903892.1,VNG2531G,ABC transporter permease,COG1173@NOG,E,binding-protein-dependent transport systems inner membrane component,2
+WP_010903903.1,VNG2546G,aminopeptidase,COG2309@NOG,E,aminopeptidase,2
+WP_010903957.1,VNG2616G,carboxypeptidase M32,COG2317@NOG,E,carboxypeptidase taq,2
+WP_010904059.1,VNG6179G,universal stress protein,COG0531@NOG COG0589@NOG,E,Amino acid permease,2
+WP_010904159.1,VNG6315G,ornithine carbamoyltransferase,COG0078@NOG,E,ornithine carbamoyltransferase,2
+WP_010904160.1,VNG6316G,carbamate kise,COG0549@NOG,E,carbamate kinase-like carbamoyl phosphate synthetase,2
+WP_010904161.1,VNG6317G,arginine deimise,COG2235@NOG,E,Arginine deiminase,2
