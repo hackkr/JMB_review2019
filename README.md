@@ -3,7 +3,8 @@ analyses and figures
 Data exploration for the environmental stress response in archaea
 
 Created: 2018-08-20
-Author: Rylee K. Hackley	rkh11@duke.edu
+Author: Rylee K. Hackley	
+rkh11@duke.edu
 
 ## Files
 
