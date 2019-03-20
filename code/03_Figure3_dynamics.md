@@ -83,7 +83,7 @@ rbind(a,b) %>%
   scale_linetype_manual(labels = c("High", "Low"), values = c("25C to 37C" = 1, "29C to 33C" = 6)) +
   geom_hline(yintercept =0, color = "black") +
   xlim(0, 65)+ylim(-3,3)+
-  labs(y = "Average expression ratios", x= "Time (minutes)", linetype = "Heat Shock") +
+  labs(y = "time zero standardized average expression ratio", x= "Time (minutes)", linetype = "Heat Shock") +
   theme_classic() + theme(axis.title.x=element_blank(), 
                           axis.title.y=element_blank(),
                           legend.title = element_text(family = "sans", size = 12),
@@ -188,7 +188,7 @@ rbind(d,c) %>%
                         values = c("PQ_Const._set_1_4" = 1, "PQ_Const._set_1_0.25" = 6)) +
   geom_hline(yintercept =0, color = "black") +
   xlim(c(0,250))+ylim(c(-8,8))+
-  labs(y = "Average expression ratio", 
+  labs(y = "time zero standardized average expression ratio", 
        x ="Time (minutes)", 
        linetype = "Oxidative Stress") +
   theme_classic() + theme(axis.title.x=element_blank(), 
@@ -227,7 +227,7 @@ title2 <- ggdraw() +
 
 plot_grid(title1, plots, title2, plots2,ncol = 1, rel_heights = c(0.2, 1, 0.35, 1)) -> plots
 
-y.grob <- textGrob("average expression ratio", 
+y.grob <- textGrob("time zero standardized average expression ratio", 
                    gp=gpar(fontface="bold", col="black", fontsize=12), rot=90)
 x.grob <- textGrob("time (minutes)", 
                    gp=gpar(fontface="bold", col="black", fontsize=12))
@@ -247,4 +247,51 @@ dev.off()
 pdf("../output/figures/Figure3.pdf")
 grid.arrange(arrangeGrob(plots, left = y.grob, bottom = x.grob))
 dev.off()
+```
+
+Same dynamics are present in other conditions (supplemental fig2)
+-----------------------------------------------------------------
+
+H2o2 recovery vs. constant:
+
+copper doses:
+
+zinc doses:
+
+Temp+circadian:
+
+Outliers: UV:
+
+EMS (UV + DNA damage)
+
+Combine:
+
+``` r
+title1 <-  ggdraw()+
+  draw_label("Exposure versus Recovery",  fontfamily = "sans", size = 14, fontface = 'bold', hjust = 0)
+title2 <-  ggdraw()+
+  draw_label("Dose sensitivity",  fontfamily = "sans", size = 14, fontface = 'bold',, hjust = 0)
+title3 <-  ggdraw()+
+  draw_label("DNA and UV damage may elicite a distinct response",  fontfamily = "sans", size = 14, fontface = 'bold', hjust = 0)
+
+plot_grid(
+  plot_grid(title1, NULL, nrow = 1), plot_grid(h2o2, NULL, NULL, nrow = 1),
+  plot_grid(title2, NULL, nrow = 1), plot_grid(copper, zinc, temp, nrow = 1),
+  #plot_grid(title3, NULL, nrow = 1), plot_grid(UV.rad, EMS, NULL, nrow = 1),
+  ncol = 1, rel_heights = c(0.1, 1, 0.1, 1, 0.1, 1)) -> Supp2
+```
+
+export:
+
+``` r
+pdf("../output/figures/SuppFig2.pdf", width = 10, height = 8)
+plot(Supp2)
+dev.off()
+```
+
+    ## png 
+    ##   2
+
+``` r
+#save plot
 ```
