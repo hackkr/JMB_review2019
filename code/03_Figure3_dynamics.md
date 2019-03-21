@@ -83,7 +83,7 @@ rbind(a,b) %>%
   scale_linetype_manual(labels = c("High", "Low"), values = c("25C to 37C" = 1, "29C to 33C" = 6)) +
   geom_hline(yintercept =0, color = "black") +
   xlim(0, 65)+ylim(-3,3)+
-  labs(y = "time zero standardized average expression ratio", x= "Time (minutes)", linetype = "Heat Shock") +
+  labs(y = "Expression fold-change relative to unstressed baseline", x= "Time (minutes)", linetype = "Heat Shock") +
   theme_classic() + theme(axis.title.x=element_blank(), 
                           axis.title.y=element_blank(),
                           legend.title = element_text(family = "sans", size = 12),
@@ -188,7 +188,7 @@ rbind(d,c) %>%
                         values = c("PQ_Const._set_1_4" = 1, "PQ_Const._set_1_0.25" = 6)) +
   geom_hline(yintercept =0, color = "black") +
   xlim(c(0,250))+ylim(c(-8,8))+
-  labs(y = "time zero standardized average expression ratio", 
+  labs(y = "Expression fold-change relative to unstressed baseline", 
        x ="Time (minutes)", 
        linetype = "Oxidative Stress") +
   theme_classic() + theme(axis.title.x=element_blank(), 
@@ -227,7 +227,7 @@ title2 <- ggdraw() +
 
 plot_grid(title1, plots, title2, plots2,ncol = 1, rel_heights = c(0.2, 1, 0.35, 1)) -> plots
 
-y.grob <- textGrob("time zero standardized average expression ratio", 
+y.grob <- textGrob("Expression fold-change relative to unstressed baseline", 
                    gp=gpar(fontface="bold", col="black", fontsize=12), rot=90)
 x.grob <- textGrob("time (minutes)", 
                    gp=gpar(fontface="bold", col="black", fontsize=12))
