@@ -244,7 +244,7 @@ tiff("../output/figures/Figure3.tif", units="in", width=5, height=5, res=300)
 grid.arrange(arrangeGrob(plots, left = y.grob, bottom = x.grob))
 dev.off()
 
-pdf("../output/figures/Figure3.pdf")
+pdf("../output/figures/Figure3.pdf", width = 10, height = 10)
 grid.arrange(arrangeGrob(plots, left = y.grob, bottom = x.grob))
 dev.off()
 ```
@@ -268,7 +268,7 @@ Combine:
 
 ``` r
 title1 <-  ggdraw()+
-  draw_label("Exposure versus Recovery",  fontfamily = "sans", size = 14, fontface = 'bold', hjust = 0)
+  draw_label("Exposure vs. Recovery",  fontfamily = "sans", size = 14, fontface = 'bold', hjust = 0)
 title2 <-  ggdraw()+
   draw_label("Dose sensitivity",  fontfamily = "sans", size = 14, fontface = 'bold',, hjust = 0)
 title3 <-  ggdraw()+
@@ -278,14 +278,15 @@ plot_grid(
   plot_grid(title1, NULL, nrow = 1), plot_grid(h2o2, NULL, NULL, nrow = 1),
   plot_grid(title2, NULL, nrow = 1), plot_grid(copper, zinc, temp, nrow = 1),
   #plot_grid(title3, NULL, nrow = 1), plot_grid(UV.rad, EMS, NULL, nrow = 1),
-  ncol = 1, rel_heights = c(0.1, 1, 0.1, 1, 0.1, 1)) -> Supp2
+  ncol = 1, rel_heights = c(0.1, 1, 0.1, 1), labels = c("A", NA, "B", NA)) -> Supp2
 ```
 
 export:
 
 ``` r
 pdf("../output/figures/SuppFig2.pdf", width = 10, height = 8)
-plot(Supp2)
+grid.arrange(arrangeGrob(Supp2, left = y.grob, bottom = x.grob))
+#plot(Supp2)
 dev.off()
 ```
 
