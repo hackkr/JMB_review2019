@@ -1,8 +1,6 @@
 ---
 title: "Figure 2: COG function enrichments"
-output:
-  html_document:
-    df_print: paged
+output: github_document
 ---
 This notebook contains the analysis to generate figure 2 of the review. In order to perform functional enrichment, we need the distribution of functions in the whole genome. We generated this by using complete Ref Seq protein sequences for each organisms and mapping those sequences to orthologous groups (and functions) using eggnog mapper 4.5. 
 
@@ -130,7 +128,7 @@ NOG.domain.long$cogs <- ordered(NOG.domain.long$cogs, levels = sort(levels(NOG.d
 ggplot(NOG.domain.long, aes(x=Description, y=percent, group = species, fill = species)) +
   geom_bar(aes(group = species), stat="identity", position=position_dodge()) +
   labs(y = "% annotated domains", x = NULL, title = "Domain Functions Across Species") +
-  scale_fill_viridis(option = "C", begin = 0.25, end = 0.75, discrete = T)+
+  scale_fill_viridis(option = "C", begin = 0.05, end = 0.65, discrete = T)+
   coord_flip() + theme_classic() +
   theme(legend.position="bottom", legend.title = element_blank(), legend.spacing.x = unit(0.2, 'cm'))
 ```
@@ -140,7 +138,7 @@ ggplot(NOG.domain.long, aes(x=Description, y=percent, group = species, fill = sp
 filter(NOG.domain.long, species == "hbt.percent") %>%
 ggplot(., aes(x = species, y = percent, fill = cogs, label = cogs)) +
   geom_col(color = "white") +
-  scale_fill_viridis(option = "C", begin = 0.15, discrete = T) +
+  scale_fill_viridis(option = "C", begin = 0.05, discrete = T) +
   labs(x = NULL, y = NULL) + coord_flip() +
   scale_x_discrete(breaks="hbt.percent", labels="Hbt. salinarum") +
   scale_y_continuous(breaks = c(0, 5.49542/2, 6.078268, 9.825146, 14.3214, 16.75687,20.12906, 23.58451, 
@@ -156,7 +154,7 @@ ggplot(., aes(x = species, y = percent, fill = cogs, label = cogs)) +
 filter(NOG.domain.long, species == "sc.percent") %>%
 ggplot(., aes(x = species, y = percent, fill = cogs, label = cogs))+
   geom_col(color = "white") +
-  scale_fill_viridis(option = "C", begin = 0.15, discrete = T)+
+  scale_fill_viridis(option = "C", begin = 0.05, discrete = T)+
   labs(x = NULL, y = NULL)+
   coord_flip()+
   #geom_text(size = 4, position = position_stack(vjust = 0.5))+
@@ -197,7 +195,7 @@ filter(sc.cog.results, probability <= 0.05) %>%
 ggplot(., aes(x=reorder(COG, desc(COG)), y=logp, fill = cluster)) +
   geom_bar(stat="identity", position=position_dodge()) +
   labs(y = "-log(pvalue)", x = NULL, title = "S. cerevisiae") +
-  scale_fill_viridis(option = "C", begin = 0.1, end = 0.9, discrete = T, direction = -1)+
+  scale_fill_viridis(option = "C", begin = 0.05, end = 0.65, discrete = T, direction = -1)+
   scale_x_discrete(limits=c("C", "G", "E", "A", "F", "J"), 
                    labels = c("Energy production\nand conversion", "Carbohydrate transport\nand metabolism", "Amino acid transport\nand metabolism", "RNA processing\nand modification", "Nucleotide transport\nand metabolism", "Translation, ribosome structure\nand biogenesis"))+
   coord_flip() + theme_classic() +
@@ -222,7 +220,7 @@ filter(esr.cog.results, probability <= 0.05) %>%
 ggplot(., aes(x=reorder(COG, desc(COG)), y=logp, fill = cluster)) +
   geom_bar(stat="identity", position=position_dodge()) +
   labs(y = "-log(pvalue)", x = NULL, title = "S. cerevisiae ESR") +
-  scale_fill_viridis(option = "C", begin = 0.1, end = 0.9, discrete = T, direction = -1)+
+  scale_fill_viridis(option = "C", begin = 0.05, end = 0.65, discrete = T, direction = -1)+
   scale_x_discrete(limits=c("S", "C", "O", "G", "A", "F", "J"), 
                    labels = c("Unknown unction", "Energy production\nand conversion", "Post-translational mod\nand chaperons", "Carbohydrate transport\nand metabolism", "RNA processing\nand modification", "Nucleotide transport\nand metabolism", "Translation, ribosome structure\nand biogenesis")) +
   coord_flip() + theme_classic() +
@@ -257,7 +255,7 @@ filter(hbt.cog.results, probability <= 0.05) %>%
 ggplot(., aes(x=reorder(COG, desc(COG)), y=logp, fill = cluster)) +
   geom_bar(stat="identity", position=position_dodge()) +
   labs(y = "-log(pvalue)", x = NULL, title = "Hbt. salinarum") +
-  scale_fill_viridis(option = "C", begin = 0.1, end = 0.9, discrete = T, direction = -1)+
+  scale_fill_viridis(option = "C", begin = 0.05, end = 0.65, discrete = T, direction = -1)+
   scale_x_discrete(limits=c("T", "N", "I", "E", "C","J"), 
                    labels = c("Signal transduction", "Cell motility", "Lipid transport\nand metabolism", "Amino acid transport\nand metabolism", "Energy production\nand conversion", "Translation, ribosome structure\nand biogenesis"))+
   coord_flip() + theme_classic() +
@@ -301,4 +299,3 @@ tiff("../output/figures/cluster_legend.tif", units="in", width=5, height=1, res=
 plot(legends)
 dev.off()
 ```
-
