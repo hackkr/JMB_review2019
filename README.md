@@ -18,3 +18,4 @@ rkh11@duke.edu
 ## Edit log
 2018-08-20 	created
 2019-03-13	updated to reflect folder contents, created github repo
+2019-07-11	updated to reflect responses to reviewers
