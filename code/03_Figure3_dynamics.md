@@ -43,6 +43,7 @@ ex.yeast <- left_join(yeast00.long, sc.clust, by = "gene")
 ex.yeast[is.na(ex.yeast)] <- 0
 
 #get mean expression by conditon for clusters and overall
+#detach(package:plyr)
 ex.yeast %>%
   group_by(cluster, cond) %>%
   summarise(rep = length(expression), avg_expression = mean(expression),
@@ -79,7 +80,7 @@ rbind(a,b) %>%
   ggplot(aes(x=time, y=avg_expression, shape = cond, color = cluster, group= interaction(cond, cluster)))+
   geom_point(show.legend = F, size = 3, fill = NA)+
   geom_line(aes(linetype = cond), size = 1.5, alpha = 0.8) +
-  scale_color_viridis(option = "C", begin = 0.1, end = 0.9, discrete = T, guide = F) +
+  scale_color_viridis(option = "C", begin = 0.05, end = 0.65, discrete = T, guide = F) +
   scale_linetype_manual(labels = c("High", "Low"), values = c("25C to 37C" = 1, "29C to 33C" = 6)) +
   geom_hline(yintercept =0, color = "black") +
   xlim(0, 65)+ylim(-3,3)+
@@ -96,6 +97,31 @@ panel.A
 ```
 
 ![](03_Figure3_dynamics_files/figure-markdown_github/unnamed-chunk-3-1.png)
+
+``` r
+rbind(a,b) %>%
+  ggplot(aes(x=time, y=avg_expression, shape = cond, color = cluster, group= interaction(cond, cluster)))+
+  #geom_point(show.legend = F, size = 3, fill = NA)+
+  #geom_line(aes(linetype = cond), size = 1.5, alpha = 0.8) +
+  stat_smooth(aes(x=time, y=avg_expression, linetype = cond), method = lm, formula = y ~ poly(x, 3), se = FALSE, size =2) +
+  scale_color_viridis(option = "C", begin = 0.05, end = 0.65, discrete = T, guide = F) +
+  scale_linetype_manual(labels = c("High", "Low"), values = c("25C to 37C" = 1, "29C to 33C" = 3)) +
+  geom_hline(yintercept =0, color = "black", size = 1) +
+  xlim(0, 60)+ylim(-2.2,2.2)+
+  labs(y = "Expression relative to unstressed baseline", x= "Time", linetype = "Stress Level") +
+  theme_classic() + theme(axis.line = element_line(colour = "black", size = 1, linetype = "solid"),
+                          axis.ticks = element_blank(), axis.text.x = element_blank(), axis.text.y = element_blank(),
+                          axis.title = element_text(family = "sans", size = 16, face = "bold"),
+                          legend.title = element_text(family = "sans", size = 14),
+                          legend.text = element_text(size = 12, color = "black"),
+                          legend.justification=c(1,0), 
+                          legend.position=c(.9, 0.85),  
+                          legend.background = element_blank(),
+                          legend.key = element_blank()) -> graphical.abs
+ggsave("../output/figures/graphical.png")
+```
+
+    ## Saving 6 x 6 in image
 
 #### Exposure versus removal from stress
 
@@ -183,7 +209,7 @@ rbind(d,c) %>%
   geom_point(show.legend = F, size = 3, fill = NA)+
   scale_shape_manual(values = c(17, 19))+
   geom_line(aes(linetype = condition), size = 1.5, alpha = 0.8) +
-  scale_color_viridis(option = "C", begin = 0.1, end = 0.9, discrete = T, guide = F) + 
+  scale_color_viridis(option = "C", begin = 0.05, end = 0.65, discrete = T, guide = F) + 
   scale_linetype_manual(labels = c("Low", "High"), 
                         values = c("PQ_Const._set_1_4" = 1, "PQ_Const._set_1_0.25" = 6)) +
   geom_hline(yintercept =0, color = "black") +
@@ -270,21 +296,22 @@ Combine:
 title1 <-  ggdraw()+
   draw_label("Exposure vs. Recovery",  fontfamily = "sans", size = 14, fontface = 'bold', hjust = 0)
 title2 <-  ggdraw()+
-  draw_label("Dose sensitivity",  fontfamily = "sans", size = 14, fontface = 'bold',, hjust = 0)
+  draw_label("Dose sensitivity",  fontfamily = "sans", size = 14, fontface = 'bold', hjust = 0)
 title3 <-  ggdraw()+
   draw_label("DNA and UV damage may elicite a distinct response",  fontfamily = "sans", size = 14, fontface = 'bold', hjust = 0)
 
-plot_grid(
-  plot_grid(title1, NULL, nrow = 1), plot_grid(h2o2, NULL, NULL, nrow = 1),
-  plot_grid(title2, NULL, nrow = 1), plot_grid(copper, zinc, temp, nrow = 1),
+plot_grid(title1, h2o2, title2, zinc,
   #plot_grid(title3, NULL, nrow = 1), plot_grid(UV.rad, EMS, NULL, nrow = 1),
   ncol = 1, rel_heights = c(0.1, 1, 0.1, 1), labels = c("A", NA, "B", NA)) -> Supp2
+Supp2
 ```
+
+![](03_Figure3_dynamics_files/figure-markdown_github/unnamed-chunk-17-1.png)
 
 export:
 
 ``` r
-pdf("../output/figures/SuppFig2.pdf", width = 10, height = 8)
+pdf("../output/figures/SuppFig2.pdf", width = 6, height = 10)
 grid.arrange(arrangeGrob(Supp2, left = y.grob, bottom = x.grob))
 #plot(Supp2)
 dev.off()
