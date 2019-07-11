@@ -73,9 +73,9 @@ make.dend <- function(mtx.cor) {
 
 #draws all-by-all heatmap and dendrogram
 heat.plus.dend <- function(corr, dend, dendcluster = 2, key = T) {
-  dend <- color_branches(dend, k=dendcluster, col = plasma(dendcluster, begin = 0.1, end = 0.9))
+  dend <- color_branches(dend, k=dendcluster, col = plasma(dendcluster, begin = 0.05, end = 0.65))
   heatmap.2(corr, Rowv = ladderize(dend), Colv = ladderize(dend),
-            dendrogram = "row", col = plasma(15, begin = 0.1, end = 0.9), 
+            dendrogram = "row", col = plasma(10, begin = 0.1, end = 0.7), 
             trace = "none", density.info = "none",
             labRow = FALSE, labCol = FALSE,
             lhei = c(1,6), lwid = c(2,6),
