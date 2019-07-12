@@ -1,0 +1,25 @@
+cogs,sc.percent,hbt.percent,Description
+A,4.648307314506226,0,RNA processing and modification
+B,2.104893878266971,0.041631973355537054,Chromatin structure and dynamics
+C,4.104543062620593,5.453788509575354,Energy production and conversion
+D,3.174881599719347,1.1656952539550374,"Cell cycle control, cell division, chromosome partitioning"
+E,3.5783195930538505,6.328059950041633,Amino acid transport and metabolism
+F,1.4734257147868794,2.6644462947543714,Nucleotide transport and metabolism
+G,4.9289598316084895,2.206494587843464,Carbohydrate transport and metabolism
+H,2.0522715313102964,4.537885095753539,Coenzyme transport and metabolism
+I,2.525872653920365,2.373022481265612,Lipid transport and metabolism
+J,7.875811261182249,6.203164029975021,"Translation, ribosomal structure and biogenesis"
+K,9.068584458866866,8.243130724396336,Transcription
+L,5.1219084371162955,7.826810990840966,"Replication, recombination and repair"
+M,0.7016312927556569,2.5811823480432974,"Cell wall, membrane, envelope biogenesis"
+O,8.01613751973338,3.5803497085761866,"Post-translational modification, protein turnover, and chaperones"
+P,2.788984388703736,5.537052456286428,Inorganic ion transport and metabolism
+Q,1.2804771092790739,2.289758534554538,"Secondary metabolites biosynthesis, transport, and catabolism"
+S,19.48780915628837,32.26477935054122,Function unknown
+T,4.525521838273987,2.53955037468776,Signal transduction mechanisms
+U,9.50710401683915,0.5828476269775187,"Intracellular trafficking, secretion, and vesicular transport"
+V,0.333274864058937,1.7485428809325563,Defense mechanisms
+W,0.17540782318891424,0,Extracellular structures
+Y,0.26311173478337135,0,Nuclear structure
+Z,2.2627609191369933,0,Cytoskeleton
+N,0,1.8318068276436303,Cell motility

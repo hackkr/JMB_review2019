@@ -1,0 +1,1001 @@
+old_locus_tag,cluster,acc,COG_category,probability,annotation,HMM_description,NOGs
+VNG0013C,induced,WP_012289069.1,L,0.8816513827190088,transposase,IS1341-type transposase,COG0675@NOG
+VNG0014C,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0017H,repressed,WP_010901955.1,L,0.9759205406625302,hypothetical protein,Inherit from COG: Exonuclease-like protein,COG3359@NOG
+VNG0018H,repressed,WP_010901956.1,L,0.9759205406625302,hypothetical protein,Inherit from COG: Exonuclease-like protein,COG3359@NOG
+VNG0019H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0020H,repressed,WP_010901958.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0021H,induced,WP_010890436.1,L,0.8816513827190088,transposase,Pfam:Transposase_25,COG3436@NOG
+VNG0022H,repressed,WP_010901959.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0023H,repressed,WP_010901960.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0024H,repressed,WP_012289073.1,T,0.967561118175002,hypothetical protein,Inherit from NOG: Histidine kinase,0Z77K@NOG
+VNG0025H,repressed,WP_010901962.1,S,0.9999999999999285,hypothetical protein,Function unknown,10ZXQ@NOG
+VNG0027H,repressed,WP_010901964.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0028C,repressed,WP_010901965.1,L,0.9759205406625302,transposase,Inherit from eurNOG: Transposase,COG3415@NOG
+VNG0029H,repressed,WP_010901966.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0030H,repressed,WP_010901967.1,S,0.9999999999999285,hypothetical protein,Function unknown,10ZN6@NOG
+VNG0031H,repressed,WP_010901968.1,S,0.9999999999999285,hypothetical protein,Inherit from NOG: Aaa atpase,111TQ@NOG
+VNG0032H,repressed,WP_010901969.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0033H,repressed,WP_010901970.1,S,0.9999999999999285,hypothetical protein,Function unknown,110CR@NOG
+VNG0034H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0037H,repressed,WP_010901973.1,S,0.9999999999999285,type II toxin-antitoxin system HicB family antitoxin,Inherit from COG: family UPF0150,COG1598@NOG
+VNG0042G,induced,WP_010901978.1,L,0.8816513827190088,transposase,Transposase,COG0675@NOG
+VNG0049H,induced,WP_010901984.1,Q,0.30293359020261795,FkbM family methyltransferase,Inherit from COG: Methyltransferase,COG0500@NOG
+VNG0050C,induced,WP_010901985.1,M,0.41660394097888337,hypothetical protein,Polysaccharide biosynthesis protein,COG2244@NOG
+VNG0053H,repressed,WP_049892468.1,S,0.9999999999999285,hypothetical protein,Function unknown,0YM5U@NOG
+VNG0054H,repressed,WP_010901988.1,S,0.9999999999999285,hypothetical protein,Function unknown,10ZSI@NOG
+VNG0055H,repressed,WP_010901989.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0057H,repressed,WP_010901991.1,M,0.34640593860971897,hypothetical protein,O-antigen polymerase,1110N@NOG
+VNG0058H,repressed,WP_010901992.1,S,0.9999999999999285,hypothetical protein,Function unknown,0YCQD@NOG
+VNG0062G,repressed,WP_012289085.1,M,0.34640593860971897,glycosyltransferase family 1 protein,glycosyl transferase group 1,COG0438@NOG
+VNG0063G,induced,WP_010901996.1,M,0.41660394097888337,KR domain-containing protein,NAD-dependent epimerase dehydratase,COG0451@NOG
+VNG0064G,repressed,WP_010901997.1,M,0.34640593860971897,UTP--glucose-1-phosphate uridylyltransferase,Glucose-1-phosphate thymidylyltransferase,COG1209@NOG
+VNG0073C,repressed,WP_010902005.1,M,0.34640593860971897,hypothetical protein,nad-dependent epimerase dehydratase,COG0451@NOG
+VNG0076H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0079H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0081G,repressed,WP_012289090.1,H,0.6363321576615788,molybdopterin synthase,molybdopterin-guanine dinucleotide biosynthesis protein,COG0314@NOG COG1763@NOG
+VNG0101G,induced,WP_012289092.1,K,0.4963532620052361,cold-shock protein,Cold shock protein,COG1278@NOG
+VNG0104G,repressed,WP_010902026.1,H,0.6363321576615788,C-termil binding protein,Dehydrogenase,COG0111@NOG
+VNG0105H,repressed,WP_010902027.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0112H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG0113H,repressed,WP_010902033.1,K,0.6558194820415417,helix-turn-helix domain-containing protein,HTH DNA binding domain,COG3413@NOG
+VNG0116H,repressed,WP_010902035.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0117H,repressed,WP_010902036.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0118H,repressed,WP_010902037.1,S,0.9999999999999285,hypothetical protein,Function unknown,11006@NOG
+VNG0121H,repressed,WP_010902040.1,S,0.9999999999999285,DUF192 domain-containing protein,"Uncharacterized ACR, COG1430",COG1430@NOG
+VNG0132C,repressed,WP_010902048.1,S,0.9999999999999285,hypothetical protein,Function unknown,0Z6PJ@NOG
+VNG0133G,induced,WP_010902049.1,L,0.8816513827190088,replication protein A,replication factor A,COG1599@NOG
+VNG0138H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0139H,repressed,WP_010902054.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0140H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0141H,repressed,WP_010902056.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0143H,repressed,WP_010902058.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0146H,induced,WP_010902060.1,K,0.4963532620052361,hypothetical protein,Sugar-specific transcriptional regulator TrmB,110JS@NOG
+VNG0148H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0149G,repressed,WP_010902063.1,P,0.5766262256799042,cation-transporting P-type ATPase,zinc-transporting ATPase,COG2217@NOG
+VNG0154G,repressed,WP_010902068.1,C,1.1649410662927407e-10,D(P)/FAD-dependent oxidoreductase,Dihydrolipoyl dehydrogenase,COG1249@NOG
+VNG0157G,repressed,WP_010902070.1,G,0.3404247213926807,MFS transporter,major facilitator superfamily,COG0477@NOG
+VNG0159G,repressed,WP_010902072.1,L,0.9759205406625302,D mismatch repair protein MutL,"This protein is involved in the repair of mismatches in DNA. It is required for dam-dependent methyl-directed DNA mismatch repair. May act as a molecular matchmaker , a protein that promotes the formation of a stable complex between two or more DNA-binding proteins in an ATP-dependent manner without itself being part of a final effector complex (By similarity)",COG0323@NOG
+VNG0160G,repressed,WP_010902073.1,T,0.967561118175002,PAS domain S-box protein,Histidine kinase,COG2202@NOG COG2203@NOG COG3413@NOG
+VNG0161G,repressed,WP_010902074.1,E,0.680794827857576,glutamate dehydrogese,glutamate dehydrogenase,COG0334@NOG
+VNG0162G,repressed,WP_012289110.1,I,0.954185663076951,acyl-CoA synthetase,AMP-dependent synthetase and ligase,COG0318@NOG
+VNG0167H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0168H,repressed,WP_010902080.1,S,0.9999999999999285,hypothetical protein,DNA-directed RNA polymerase epsilon subunit,1110M@NOG
+VNG0170C,repressed,WP_012289112.1,Q,0.8484173673986326,DsbA family protein,DsbA oxidoreductase,COG2761@NOG
+VNG0171C,repressed,WP_010902082.1,L,0.9759205406625302,endonuclease NucS,Cleaves both 3' and 5' ssDNA extremities of branched DNA structures (By similarity),COG1637@NOG
+VNG0176H,repressed,WP_010902086.1,K,0.6558194820415417,N-acetyltransferase,GCN5-related N-acetyltransferase,COG0454@NOG
+VNG0177G,induced,WP_010902087.1,J,0.9999999999331972,50S ribosomal protein L15e,50S ribosomal protein L15e,COG1632@NOG
+VNG0188H,repressed,WP_010902096.1,G,0.3404247213926807,MFS transporter,major facilitator superfamily,COG0477@NOG
+VNG0189C,repressed,WP_010902097.1,S,0.9999999999999285,HD domain-containing protein,HDc,COG1078@NOG
+VNG0192G,repressed,WP_012289116.1,D,NA,cell division protein FtsZ,Essential cell division protein that forms a contractile ring structure (Z ring) at the future cell division site. The regulation of the ring assembly controls the timing and the location of cell division. One of the functions of the FtsZ ring is to recruit other cell division proteins to the septum to produce a new cell wall between the dividing cells. Binds GTP and shows GTPase activity (By similarity),COG0206@NOG
+VNG0194H,repressed,WP_010902100.1,K,0.6558194820415417,"ribbon-helix-helix protein, CopG family","transcriptional regulator, copg family",COG3609@NOG
+VNG0196H,repressed,WP_010902102.1,S,0.9999999999999285,hypothetical protein,Function unknown,110AS@NOG
+VNG0198H,repressed,WP_010902104.1,S,0.9999999999999285,hypothetical protein,Function unknown,0YTEX@NOG
+VNG0199H,repressed,WP_010902105.1,S,0.9999999999999285,hypothetical protein,Function unknown,0YPGV@NOG
+VNG0200C,repressed,WP_010902106.1,S,0.9999999999999285,hypothetical protein,Function unknown,0YSDR@NOG
+VNG0203C,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0204H,repressed,WP_010902107.1,M,0.34640593860971897,hypothetical protein,"Inherit from NOG: von Willebrand factor, type A",0Y99T@NOG
+VNG0205H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0207H,repressed,WP_081422756.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0208H,repressed,WP_010902111.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0209H,repressed,WP_010902112.1,L,0.9759205406625302,integrase,Phage integrase family,COG0582@NOG
+VNG0214C,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0215C,repressed,WP_010902115.1,S,0.9999999999999285,hypothetical protein,Primase C terminal 2 (PriCT-2),COG3378@NOG COG4983@NOG
+VNG0216H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0218G,repressed,WP_010902118.1,N,NA,type II secretion system protein,type II secretion system protein,COG0630@NOG
+VNG0219H,repressed,WP_010902119.1,E,0.680794827857576,DUF4129 domain-containing protein,Inherit from NOG: S-layer-related duplication domain protein,0YSS6@NOG
+VNG0220H,repressed,WP_010902120.1,S,0.9999999999999285,hypothetical protein,Inherit from NOG: Conserved protein,0YWS3@NOG
+VNG0222C,repressed,WP_010902121.1,S,0.9999999999999285,DUF58 domain-containing protein,conserved repeat domain protein,COG1721@NOG
+VNG0231C,repressed,WP_049892481.1,S,0.9999999999999285,MBL fold hydrolase,Metallo-beta-lactamase superfamily,COG0491@NOG
+VNG0233H,induced,WP_010902128.1,S,0.01107921631015382,DUF3194 domain-containing protein,Function unknown,0YUET@NOG
+VNG0234C,induced,WP_010902129.1,O,0.7881402830649262,prefoldin subunit beta,"Molecular chaperone capable of stabilizing a range of proteins. Seems to fulfill an ATP-independent, HSP70-like function in archaeal de novo protein folding (By similarity)",COG1382@NOG
+VNG0237H,induced,WP_010902130.1,K,0.4963532620052361,D-directed R polymerase subunit P,DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity),COG1996@NOG
+VNG0243C,repressed,WP_010902134.1,J,4.6397637943113014e-32,tR pseudouridine(13) synthase TruD,Could be responsible for synthesis of pseudouridine from uracil-13 in transfer RNAs (By similarity),COG0585@NOG
+VNG0247C,repressed,WP_010902138.1,K,0.6558194820415417,helix-turn-helix domain-containing protein,"Transcriptional regulator, XRE family",COG1992@NOG COG2522@NOG
+VNG0248C,induced,WP_010902139.1,T,0.02181383679394331,hypothetical protein,Inherit from COG: Histidine kinase,11190@NOG
+VNG0249G,induced,WP_010902140.1,C,0.9845391941122028,DUF5059 domain-containing protein,Blue (Type 1) copper domain protein,COG3794@NOG
+VNG0254G,repressed,WP_010902144.1,K,0.6558194820415417,transcription initiation factor IIB 2,Stabilizes TBP binding to an archaeal box-A promoter. Also responsible for recruiting RNA polymerase II to the pre- initiation complex (DNA-TBP-TFIIB) (By similarity),COG1405@NOG
+VNG0258H,induced,WP_010902147.1,K,0.4963532620052361,PadR family transcriptiol regulator,regulator,COG1695@NOG
+VNG0261H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0280H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0285C,induced,WP_010902166.1,L,0.8816513827190088,IS200/IS605 family transposase ISH22,Transposase,COG1943@NOG
+VNG0286C,induced,WP_010902167.1,L,0.8816513827190088,transposase,Pfam:Transposase_35,COG0675@NOG
+VNG0287H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG0289H,repressed,WP_010902169.1,S,0.9999999999999285,YkgJ family cysteine cluster protein,Pfam:UPF0153,COG0727@NOG
+VNG0291H,repressed,WP_010902170.1,S,0.9999999999999285,MBL fold hydrolase,Beta-lactamase domain protein,COG0491@NOG
+VNG0293H,repressed,WP_010902171.1,K,0.6558194820415417,MarR family transcriptiol regulator,Transcription regulator,COG0640@NOG
+VNG0303G,repressed,WP_010902178.1,O,0.7217030235301483,ATP-dependent protease LonB,ATP-dependent protease Lon,COG1067@NOG
+VNG0305G,repressed,WP_010902180.1,E,0.680794827857576,indole-3-glycerol-phosphate synthase,Indole-3-glycerol phosphate synthase,COG0134@NOG
+VNG0307G,repressed,WP_010902181.1,E,0.680794827857576,tryptophan synthase subunit beta,The beta subunit is responsible for the synthesis of L- tryptophan from indole and L-serine (By similarity),COG0133@NOG
+VNG0308G,repressed,WP_010902182.1,E,0.680794827857576,tryptophan synthase subunit alpha,The alpha subunit is responsible for the aldol cleavage of indoleglycerol phosphate to indole and glyceraldehyde 3- phosphate (By similarity),COG0159@NOG
+VNG0314G,repressed,WP_012289139.1,E,0.680794827857576,3-dehydroquise,Type I DHQase,COG0710@NOG
+VNG0315G,induced,WP_010902188.1,K,0.4963532620052361,transcription initiation factor IIB 2,Stabilizes TBP binding to an archaeal box-A promoter. Also responsible for recruiting RNA polymerase II to the pre- initiation complex (DNA-TBP-TFIIB) (By similarity),COG1405@NOG
+VNG0316C,repressed,WP_010902189.1,P,0.5766262256799042,cobalamin-binding protein,Periplasmic,COG0614@NOG
+VNG0319H,repressed,WP_010902191.1,S,0.9999999999999285,hypothetical protein,Function unknown,11W55@NOG
+VNG0324G,repressed,WP_010902196.1,G,0.3404247213926807,pyruvate kise,pyruvate kinase (EC 2.7.1.40),COG0469@NOG COG3848@NOG
+VNG0330G,induced,WP_010902200.1,G,0.11148007094768891,"pyruvate, water dikise",phosphoenolpyruvate synthase,COG0574@NOG
+VNG0346H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0347H,repressed,WP_010902212.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0355G,repressed,WP_010902217.1,N,NA,methyl-accepting chemotaxis protein,transducer,COG0840@NOG
+VNG0357H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0367H,repressed,WP_010902225.1,S,0.9999999999999285,DUF4440 domain-containing protein,Nuclear transport factor 2 (NTF2) domain,COG3631@NOG
+VNG0371G,repressed,WP_012289146.1,I,0.954185663076951,acyl-CoA dehydrogese,Acyl-coA dehydrogenase,COG1960@NOG
+VNG0375G,induced,WP_010902231.1,U,NA,preprotein translocase subunit SecE,Protein transport protein Sec61 gamma subunit homolog,COG2443@NOG
+VNG0378C,induced,WP_049892484.1,J,0.9999999999331972,D-tyrosyl-tR(Tyr) deacylase,Hydrolyzes D-tyrosyl-tRNA(Tyr) into D-tyrosine and free tRNA(Tyr) (By similarity),COG1650@NOG
+VNG0387G,repressed,WP_010902239.1,E,0.680794827857576,aminodeoxychorismate lyase,amino acid aminotransferase,COG0115@NOG
+VNG0394C,induced,WP_010902245.1,S,0.01107921631015382,phosphoserine phosphatase,phosphoserine phosphatase,COG1340@NOG
+VNG0402H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0407H,repressed,WP_081422757.1,S,0.9999999999999285,hypothetical protein,membrane,COG0392@NOG
+VNG0409C,repressed,WP_010902257.1,E,0.680794827857576,S9 family peptidase,peptidase S9 prolyl oligopeptidase active site domain protein,COG1506@NOG
+VNG0410G,induced,WP_010902258.1,M,0.41660394097888337,glycosyl transferase family 1,glycosyl transferase group 1,COG0438@NOG
+VNG0414G,repressed,WP_012289152.1,F,0.07498817694426309,phosphoribosylglycimide formyltransferase,phosphoribosylglycinamide formyltransferase,COG0138@NOG COG0299@NOG
+VNG0415G,repressed,WP_012289153.1,F,0.07498817694426309,adenylosuccite lyase,adenylosuccinate lyase,COG0015@NOG
+VNG0426G,induced,WP_010902269.1,K,0.4963532620052361,transcription factor S,DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity),COG1594@NOG
+VNG0430H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0439C,induced,WP_010902279.1,C,0.9845391941122028,FAD-dependent oxidoreductase,geranylgeranyl reductase,COG0644@NOG
+VNG0446G,repressed,WP_010902286.1,E,0.680794827857576,glucose dehydrogese,Catalyzes the NAD(P)( )-dependent oxidation of D-glucose to D-gluconate via gluconolactone. Can utilize both NAD( ) and NADP( ) as electron acceptor. Is involved in the degradation of glucose through a modified Entner-Doudoroff pathway (By similarity),COG1063@NOG
+VNG0451G,induced,WP_049892486.1,P,0.059092265784778546,phosphate transport system regulatory protein PhoU,Plays a role in the regulation of phosphate uptake (By similarity),COG0704@NOG
+VNG0452G,induced,WP_010902290.1,P,0.059092265784778546,phosphate ABC transporter ATP-binding protein,phosphate ABC transporter ATP-binding protein,COG1117@NOG
+VNG0453G,induced,WP_010902291.1,P,0.059092265784778546,"phosphate ABC transporter, permease protein PstA",phosphate ABC transporter inner membrane subunit PstA,COG0581@NOG
+VNG0455G,induced,WP_010902292.1,P,0.059092265784778546,phosphate ABC transporter permease subunit PstC,Phosphate ABC transporter,COG0573@NOG
+VNG0457G,induced,WP_010902293.1,P,0.059092265784778546,phosphate ABC transporter substrate-binding protein,phosphate binding protein,COG0226@NOG
+VNG0462C,repressed,WP_010902297.1,K,0.6558194820415417,transcriptiol regulator,"Bacterial regulatory protein, arsR family",COG1846@NOG
+VNG0466C,repressed,WP_010902300.1,S,0.9999999999999285,ABC transporter permease,Function unknown,110NF@NOG
+VNG0467G,repressed,WP_012289160.1,S,0.9999999999999285,aldo/keto reductase,Aldo keto reductase,COG0656@NOG
+VNG0469H,repressed,WP_010902303.1,S,0.9999999999999285,hypothetical protein,Function unknown,111CX@NOG
+VNG0470G,repressed,WP_010902304.1,V,NA,ABC transporter ATP-binding protein,ABC transporter,COG1131@NOG
+VNG0473G,induced,WP_010902307.1,C,0.9845391941122028,2-oxoacid ferredoxin oxidoreductase subunit beta,2-oxoglutarate ferredoxin oxidoreductase subunit beta,COG1013@NOG
+VNG0474G,induced,WP_010902308.1,C,0.9845391941122028,2-oxoacid:acceptor oxidoreductase subunit alpha,Pyruvate flavodoxin ferredoxin oxidoreductase domain protein,COG0674@NOG COG1014@NOG
+VNG0475C,induced,WP_010902309.1,C,0.9845391941122028,oxidoreductase,oxidoreductase FAD-binding domain protein,COG1018@NOG
+VNG0479G,repressed,WP_010902312.1,I,0.954185663076951,short chain dehydrogese,dehydrogenase reductase,COG1028@NOG
+VNG0482H,repressed,WP_010902314.1,K,0.6558194820415417,GT family N-acetyltransferase,GCN5-related N-acetyltransferase,COG1246@NOG
+VNG0486G,induced,WP_010902318.1,K,0.4963532620052361,N-acetyltransferase,Acetyltransferase (GNAT) family,COG1670@NOG
+VNG0491G,induced,WP_010902322.1,O,0.7881402830649262,molecular chaperone DK,Acts as a chaperone (By similarity),COG0443@NOG
+VNG0498C,repressed,WP_010902326.1,J,4.6397637943113014e-32,hypothetical protein,Inherit from COG: Specifically methylates the cytosine at position 1407 (m5C1407) of 16S rRNA (By similarity),COG3270@NOG
+VNG0499G,repressed,WP_010902327.1,J,4.6397637943113014e-32,SAM-dependent methyltransferase,"RNA methylase, NOL1 NOP2 sun family",COG0144@NOG
+VNG0501G,induced,WP_010902329.1,G,0.11148007094768891,MFS transporter,Major Facilitator Superfamily,COG0477@NOG
+VNG0502G,repressed,WP_010902330.1,E,0.680794827857576,aspartate aminotransferase,aminotransferase class I and II,COG0436@NOG
+VNG0503C,repressed,WP_010902331.1,Q,0.8484173673986326,class I SAM-dependent methyltransferase,Methyltransferase domain,COG0500@NOG
+VNG0505C,repressed,WP_010902333.1,P,0.5766262256799042,HlyC/CorC family transporter,Domain of unknown function DUF21,COG1253@NOG
+VNG0506H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0507C,induced,WP_010902335.1,S,0.01107921631015382,acyltransferase,Pfam:DUF583,COG4801@NOG
+VNG0511H,repressed,WP_010902339.1,K,0.6558194820415417,MarR family transcriptiol regulator,ArsR family transcriptional regulator,COG0640@NOG
+VNG0518H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0520H,repressed,WP_010902344.1,S,0.9999999999999285,hypothetical protein,Function unknown,111Q2@NOG
+VNG0524G,repressed,WP_010902347.1,O,0.7217030235301483,ABC transporter ATP-binding protein,FeS assembly ATPase SufC,COG0396@NOG
+VNG0525C,repressed,WP_010902348.1,O,0.7217030235301483,Fe-S cluster assembly protein SufB,FeS assembly protein SufB,COG0719@NOG
+VNG0527C,repressed,WP_010902349.1,O,0.7217030235301483,Fe-S cluster assembly protein SufD,SufBD protein,COG0719@NOG
+VNG0532H,repressed,WP_010902352.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0535C,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0536G,repressed,WP_012289175.1,K,0.6558194820415417,metal-dependent transcriptiol regulator,"iron (metal) dependent repressor, DtxR family",COG1321@NOG
+VNG0537C,induced,WP_010902357.1,S,0.01107921631015382,C4-dicarboxylate ABC transporter permease,"TRAP transporter, 4TM 12TM fusion protein",COG4666@NOG
+VNG0540G,induced,WP_010902359.1,P,0.059092265784778546,C4-dicarboxylate ABC transporter substrate-binding protein,"TRAP transporter solute receptor, TAXI family",COG2358@NOG
+VNG0544H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0546C,induced,WP_010902364.1,S,0.01107921631015382,proteasome assembly chaperone family protein,PAC2 family,COG2047@NOG
+VNG0548C,induced,WP_010902365.1,J,0.9999999999331972,H/ACA R-protein complex protein Nop10p,more specifically in 18S rRNA pseudouridylation and in cleavage of pre-rRNA (By similarity),COG2260@NOG
+VNG0549G,induced,WP_010902366.1,J,0.9999999999331972,translation initiation factor IF-2 subunit alpha,Translation initiation factor IF-2 subunit alpha,COG1093@NOG
+VNG0550G,induced,WP_010902367.1,J,0.9999999999331972,30S ribosomal protein S27e,30S ribosomal protein S27E,COG2051@NOG
+VNG0551G,induced,WP_012289179.1,J,0.9999999999331972,50S ribosomal protein L44e,Binds to the 23S rRNA (By similarity),COG1631@NOG
+VNG0553C,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0556G,repressed,WP_010902371.1,M,0.34640593860971897,succinoglycan biosynthesis protein ExoP,biosynthesis transport protein,COG2244@NOG
+VNG0559G,induced,WP_010902373.1,F,0.9298381194835177,adenine phosphoribosyltransferase,"May catalyze a purine salvage reaction, the substrate is",COG0503@NOG
+VNG0573C,repressed,WP_010902384.1,C,1.1649410662927407e-10,hypothetical protein,Halocyanin,COG3794@NOG
+VNG0586C,induced,WP_010902395.1,C,0.9845391941122028,hypothetical protein,Halocyanin,COG3794@NOG
+VNG0595H,repressed,WP_010902402.1,E,0.680794827857576,VOC family protein,glyoxalase bleomycin resistance protein dioxygenase,COG0346@NOG
+VNG0596H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0598C,induced,WP_012289190.1,M,0.41660394097888337,glycosyltransferase family 4 protein,glycosyl transferase group 1,COG0438@NOG
+VNG0600C,induced,WP_010902406.1,M,0.41660394097888337,glycosyltransferase family 1 protein,glycosyl transferase group 1,COG0438@NOG
+VNG0602C,repressed,WP_010902409.1,T,0.967561118175002,universal stress protein,Universal stress protein family,COG0589@NOG
+VNG0609C,repressed,WP_010902413.1,T,0.967561118175002,hypothetical protein,Inherit from COG: regulatoR,0YWFT@NOG
+VNG0612H,repressed,WP_010902416.1,S,0.9999999999999285,hypothetical protein,Function unknown,10ZN5@NOG
+VNG0613H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0614G,repressed,WP_012289195.1,N,NA,methyl-accepting chemotaxis protein,Methyl-accepting chemotaxis sensory transducer,COG0840@NOG
+VNG0615C,repressed,WP_010902419.1,P,0.5766262256799042,metal transporter,domain protein,COG1226@NOG
+VNG0617H,induced,WP_012289196.1,S,0.01107921631015382,hypothetical protein,Function unknown,110DF@NOG
+VNG0620G,induced,WP_010902421.1,O,0.7881402830649262,S49 family peptidase,proteinase IV-like,COG0616@NOG
+VNG0622H,repressed,WP_010902422.1,S,0.9999999999999285,D(P)/FAD-dependent oxidoreductase,FAD dependent oxidoreductase,COG3380@NOG
+VNG0628G,induced,WP_012289198.1,E,1.867716631717556e-5,glutamate dehydrogese,glutamate dehydrogenase,COG0334@NOG
+VNG0635G,induced,WP_010902433.1,C,0.9845391941122028,DH dehydrogese,NADH-ubiquinone plastoquinone oxidoreductase chain 3,COG0838@NOG
+VNG0636G,induced,WP_010902434.1,C,0.9845391941122028,DH-quinone oxidoreductase subunit NuoB,"NADH-quinone oxidoreductase, B subunit",COG0377@NOG
+VNG0642C,induced,WP_012289202.1,C,0.9845391941122028,DH dehydrogese,NADH dehydrogenase-like complex subunit J2,0YWN1@NOG
+VNG0643G,induced,WP_010902440.1,C,0.9845391941122028,DH-quinone oxidoreductase subunit NuoK,"NADH dehydrogenase-like complex, subunit K",COG0713@NOG
+VNG0648G,induced,WP_012289203.1,C,0.9845391941122028,oxidoreductase,"proton-translocating NADH-quinone oxidoreductase, chain N",COG1007@NOG
+VNG0651G,repressed,WP_010902445.1,K,0.6558194820415417,CBS domain-containing protein,CBS domain containing protein,COG0517@NOG COG1475@NOG
+VNG0652H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0653G,repressed,WP_012289204.1,I,0.954185663076951,methylmalonyl-CoA mutase,Methylmalonyl-CoA mutase,COG1884@NOG
+VNG0654C,repressed,WP_010902448.1,K,0.6558194820415417,N-acetyltransferase,GCN5-related N-acetyltransferase,COG0454@NOG
+VNG0659H,induced,WP_010902451.1,S,0.01107921631015382,hypothetical protein,Function unknown,10ZXW@NOG
+VNG0682C,repressed,WP_012289211.1,T,0.967561118175002,hypothetical protein,Inherit from COG: Circadian clock protein KaiC,0YRNQ@NOG
+VNG0688H,repressed,WP_010902475.1,K,0.6558194820415417,ArsR family transcriptiol regulator,Transcriptional regulator,111UD@NOG
+VNG0700G,repressed,WP_010902482.1,P,0.5766262256799042,heavy metal translocating P-type ATPase,heavy metal translocating P-type ATPase,COG2217@NOG
+VNG0702H,induced,WP_010902483.1,P,0.059092265784778546,copper chaperone,heavy metal transport detoxification protein,COG2608@NOG
+VNG0705C,repressed,WP_010902486.1,S,0.9999999999999285,cryptochrome/photolyase family protein,photolyase-related protein,COG3046@NOG
+VNG0713C,repressed,WP_010902491.1,S,0.9999999999999285,O-methyltransferase,O-methyltransferase family 3,COG4122@NOG
+VNG0715G,repressed,WP_010902492.1,H,0.6363321576615788,phosphomethylpyrimidine synthase,Catalyzes the synthesis of the hydroxymethylpyrimidine phosphate (HMP-P) moiety of thiamine from aminoimidazole ribotide (AIR) in a radical S-adenosyl-L-methionine (SAM)-dependent reaction (By similarity),COG0422@NOG
+VNG0716G,repressed,WP_010902493.1,T,0.967561118175002,PAS domain-containing sensor histidine kise,Histidine kinase,COG0642@NOG COG2202@NOG COG2203@NOG
+VNG0718C,repressed,WP_010902495.1,S,0.9999999999999285,phosphoglycolate phosphatase,Catalyzes the dephosphorylation of 2-phosphoglycolate (By similarity),COG0561@NOG
+VNG0719G,repressed,WP_010902496.1,G,0.3404247213926807,haloacid dehalogese,"HAD-superfamily hydrolase, subfamily IIA",COG0647@NOG
+VNG0732G,repressed,WP_012289214.1,J,4.6397637943113014e-32,R 3'-phosphate cyclase,cyclase (EC 6.5.1.4),COG0430@NOG
+VNG0734G,repressed,WP_010902508.1,K,0.6558194820415417,transcription initiation factor IIB 2,Stabilizes TBP binding to an archaeal box-A promoter. Also responsible for recruiting RNA polymerase II to the pre- initiation complex (DNA-TBP-TFIIB) (By similarity),COG1405@NOG
+VNG0743H,repressed,WP_012289215.1,T,0.967561118175002,universal stress protein,domain-containing protein,COG0589@NOG
+VNG0745G,repressed,WP_010902517.1,S,0.9999999999999285,AbrB family transcriptiol regulator,Stage V sporulation protein R-like protein,COG2719@NOG
+VNG0746C,repressed,WP_010902518.1,S,0.9999999999999285,hypothetical protein,Protein of unknown function (DUF444),COG2718@NOG
+VNG0748G,repressed,WP_010902519.1,T,0.967561118175002,serine protein kise,serine protein kinase,COG2766@NOG
+VNG0749G,repressed,WP_010902520.1,T,0.967561118175002,serine protein kise,Serine protein kinase,COG2766@NOG
+VNG0750C,repressed,WP_010902521.1,T,0.967561118175002,GAF domain-containing protein,Inherit from COG: gaf domain protein,COG1956@NOG
+VNG0771G,induced,WP_010902539.1,C,0.9845391941122028,hypothetical protein,Aldehyde dehydrogenase,COG1012@NOG
+VNG0772H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0775G,repressed,WP_010902541.1,I,0.954185663076951,acyl-CoA dehydrogese,Acyl-coA dehydrogenase,COG1960@NOG
+VNG0782H,induced,WP_010902546.1,C,0.9845391941122028,hypothetical protein,PBS lyase HEAT domain protein repeat-containing protein,COG1413@NOG
+VNG0787G,induced,WP_010902549.1,J,0.9999999999331972,30S ribosomal protein S3ae,30S ribosomal protein S3Ae,COG1890@NOG
+VNG0788H,induced,WP_012289224.1,K,0.4963532620052361,hypothetical protein,Inherit from COG: acetyltransferase,0XXQ3@NOG
+VNG0789C,induced,WP_010902551.1,S,0.01107921631015382,hypothetical protein,Exonuclease RecJ,0YIFR@NOG
+VNG0790G,induced,WP_010902552.1,J,0.9999999999331972,30S ribosomal protein S15,30S ribosomal protein S15 S13e,COG0184@NOG
+VNG0794G,repressed,WP_012289225.1,S,0.9999999999999285,BMP family ABC transporter substrate-binding protein,Membrane lipoprotein,COG1744@NOG
+VNG0795G,repressed,WP_012289226.1,C,1.1649410662927407e-10,halocyanin,"Copper binding proteins, plastocyanin/azurin family",COG3794@NOG
+VNG0799C,repressed,WP_010902558.1,V,NA,ABC transporter ATP-binding protein,ABC transporter,COG1136@NOG
+VNG0800H,repressed,WP_010902559.1,V,NA,ABC transporter permease,ABC transporter permease,COG0577@NOG
+VNG0811H,repressed,WP_010902565.1,S,0.9999999999999285,hypothetical protein,Function unknown,1113Q@NOG
+VNG0812G,repressed,WP_012289229.1,N,NA,methyl-accepting chemotaxis protein,Methyl-accepting chemotaxis sensory transducer,COG0840@NOG
+VNG0813G,repressed,WP_010902567.1,E,0.680794827857576,spermidine/putrescine ABC transporter substrate-binding protein,Extracellular solute-binding protein family 1,COG0687@NOG
+VNG0814C,repressed,WP_010902568.1,M,0.34640593860971897,D(P)-dependent oxidoreductase,NAD-dependent epimerase dehydratase,COG0702@NOG
+VNG0816G,repressed,WP_010902570.1,G,0.3404247213926807,PKD domain-containing protein,Glycoside hydrolase family 18,COG3325@NOG COG3979@NOG
+VNG0818C,repressed,WP_010902571.1,G,0.3404247213926807,PKD domain-containing protein,Glycoside hydrolase family 18,COG3325@NOG COG3979@NOG
+VNG0819C,repressed,WP_010902572.1,G,0.3404247213926807,PKD domain-containing protein,chitinase,COG3979@NOG
+VNG0824G,repressed,WP_010902576.1,H,0.6363321576615788,molybdenum cofactor guanylyltransferase,Transfers a GMP moiety from GTP to Mo-molybdopterin (Mo- MPT) cofactor (Moco or molybdenum cofactor) to form Mo- molybdopterin guanine dinucleotide (Mo-MGD) cofactor (By similarity),COG0746@NOG
+VNG0826C,repressed,WP_010902578.1,K,0.6558194820415417,helix-turn-helix domain-containing protein,HTH DNA binding domain,COG3413@NOG
+VNG0828H,repressed,WP_010902579.1,C,1.1649410662927407e-10,hypothetical protein,"Inherit from arCOG: 4Fe-4S ferredoxin, iron-sulfur binding",11058@NOG
+VNG0829G,repressed,WP_010902580.1,C,1.1649410662927407e-10,dimethylsulfoxide reductase,Molybdopterin oxidoreductase,COG0243@NOG
+VNG0830G,repressed,WP_010902581.1,C,1.1649410662927407e-10,4Fe-4S ferredoxin,"4Fe-4S ferredoxin, iron-sulfur binding",COG0437@NOG
+VNG0831G,repressed,WP_010902582.1,C,1.1649410662927407e-10,molybdopterin oxidoreductase,polysulfide reductase NrfD,COG5557@NOG
+VNG0832C,repressed,WP_010902583.1,S,0.9999999999999285,chaperone TorD,Nitrate reductase delta subunit,COG3381@NOG
+VNG0836H,repressed,WP_010902586.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0837H,repressed,WP_012289235.1,S,0.9999999999999285,hypothetical protein,Function unknown,0YYDE@NOG
+VNG0840H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0851C,repressed,WP_049892496.1,S,0.9999999999999285,MBL fold metallo-hydrolase,Lactamase_B,COG2220@NOG
+VNG0854C,induced,WP_010902598.1,J,0.9999999999331972,diphthamide biosynthesis enzyme Dph2,diphthamide biosynthesis protein,COG1736@NOG
+VNG0862G,induced,WP_010902602.1,E,1.867716631717556e-5,imidazole glycerol phosphate synthase cyclase subunit,"IGPS catalyzes the conversion of PRFAR and glutamine to IGP, AICAR and glutamate. The HisF subunit catalyzes the cyclization activity that produces IGP and AICAR from PRFAR using the ammonia provided by the HisH subunit (By similarity)",COG0107@NOG
+VNG0863H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG0864G,repressed,WP_010902605.1,F,0.07498817694426309,phosphoribosylformylglycimidine synthase,Phosphoribosylformylglycinamidine synthase II,COG0046@NOG
+VNG0865C,induced,WP_012289241.1,S,0.01107921631015382,PHP domain-containing protein,PHP domain protein,COG0613@NOG
+VNG0869G,repressed,WP_010902609.1,K,0.6558194820415417,transcription initiation factor IIB 2,Stabilizes TBP binding to an archaeal box-A promoter. Also responsible for recruiting RNA polymerase II to the pre- initiation complex (DNA-TBP-TFIIB) (By similarity),COG1405@NOG
+VNG0870G,repressed,WP_012289242.1,J,4.6397637943113014e-32,Asp-tR(Asn)/Glu-tR(Gln) amidotransferase GatCAB subunit C,Allows the formation of correctly charged Asn-tRNA(Asn) or Gln-tRNA(Gln) through the transamidation of misacylated Asp- tRNA(Asn) or Glu-tRNA(Gln) in organisms which lack either or both of asparaginyl-tRNA or glutaminyl-tRNA synthetases. The reaction takes place in the presence of glutamine and ATP through an activated phospho-Asp-tRNA(Asn) or phospho-Glu-tRNA(Gln) (By similarity),COG0721@NOG
+VNG0875C,repressed,WP_010902614.1,M,0.34640593860971897,Zn-dependent protease,Peptidase M50,COG1994@NOG
+VNG0883H,repressed,WP_010902621.1,S,0.9999999999999285,MBL fold metallo-hydrolase,Inherit from arCOG: UPF0173 metal-dependent hydrolase,COG2220@NOG
+VNG0903C,induced,WP_010902635.1,S,0.01107921631015382,BMP family ABC transporter substrate-binding protein,ABC transporter,COG1744@NOG
+VNG0905G,induced,WP_010902636.1,G,0.11148007094768891,phosphomannomutase,phosphomannomutase,COG1109@NOG
+VNG0909H,repressed,WP_010902640.1,S,0.9999999999999285,hypothetical protein,Function unknown,0YKD6@NOG
+VNG0915G,repressed,WP_010902644.1,E,0.680794827857576,aminotransferase class V-fold PLP-dependent enzyme,"Catalyzes the cleavage of L-kynurenine (L-Kyn) and L-3- hydroxykynurenine (L-3OHKyn) into anthranilic acid (AA) and 3- hydroxyanthranilic acid (3-OHAA), respectively (By similarity)",COG3844@NOG
+VNG0916G,repressed,WP_010902645.1,T,0.967561118175002,PAS domain-containing sensor histidine kise,His Kinase A (phospho-acceptor) domain,COG0642@NOG COG2202@NOG
+VNG0919G,induced,WP_010902647.1,M,0.41660394097888337,glycosyltransferase family 2 protein,glycosyl transferase family 2,COG0463@NOG
+VNG0921G,induced,WP_010902649.1,E,1.867716631717556e-5,ABC transporter ATP-binding protein,ABC transporter,COG3842@NOG
+VNG0923G,induced,WP_010902650.1,P,0.059092265784778546,iron ABC transporter permease,binding-protein-dependent transport systems inner membrane component,COG1178@NOG
+VNG0924G,induced,WP_010902651.1,P,0.059092265784778546,iron ABC transporter substrate-binding protein,substrate-binding protein,COG1840@NOG
+VNG0925C,induced,WP_012289248.1,S,0.01107921631015382,hypothetical protein,Reversibly glycosylated polypeptide,0Z4PB@NOG
+VNG0926H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0930G,repressed,WP_010902656.1,C,1.1649410662927407e-10,LLM class flavin-dependent oxidoreductase,Luciferase-like monooxygenase,COG2141@NOG
+VNG0934H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0937G,repressed,WP_010902663.1,C,1.1649410662927407e-10,aldehyde dehydrogese,Aldehyde dehydrogenase,COG1012@NOG
+VNG0938G,repressed,WP_010902664.1,P,0.5766262256799042,ZIP family metal transporter,Zinc iron permease,COG0428@NOG
+VNG0947G,repressed,WP_010902671.1,N,NA,flagellar assembly protein J,flagellar assembly protein J,COG1955@NOG
+VNG0960G,repressed,WP_010902680.1,N,NA,flagellin,Flagellin,COG1681@NOG
+VNG0961G,repressed,WP_012289250.1,N,NA,flagellin,Flagellin,COG1681@NOG
+VNG0962G,repressed,WP_012289251.1,N,NA,flagellin,Flagellin,COG1681@NOG
+VNG0979H,repressed,WP_010902695.1,S,0.9999999999999285,hypothetical protein,Function unknown,125Q4@NOG
+VNG0981C,induced,WP_010902696.1,E,1.867716631717556e-5,pyridoxal phosphate-dependent aminotransferase,Aminotransferase class I and II,COG0436@NOG
+VNG0985H,repressed,WP_010902699.1,S,0.9999999999999285,hypothetical protein,Function unknown,111T3@NOG
+VNG0986H,repressed,WP_010902700.1,S,0.9999999999999285,hypothetical protein,Function unknown,111C3@NOG
+VNG0987H,induced,WP_010902701.1,S,0.01107921631015382,hypothetical protein,Function unknown,110AR@NOG
+VNG0988H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0989C,repressed,WP_010902703.1,L,0.9759205406625302,integrase,Integrase,COG0582@NOG
+VNG0990H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG0991H,repressed,WP_010902705.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG0993H,repressed,WP_010902707.1,S,0.9999999999999285,hypothetical protein,Function unknown,110AQ@NOG
+VNG0995H,repressed,WP_010902708.1,S,0.9999999999999285,hypothetical protein,Function unknown,110ND@NOG
+VNG0997G,repressed,WP_010902710.1,I,0.954185663076951,acetate--CoA ligase,Acetate CoA ligase,COG0365@NOG
+VNG0999H,repressed,WP_010902712.1,S,0.9999999999999285,hypothetical protein,Function unknown,0ZAMA@NOG
+VNG1001G,induced,WP_012289261.1,F,0.9298381194835177,IMP dehydrogese,"Catalyzes the conversion of inosine 5'-phosphate (IMP) to xanthosine 5'-phosphate (XMP), the first committed and rate- limiting step in the de novo synthesis of guanine nucleotides, and therefore plays an important role in the regulation of cell growth (By similarity)",COG0516@NOG COG0517@NOG
+VNG1005H,induced,WP_010902717.1,S,0.01107921631015382,hypothetical protein,Function unknown,110JN@NOG
+VNG1007H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG1008G,repressed,WP_010902719.1,N,NA,flagellin,Flagellin,COG1681@NOG
+VNG1009G,repressed,WP_012289264.1,N,NA,flagellin,Flagellin,COG1681@NOG
+VNG1012H,repressed,WP_010902722.1,O,0.7217030235301483,glutaredoxin,Glutaredoxin,COG0695@NOG
+VNG1014G,repressed,WP_012289265.1,L,0.9759205406625302,D polymerase IV,"Poorly processive, error-prone DNA polymerase involved in untargeted mutagenesis. Copies undamaged DNA at stalled replication forks, which arise in vivo from mismatched or misaligned primer ends. These misaligned primers can be extended by PolIV. Exhibits no 3'-5' exonuclease (proofreading) activity. May be involved in translesional synthesis (By similarity)",COG0389@NOG
+VNG1015H,repressed,WP_010902725.1,S,0.9999999999999285,hypothetical protein,Function unknown,0YZ29@NOG
+VNG1017H,repressed,WP_010902726.1,M,0.34640593860971897,hypothetical protein,Glycosyl transferase,COG0438@NOG
+VNG1018G,repressed,WP_081422749.1,S,0.9999999999999285,alcohol dehydrogese,"Oxidoreductase family, NAD-binding Rossmann fold",COG0656@NOG COG0673@NOG
+VNG1020C,repressed,WP_010902728.1,I,0.954185663076951,CDP-alcohol phosphatidyltransferase family protein,CDP-alcohol phosphatidyltransferase,COG0558@NOG
+VNG1021C,repressed,WP_010902729.1,F,0.07498817694426309,GTP cyclohydrolase IIa,Catalyzes the formation of 2-amino-5-formylamino-6- ribofuranosylamino-4(3H)-pyrimidinone ribonucleotide monophosphate and inorganic phosphate from GTP. Also has an independent pyrophosphate phosphohydrolase activity (By similarity),COG2429@NOG
+VNG1023C,repressed,WP_010902730.1,E,0.680794827857576,oxidoreductase,alcohol dehydrogenase,COG1063@NOG
+VNG1025H,repressed,WP_010902732.1,S,0.9999999999999285,methyltransferase domain-containing protein,Function unknown,11NDM@NOG
+VNG1030G,repressed,WP_010902736.1,I,0.954185663076951,CDP-alcohol phosphatidyltransferase family protein,CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase,COG0558@NOG
+VNG1035C,induced,WP_010902740.1,E,1.867716631717556e-5,GMC family oxidoreductase,Oxidoreductase,COG2303@NOG
+VNG1036H,induced,WP_010902741.1,S,0.01107921631015382,hypothetical protein,Function unknown,0YQV1@NOG
+VNG1039H,repressed,WP_010902744.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG1041H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG1047H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG1059C,repressed,WP_010902758.1,M,0.34640593860971897,colanic acid biosynthesis glycosyltransferase WcaL,Glycosyl transferases group 1,COG0438@NOG
+VNG1060H,repressed,WP_010902759.1,Q,0.8484173673986326,hypothetical protein,"methyltransferase, fkbm family",COG0500@NOG
+VNG1062G,induced,WP_010902760.1,M,0.41660394097888337,glycosyltransferase family 2 protein,Glycosyl transferase family 2,COG0463@NOG
+VNG1064H,repressed,WP_010902762.1,L,0.9759205406625302,ISH6 family transposase ISH6,Function unknown,0YGV9@NOG
+VNG1065C,repressed,WP_010902763.1,Q,0.8484173673986326,FkbM family methyltransferase,FkbM family methyltransferase,COG0500@NOG
+VNG1066C,repressed,WP_010902764.1,M,0.34640593860971897,glycosyl transferase,Glycosyl transferase family 2,COG0463@NOG
+VNG1088C,repressed,WP_012289276.1,S,0.9999999999999285,hypothetical protein,Function unknown,COG3388@NOG
+VNG1101C,repressed,WP_010902792.1,S,0.9999999999999285,hypothetical protein,Tripartite tricarboxylate transporter TctA family,COG1784@NOG
+VNG1103G,induced,WP_010902793.1,J,0.9999999999331972,50S ribosomal protein P1,"Forms part of the ribosomal stalk, playing a central role in the interaction of the ribosome with GTP-bound translation factors (By similarity)",COG2058@NOG
+VNG1104G,induced,WP_010902794.1,J,0.9999999999331972,50S ribosomal protein L10,Ribosomal protein P0 is the functional equivalent of E.coli protein L10 (By similarity),COG0244@NOG
+VNG1105G,induced,WP_010902795.1,J,0.9999999999331972,50S ribosomal protein L1,Binds directly to 23S rRNA. Probably involved in E site tRNA release (By similarity),COG0081@NOG
+VNG1108G,induced,WP_010902796.1,J,0.9999999999331972,50S ribosomal protein L11,This protein binds directly to 23S ribosomal RNA (By similarity),COG0080@NOG
+VNG1117C,induced,WP_010902803.1,J,0.9999999999331972,class I SAM-dependent methyltransferase family protein,K15429 tRNA (guanine37-N1)-methyltransferase EC 2.1.1.228,COG2520@NOG
+VNG1121G,repressed,WP_010902806.1,E,0.680794827857576,aspartate aminotransferase,Aminotransferase,COG0436@NOG
+VNG1123G,repressed,WP_010902807.1,K,0.6558194820415417,AsnC family transcriptiol regulator,AsnC family transcriptional regulator,COG1522@NOG
+VNG1125G,induced,WP_010902808.1,C,0.9845391941122028,2-ketoglutarate ferredoxin oxidoreductase subunit beta,"pyruvate ferredoxin flavodoxin oxidoreductase, beta subunit",COG1013@NOG
+VNG1128G,induced,WP_012289282.1,C,0.9845391941122028,2-oxoacid:acceptor oxidoreductase subunit alpha,Pyruvate flavodoxin ferredoxin oxidoreductase domain protein,COG0674@NOG COG1014@NOG
+VNG1132G,induced,WP_010902812.1,J,0.9999999999331972,30S ribosomal protein S13,"Located at the top of the head of the 30S subunit, it contacts several helices of the 16S rRNA. In the 70S ribosome it contacts the 23S rRNA (bridge B1a) and protein L5 of the 50S subunit (bridge B1b), connecting the 2 subunits",COG0099@NOG
+VNG1133G,induced,WP_010902813.1,J,0.9999999999331972,30S ribosomal protein S4,"One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the body of the 30S subunit (By similarity)",COG0522@NOG
+VNG1134G,induced,WP_010902814.1,J,0.9999999999331972,30S ribosomal protein S11,Located on the platform of the 30S subunit (By similarity),COG0100@NOG
+VNG1136G,induced,WP_010902815.1,K,0.4963532620052361,D-directed R polymerase subunit D,DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity),COG0202@NOG
+VNG1137G,induced,WP_010902816.1,J,0.9999999999331972,50S ribosomal protein L18e,50S ribosomal protein L18e,COG1727@NOG
+VNG1138G,induced,WP_010902817.1,J,0.9999999999331972,50S ribosomal protein L13,"This protein is one of the early assembly proteins of the 50S ribosomal subunit, although it is not seen to bind rRNA by itself. It is important during the early stages of 50S assembly (By similarity)",COG0102@NOG
+VNG1139G,induced,WP_010902818.1,J,0.9999999999331972,30S ribosomal protein S9,30S ribosomal protein S9,COG0103@NOG
+VNG1140G,induced,WP_010902819.1,K,0.4963532620052361,D-directed R polymerase subunit N,DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity),COG1644@NOG
+VNG1141G,induced,WP_010902820.1,K,0.4963532620052361,D-directed R polymerase subunit K,DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity),COG1758@NOG
+VNG1142G,induced,WP_010902821.1,G,0.11148007094768891,enolase,Catalyzes the reversible conversion of 2- phosphoglycerate into phosphoenolpyruvate. It is essential for the degradation of carbohydrates via glycolysis (By similarity),COG0148@NOG
+VNG1143G,induced,WP_010902822.1,J,0.9999999999331972,30S ribosomal protein S2,30S ribosomal protein S2,COG0052@NOG
+VNG1149C,induced,WP_010902826.1,J,0.9999999999331972,ribonuclease J,beta-lactamase domain protein,COG0595@NOG
+VNG1151H,repressed,WP_010902828.1,S,0.9999999999999285,hypothetical protein,Function unknown,10ZRG@NOG
+VNG1157G,induced,WP_010902832.1,J,0.9999999999331972,50S ribosomal protein L7ae,"Multifunctional RNA-binding protein that recognizes the K-turn motif in ribosomal RNA, box H ACA, box C D and box C' D' sRNAs (By similarity)",COG1358@NOG
+VNG1158G,induced,WP_010902833.1,J,0.9999999999331972,30S ribosomal protein S28e,30S ribosomal protein S28e,COG2053@NOG
+VNG1159G,induced,WP_010902834.1,J,0.9999999999331972,50S ribosomal protein L24e,50S ribosomal protein L24e,COG2075@NOG
+VNG1160G,induced,WP_010902835.1,F,0.9298381194835177,nucleoside-diphosphate kise,"Major role in the synthesis of nucleoside triphosphates other than ATP. The ATP gamma phosphate is transferred to the NDP beta phosphate via a ping-pong mechanism, using a phosphorylated active-site intermediate",COG0105@NOG
+VNG1162H,repressed,WP_010902836.1,E,0.680794827857576,hypothetical protein,Cobalamin-independent synthase MetE domain protein,COG0620@NOG
+VNG1169C,induced,WP_010902841.1,K,0.4963532620052361,D-directed R polymerase subunit F,RNA polymerase,COG1460@NOG
+VNG1170G,induced,WP_010902842.1,J,0.9999999999331972,50S ribosomal protein L21e,50S ribosomal protein L21e,COG2139@NOG
+VNG1173G,induced,WP_012289285.1,J,0.9999999999331972,elongation factor 1-beta,"Promotes the exchange of GDP for GTP in EF-1-alpha GDP, thus allowing the regeneration of EF-1-alpha GTP that could then be used to form the ternary complex EF-1-alpha GTP AAtRNA (By similarity)",COG2092@NOG
+VNG1175G,repressed,WP_010902846.1,T,0.967561118175002,ATPase,Histidine kinase,COG0642@NOG COG2202@NOG COG2203@NOG
+VNG1179C,repressed,WP_012289287.1,K,0.6558194820415417,TRASH domain-containing protein,regulator,COG1522@NOG
+VNG1182H,repressed,WP_010902853.1,S,0.9999999999999285,pyridoxamine 5'-phosphate oxidase family protein,Pyridoxamine 5'-phosphate oxidase,COG3467@NOG
+VNG1183H,repressed,WP_010902855.1,Q,0.8484173673986326,rSAM-partnered protein,Phenylacetic acid degradation B,0Z32U@NOG
+VNG1184G,repressed,WP_010902854.1,S,0.9999999999999285,radical SAM/SPASM domain-containing protein,Radical SAM domain protein,COG0535@NOG
+VNG1185G,repressed,WP_010902856.1,S,0.9999999999999285,radical SAM protein,Radical SAM domain protein,COG0535@NOG
+VNG1187G,repressed,WP_010902857.1,Q,0.8484173673986326,multicopper oxidase family protein,Multicopper oxidase type,COG2132@NOG
+VNG1190G,repressed,WP_010902860.1,P,0.5766262256799042,superoxide dismutase,radicals which are normally produced within the cells and which are toxic to biological systems,COG0605@NOG
+VNG1191G,repressed,WP_010902861.1,I,0.954185663076951,acyl-CoA dehydrogese,Acyl-coA dehydrogenase,COG1960@NOG
+VNG1193C,repressed,WP_010902862.1,T,0.967561118175002,HAMP domain-containing protein,Histidine kinase,COG0642@NOG
+VNG1200H,repressed,WP_010902867.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG1202C,induced,WP_010902869.1,S,0.01107921631015382,HAD family hydrolase,"HAD-superfamily hydrolase, subfamily IA, variant 1",COG1011@NOG
+VNG1204G,induced,WP_010902870.1,E,1.867716631717556e-5,glutamate dehydrogese,glutamate dehydrogenase,COG0334@NOG
+VNG1205C,induced,WP_010902871.1,F,0.9298381194835177,ethylammeline chlorohydrolase,N-ethylammeline chlorohydrolase,COG0402@NOG
+VNG1207C,repressed,WP_010902872.1,K,0.6558194820415417,helix-turn-helix domain-containing protein,HTH DNA binding domain,COG3413@NOG
+VNG1208G,repressed,WP_010902873.1,E,0.680794827857576,urocate hydratase,urocanate hydratase (EC 4.2.1.49),COG2987@NOG
+VNG1209G,repressed,WP_010902874.1,E,0.680794827857576,formimidoylglutamase,Arginase family,COG0010@NOG
+VNG1211G,repressed,WP_010902875.1,E,0.680794827857576,imidazolonepropiose,Imidazolone-5-propionate hydrolase,COG1228@NOG
+VNG1212G,repressed,WP_012289292.1,E,0.680794827857576,histidine ammonia-lyase,histidine ammonia-lyase,COG2986@NOG
+VNG1213C,repressed,WP_012289293.1,L,0.9759205406625302,exonuclease,Inherit from COG: Exonuclease-like protein,COG3359@NOG
+VNG1218C,repressed,WP_010902881.1,I,0.954185663076951,CBS domain-containing protein,protein with cbs domains,COG0517@NOG
+VNG1235C,repressed,WP_010902893.1,E,0.680794827857576,prephete dehydrogese/arogete dehydrogese family protein,prephenate dehydrogenase,COG0287@NOG
+VNG1239H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG1250H,induced,WP_010902905.1,S,0.01107921631015382,hypothetical protein,Function unknown,110WX@NOG
+VNG1251G,repressed,WP_010902906.1,L,0.9759205406625302,helicase,DEAD H associated domain protein,COG1201@NOG
+VNG1256G,repressed,WP_010902910.1,H,0.6363321576615788,"2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase",5-amino-6-(5-phosphoribosylamino)uracil reductase,COG1985@NOG
+VNG1261H,repressed,WP_010902914.1,S,0.9999999999999285,hypothetical protein,Function unknown,0Z4MG@NOG
+VNG1263C,induced,WP_010902916.1,S,0.01107921631015382,hypothetical protein,Uncharacterised protein family UPF0058,COG1745@NOG
+VNG1264C,repressed,WP_010902917.1,S,0.9999999999999285,DUF555 domain-containing protein,UPF0212 protein,COG1885@NOG
+VNG1270H,repressed,WP_010902920.1,S,0.9999999999999285,hypothetical protein,Function unknown,11120@NOG
+VNG1271H,repressed,WP_010902921.1,S,0.9999999999999285,hypothetical protein,"Inherit from NOG: Phosphodiesterase, mj0936 family",129N7@NOG
+VNG1289H,induced,WP_010902934.1,S,0.01107921631015382,hypothetical protein,Function unknown,0ZB3G@NOG
+VNG1292H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG1294G,induced,WP_010902937.1,O,0.7881402830649262,peptidylprolyl isomerase,peptidyl-prolyl cis-trans isomerase,COG1047@NOG
+VNG1295H,repressed,WP_010902938.1,S,0.9999999999999285,hypothetical protein,Function unknown,11057@NOG
+VNG1300H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG1301G,repressed,WP_010902943.1,E,0.680794827857576,cysteine synthase,Cysteine synthase,COG0031@NOG
+VNG1308G,induced,WP_010902948.1,C,0.9845391941122028,succite dehydrogese/fumarate reductase iron-sulfur subunit,succinate dehydrogenase and fumarate reductase iron-sulfur protein,COG0479@NOG
+VNG1311G,repressed,WP_010902951.1,L,0.9759205406625302,D-3-methyladenine glycosylase 2 family protein,HhH-GPD family,COG0122@NOG
+VNG1313G,repressed,WP_010902952.1,I,0.954185663076951,3-hydroxyacyl-CoA dehydrogese,3-hydroxyacyl-CoA dehydrogenase,COG1024@NOG COG1250@NOG
+VNG1314H,repressed,WP_010902953.1,S,0.9999999999999285,hypothetical protein,Function unknown,1241W@NOG
+VNG1315H,repressed,WP_012289307.1,S,0.9999999999999285,hypothetical protein,Function unknown,0ZB38@NOG
+VNG1317H,repressed,WP_010902955.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG1318H,repressed,WP_010902956.1,S,0.9999999999999285,hypothetical protein,Function unknown,10ZSM@NOG
+VNG1326H,repressed,WP_012289310.1,S,0.9999999999999285,cupin domain-containing protein,barrel domain protein,11WJH@NOG
+VNG1329H,induced,WP_010902964.1,S,0.01107921631015382,hypothetical protein,Function unknown,0YWSE@NOG
+VNG1332G,repressed,WP_010902966.1,P,0.5766262256799042,superoxide dismutase,radicals which are normally produced within the cells and which are toxic to biological systems,COG0605@NOG
+VNG1340C,repressed,WP_010902971.1,S,0.9999999999999285,MBL fold metallo-hydrolase,beta-lactamase domain protein,COG0491@NOG
+VNG1341G,repressed,WP_010902972.1,I,0.954185663076951,D(P)-dependent oxidoreductase,Short-chain dehydrogenase reductase SDR,COG1028@NOG
+VNG1342G,repressed,WP_010902973.1,C,1.1649410662927407e-10,TIGR04024 family LLM class F420-dependent oxidoreductase,Reductase,COG2141@NOG
+VNG1350C,repressed,WP_010902979.1,G,0.3404247213926807,EamA family transporter,EamA-like transporter family,COG0697@NOG
+VNG1371G,repressed,WP_010902995.1,P,0.5766262256799042,iron ABC transporter,ABC transporter,COG1120@NOG
+VNG1372C,repressed,WP_010902996.1,E,0.680794827857576,hypothetical protein,Inherit from arCOG: domain protein,10ZXU@NOG
+VNG1375C,repressed,WP_010902998.1,T,0.967561118175002,sensor histidine kise,Histidine kinase,COG0642@NOG
+VNG1376H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG1377G,induced,WP_010903000.1,K,0.4963532620052361,Lrp/AsnC family transcriptiol regulator,regulator,COG1522@NOG
+VNG1379G,induced,WP_010903001.1,G,0.11148007094768891,inositol monophosphatase,"inositol-1(Or 4)-monophosphatase fructose-1,6-bisphosphatase",COG0483@NOG
+VNG1380H,repressed,WP_010903002.1,S,0.9999999999999285,hypothetical protein,Function unknown,111KK@NOG
+VNG1382H,repressed,WP_010903004.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG1387H,repressed,WP_010903008.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG1394H,repressed,WP_010903013.1,K,0.6558194820415417,ArsR family transcriptiol regulator,transcriptional regulator trmb,0YSXN@NOG
+VNG1395G,repressed,WP_010903014.1,N,NA,chemotaxis protein,methyl-accepting chemotaxis sensory transducer with Pas Pac sensor,COG0840@NOG
+VNG1406G,repressed,WP_012289321.1,K,0.6558194820415417,helicase,type III restriction protein res subunit,COG1061@NOG
+VNG1408G,induced,WP_010903024.1,F,0.9298381194835177,PGF-CTERM sorting domain-containing protein,5'-nucleotidase,COG0737@NOG
+VNG1412H,induced,WP_012289323.1,S,0.01107921631015382,hypothetical protein,Function unknown,0YG7Y@NOG
+VNG1413H,repressed,WP_012289324.1,S,0.9999999999999285,hypothetical protein,Function unknown,0YB21@NOG
+VNG1414G,induced,WP_012289325.1,E,1.867716631717556e-5,serine hydroxymethyltransferase,"Catalyzes the reversible interconversion of serine and glycine with tetrahydrofolate (THF) serving as the one-carbon carrier. Also exhibits THF-independent aldolase activity toward beta-hydroxyamino acids, producing glycine and aldehydes, via a retro-aldol mechanism (By similarity)",COG0112@NOG
+VNG1418C,repressed,WP_010903032.1,S,0.9999999999999285,hypothetical protein,Inherit from COG: Hydrolase,COG1073@NOG
+VNG1422H,repressed,WP_010903034.1,S,0.9999999999999285,DUF1028 domain-containing protein,Putative peptidoglycan binding domain,COG3342@NOG
+VNG1433G,induced,WP_010903043.1,J,0.9999999999331972,30S ribosomal protein S17e,30S ribosomal protein S17e,COG1383@NOG
+VNG1446H,repressed,WP_012289329.1,S,0.9999999999999285,dodecin,Pfam:DUF1458,COG3360@NOG
+VNG1450G,repressed,WP_012289330.1,F,0.07498817694426309,"2',3'-cyclic-nucleotide 2'-phosphodiesterase",5'-nucleotidase,COG0737@NOG
+VNG1453H,repressed,WP_012289331.1,S,0.9999999999999285,hypothetical protein,Function unknown,0YVE6@NOG
+VNG1455H,repressed,WP_010903058.1,S,0.9999999999999285,DoxX family protein,DoxX family,0XXT8@NOG
+VNG1457C,repressed,WP_049892508.1,K,0.6558194820415417,N-acetyltransferase,GCN5-related N-acetyltransferase,COG0456@NOG
+VNG1458G,repressed,WP_010903061.1,I,0.954185663076951,phytoene/squalene synthase family protein,Phytoene synthase,COG1562@NOG
+VNG1459H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG1463G,repressed,WP_010903065.1,S,0.9999999999999285,SRPBCC family protein,Bacterio-opsin linked product,12AWV@NOG
+VNG1464G,repressed,WP_010903066.1,T,0.967561118175002,bacterio-opsin activator,bacterio-opsin activator,COG2203@NOG
+VNG1465G,repressed,WP_012289335.1,S,0.9999999999999285,"beta-carotene 15,15'-dioxygese",Bacteriorhodopsin related protein,0YA92@NOG
+VNG1467G,repressed,WP_010903069.1,S,0.9999999999999285,rhodopsin,bacteriorhodopsin,COG5524@NOG
+VNG1468H,repressed,WP_010903070.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG1473H,repressed,WP_010903074.1,S,0.9999999999999285,hypothetical protein,Function unknown,0ZFBI@NOG
+VNG1478G,repressed,WP_010903078.1,H,0.6363321576615788,3-methyl-2-oxobutanoate hydroxymethyltransferase,"Catalyzes the reversible reaction in which hydroxymethyl group from 5,10-methylenetetrahydrofolate is tranferred onto alpha-ketoisovalerate to form ketopantoate (By similarity)",COG0413@NOG
+VNG1486H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG1490H,repressed,WP_010903088.1,K,0.6558194820415417,ArsR family transcriptiol regulator,IclR helix-turn-helix domain,0Z3NI@NOG
+VNG1493G,repressed,WP_010903090.1,F,0.07498817694426309,amidophosphoribosyltransferase,Glutamine phosphoribosylpyrophosphate amidotransferase,COG0034@NOG
+VNG1494G,induced,WP_010903091.1,J,0.9999999999331972,50S ribosomal protein L37,Binds to the 23S rRNA (By similarity),COG2126@NOG
+VNG1496G,induced,WP_012289341.1,K,0.4963532620052361,small nuclear ribonucleoprotein,SnRNP-like protein,COG1958@NOG
+VNG1498G,repressed,WP_010903093.1,G,0.3404247213926807,M42 family peptidase,peptidase M42 family protein,COG1363@NOG
+VNG1505G,repressed,WP_010903098.1,N,NA,chemotaxis protein,transducer,COG0840@NOG
+VNG1511C,induced,WP_012289344.1,L,0.8816513827190088,hypothetical protein,nucleic acid binding OB-fold tRNA helicase-type,COG1107@NOG
+VNG1514H,repressed,WP_010903104.1,S,0.9999999999999285,hypothetical protein,Yip1 domain,COG2881@NOG
+VNG1519H,repressed,WP_010903107.1,S,0.9999999999999285,DUF2892 domain-containing protein,Function unknown,NA
+VNG1525C,repressed,WP_010903111.1,P,0.5766262256799042,DUF4010 domain-containing protein,Magnesium transporter accessory protein,COG3174@NOG
+VNG1529G,repressed,WP_010903114.1,I,0.954185663076951,acyl-CoA carboxylase subunit beta,propionyl-CoA carboxylase,COG4799@NOG
+VNG1535G,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG1536C,repressed,WP_010903120.1,T,0.967561118175002,universal stress protein,UspA domain protein,COG0589@NOG
+VNG1537C,repressed,WP_010903121.1,S,0.9999999999999285,HD domain-containing protein,Metal dependent phosphohydrolase,COG1078@NOG
+VNG1540G,repressed,WP_010903123.1,I,0.954185663076951,glucose 1-dehydrogese,Short-chain dehydrogenase reductase SDR,COG1028@NOG
+VNG1541G,induced,WP_012289349.1,C,0.9845391941122028,succite--CoA ligase subunit beta,succinyl-CoA synthetase subunit beta,COG0045@NOG
+VNG1542G,induced,WP_010903125.1,C,0.9845391941122028,succite--CoA ligase subunit alpha,Succinyl-CoA ligase ADP-forming subunit alpha,COG0074@NOG
+VNG1543G,induced,WP_010903126.1,L,0.8816513827190088,site-specific D-methyltransferase,DNA methylase N-4 N-6 domain protein,COG0863@NOG
+VNG1544G,repressed,WP_010903127.1,P,0.5766262256799042,CBS domain-containing protein,Voltage gated chloride channel,COG0038@NOG COG0517@NOG
+VNG1550G,induced,WP_010903131.1,H,0.9976308266632754,cobalt-precorrin-6Y C(15)-methyltransferase,"precorrin-6y c5,15-methyltransferase (decarboxylating), cbit subunit",COG2242@NOG
+VNG1551G,induced,WP_010903132.1,H,0.9976308266632754,cobalt-factor II C(20)-methyltransferase,cobalt-precorrin-2 C(20)-methyltransferase,COG2243@NOG
+VNG1553G,induced,WP_010903133.1,H,0.9976308266632754,cobalamin biosynthesis protein,precorrin-4 C11-methyltransferase (EC 2.1.1.133),COG2875@NOG
+VNG1554G,induced,WP_010903134.1,H,0.9976308266632754,cobalt-precorrin 5A hydrolase,cobalamin biosynthesis protein cbig,COG2073@NOG
+VNG1555G,induced,WP_010903135.1,H,0.9976308266632754,cobalt-precorrin-2 C(20)-methyltransferase,ec 2.1.1.131,COG1010@NOG
+VNG1557G,induced,WP_010903136.1,H,0.9976308266632754,precorrin-3B C(17)-methyltransferase,precorrin-3B C17-methyltransferase,COG1010@NOG
+VNG1558H,induced,WP_010903137.1,C,0.9845391941122028,ferredoxin,Inherit from arCOG: Ferredoxin,COG1141@NOG
+VNG1559H,induced,WP_010903138.1,S,0.01107921631015382,hypothetical protein,cobalamin operon protein,10ZPR@NOG
+VNG1561C,induced,WP_012289353.1,C,0.9845391941122028,ferredoxin,cobalamin (vitamin B12) biosynthesis CbiX protein,COG2138@NOG COG3411@NOG
+VNG1562H,induced,WP_010903140.1,S,0.01107921631015382,DUF3209 domain-containing protein,Protein of unknown function (DUF3209),11TR6@NOG
+VNG1564H,induced,WP_010903141.1,S,0.01107921631015382,transcriptiol regulator,Tup1 like transcriptional repressor,111QM@NOG
+VNG1566G,induced,WP_012289354.1,H,0.9976308266632754,cobaltochelatase subunit CobN,Cobaltochelatase (EC 6.6.1.2),COG1429@NOG
+VNG1567G,induced,WP_010903144.1,H,0.9976308266632754,precorrin isomerase,precorrin-8x methylmutase,COG2082@NOG
+VNG1568G,induced,WP_010903145.1,H,0.9976308266632754,cobalt-precorrin-7 (C(5))-methyltransferase,Cobalt-precorrin-6Y C(5)-methyltransferase,COG2241@NOG
+VNG1582G,repressed,WP_010903155.1,E,0.680794827857576,threonine-phosphate decarboxylase,L-threonine-O-3-phosphate decarboxylase,COG0079@NOG
+VNG1585C,induced,WP_010903157.1,S,0.01107921631015382,DUF262 domain-containing protein,Protein of unknown function DUF262,COG1479@NOG
+VNG1589C,repressed,WP_010903159.1,S,0.9999999999999285,hypothetical protein,Function unknown,110F7@NOG
+VNG1590H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG1591H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG1592G,repressed,WP_010903162.1,P,0.5766262256799042,sulfate ABC transporter permease,transport system permease,COG0555@NOG
+VNG1598H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG1624G,induced,WP_010903183.1,C,0.9845391941122028,DP-dependent malic enzyme,malic enzyme (EC 1.1.1.40,COG0280@NOG COG0281@NOG
+VNG1637G,repressed,WP_010903192.1,C,1.1649410662927407e-10,halocyanin,halocyanin-like protein,COG3794@NOG
+VNG1642H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG1646G,repressed,WP_010903199.1,E,0.680794827857576,glutamine amidotransferase,anthranilate synthase,COG0512@NOG
+VNG1647G,repressed,WP_010903200.1,E,0.680794827857576,anthranilate synthase component I,anthranilate synthase component I,COG0147@NOG
+VNG1648G,repressed,WP_010903201.1,E,0.680794827857576,N-(5'-phosphoribosyl)anthranilate isomerase,N-(5'phosphoribosyl)anthranilate isomerase,COG0135@NOG
+VNG1649G,repressed,WP_010903202.1,E,0.680794827857576,anthranilate phosphoribosyltransferase,anthranilate phosphoribosyltransferase (EC 2.4.2.18),COG0547@NOG
+VNG1650H,repressed,WP_010903203.1,S,0.9999999999999285,hypothetical protein,Function unknown,0YTZS@NOG
+VNG1653H,induced,WP_010903204.1,L,0.8816513827190088,IS4 family transposase ISH8E,Transposase,COG3385@NOG
+VNG1663C,repressed,WP_010903212.1,S,0.9999999999999285,CBS domain-containing protein,CBS domain containing membrane protein,COG0517@NOG
+VNG1667G,repressed,WP_010903216.1,O,0.7217030235301483,ATPase,"AAA family ATPase, CDC48 subfamily",COG0464@NOG
+VNG1673G,repressed,WP_010903220.1,F,0.07498817694426309,orotidine 5'-phosphate decarboxylase,OMP decarboxylase,COG0284@NOG
+VNG1674H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG1676G,repressed,WP_010903224.1,S,0.9999999999999285,GTP-binding protein,protein synthesis factor GTP-binding,COG5258@NOG
+VNG1678H,repressed,WP_010903225.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG1681C,repressed,WP_010903228.1,S,0.9999999999999285,hypothetical protein,Carotene biosynthesis associated membrane protein,COG2324@NOG
+VNG1688C,induced,WP_010903233.1,S,0.01107921631015382,hypothetical protein,Pfam:DUF171,COG2106@NOG
+VNG1689G,induced,WP_010903234.1,J,0.9999999999331972,50S ribosomal protein L3,"One of the primary rRNA binding proteins, it binds directly near the 3'-end of the 23S rRNA, where it nucleates assembly of the 50S subunit (By similarity)",COG0087@NOG
+VNG1690G,induced,WP_010903235.1,J,0.9999999999331972,50S ribosomal protein L4,"One of the primary rRNA binding proteins, this protein initially binds near the 5'-end of the 23S rRNA. It is important during the early stages of 50S assembly. It makes multiple contacts with different domains of the 23S rRNA in the assembled 50S subunit and ribosome (By similarity)",COG0088@NOG
+VNG1691G,induced,WP_010903236.1,J,0.9999999999331972,50S ribosomal protein L23,Binds to 23S rRNA. One of the proteins that surrounds the polypeptide exit tunnel on the outside of the ribosome (By similarity),COG0089@NOG
+VNG1692G,induced,WP_010903237.1,J,0.9999999999331972,50S ribosomal protein L2,"One of the primary rRNA binding proteins. Required for association of the 30S and 50S subunits to form the 70S ribosome, for tRNA binding and peptide bond formation. It has been suggested to have peptidyltransferase activity",COG0090@NOG
+VNG1693G,induced,WP_010903238.1,J,0.9999999999331972,30S ribosomal protein S19,Protein S19 forms a complex with S13 that binds strongly to the 16S ribosomal RNA (By similarity),COG0185@NOG
+VNG1695G,induced,WP_010903239.1,J,0.9999999999331972,50S ribosomal protein L22,"The globular domain of the protein is located near the polypeptide exit tunnel on the outside of the subunit, while an extended beta-hairpin is found that lines the wall of the exit tunnel in the center of the 70S ribosome (By similarity)",COG0091@NOG
+VNG1697G,induced,WP_010903240.1,J,0.9999999999331972,30S ribosomal protein S3,Binds the lower part of the 30S subunit head (By similarity),COG0092@NOG
+VNG1698G,induced,WP_010903241.1,J,0.9999999999331972,50S ribosomal protein L29,50S ribosomal protein L29P,COG0255@NOG
+VNG1699C,induced,WP_010903242.1,J,0.9999999999331972,ribonuclease P,"Part of ribonuclease P, a protein complex that generates mature tRNA molecules by cleaving their 5'-ends (By similarity)",COG1588@NOG
+VNG1700G,induced,WP_010903243.1,J,0.9999999999331972,30S ribosomal protein S17,"One of the primary rRNA binding proteins, it binds specifically to the 5'-end of 16S ribosomal RNA (By similarity)",COG0186@NOG
+VNG1701G,induced,WP_010903244.1,J,0.9999999999331972,50S ribosomal protein L14,Binds to 23S rRNA. Forms part of two intersubunit bridges in the 70S ribosome (By similarity),COG0093@NOG
+VNG1702G,induced,WP_010903245.1,J,0.9999999999331972,50S ribosomal protein L24,Located at the polypeptide exit tunnel on the outside of the subunit (By similarity),COG0198@NOG
+VNG1703G,induced,WP_010903246.1,J,0.9999999999331972,30S ribosomal protein S4e,30S ribosomal protein S4E,COG1471@NOG
+VNG1705G,induced,WP_010903247.1,J,0.9999999999331972,50S ribosomal protein L5,"This is 1 of the proteins that binds and probably mediates the attachment of the 5S RNA into the large ribosomal subunit, where it forms part of the central protuberance. In the 70S ribosome it contacts protein S13 of the 30S subunit (bridge B1b), connecting the 2 subunits",COG0094@NOG
+VNG1706G,induced,WP_010903248.1,J,0.9999999999331972,30S ribosomal protein S14,"Binds 16S rRNA, required for the assembly of 30S particles (By similarity)",COG0199@NOG
+VNG1707G,induced,WP_010903249.1,J,0.9999999999331972,30S ribosomal protein S8,"One of the primary rRNA binding proteins, it binds directly to 16S rRNA central domain where it helps coordinate assembly of the platform of the 30S subunit (By similarity)",COG0096@NOG
+VNG1709G,induced,WP_010903250.1,J,0.9999999999331972,50S ribosomal protein L6,"This protein binds to the 23S rRNA, and is important in its secondary structure. It is located near the subunit interface in the base of the L7 L12 stalk, and near the tRNA binding site of the peptidyltransferase center",COG0097@NOG
+VNG1711G,induced,WP_010903251.1,J,0.9999999999331972,50S ribosomal protein L32e,50S ribosomal protein L32e,COG0468@NOG COG1717@NOG
+VNG1713G,induced,WP_010903252.1,J,0.9999999999331972,50S ribosomal protein L19e,Binds to the 23S rRNA (By similarity),COG2147@NOG
+VNG1714G,induced,WP_010903253.1,J,0.9999999999331972,50S ribosomal protein L18,"This is one of the proteins that binds and probably mediates the attachment of the 5S RNA into the large ribosomal subunit, where it forms part of the central protuberance (By similarity)",COG0256@NOG
+VNG1715G,induced,WP_010903254.1,J,0.9999999999331972,30S ribosomal protein S5,With S4 and S12 plays an important role in translational accuracy (By similarity),COG0098@NOG
+VNG1716G,induced,WP_010903255.1,J,0.9999999999331972,50S ribosomal protein L30,50S ribosomal protein L30P,COG1841@NOG
+VNG1718G,induced,WP_010903256.1,J,0.9999999999331972,50S ribosomal protein L15,Binds to the 23S rRNA (By similarity),COG0200@NOG
+VNG1719G,induced,WP_010903257.1,U,NA,preprotein translocase subunit SecY,"The central subunit of the protein translocation channel SecYEG. Consists of two halves formed by TMs 1-5 and 6-10. These two domains form a lateral gate at the front which open onto the bilayer between TMs 2 and 7, and are clamped together by SecE at the back. The channel is closed by both a pore ring composed of hydrophobic SecY resides and a short helix (helix 2A) on the extracellular side of the membrane which forms a plug. The plug probably moves laterally to allow the channel to open. The ring and the pore may move independently (By similarity)",COG0201@NOG
+VNG1720H,induced,WP_010903258.1,P,0.059092265784778546,ABC transporter substrate-binding protein,Ferrichrome-binding protein,11HND@NOG
+VNG1727G,induced,WP_010903263.1,F,0.9298381194835177,cytidylate kise,Cytidine monophosphate kinase,COG1102@NOG
+VNG1733G,repressed,WP_010903266.1,N,NA,methyl-accepting chemotaxis protein,Methyl-accepting chemotaxis protein (MCP) signalling domain,0XRCX@NOG
+VNG1734H,repressed,WP_010903267.1,S,0.9999999999999285,hypothetical protein,Function unknown,10ZTS@NOG
+VNG1744H,repressed,WP_010903273.1,P,0.5766262256799042,ZIP family metal transporter,Zinc transporter,COG0428@NOG
+VNG1746C,repressed,WP_010903274.1,S,0.9999999999999285,hypothetical protein,Uncharacterized conserved protein (COG2071),COG3361@NOG
+VNG1749G,induced,WP_010903276.1,J,0.9999999999331972,redox-regulated ATPase YchF,Translation-associated GTPase,COG0012@NOG
+VNG1754G,repressed,WP_010903279.1,L,0.9759205406625302,deoxyribodipyrimidine photo-lyase,photo-lyase,COG0415@NOG
+VNG1760G,repressed,WP_010903284.1,N,NA,chemotaxis protein,HAMP domain,0XNRY@NOG
+VNG1767G,induced,WP_010903289.1,E,1.867716631717556e-5,agmatise,agmatinase (EC 3.5.3.11),COG0010@NOG
+VNG1768G,induced,WP_010903290.1,J,0.9999999999331972,translation initiation factor IF-5A,Functions by promoting the formation of the first peptide bond (By similarity),COG0231@NOG
+VNG1774G,induced,WP_010903296.1,H,0.9976308266632754,glutamyl-tR reductase,Catalyzes the NADPH-dependent reduction of glutamyl- tRNA(Glu) to glutamate 1-semialdehyde (GSA) (By similarity),COG0373@NOG
+VNG1779C,induced,WP_010903300.1,I,0.019290962317551823,UDP pyrophosphate synthase,"Catalyzes the sequential condensation of isopentenyl diphosphate (IPP) with geranylgeranyl diphosphate (GGPP) to yield (2Z,6Z,10Z,14Z,18Z,22Z,26Z,30E,34E,38E)-undecaprenyl diphosphate (tritrans,heptacis-UPP). It is probably the precursor of glycosyl carrier lipids (By similarity)",COG0020@NOG
+VNG1781C,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG1782C,induced,WP_012289378.1,S,0.01107921631015382,DUF92 domain-containing protein,Integral membrane protein DUF92,COG1836@NOG
+VNG1784C,repressed,WP_012289379.1,L,0.9759205406625302,D primase,UPF0095 protein,COG0358@NOG
+VNG1796H,repressed,WP_010903315.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG1797G,repressed,WP_010903313.1,E,0.680794827857576,homoserine kise,Catalyzes the ATP-dependent phosphorylation of L- homoserine to L-homoserine phosphate (By similarity),COG0083@NOG
+VNG1800H,repressed,WP_010903317.1,S,0.9999999999999285,hypothetical protein,Function unknown,110BH@NOG
+VNG1801G,repressed,WP_010903318.1,O,0.7217030235301483,Hsp20/alpha crystallin family protein,Hsp20/alpha crystallin family,COG0071@NOG
+VNG1802H,repressed,WP_010903319.1,S,0.9999999999999285,hypothetical protein,Function unknown,111N6@NOG
+VNG1806H,repressed,WP_010903321.1,S,0.9999999999999285,hypothetical protein,Function unknown,1117E@NOG
+VNG1811G,repressed,WP_010903324.1,S,0.9999999999999285,succinoglycan biosynthesis,Erythromycin esterase,COG2312@NOG
+VNG1814G,induced,WP_010903325.1,E,1.867716631717556e-5,carbamoyl phosphate synthase large subunit,Carbamoyl-phosphate synthetase ammonia chain,COG0458@NOG
+VNG1821G,repressed,WP_010903331.1,C,1.1649410662927407e-10,alcohol dehydrogese,Alcohol dehydrogenase zinc-binding domain protein,COG0604@NOG
+VNG1830G,induced,WP_010903337.1,F,0.9298381194835177,CTP synthetase,Catalyzes the ATP-dependent amination of UTP to CTP with either L-glutamine or ammonia as the source of nitrogen (By similarity),COG0504@NOG
+VNG1831H,repressed,WP_012289386.1,S,0.9999999999999285,hypothetical protein,Function unknown,0Y4YD@NOG
+VNG1832H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG1833C,repressed,WP_010903340.1,S,0.9999999999999285,alpha/beta hydrolase,"Inherit from COG: alpha, beta",COG2945@NOG
+VNG1836G,repressed,WP_010903343.1,K,0.6558194820415417,cold-shock protein,cold-shock DNA-binding domain protein,COG1278@NOG
+VNG1838H,repressed,WP_049892519.1,S,0.9999999999999285,hypothetical protein,Function unknown,111P5@NOG
+VNG1856G,repressed,WP_012289396.1,N,NA,type I deoxyribonuclease HsdR,HAMP domain,0XNRY@NOG
+VNG1859G,repressed,WP_010903361.1,F,0.07498817694426309,2-deoxyribose-5-phosphate aldolase,Catalyzes a reversible aldol reaction between acetaldehyde and D-glyceraldehyde 3-phosphate to generate 2-deoxy- D-ribose 5-phosphate (By similarity),COG0274@NOG
+VNG1865H,repressed,WP_010903365.1,S,0.9999999999999285,hypothetical protein,Function unknown,0ZF5H@NOG
+VNG1867G,repressed,WP_010903367.1,E,0.680794827857576,ABC transporter permease,spermidine putrescine ABC transporter permease,COG1177@NOG
+VNG1869C,repressed,WP_010903369.1,E,0.680794827857576,hypothetical protein,Inherit from arCOG: Extracellular solute-binding protein family 1,COG0687@NOG
+VNG1872C,repressed,WP_010903371.1,E,0.680794827857576,asparagise,asparaginase,COG1446@NOG
+VNG1877C,induced,WP_010903375.1,S,0.01107921631015382,hypothetical protein,Domain of unknown function DUF77,COG0011@NOG
+VNG1880C,repressed,WP_010903377.1,S,0.9999999999999285,amidohydrolase,amidohydrolase,COG1574@NOG
+VNG1882G,repressed,WP_049892521.1,H,0.6363321576615788,quinolite synthase dA,Catalyzes the condensation of iminoaspartate with dihydroxyacetone phosphate to form quinolinate (By similarity),COG0379@NOG
+VNG1883G,repressed,WP_010903379.1,H,0.6363321576615788,aspartate oxidase,L-aspartate oxidase,COG0029@NOG
+VNG1884G,repressed,WP_010903380.1,H,0.6363321576615788,nicotite-nucleotide diphosphorylase (carboxylating),nicotinate-nucleotide pyrophosphorylase (EC 2.4.2.19),COG0157@NOG
+VNG1886C,repressed,WP_010903381.1,K,0.6558194820415417,TrmB family transcriptiol regulator,"transcriptional regulator, TrmB",COG1378@NOG
+VNG1890H,repressed,WP_010903385.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG1891H,repressed,WP_010903386.1,L,0.9759205406625302,nuclease,NurA domain,101KW@NOG
+VNG1893G,repressed,WP_010903387.1,V,NA,ABC transporter ATP-binding protein,ABC transporter,COG1131@NOG
+VNG1894C,repressed,WP_010903388.1,S,0.9999999999999285,hypothetical protein,Function unknown,111CX@NOG
+VNG1896C,repressed,WP_010903390.1,L,0.9759205406625302,ATP-binding protein,Domain of unknown function DUF87,COG0433@NOG
+VNG1898C,repressed,WP_012289398.1,T,0.967561118175002,universal stress protein,UspA domain protein,COG0589@NOG
+VNG1902H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG1904H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG1912G,repressed,WP_010903403.1,E,0.680794827857576,anthranilate phosphoribosyltransferase,anthranilate phosphoribosyltransferase (EC 2.4.2.18),COG0547@NOG
+VNG1917H,repressed,WP_010903406.1,S,0.9999999999999285,hypothetical protein,Steroid delta-isomerase domain-containing protein,COG4538@NOG
+VNG1919H,repressed,WP_010903408.1,D,NA,chromosome condensation protein CrcB,Protein CrcB homolog,COG0239@NOG
+VNG1921H,repressed,WP_010903409.1,D,NA,chromosome condensation protein CrcB,Protein CrcB homolog,COG0239@NOG
+VNG1922G,repressed,WP_010903411.1,K,0.6558194820415417,transcriptiol regulator,regulator,COG1522@NOG
+VNG1924G,repressed,WP_012289405.1,P,0.5766262256799042,TrkA family potassium uptake protein,TrkA-N domain protein,COG0569@NOG
+VNG1925H,repressed,WP_012289406.1,K,0.6558194820415417,transcription regulator-like protein,AsnC family transcriptional regulator,COG1522@NOG
+VNG1926G,induced,WP_049892524.1,C,0.9845391941122028,2-oxo acid dehydrogese,alpha subunit,COG1071@NOG
+VNG1938C,repressed,WP_010903422.1,H,0.6363321576615788,FO synthase,fo synthase subunit 2,COG1060@NOG
+VNG1951G,repressed,WP_010903433.1,O,0.7217030235301483,serine protease,S53 subtilisin kexin sedolisin,COG1404@NOG
+VNG1952H,repressed,WP_010903434.1,S,0.9999999999999285,hypothetical protein,adhesin-like protein,0XX9V@NOG
+VNG1953C,repressed,WP_010903435.1,M,0.34640593860971897,cell surface protein,"peptidase S8 and S53, subtilisin, kexin, sedolisin",0YAP2@NOG
+VNG1956H,repressed,WP_010903437.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG1963H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG1964H,repressed,WP_010903444.1,L,0.9759205406625302,ATP-binding protein,Cell division control protein,0XWSR@NOG
+VNG1969G,induced,WP_010903447.1,C,0.9845391941122028,aerobic glycerol-3-phosphate dehydrogese subunit A,Glycerol-3-phosphate dehydrogenase,COG0578@NOG
+VNG1971G,repressed,WP_010903448.1,C,1.1649410662927407e-10,aerobic glycerol-3-phosphate dehydrogese subunit B,Anaerobic glycerol-3-phosphate dehydrogenase subunit B,COG3075@NOG
+VNG1973H,repressed,WP_010903450.1,P,0.5766262256799042,hypothetical protein,Inherit from COG: alkaline phosphatase,COG3540@NOG
+VNG1974H,repressed,WP_010903451.1,S,0.9999999999999285,type IV pilin,Inherit from arCOG: Protein of unknown function (DUF1628),COG3430@NOG
+VNG1976H,repressed,WP_010903452.1,K,0.6558194820415417,hypothetical protein,Inherit from arCOG: Phage PhiH1 repressor protein,COG1349@NOG
+VNG1977H,repressed,WP_010903453.1,K,0.6558194820415417,ATP-binding protein,Transcriptional regulator,COG2865@NOG
+VNG1986C,repressed,WP_010903460.1,L,0.9759205406625302,endonuclease NucS,Cleaves both 3' and 5' ssDNA extremities of branched DNA structures (By similarity),COG1637@NOG
+VNG1997G,induced,WP_010903469.1,J,0.9999999999331972,translation initiation factor aIF-2,Function in general translation initiation by promoting the binding of the formylmethionine-tRNA to ribosomes. Seems to function along with eIF-2 (By similarity),COG0532@NOG
+VNG2001G,repressed,WP_012289415.1,E,0.680794827857576,oligoendopeptidase F,oligoendopeptidase F,COG1164@NOG
+VNG2002H,repressed,WP_010903474.1,S,0.9999999999999285,hypothetical protein,Peptidase M28,COG2234@NOG
+VNG2003G,repressed,WP_010903475.1,J,4.6397637943113014e-32,tR pseudouridine(38-40) synthase TruA,"Formation of pseudouridine at positions 38, 39 and 40 in the anticodon stem and loop of transfer RNAs (By similarity)",COG0101@NOG
+VNG2006C,repressed,WP_010903477.1,J,4.6397637943113014e-32,alpha hydrolase,Inherit from eurNOG: Subunit of tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase,COG2117@NOG
+VNG2008H,repressed,WP_010903478.1,S,0.9999999999999285,D-binding protein,DNA-binding protein,COG2118@NOG
+VNG2014H,repressed,WP_010903482.1,S,0.9999999999999285,hypothetical protein,Function unknown,11W55@NOG
+VNG2015C,induced,WP_010903483.1,F,0.9298381194835177,UMP kise,Catalyzes the reversible phosphorylation of UMP to UDP (By similarity),COG0528@NOG
+VNG2017G,induced,WP_010903484.1,J,0.9999999999331972,lysine--tR ligase,lysyl-tRNA synthetase,COG1384@NOG
+VNG2024H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG2027H,repressed,WP_010903491.1,L,0.9759205406625302,zinc ribbon domain-containing protein,Inherit from NOG: Transposase,0ZZTP@NOG
+VNG2028H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG2034H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG2045G,induced,WP_010903505.1,T,0.02181383679394331,serine/threonine protein kise,Required for the formation of a threonylcarbamoyl group on adenosine at position 37 (t(6)A37) in tRNAs that read codons beginning with adenine (By similarity),COG0533@NOG COG3642@NOG
+VNG2047G,induced,WP_010903506.1,J,0.9999999999331972,30S ribosomal protein S27ae,30S ribosomal protein S27ae,COG1998@NOG
+VNG2048G,induced,WP_010903507.1,J,0.9999999999331972,30S ribosomal protein S24e,30S ribosomal protein S24e,COG2004@NOG
+VNG2049C,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG2053G,induced,WP_010903510.1,K,0.4963532620052361,D-directed R polymerase,"DNA-directed RNA polymerase, subunit e'",COG1095@NOG
+VNG2054H,induced,WP_010903511.1,V,0.4274547385308143,hypothetical protein,rpo operon protein,COG1412@NOG
+VNG2056G,induced,WP_010903512.1,J,0.9999999999331972,translation initiation factor 2 subunit gamma,eIF-2 functions in the early steps of protein synthesis by forming a ternary complex with GTP and initiator tRNA (By similarity),COG5257@NOG
+VNG2063G,induced,WP_012289424.1,I,0.019290962317551823,acetyl-CoA C-acyltransferase,acetyl-CoA acetyltransferase (EC,COG0183@NOG
+VNG2071G,repressed,WP_010903521.1,I,0.954185663076951,long-chain fatty acid--CoA ligase,AMP-dependent synthetase and ligase,COG1022@NOG
+VNG2076G,induced,WP_010903526.1,J,0.9999999999331972,50S ribosomal protein L40e,50S ribosomal protein L40e,COG1552@NOG
+VNG2081H,repressed,WP_010903530.1,S,0.9999999999999285,hypothetical protein,Function unknown,0Z4KW@NOG
+VNG2087G,repressed,WP_010903536.1,E,0.680794827857576,imidazole glycerol phosphate synthase subunit HisH,"IGPS catalyzes the conversion of PRFAR and glutamine to IGP, AICAR and glutamate. The HisH subunit provides the glutamine amidotransferase activity that produces the ammonia necessary to HisF for the synthesis of IGP and AICAR (By similarity)",COG0118@NOG
+VNG2093G,induced,WP_010903540.1,E,1.867716631717556e-5,glutamine synthetase,glutamine synthetase,COG0174@NOG
+VNG2096G,repressed,WP_010903542.1,O,0.7217030235301483,thermosome subunit,thermosome,COG0459@NOG
+VNG2100G,repressed,WP_010903546.1,E,0.680794827857576,threonine ammonia-lyase,Threonine dehydratase,COG1171@NOG
+VNG2101H,repressed,WP_010903547.1,G,0.3404247213926807,hypothetical protein,Inherit from COG: glucosylceramidase activity,111BA@NOG
+VNG2104G,repressed,WP_010903549.1,P,0.5766262256799042,potassium channel protein,TrkA-C domain protein,COG3273@NOG
+VNG2109H,repressed,WP_010903553.1,S,0.9999999999999285,hypothetical protein,Function unknown,110X5@NOG
+VNG2112C,repressed,WP_012289434.1,K,0.6558194820415417,transcriptiol regulator,HTH-type transcriptional regulatory protein,COG1395@NOG
+VNG2115H,repressed,WP_010903557.1,O,0.7217030235301483,glutaredoxin,Glutaredoxin,COG0695@NOG
+VNG2118G,induced,WP_010903560.1,F,0.9298381194835177,orotate phosphoribosyltransferase,"Catalyzes the transfer of a ribosyl phosphate group from 5-phosphoribose 1-diphosphate to orotate, leading to the formation of orotidine monophosphate (OMP) (By similarity)",COG0461@NOG
+VNG2119C,repressed,WP_012289436.1,I,0.954185663076951,hypothetical protein,UPF0290 protein,COG0575@NOG
+VNG2123G,repressed,WP_010903565.1,C,1.1649410662927407e-10,arginine:ornithine antiporter,Na H antiporter,COG1757@NOG
+VNG2138G,induced,WP_010903578.1,C,0.9845391941122028,V-type ATP synthase subunit B,Produces ATP from ADP in the presence of a proton gradient across the membrane. The archaeal beta chain is a regulatory subunit (By similarity),COG1156@NOG
+VNG2139G,induced,WP_010903579.1,C,0.9845391941122028,ATP synthase subunit A,Produces ATP from ADP in the presence of a proton gradient across the membrane. The archaeal alpha chain is a catalytic subunit (By similarity),COG1155@NOG
+VNG2140G,induced,WP_010903580.1,C,0.9845391941122028,ATP synthase subunit F,Produces ATP from ADP in the presence of a proton gradient across the membrane (By similarity),COG1436@NOG
+VNG2141G,induced,WP_010903581.1,C,0.9845391941122028,ATP synthase subunit C,Produces ATP from ADP in the presence of a proton gradient across the membrane (By similarity),COG1527@NOG
+VNG2144G,induced,WP_010903584.1,C,0.9845391941122028,ATP synthase subunit I,V-type ATPase 116 kDa subunit,COG1269@NOG
+VNG2146H,induced,WP_010903585.1,C,0.9845391941122028,V-type ATP synthase subunit H,ATP synthase subunit H,COG2811@NOG
+VNG2150G,induced,WP_010903589.1,C,0.9845391941122028,electron transfer flavoprotein subunit beta/FixA family protein,Electron transfer flavoprotein,COG2086@NOG
+VNG2151G,induced,WP_010903590.1,C,0.9845391941122028,electron transfer flavoprotein subunit alpha/FixB family protein,Electron transfer flavoprotein subunit alpha,COG2025@NOG
+VNG2156C,repressed,WP_012289445.1,O,0.7217030235301483,TIGR03663 family protein,Mannosyltransferase,COG4745@NOG
+VNG2159G,repressed,WP_010903598.1,M,0.34640593860971897,mannose-1-phosphate guanyltransferase,Mannose-1-phosphate guanylyltransferase,COG0836@NOG
+VNG2167G,repressed,WP_010903605.1,L,0.9759205406625302,ATPase AAA,AAA,COG1112@NOG
+VNG2171G,repressed,WP_010903607.1,C,1.1649410662927407e-10,alcohol dehydrogese,alcohol dehydrogenase,COG1454@NOG
+VNG2172C,repressed,WP_010903609.1,S,0.9999999999999285,phosphotransferase family protein,Aminoglycoside phosphotransferase,COG3173@NOG
+VNG2174H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG2177H,repressed,WP_010903613.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG2179H,repressed,WP_010903615.1,S,0.9999999999999285,hypothetical protein,flagellin domain protein,COG3430@NOG
+VNG2181G,induced,WP_012289456.1,L,0.8816513827190088,D helicase mcm (intein-containing),Cell division control protein,COG1241@NOG
+VNG2185H,repressed,WP_010903621.1,S,0.9999999999999285,hypothetical protein,Function unknown,0YQM5@NOG
+VNG2191H,repressed,WP_010903626.1,P,0.5766262256799042,hypothetical protein,Inherit from NOG: Blue (Type1) copper domain-containing protein,0ZGH9@NOG
+VNG2193G,repressed,WP_010903627.1,C,1.1649410662927407e-10,cytochrome c oxidase subunit I,"cytochrome c oxidase, subunit I",COG0843@NOG
+VNG2195G,repressed,WP_049892532.1,C,1.1649410662927407e-10,cytochrome c oxidase subunit II,"oxidase, subunit II",COG1622@NOG
+VNG2196G,repressed,WP_010903629.1,C,1.1649410662927407e-10,halocyanin domain-containing protein,Halocyanin,COG3794@NOG
+VNG2197H,repressed,WP_010903630.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG2199H,repressed,WP_070807659.1,S,0.9999999999999285,hypothetical protein,Inherit from COG: Membrane,COG2836@NOG
+VNG2201G,repressed,WP_010903632.1,P,0.5766262256799042,heavy metal translocating P-type ATPase,heavy metal translocating P-type ATPase,COG2217@NOG
+VNG2202H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG2206G,induced,WP_010903637.1,G,0.11148007094768891,phosphoglucosamine mutase,phosphoglucosamine mutase (EC 5.4.2.10),COG1109@NOG
+VNG2211H,induced,WP_010903641.1,L,0.8816513827190088,DUF91 domain-containing protein,DNA topoisomerase type IA zn finger domain protein,COG0551@NOG
+VNG2214G,repressed,WP_010903643.1,V,NA,MATE family efflux transporter,MATE efflux family protein,COG0534@NOG
+VNG2217G,induced,WP_010903645.1,C,0.9845391941122028,pyruvate dehydrogese (acetyl-transferring) E1 component subunit alpha,e1 component subunit alpha,COG1071@NOG
+VNG2218G,induced,WP_012289463.1,C,0.9845391941122028,alpha-ketoacid dehydrogese subunit beta,pyruvate dehydrogenase E1 component subunit beta (EC 1.2.4.1),COG0022@NOG
+VNG2219G,induced,WP_010903647.1,C,0.9845391941122028,2-oxo acid dehydrogese subunit E2,branched-chain alpha-keto acid dehydrogenase subunit E2,COG0508@NOG
+VNG2220G,induced,WP_010903648.1,C,0.9845391941122028,dihydrolipoamide dehydrogese,dihydrolipoamide dehydrogenase,COG1249@NOG
+VNG2226G,induced,WP_049892611.1,O,0.7881402830649262,thermosome subunit,thermosome,COG0459@NOG
+VNG2230H,repressed,WP_010903654.1,S,0.9999999999999285,transcriptiol regulator,Transcriptional regulator,0YQEF@NOG
+VNG2231C,repressed,WP_010903655.1,G,0.3404247213926807,hypothetical protein,Pfam:DUF894,COG0477@NOG
+VNG2236H,repressed,WP_012289467.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG2246H,repressed,WP_010903668.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG2259C,repressed,WP_010903679.1,G,0.3404247213926807,phosphoenolpyruvate carboxylase,"Catalyzes the irreversible beta-carboxylation of phosphoenolpyruvate (PEP) to form oxaloacetate (OAA), a four- carbon dicarboxylic acid source for the tricarboxylic acid cycle (By similarity)",COG1892@NOG
+VNG2262H,repressed,WP_010903681.1,V,NA,hypothetical protein,Inherit from COG: type I restriction enzyme,110TS@NOG
+VNG2273H,induced,WP_010903690.1,S,0.01107921631015382,DUF1931 domain-containing protein,Function unknown,0ZFRM@NOG
+VNG2274C,repressed,WP_010903691.1,L,0.9759205406625302,GIY-YIG nuclease family protein,Excinuclease ABC C subunit domain protein,COG2827@NOG
+VNG2286G,repressed,WP_010903701.1,E,0.680794827857576,methylaspartate mutase,Glutamate mutase subunit sigma,COG2185@NOG
+VNG2288G,repressed,WP_010903702.1,E,0.680794827857576,glutamate mutase,Methylaspartate mutase,COG4865@NOG
+VNG2290G,repressed,WP_010903704.1,I,0.954185663076951,MaoC family dehydratase,MaoC like domain,COG2030@NOG
+VNG2291G,repressed,WP_010903705.1,C,1.1649410662927407e-10,acetyl-CoA hydrolase,Acetyl-CoA hydrolase/transferase N-terminal domain,COG0427@NOG
+VNG2292H,repressed,WP_010903706.1,S,0.9999999999999285,DUF2029 domain-containing protein,Protein of unknown function (DUF2029),110P6@NOG
+VNG2293G,induced,WP_010903707.1,C,0.9845391941122028,ferredoxin,Ferredoxin,COG0633@NOG
+VNG2298H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG2301G,induced,WP_010903715.1,O,0.7881402830649262,D(P)/FAD-dependent oxidoreductase,Thioredoxin reductase,COG0492@NOG
+VNG2302G,repressed,WP_010903716.1,E,0.680794827857576,S9 family peptidase,peptidase S9 prolyl oligopeptidase active site domain protein,COG1506@NOG
+VNG2315H,repressed,WP_012289482.1,K,0.6558194820415417,hypothetical protein,Inherit from eurNOG: response regulator receiver domain-containing protein,11WCU@NOG
+VNG2316C,repressed,WP_010903728.1,S,0.9999999999999285,biotin transporter BioY,BioY protein,COG1268@NOG
+VNG2317G,repressed,WP_010903729.1,P,0.5766262256799042,ABC transporter ATP-binding protein,ABC transporter,COG1122@NOG
+VNG2321G,repressed,WP_010903731.1,K,0.6558194820415417,N-acetyltransferase,acetyltransferase,COG1670@NOG
+VNG2335H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG2340H,repressed,WP_012289489.1,S,0.9999999999999285,hypothetical protein,Function unknown,0YXCU@NOG
+VNG2349G,induced,WP_049892555.1,E,1.867716631717556e-5,peptide ABC transporter substrate-binding protein,Extracellular solute-binding protein family 5,COG0747@NOG
+VNG2358G,repressed,WP_010903759.1,E,0.680794827857576,peptide-binding protein,Extracellular solute-binding protein family 5,COG0747@NOG
+VNG2359G,repressed,WP_010903760.1,E,0.680794827857576,ABC transporter permease,ABC transporter permease,COG0601@NOG
+VNG2361G,repressed,WP_010903761.1,E,0.680794827857576,ABC transporter permease,transport,COG1173@NOG
+VNG2363G,repressed,WP_012289492.1,E,0.680794827857576,ABC transporter ATP-binding protein,Oligopeptide dipeptide ABC transporter ATPase,COG0444@NOG
+VNG2365G,repressed,WP_010903763.1,E,0.680794827857576,ABC transporter ATP-binding protein,ABC transporter,COG4608@NOG
+VNG2371C,repressed,WP_010903769.1,F,0.07498817694426309,IMP cyclohydrolase,Catalyzes the cyclization of 5-formylamidoimidazole-4- carboxamide ribonucleotide to IMP (By similarity),COG3363@NOG
+VNG2380H,repressed,WP_010903777.1,S,0.9999999999999285,hypothetical protein,Function unknown,12D66@NOG
+VNG2385H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG2387H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG2393G,repressed,WP_012289496.1,P,0.5766262256799042,sulfurtransferase,Sulfurtransferase,COG2897@NOG
+VNG2412H,repressed,WP_010903801.1,S,0.9999999999999285,hypothetical protein,Function unknown,10ZW6@NOG
+VNG2413H,repressed,WP_010903802.1,S,0.9999999999999285,DoxX family protein,DoxX family,COG2259@NOG
+VNG2414H,repressed,WP_010903803.1,K,0.6558194820415417,ArsR family transcriptiol regulator,Inherit from arCOG: regulator,COG0640@NOG
+VNG2420G,repressed,WP_012289504.1,E,0.680794827857576,homoserine O-acetyltransferase,homoserine o-acetyltransferase (EC 2.3.1.31),COG2021@NOG
+VNG2421G,repressed,WP_010903810.1,E,0.680794827857576,O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase,O-acetylhomoserine O-acetylserine sulfhydrylase,COG2873@NOG
+VNG2424G,repressed,WP_010903813.1,H,0.6363321576615788,phosphoglycerate dehydrogese,D-3-phosphoglycerate dehydrogenase,COG0111@NOG
+VNG2430G,repressed,WP_010903816.1,E,0.680794827857576,threonine synthase,Catalyzes the gamma-elimination of phosphate from L- phosphohomoserine and the beta-addition of water to produce L- threonine (By similarity),COG0498@NOG
+VNG2431C,repressed,WP_010903817.1,S,0.9999999999999285,hypothetical protein,Function unknown,0YR22@NOG
+VNG2433H,repressed,WP_010903819.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG2436G,repressed,WP_010903820.1,E,0.680794827857576,argininosuccite lyase,argininosuccinate lyase,COG0165@NOG
+VNG2437G,repressed,WP_010903821.1,E,0.680794827857576,argininosuccite synthase,argininosuccinate synthase (EC 6.3.4.5),COG0137@NOG
+VNG2439H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG2443G,repressed,WP_010903826.1,P,0.5766262256799042,D starvation/statiory phase protection protein,Ferritin Dps family protein,COG0783@NOG
+VNG2444C,repressed,WP_012289508.1,S,0.9999999999999285,metallophosphoesterase,mj0936 family,COG0622@NOG
+VNG2447G,repressed,WP_012289509.1,E,0.680794827857576,low specificity L-threonine aldolase,threonine aldolase (EC 4.1.2.5),COG2008@NOG
+VNG2449G,induced,WP_010903831.1,E,1.867716631717556e-5,aminopeptidase,peptidase M29 aminopeptidase II,COG2309@NOG
+VNG2458C,repressed,WP_010903837.1,P,0.5766262256799042,membrane protein,MgtE integral membrane region,COG1824@NOG
+VNG2461H,repressed,WP_010903839.1,S,0.9999999999999285,hypothetical protein,"Inherit from COG: Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome (By similarity)",COG1310@NOG
+VNG2465C,induced,WP_010903841.1,O,0.7881402830649262,prefoldin subunit alpha,"Molecular chaperone capable of stabilizing a range of proteins. Seems to fulfill an ATP-independent, HSP70-like function in archaeal de novo protein folding (By similarity)",COG1730@NOG
+VNG2466C,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG2467G,induced,WP_010903843.1,J,0.9999999999331972,50S ribosomal protein L31e,50S ribosomal protein L31e,COG2097@NOG
+VNG2469G,induced,WP_010903844.1,J,0.9999999999331972,50S ribosomal protein L39e,50S ribosomal protein L39e,COG2167@NOG
+VNG2473G,repressed,WP_012289511.1,L,0.9759205406625302,D repair and recombition protein RadA,Involved in DNA repair and in homologous recombination. Binds and assemble on single-stranded DNA to form a nucleoprotein filament. Hydrolyzes ATP in a ssDNA-dependent manner and promotes DNA strand exchange between homologous DNA molecules (By similarity),COG0468@NOG
+VNG2477H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG2480H,repressed,WP_010903854.1,P,0.5766262256799042,phosphate uptake regulator PhoU,Inherit from arCOG: phosphate uptake regulator PhoU,COG0704@NOG
+VNG2482G,repressed,WP_010903855.1,P,0.5766262256799042,phosphate ABC transporter ATP-binding protein,phosphate ABC transporter ATP-binding protein,COG1117@NOG
+VNG2483G,repressed,WP_010903856.1,P,0.5766262256799042,"phosphate ABC transporter, permease protein PstA",Phosphate ABC transporter,COG0581@NOG
+VNG2484G,repressed,WP_010903857.1,P,0.5766262256799042,phosphate ABC transporter permease subunit PstC,Phosphate ABC transporter,COG0573@NOG
+VNG2486G,repressed,WP_010903858.1,P,0.5766262256799042,phosphate ABC transporter substrate-binding protein,Phosphate ABC transporter,COG0226@NOG
+VNG2488C,repressed,WP_010903859.1,M,0.34640593860971897,DH-binding protein,NmrA-like family,COG0702@NOG
+VNG2490H,repressed,WP_010903860.1,S,0.9999999999999285,hypothetical protein,Function unknown,0YHGF@NOG
+VNG2508C,repressed,WP_010903872.1,S,0.9999999999999285,hypothetical protein,non-histone chromosomal MC1 family protein,11XII@NOG
+VNG2511H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG2513G,repressed,WP_010903877.1,C,1.1649410662927407e-10,aldehyde dehydrogese,Aldehyde dehydrogenase,COG1012@NOG
+VNG2514G,induced,WP_010903878.1,J,0.9999999999331972,30S ribosomal protein S6e,30S ribosomal protein S6e,COG2125@NOG
+VNG2515H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG2516C,repressed,WP_010903880.1,G,0.3404247213926807,carbohydrate kise family protein,pfkB family carbohydrate kinase,COG0524@NOG
+VNG2520C,repressed,WP_012289521.1,T,0.967561118175002,universal stress protein,UspA domain protein,COG0589@NOG
+VNG2527G,repressed,WP_012289523.1,E,0.680794827857576,ABC transporter substrate-binding protein,ABC-type transport system periplasmic substrate-binding protein,COG0747@NOG
+VNG2531G,repressed,WP_010903892.1,E,0.680794827857576,ABC transporter permease,binding-protein-dependent transport systems inner membrane component,COG1173@NOG
+VNG2537G,repressed,WP_010903898.1,Q,0.8484173673986326,cysteine hydrolase,Isochorismatase,COG1335@NOG
+VNG2539H,induced,WP_010903899.1,S,0.01107921631015382,hypothetical protein,Function unknown,11NKY@NOG
+VNG2544H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG2546G,repressed,WP_010903903.1,E,0.680794827857576,aminopeptidase,aminopeptidase,COG2309@NOG
+VNG2555C,induced,WP_010903910.1,C,0.9845391941122028,(2Fe-2S)-binding protein,Ferredoxin,COG0633@NOG
+VNG2558G,induced,WP_010903912.1,P,0.059092265784778546,ABC transporter ATP-binding protein,ABC transporter,COG1120@NOG
+VNG2562H,induced,WP_010903914.1,P,0.059092265784778546,ABC transporter substrate-binding protein,Ferrichrome-binding protein,11HND@NOG
+VNG2566H,repressed,WP_010903917.1,S,0.9999999999999285,hypothetical protein,Function unknown,0YB21@NOG
+VNG2569H,repressed,WP_010903919.1,T,0.967561118175002,hypothetical protein,Inherit from COG: regulatoR,0YWFT@NOG
+VNG2573G,repressed,WP_010903921.1,O,0.7217030235301483,halolysin,Peptidase S8 and S53 subtilisin kexin sedolisin,COG1404@NOG
+VNG2574G,induced,WP_010903922.1,C,0.9845391941122028,aconitate hydratase,aconitate hydratase,COG1048@NOG
+VNG2575G,induced,WP_012289526.1,K,0.4963532620052361,ribosomal-protein-alanine N-acetyltransferase,acetyltransferase,COG0456@NOG
+VNG2579G,repressed,WP_010903926.1,K,0.6558194820415417,metal-dependent transcriptiol regulator,HTH_DTXR,COG1321@NOG
+VNG2584C,induced,WP_010903930.1,J,0.9999999999331972,translation initiation factor,Protein translation factor SUI1 homolog,COG0023@NOG
+VNG2589C,repressed,WP_010903934.1,S,0.9999999999999285,SIMPL domain-containing protein,Protein of unknown function (DUF541),COG2968@NOG
+VNG2600G,repressed,WP_010903943.1,O,0.7217030235301483,thioredoxin,Thioredoxin,COG0526@NOG
+VNG2604G,repressed,WP_010903946.1,G,0.3404247213926807,"ribose 1,5-bisphosphate isomerase","Catalyzes the conversion of ribose 1,5-bisphosphate to ribulose 1,5-bisphosphate (RuBP), the CO(2) acceptor and substrate for RubisCO (By similarity)",COG1635@NOG
+VNG2606G,repressed,WP_010903947.1,H,0.6363321576615788,bifunctiol hydroxymethylpyrimidine kise/phosphomethylpyrimidine kise,Phosphomethylpyrimidine kinase,COG0351@NOG COG1992@NOG
+VNG2612G,induced,WP_010903953.1,S,0.01107921631015382,ribosome biogenesis/translation initiation ATPase RLI,ATPase RIL,COG1245@NOG
+VNG2614H,induced,WP_010903955.1,K,0.4963532620052361,MarR family transcriptiol regulator,Function unknown,12548@NOG
+VNG2616G,repressed,WP_010903957.1,E,0.680794827857576,carboxypeptidase M32,carboxypeptidase taq,COG2317@NOG
+VNG2619H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG2632G,repressed,WP_010903969.1,I,0.954185663076951,KR domain-containing protein,Short-chain dehydrogenase reductase SDR,COG1028@NOG
+VNG2648G,induced,WP_010903985.1,J,0.9999999999331972,30S ribosomal protein S10,Involved in the binding of tRNA to the ribosomes (By similarity),COG0051@NOG
+VNG2649G,induced,WP_010903986.1,J,0.9999999999331972,elongation factor 1-alpha,This protein promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis (By similarity),COG5256@NOG
+VNG2652H,induced,WP_012289533.1,L,0.8816513827190088,transposase,Inherit from arCOG: IS1341-type transposase,COG0675@NOG
+VNG2654G,induced,WP_010903990.1,J,0.9999999999331972,elongation factor EF-2,"Catalyzes the GTP-dependent ribosomal translocation step during translation elongation. During this step, the ribosome changes from the pre-translocational (PRE) to the post- translocational (POST) state as the newly formed A-site-bound peptidyl-tRNA and P-site-bound deacylated tRNA move to the P and E sites, respectively. Catalyzes the coordinated movement of the two tRNA molecules, the mRNA and conformational changes in the ribosome (By similarity)",COG0480@NOG
+VNG2657G,induced,WP_010903992.1,J,0.9999999999331972,30S ribosomal protein S7,"One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the head domain of the 30S subunit. Is located at the subunit interface close to the decoding center (By similarity)",COG0049@NOG
+VNG2658G,induced,WP_010903993.1,J,0.9999999999331972,30S ribosomal protein S12,With S4 and S5 plays an important role in translational accuracy. Located at the interface of the 30S and 50S subunits (By similarity),COG0048@NOG
+VNG2661G,induced,WP_010903994.1,K,0.4963532620052361,NusA-like transcription termition sigl-binding factor,Transcription elongation factor NusA-like protein,COG0195@NOG
+VNG2664G,induced,WP_010903996.1,K,0.4963532620052361,D-directed R polymerase subunit A',"DNA-directed RNA polymerase, subunit a'",COG0086@NOG
+VNG2669G,induced,WP_010904000.1,S,0.01107921631015382,archaeosortase A,Cytochrome oxidase subunit I-like protein,COG4083@NOG
+VNG2678H,repressed,WP_010904005.1,O,0.7217030235301483,hypothetical protein,"Inherit from COG: peptidase (S8 and S53, subtilisin, kexin, sedolisin",0ZZNZ@NOG
+VNG2679G,induced,WP_012289536.1,S,0.01107921631015382,major cell surface glycoprotein,The S-layer is a paracrystalline mono-layered assembly of proteins which coat the surface of the cell,0YBVB@NOG
+VNG5008H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG5009H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG5010G,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG5012H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG5017H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5020G,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG5022G,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG5025G,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG5027G,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG5028G,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5029G,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5030G,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5032G,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5033G,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5034G,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5035G,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5038H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5041H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5042H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG5044H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG5047H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5049H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG5050H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG5055G,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5057G,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5062C,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG5064H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5066G,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5069C,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5071C,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5073H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5074C,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5079H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5083H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5097H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5100C,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5102H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5104H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5106H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5108H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5112H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5120H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5129H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5135H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5136G,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5139C,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5141G,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5143C,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5145H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5149H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5150H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5152H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5153H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5154H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5157H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5160H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5163G,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5164C,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5166H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5167H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5168H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5173H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG5175H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5177C,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5180G,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5183G,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG5185H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5186H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5195H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5197H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG5199H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6005H,repressed,WP_010890541.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6052H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6133H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6142C,repressed,WP_010904031.1,L,0.9759205406625302,D primase,conserved halobacteria DNA primase,NA
+VNG6143H,repressed,WP_010904032.1,L,0.9759205406625302,ATP-binding protein,Inherit from COG: Aaa atpase,COG0433@NOG
+VNG6144G,repressed,WP_012289607.1,U,0.18389942187791947,transferase,transfer complex protein,COG3451@NOG
+VNG6145H,repressed,WP_010904034.1,S,0.9999999999999285,hypothetical protein,Domain of unknown function DUF87,126FB@NOG
+VNG6148H,repressed,WP_012289608.1,L,0.9759205406625302,IS4 family transposase ISH32,Transposase (ISH5),11UJV@NOG
+VNG6149H,repressed,WP_010904036.1,S,0.9999999999999285,hypothetical protein,Function unknown,11GG8@NOG
+VNG6150G,repressed,WP_010904037.1,L,0.9759205406625302,orc / cell division control protein 6,orc1 cdc6 family replication initiation protein,COG1474@NOG
+VNG6152H,repressed,WP_010904038.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6153G,repressed,WP_012289610.1,D,NA,ParA family protein,Cobyrinic acid ac-diamide synthase,COG1192@NOG
+VNG6157H,repressed,WP_010904042.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6158H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6159H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6160H,repressed,WP_010904045.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6162H,repressed,WP_010904046.1,S,0.9999999999999285,hypothetical protein,Function unknown,0XXT4@NOG
+VNG6163H,repressed,WP_010904047.1,L,0.9759205406625302,hypothetical protein,DNA polymerase I,COG0417@NOG
+VNG6164G,repressed,WP_010904048.1,L,0.9759205406625302,orc / cell division control protein 6,Involved in regulation of DNA replication (By similarity),COG1474@NOG
+VNG6165H,repressed,WP_010904049.1,S,0.9999999999999285,hypothetical protein,Function unknown,111TT@NOG
+VNG6166H,repressed,WP_010904050.1,V,NA,PIN domain-containing protein,Toxic component of a toxin-antitoxin (TA) module. A,COG2402@NOG
+VNG6168H,repressed,WP_010904051.1,K,0.6558194820415417,AbrB family transcriptiol regulator,Pfam:SpoVT_AbrB,111D7@NOG
+VNG6170H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6176G,repressed,WP_010904056.1,P,0.5766262256799042,potassium-transporting ATPase subunit KdpA,"One of the components of the high-affinity ATP-driven potassium transport (or KDP) system, which catalyzes the hydrolysis of ATP coupled with the exchange of hydrogen and potassium ions (By similarity)",COG2060@NOG
+VNG6177G,repressed,WP_010904057.1,P,0.5766262256799042,potassium-transporting ATPase subunit B,"One of the components of the high-affinity ATP-driven potassium transport (or KDP) system, which catalyzes the hydrolysis of ATP coupled with the exchange of hydrogen and potassium ions (By similarity)",COG2216@NOG
+VNG6178G,repressed,WP_010904058.1,P,0.5766262256799042,ATPase,"One of the components of the high-affinity ATP-driven potassium transport (or KDP) system, which catalyzes the hydrolysis of ATP coupled with the exchange of hydrogen and potassium ions. The C subunit may be involved in assembly of the KDP complex (By similarity)",COG2156@NOG
+VNG6179G,repressed,WP_010904059.1,E,0.680794827857576,universal stress protein,Amino acid permease,COG0531@NOG COG0589@NOG
+VNG6181H,repressed,WP_012289618.1,L,0.9759205406625302,transposase,"transposase, IS605 OrfB family",COG0675@NOG
+VNG6182H,repressed,WP_010904062.1,L,0.9759205406625302,IS200/IS605 family transposase ISH35,Transposase,COG1943@NOG
+VNG6183C,repressed,WP_010904063.1,S,0.9999999999999285,bifunctiol oligoribonuclease/PAP phosphatase Nr,phosphoesterase RecJ domain protein,COG0618@NOG
+VNG6186H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6187G,repressed,WP_012289619.1,L,0.9759205406625302,hypothetical protein,Involved in regulation of DNA replication (By similarity),COG1474@NOG
+VNG6189H,repressed,WP_010904069.1,M,0.34640593860971897,hypothetical protein,PQQ enzyme repeat family protein,COG1520@NOG
+VNG6191H,repressed,WP_010904070.1,K,0.6558194820415417,hypothetical protein,Inherit from arCOG: Plasmid stabilization system,COG2026@NOG
+VNG6193H,repressed,WP_010904071.1,K,0.6558194820415417,type II toxin-antitoxin system Phd/YefM family antitoxin,CopG family transcriptional regulator,COG2161@NOG
+VNG6194H,induced,NA,S,0.01107921631015382,NA,Function unknown,NA
+VNG6195H,repressed,WP_010904073.1,L,0.9759205406625302,hypothetical protein,Inherit from NOG: Transposase,0ZZTP@NOG
+VNG6196G,repressed,WP_010904074.1,P,0.5766262256799042,inorganic phosphate transporter,phosphate transporter,COG0306@NOG
+VNG6197H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6198H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6199G,repressed,WP_010904077.1,O,0.7217030235301483,ATPase AAA,"AAA family ATPase, CDC48 subfamily",COG0464@NOG
+VNG6201G,repressed,WP_010904078.1,O,0.7217030235301483,Hsp20/alpha crystallin family protein,heat shock protease protein,COG0071@NOG
+VNG6203H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6204H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6206H,repressed,WP_010904082.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6210G,induced,WP_012289622.1,E,1.867716631717556e-5,aspartate aminotransferase family protein,Aminotransferase,COG0160@NOG
+VNG6211G,induced,WP_049892702.1,E,1.867716631717556e-5,aspartate aminotransferase family protein,Pyridoxal-dependent decarboxylase conserved domain,COG0076@NOG
+VNG6212G,induced,WP_010904087.1,Q,0.30293359020261795,IucA/IucC family siderophore biosynthesis protein,IucA / IucC family,COG4264@NOG
+VNG6214G,induced,WP_010904089.1,Q,0.30293359020261795,lysine 6-monooxygese,Inherit from COG: L-lysine 6-monooxygenase (NADPH),COG3486@NOG
+VNG6222H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6224H,repressed,WP_010904096.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6229G,repressed,WP_012289626.1,Q,0.8484173673986326,protein gvpL,Gas vesicle synthesis GvpLGvpF,1209X@NOG
+VNG6230G,repressed,WP_010904100.1,Q,0.8484173673986326,protein gvpK,Gas vesicle K,0ZY4M@NOG
+VNG6232G,repressed,WP_010904101.1,Q,0.8484173673986326,gas vesicle protein GvpJ,"Gas vesicles are small, hollow, gas filled protein structures that are found in several microbial planktonic microorganisms. They allow the positioning of the organism at the favorable depth for growth (By similarity)",0ZXDU@NOG
+VNG6233G,repressed,WP_010904102.1,S,0.9999999999999285,protein gvpI 2,Function unknown,111CS@NOG
+VNG6235G,repressed,WP_010904103.1,O,0.7217030235301483,protein gvpH 2,GvpH,COG0071@NOG
+VNG6236G,repressed,WP_012289627.1,Q,0.8484173673986326,protein gvpG,gas-vesicle operon protein,0Y69N@NOG
+VNG6237G,repressed,WP_010904105.1,Q,0.8484173673986326,protein gvpF,Gas vesicle synthesis GvpLGvpF,11VUC@NOG
+VNG6239G,repressed,WP_010904106.1,K,0.6558194820415417,transcriptiol regulator,Transcriptional regulator PadR-like family,COG1695@NOG
+VNG6240G,repressed,WP_010904107.1,T,0.967561118175002,protein gvpD,GvpD gas vesicle,COG0467@NOG
+VNG6241G,repressed,WP_010904108.1,Q,0.8484173673986326,gas vesicle protein,"Gas vesicles are small, hollow, gas filled protein structures that are found in several microbial planktonic microorganisms. They allow the positioning of the organism at the favorable depth for growth",1257U@NOG
+VNG6242G,repressed,WP_012289628.1,S,0.9999999999999285,gas vesicle protein GvpC,Halobacterial gas vesicle protein C (GVPC) repeat,1115T@NOG
+VNG6244G,repressed,WP_010904110.1,S,0.9999999999999285,ATPase AAA,Gas vesicle protein GvpN,COG0714@NOG
+VNG6246G,repressed,WP_010904111.1,Q,0.8484173673986326,protein gvpO 1,gas vesicle synthesis family protein,0Y5YS@NOG
+VNG6251H,repressed,WP_010904114.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6258C,repressed,WP_012289630.1,F,0.07498817694426309,nucleoside deamise,Adenosine/AMP deaminase,COG0402@NOG
+VNG6262G,repressed,WP_010904121.1,P,0.5766262256799042,metal ABC transporter permease,ABC transporter,COG1108@NOG
+VNG6264G,repressed,WP_010904122.1,P,0.5766262256799042,metal ABC transporter ATP-binding protein,ABC transporter,COG1121@NOG
+VNG6265G,repressed,WP_010904123.1,P,0.5766262256799042,adhesin,periplasmic solute binding protein,COG0803@NOG
+VNG6266H,repressed,WP_010904124.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6268C,induced,WP_010904125.1,S,0.01107921631015382,"oligopeptide transporter, OPT family",oligopeptide transporter (OPT,COG1297@NOG
+VNG6269C,induced,WP_010904126.1,S,0.01107921631015382,PqqD family protein,Coenzyme PQQ synthesis protein D (PqqD),12CB3@NOG
+VNG6270G,induced,WP_010904127.1,C,0.9845391941122028,glycerol dehydrogese,3-dehydroquinate synthase,COG0371@NOG
+VNG6277G,repressed,WP_010904131.1,G,0.3404247213926807,ABC transporter substrate-binding protein,Bacterial extracellular solute-binding protein,COG1653@NOG
+VNG6279G,repressed,WP_010904132.1,P,0.5766262256799042,sugar ABC transporter permease,Binding-protein-dependent transport system inner membrane component,COG1175@NOG
+VNG6280G,repressed,WP_049892710.1,P,0.5766262256799042,carbohydrate ABC transporter permease,Binding-protein-dependent transport system inner membrane component,COG0395@NOG
+VNG6281G,repressed,WP_010904134.1,G,0.3404247213926807,ABC transporter ATP-binding protein,ABC transporter,COG3839@NOG
+VNG6283H,repressed,WP_049892712.1,S,0.9999999999999285,hypothetical protein,Function unknown,110XR@NOG
+VNG6284H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6286H,repressed,WP_049892714.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6290H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6291H,repressed,WP_010904141.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6292C,repressed,WP_010904142.1,L,0.9759205406625302,IS6 family transposase,Transposase,COG3316@NOG
+VNG6294G,repressed,WP_010904144.1,P,0.5766262256799042,catalase-peroxidase,Bifunctional enzyme with both catalase and broad- spectrum peroxidase activity (By similarity),COG0376@NOG
+VNG6296C,repressed,WP_012289638.1,S,0.9999999999999285,alpha/beta hydrolase,Alpha beta hydrolase fold protein,COG0596@NOG
+VNG6297C,repressed,WP_010904146.1,T,0.967561118175002,hypothetical protein,Pyrrolo-quinoline quinone,COG1520@NOG
+VNG6298C,repressed,WP_010904147.1,I,0.954185663076951,acyl CoA:acetate/3-ketoacid CoA transferase,CoA transferase having broad substrate specificity for short-chain acyl-CoA thioesters with the activity decreasing when the length of the carboxylic acid chain exceeds four carbons (By similarity),COG4670@NOG
+VNG6301G,repressed,WP_010904149.1,P,0.5766262256799042,alkaline phosphatase,Alkaline phosphatase,COG1785@NOG
+VNG6302C,induced,WP_010904150.1,P,0.059092265784778546,HlyC/CorC family transporter,Transporter associated domain,COG1253@NOG
+VNG6305C,repressed,WP_010904152.1,H,0.6363321576615788,radical SAM protein,"Catalyzes the conversion of 6-carboxy-5,6,7,8- tetrahydropterin (CPH4) to 7-carboxy-7-deazaguanine (CDG) (By similarity)",COG0602@NOG
+VNG6306C,repressed,WP_010904153.1,H,0.6363321576615788,"6-carboxy-5,6,7,8-tetrahydropterin synthase",synthase,COG0720@NOG
+VNG6309G,induced,WP_012289640.1,F,0.9298381194835177,aspartate carbamoyltransferase,Aspartate transcarbamylase,COG0540@NOG
+VNG6313G,repressed,WP_010904158.1,C,1.1649410662927407e-10,arginine:ornithine antiporter,Na H antiporter,COG1757@NOG
+VNG6315G,repressed,WP_010904159.1,E,0.680794827857576,ornithine carbamoyltransferase,ornithine carbamoyltransferase,COG0078@NOG
+VNG6316G,repressed,WP_010904160.1,E,0.680794827857576,carbamate kise,carbamate kinase-like carbamoyl phosphate synthetase,COG0549@NOG
+VNG6317G,repressed,WP_010904161.1,E,0.680794827857576,arginine deimise,Arginine deiminase,COG2235@NOG
+VNG6322H,repressed,WP_010904166.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6325H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6327H,repressed,WP_010904170.1,S,0.9999999999999285,hypothetical protein,Function unknown,111CX@NOG
+VNG6329H,repressed,WP_010904171.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6330H,repressed,WP_010904172.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6332H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6334H,repressed,WP_010904174.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6339H,repressed,WP_010904177.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6343H,repressed,WP_010904180.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6344H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6346H,repressed,WP_010904182.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6347H,repressed,WP_010904183.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6348H,repressed,WP_010904184.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6349C,repressed,WP_081422761.1,K,0.6558194820415417,Fic family protein,filamentation induced by cAMP protein fic,COG3177@NOG
+VNG6353H,repressed,WP_010904187.1,S,0.9999999999999285,DUF3006 domain-containing protein,Protein of unknown function (DUF3006),1118W@NOG
+VNG6355H,repressed,WP_010904189.1,S,0.9999999999999285,hypothetical protein,Function unknown,110CR@NOG
+VNG6357H,repressed,WP_010904190.1,K,0.6558194820415417,transcriptiol regulator,Transcriptional regulator,111DM@NOG
+VNG6359H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6361G,repressed,WP_010904192.1,L,0.9759205406625302,IS200/IS605 family transposase,Transposase,COG0675@NOG
+VNG6362G,repressed,WP_010904193.1,L,0.9759205406625302,D polymerase I,DNA polymerase I,COG0417@NOG
+VNG6364H,repressed,WP_010904195.1,V,NA,HNH endonuclease,hnh endonuclease,COG1403@NOG
+VNG6365H,repressed,WP_010904196.1,S,0.9999999999999285,hypothetical protein,Function unknown,111TT@NOG
+VNG6366H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6367H,repressed,WP_010904198.1,L,0.9759205406625302,hypothetical protein,transposase (ISH3),110XS@NOG COG3385@NOG
+VNG6370H,repressed,WP_010904200.1,K,0.6558194820415417,AbrB family transcriptiol regulator,Pfam:SpoVT_AbrB,111D7@NOG
+VNG6371G,repressed,WP_012289743.1,V,NA,restriction endonuclease,restriction endonuclease,COG1715@NOG
+VNG6373G,repressed,WP_008526012.1,K,0.6558194820415417,winged helix-turn-helix domain-containing protein,Inherit from arCOG: Phage PhiH1 repressor protein,0ZHP4@NOG
+VNG6375H,repressed,WP_012289744.1,S,0.9999999999999285,hypothetical protein,Function unknown,111U6@NOG
+VNG6377H,repressed,WP_012289745.1,K,0.6558194820415417,transcriptiol regulator,Sugar-specific transcriptional regulator TrmB,111QE@NOG
+VNG6378H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6384H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6389G,repressed,WP_010904212.1,K,0.6558194820415417,transcription initiation factor IIB,Stabilizes TBP binding to an archaeal box-A promoter. Also responsible for recruiting RNA polymerase II to the pre- initiation complex (DNA-TBP-TFIIB) (By similarity),COG1405@NOG
+VNG6390H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6393H,repressed,WP_010904214.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6396H,repressed,WP_010904215.1,V,NA,hypothetical protein,nucleic acid-binding protein contains PIN domain-like region,COG2402@NOG
+VNG6397H,repressed,WP_010904216.1,K,0.6558194820415417,hypothetical protein,Function unknown,0ZFJ2@NOG
+VNG6400H,repressed,WP_010904217.1,S,0.9999999999999285,SWIM zinc finger domain-containing protein,Zinc finger SWIM domain protein,0Y5I8@NOG
+VNG6401H,repressed,WP_010904218.1,S,0.9999999999999285,hypothetical protein,Function unknown,110CR@NOG
+VNG6402H,repressed,WP_010904219.1,K,0.6558194820415417,ArsR family transcriptiol regulator,Function unknown,111DM@NOG
+VNG6403H,repressed,WP_010904220.1,L,0.9759205406625302,D-binding protein,Inherit from arCOG: nucleic acid binding OB-fold tRNA helicase-type,COG1599@NOG
+VNG6404H,repressed,WP_010904221.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6406H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6407H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6408G,repressed,WP_010904224.1,S,0.9999999999999285,PhzF family phezine biosynthesis protein,Phenazine,COG0384@NOG
+VNG6409H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6411H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6412H,repressed,WP_049892694.1,S,0.9999999999999285,hypothetical protein,Function unknown,10ZXQ@NOG
+VNG6413H,repressed,WP_010904228.1,P,0.5766262256799042,hypothetical protein,Ferric uptake,COG0735@NOG
+VNG6416H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6418H,repressed,WP_010904230.1,S,0.9999999999999285,hypothetical protein,Function unknown,110TU@NOG
+VNG6419H,repressed,WP_010904231.1,S,0.9999999999999285,hypothetical protein,Function unknown,1111P@NOG
+VNG6420H,repressed,WP_010904232.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6424H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6427H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6429H,repressed,WP_010904235.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6430C,repressed,WP_012289758.1,L,0.9759205406625302,IS6 family transposase ISH29,Transposase,COG3316@NOG
+VNG6431H,repressed,WP_010904237.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6432H,repressed,WP_010904238.1,S,0.9999999999999285,hypothetical protein,Function unknown,NA
+VNG6434H,repressed,NA,S,0.9999999999999285,NA,Function unknown,NA
+VNG6437C,repressed,WP_010904240.1,S,0.9999999999999285,deoxyribonuclease,deoxyribonuclease rho motif-related tram,COG3269@NOG
+VNG6438G,repressed,WP_010904241.1,K,0.6558194820415417,transcription factor,General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation (By similarity),COG2101@NOG
+VNG6439H,repressed,WP_010904242.1,S,0.9999999999999285,hypothetical protein,Function unknown,1108B@NOG
+VNG6441H,repressed,WP_010904243.1,N,NA,type IV pilin,Protein of unknown function (DUF1628),COG3430@NOG

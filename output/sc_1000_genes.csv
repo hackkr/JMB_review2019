@@ -1,0 +1,1001 @@
+locus_tag,cluster,acc,COG_category,probability,HMM_description,NOGs
+YAL003W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YAL012W,induced,NP_009390.1,E,8.622285680355961e-4,Cys/Met metabolism PLP-dependent enzyme,COG0626@NOG
+YAL034C,repressed,NP_009368.2,S,0.9998184782267798,DNA binding,11T1C@NOG
+YAL054C,repressed,NP_009347.1,H,0.4737229769854949,acetate--CoA ligase,COG0365@NOG
+YAL060W,repressed,NP_009341.2,Q,0.6645270543229664,acetoin dehydrogenase activity,COG1063@NOG
+YAL061W,repressed,NP_009340.1,Q,0.6645270543229664,acetoin dehydrogenase activity,COG1063@NOG
+YAR071W,induced,NP_009434.1,S,0.00725198931733243,"One of three repressible acid phosphatases, a glycoprotein that is transported to the cell surface",11FS8@NOG
+YAR073W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YAR075W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YBL005W,induced,NP_009548.1,K,0.9998779793190825,Pleiotropic drug resistance protein,0Y6CC@NOG
+YBL015W,repressed,NP_009538.1,C,0.9953301413152312,Presumably involved in regulating the intracellular acetyl-CoA pool for fatty acid and cholesterol synthesis and fatty acid oxidation,COG0427@NOG
+YBL024W,induced,NP_009529.1,J,NA,NOL1/NOP2/sun family,COG0144@NOG
+YBL027W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YBL028C,induced,NP_009525.1,S,0.00725198931733243,Protein of unknown function (DUF2423),0Y803@NOG
+YBL039C,induced,NP_009514.1,F,0.4153807069687917,Catalyzes the ATP-dependent amination of UTP to CTP with either L-glutamine or ammonia as the source of nitrogen,COG0504@NOG
+YBL042C,induced,NP_009511.1,"F, H",NA,"Permease for cytosine/purines, uracil, thiamine, allantoin",COG1953@NOG
+YBL043W,repressed,NP_009510.1,S,0.9998184782267798,Function unknown,11AWP@NOG
+YBL045C,repressed,NP_009508.1,C,0.9953301413152312,Ubiquinol-cytochrome C reductase,COG0612@NOG
+YBL048W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YBL049W,repressed,NP_009504.1,S,0.9998184782267798,Pfam:Yippee,11VJ1@NOG
+YBL054W,induced,NP_009499.1,K,0.9998779793190825,"Component of the RPD3 histone deacetylase complex RPD3C(L) responsible for the deacetylation of lysine residues on the N-terminal part of the core histones (H2A, H2B, H3 and H4). Histone deacetylation gives a tag for epigenetic repression and plays an important role in transcriptional regulation, cell cycle progression and developmental events",12CJD@NOG
+YBL064C,repressed,NP_009489.1,O,0.9699133011869505,C-terminal domain of 1-Cys peroxiredoxin,COG0450@NOG
+YBL072C,induced,NP_009481.1,J,NA,40S ribosomal protein S8,COG2007@NOG
+YBL075C,repressed,NP_009478.1,O,0.9699133011869505,MreB/Mbl protein,COG0443@NOG
+YBL077W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YBL087C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YBL092W,induced,NP_009460.1,J,NA,60S ribosomal protein L32,COG1717@NOG
+YBR001C,repressed,NP_009555.1,G,0.9563292098449211,"alpha,alpha-trehalase activity",COG1626@NOG
+YBR006W,repressed,NP_009560.1,E,2.4936491944344962e-6,Aldehyde dehydrogenase family,COG1012@NOG
+YBR018C,repressed,NP_009574.1,C,0.9953301413152312,Galactose-1-phosphate uridylyltransferase,COG1085@NOG
+YBR019C,repressed,NP_009575.1,M,NA,aldose 1-epimerase activity,COG1087@NOG COG2017@NOG
+YBR031W,induced,NP_009587.1,J,NA,Ribosomal protein L4,COG0088@NOG
+YBR034C,induced,NP_009590.1,"K, O, T",NA,Protein of unknown function (DUF1698),0XQYH@NOG
+YBR046C,repressed,NP_009602.1,Q,0.6645270543229664,Alcohol dehydrogenase GroES-like domain,COG0604@NOG
+YBR047W,repressed,NP_009603.1,S,0.9998184782267798,Function unknown,1155T@NOG
+YBR048W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YBR050C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YBR051W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YBR052C,repressed,NP_009608.1,Y,NA,Minor allergen Alt a,COG0655@NOG
+YBR053C,repressed,NP_009609.1,"P, T",NA,SMP-30/Gluconolaconase/LRE-like region,COG3386@NOG
+YBR054W,repressed,NP_009610.1,P,0.7063766671645022,ion channel activity,COG5524@NOG
+YBR056W,repressed,NP_009612.1,G,0.9563292098449211,"Inherit from ascNOG: Glucan 1,3-beta-glucosidase",COG2730@NOG
+YBR067C,induced,NP_009623.1,O,0.1672306973643994,Seripauperin and TIP1 family,11807@NOG
+YBR068C,induced,NP_009624.4,E,8.622285680355961e-4,amino acid transmembrane transporter activity,COG0833@NOG
+YBR069C,induced,NP_009625.1,E,8.622285680355961e-4,Amino acid permease,COG0833@NOG
+YBR072W,repressed,NP_009628.1,O,0.9699133011869505,K13993 HSP20 family protein,COG0071@NOG
+YBR079C,induced,NP_009635.1,J,NA,"Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome (By similarity)",0XQ37@NOG
+YBR084C-A,induced,NA,S,0.00725198931733243,Function unknown,NA
+YBR093C,induced,NP_009651.3,S,0.00725198931733243,"One of three repressible acid phosphatases, a glycoprotein that is transported to the cell surface",11FS8@NOG
+YBR105C,repressed,NP_009663.1,U,0.9999999999997884,Vacuolar import and degradation protein,COG5073@NOG
+YBR106W,induced,NP_009664.1,P,0.08084512295836578,Phosphate transport (Pho88),COG5065@NOG
+YBR116C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YBR117C,repressed,NP_009675.3,G,0.9563292098449211,Transketolase,COG0021@NOG
+YBR121C,induced,NP_009679.2,J,NA,Anticodon binding domain,COG0423@NOG
+YBR126C,repressed,NP_009684.1,G,0.9563292098449211,"alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity",COG0380@NOG
+YBR132C,repressed,NP_009690.1,E,2.4936491944344962e-6,Amino acid permease,COG0833@NOG
+YBR139W,repressed,NP_009697.3,O,0.9699133011869505,Serine carboxypeptidase,COG2939@NOG
+YBR154C,induced,NP_009712.1,K,0.9998779793190825,"DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Common component of RNA polymerases I, II and III which synthesize ribosomal RNA precursors, mRNA precursors and many functional non-coding RNAs, and small RNAs, such as 5S rRNA and tRNAs, respectively. Pol II is the central component of the basal RNA polymerase II transcription machinery. Pols are composed of mobile elements that move relative to each other. In Pol II, RPB5 is part of the lower jaw surrounding the central large cleft and thought to grab the incoming DNA template. Seems to be the major component in this process (By similarity)",COG2012@NOG
+YBR162C,induced,NP_009720.1,S,0.00725198931733243,Putative TOS1-like glycosyl hydrolase (DUF2401),0XSZW@NOG
+YBR181C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YBR183W,repressed,NP_009742.1,I,0.8468598308460155,ceramide catabolic process,11RPN@NOG
+YBR189W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YBR191W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YBR203W,repressed,NP_009762.2,S,0.9998184782267798,F-box protein probably involved in ubiquitin conjugation pathway,11SX5@NOG
+YBR212W,repressed,NP_009771.3,A,7.092379914420967e-7,"RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)",COG0724@NOG
+YBR230C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YBR238C,induced,NP_009797.1,O,0.1672306973643994,involved in the processing or stability of mitochondrial mRNAs,0YCD0@NOG
+YBR241C,repressed,NP_009800.1,G,0.9563292098449211,Sugar (and other) transporter,COG0477@NOG
+YBR244W,induced,NP_009803.3,O,0.1672306973643994,Glutathione peroxidase,COG0386@NOG
+YBR247C,induced,NP_009806.3,W,NA,Essential nuclear protein 1,0XPH5@NOG
+YBR249C,induced,NP_009808.1,E,8.622285680355961e-4,Stereospecific condensation of phosphoenolpyruvate (PEP) and D-erythrose-4-phosphate (E4P) giving rise to 3-deoxy-D- arabino-heptulosonate-7-phosphate (DAHP) (By similarity),COG0722@NOG
+YBR266C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YBR267W,induced,NP_009825.4,S,0.00725198931733243,ZnF_C2H2,0XPH0@NOG
+YBR269C,repressed,NP_009828.2,S,0.9998184782267798,Protein of unknown function (DUF1674),12371@NOG
+YBR280C,repressed,NP_009839.4,O,0.9699133011869505,Inherit from ascNOG: F-Box protein,0XSZR@NOG
+YBR285W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YBR294W,repressed,NP_009853.3,P,0.7063766671645022,"sulfate uptake is mediated by specific sulfate transporters Sul1p and Sul2p, which control the concentration of endogenous activated sulfate intermediates",COG0659@NOG
+YBR296C,induced,NP_009855.1,P,0.08084512295836578,Phosphate transporter family,COG0306@NOG
+YBR297W,repressed,NP_009856.3,K,0.9998363375969888,Maltose fermentation regulatory protein,0XT8T@NOG
+YBR298C,repressed,NP_009857.1,P,0.7063766671645022,"High-affinity uptake of maltose and maltotriose. Also transports alpha-methylglucoside, glucose and turanose but not melezitose or trehalose",0XNQK@NOG
+YCL025C,induced,NP_009905.3,E,8.622285680355961e-4,proline transmembrane transport,COG0833@NOG
+YCL030C,induced,NP_009900.2,E,8.622285680355961e-4,Histidine biosynthesis trifunctional protein,COG0139@NOG COG0140@NOG COG0141@NOG
+YCL035C,repressed,NP_009895.1,O,0.9699133011869505,Glutaredoxin,COG0695@NOG
+YCL037C,induced,NP_009893.2,"J, O",NA,RNA binding,COG5193@NOG
+YCL040W,repressed,NP_009890.1,G,0.9563292098449211,glucokinase activity,COG5026@NOG
+YCL042W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YCL054W,induced,NP_009877.1,A,0.9999981037358701,Required for proper assembly of pre-ribosomal particles during the biogenesis of the 60S ribosomal subunit,COG0293@NOG
+YCL059C,induced,NP_009872.1,J,NA,Required for 40S ribosome biogenesis. Involved in nucleolar processing of pre-18S ribosomal RNA and ribosome assembly (By similarity),COG1094@NOG
+YCL064C,induced,NP_001018030.1,E,8.622285680355961e-4,Pyridoxal-phosphate dependent enzyme,COG1171@NOG
+YCR005C,repressed,NP_009931.1,C,0.9953301413152312,citrate synthase,COG0372@NOG
+YCR010C,repressed,NP_009936.1,S,0.9998184782267798,GPR FUN34 family protein,COG1584@NOG
+YCR012W,induced,NP_009938.2,G,2.0609048813476683e-12,Phosphoglycerate kinase,COG0126@NOG
+YCR013C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YCR016W,induced,NP_009942.2,S,0.00725198931733243,Uncharacterised conserved protein (DUF2373),1268U@NOG
+YCR021C,repressed,NP_009950.1,P,0.7063766671645022,Bac_rhodopsin,COG5524@NOG
+YCR031C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YCR034W,induced,NP_009963.1,I,0.030881299766512903,fatty acid elongase,0XRWT@NOG
+YCR057C,induced,NP_009984.1,A,0.9999981037358701,Periodic tryptophan protein 2,0XP2P@NOG
+YCR061W,repressed,NP_009987.2,S,0.9998184782267798,Domain of unknown function (DUF2427),0XPC6@NOG
+YCR072C,induced,NP_009997.2,S,0.00725198931733243,ribosome assembly protein 4,0XP3K@NOG
+YCR091W,repressed,NP_010015.3,T,0.9989297194930686,microtubule associated serine threonine kinase,0XPWX@NOG
+YCR098C,repressed,NP_010022.1,P,0.7063766671645022,Sugar (and other) transporter,0ZVN7@NOG
+YCR102C,repressed,NP_010026.1,C,0.9953301413152312,zinc ion binding,COG0604@NOG
+YDL014W,induced,NP_010270.1,A,0.9999981037358701,Involved in pre-rRNA processing. Utilizes the methyl donor S-adenosyl-L-methionine to catalyze the site-specific 2'- hydroxyl methylation of ribose moieties in pre-ribosomal RNA. Site specificity is provided by a guide RNA that base pairs with the substrate. Methylation occurs at a characteristic distance from the sequence involved in base pairing with the guide RNA,COG1889@NOG
+YDL020C,repressed,NP_010264.3,K,0.9998363375969888,ZnF_C2H2,0XS04@NOG
+YDL021W,repressed,NP_010263.1,G,0.9563292098449211,phosphoglycerate mutase,COG0588@NOG
+YDL022W,repressed,NP_010262.1,C,0.9953301413152312,Glycerol-3-phosphate dehydrogenase,COG0240@NOG
+YDL023C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YDL038C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YDL039C,induced,NP_010245.2,O,0.1672306973643994,Member of the seripauperin multigene family encoded mainly in subtelomeric regions,0YXX3@NOG
+YDL051W,induced,NP_010232.1,A,0.9999981037358701,LA,COG5193@NOG
+YDL061C,induced,NP_010222.1,J,NA,ribosomal protein S29,COG0199@NOG
+YDL062W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YDL063C,induced,NP_010220.1,S,0.00725198931733243,Inherit from ascNOG: ribosomal large subunit biogenesis,10X0F@NOG
+YDL075W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YDL081C,induced,NP_010202.1,J,NA,60S acidic ribosomal protein P1,COG2058@NOG
+YDL082W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YDL083C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YDL110C,repressed,NP_010173.1,S,0.9998184782267798,Function unknown,0ZABY@NOG
+YDL124W,repressed,NP_010159.1,S,0.9998184782267798,Aldo/keto reductase family,COG0656@NOG
+YDL148C,induced,NP_010133.1,J,NA,Involved in nucleolar processing of pre-18S ribosomal RNA. Has a role in the nuclear export of 40S pre-ribosomal subunit to the cytoplasm,0XNWY@NOG
+YDL153C,induced,NP_010128.1,B,NA,Pfam:Sas10_Utp3_C,0XSPX@NOG
+YDL167C,induced,NP_010114.1,S,0.00725198931733243,Zn-finger in Ran binding protein and others,0YNCK@NOG
+YDL169C,repressed,NP_010112.1,S,0.9998184782267798,Function unknown,119SB@NOG
+YDL181W,repressed,NP_010100.1,Z,NA,negative regulation of nucleotide metabolic process,0Y6GH@NOG
+YDL182W,induced,NP_010099.1,E,8.622285680355961e-4,homocitrate synthase,COG0119@NOG
+YDL191W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YDL199C,repressed,NP_010082.1,G,0.9563292098449211,Sugar (and other) transporter,0XNQK@NOG
+YDL204W,repressed,NP_010077.1,U,0.9999999999997884,reticulon 3,0XPKH@NOG
+YDL218W,repressed,NP_010063.1,S,0.9998184782267798,Membrane-associating domain,11C47@NOG
+YDL222C,repressed,NP_010059.1,S,0.9998184782267798,Integral membrane protein localized to mitochondria (untagged protein),11RMX@NOG
+YDL223C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YDR001C,repressed,NP_010284.1,G,0.9563292098449211,"alpha,alpha-trehalase activity",COG1626@NOG
+YDR012W,induced,NP_010295.3,J,NA,Ribosomal protein L4,COG0088@NOG
+YDR018C,repressed,NP_010301.1,I,0.8468598308460155,Acyltransferase,COG0204@NOG
+YDR019C,induced,NP_010302.1,E,8.622285680355961e-4,The glycine cleavage system catalyzes the degradation of glycine (By similarity),COG0404@NOG
+YDR023W,induced,NP_010306.1,J,NA,Seryl-tRNA synthetase N-terminal domain,COG0172@NOG
+YDR025W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YDR032C,repressed,NP_010315.1,S,0.9998184782267798,NADPH-dependent FMN reductase,COG0655@NOG
+YDR033W,induced,NP_010316.1,P,0.08084512295836578,ion channel activity,COG5524@NOG
+YDR037W,induced,NP_010322.1,J,NA,lysyl-tRNA synthetase,COG1190@NOG
+YDR043C,repressed,NP_010328.3,K,0.9998363375969888,ZnF_C2H2,COG5048@NOG
+YDR046C,induced,NP_010331.3,E,8.622285680355961e-4,amino acid transmembrane transporter activity,COG0833@NOG
+YDR055W,repressed,NP_010340.1,S,0.9998184782267798,fungal-type cell wall organization,11JI6@NOG
+YDR059C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YDR064W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YDR070C,repressed,NP_010355.1,S,0.9998184782267798,Function unknown,119QN@NOG
+YDR074W,repressed,NP_010359.1,G,0.9563292098449211,Trehalose-phosphatase,COG0380@NOG COG1877@NOG
+YDR077W,repressed,NP_010362.3,S,0.9998184782267798,Function unknown,0YX6C@NOG
+YDR083W,induced,NP_010368.5,A,0.9999981037358701,Ribosomal RNA-processing protein 8,11J8Z@NOG
+YDR085C,repressed,NP_010370.1,S,0.9998184782267798,Function unknown,0Y6M1@NOG
+YDR087C,induced,NP_010372.3,A,0.9999981037358701,Ribosomal RNA-processing protein 1,11GJ6@NOG
+YDR091C,induced,NP_010376.3,J,NA,4Fe-4S binding domain,COG1245@NOG
+YDR096W,repressed,NP_010381.1,K,0.9998363375969888,jmjN domain,COG5048@NOG
+YDR101C,induced,NP_010386.1,J,NA,metalloprotease involved in proper assembly of pre-ribosomal particles during the biogenesis of the 60S ribosomal subunit. Accompanies the pre-60S particles to the cytoplasm,COG0024@NOG
+YDR111C,induced,NP_010396.1,E,8.622285680355961e-4,alanine aminotransferase,COG0436@NOG
+YDR112W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YDR120C,induced,NP_010405.3,J,NA,"N2,N2-dimethylguanosine tRNA methyltransferase",COG1867@NOG
+YDR144C,induced,NP_010428.3,O,0.1672306973643994,attached to the plasma membrane via a glycosylphosphatidylinositol (GPI) anchor,0XNV7@NOG
+YDR148C,repressed,NP_010432.3,C,0.9953301413152312,2-oxoacid dehydrogenases acyltransferase (catalytic domain),COG0508@NOG
+YDR158W,induced,NP_010442.3,E,8.622285680355961e-4,aspartate-semialdehyde dehydrogenase,COG0136@NOG
+YDR165W,induced,NP_010449.1,A,0.9999981037358701,"Required for the formation of N(7)-methylguanine at position 46 (m7G46) in tRNA. In the complex, it is required to stabilize and induce conformational change of the catalytic subunit (By similarity)",11WRP@NOG
+YDR171W,repressed,NP_010456.1,O,0.9699133011869505,Hsp20/alpha crystallin family,COG0071@NOG
+YDR178W,repressed,NP_010463.1,C,0.9953301413152312,II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q),11RTW@NOG
+YDR184C,induced,NP_010470.1,S,0.00725198931733243,Involved in cation homeostasis and in the regulation of the cation stress signaling cascades (By similarity),11C2W@NOG
+YDR204W,repressed,NP_010490.1,H,0.4737229769854949,Component of the coenzyme Q biosynthetic pathway. May play a role in organizing a multi-subunit COQ enzyme complex required for coenzyme Q biosynthesis. Required for steady-state levels of other COQ polypeptides (By similarity),COG5031@NOG
+YDR209C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YDR214W,repressed,NP_010500.3,O,0.9699133011869505,Activator of Hsp90 ATPase homolog 1-like protein,COG5580@NOG
+YDR223W,repressed,NP_010509.1,K,0.9998363375969888,Transcription factor CRF1,1269S@NOG
+YDR234W,induced,NP_010520.3,E,8.622285680355961e-4,Responsible for the dehydration of cis-homoaconitate to homoisocitric acid,COG1048@NOG
+YDR247W,repressed,NP_010533.1,T,0.9989297194930686,serine threonine protein kinase,COG0515@NOG
+YDR256C,repressed,NP_010542.1,P,0.7063766671645022,Occurs in almost all aerobically respiring organisms and serves to protect cells from the toxic effects of hydrogen peroxide (By similarity),COG0753@NOG
+YDR258C,repressed,NP_010544.3,O,0.9699133011869505,"C-terminal, D2-small domain, of ClpB protein",COG0542@NOG
+YDR262W,repressed,NP_010548.3,S,0.9998184782267798,FAS1 domain-containing protein,0Y1DR@NOG
+YDR275W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YDR277C,repressed,NP_010563.3,K,0.9998363375969888,single organism signaling,0Y4G1@NOG
+YDR309C,induced,NP_010595.1,S,0.00725198931733243,Function unknown,115QY@NOG
+YDR312W,induced,NP_010598.3,J,NA,"ribosome biogenesis, protein",0XRP7@NOG
+YDR313C,repressed,NP_010599.1,S,0.9998184782267798,FYVE zinc finger,0XPJK@NOG
+YDR321W,induced,NP_010607.3,E,8.622285680355961e-4,Asparaginase,COG0252@NOG
+YDR324C,induced,NP_010611.3,A,0.9999981037358701,U3 small nucleolar RNA-associated protein 4,0XQNR@NOG
+YDR341C,induced,NP_010628.3,J,NA,Arginyl tRNA synthetase N terminal domain,COG0018@NOG
+YDR342C,repressed,NP_010629.3,G,0.9563292098449211,glucose transporter of the major facilitator superfamily,0XNQK@NOG
+YDR343C,repressed,NP_010630.1,G,0.9563292098449211,glucose transporter of the major facilitator superfamily,0XNQK@NOG
+YDR353W,induced,NP_010640.1,O,0.1672306973643994,thioredoxin reductase,COG0492@NOG
+YDR358W,repressed,NP_010645.1,U,0.9999999999997884,VHS domain protein,0Y26G@NOG
+YDR361C,induced,NP_010648.3,U,0.9999976571970102,"Involved in nuclear export, actin cytoskeleton organization and vesicular transport (By similarity)",11GYV@NOG
+YDR365C,induced,NP_010653.1,S,0.00725198931733243,rRNA processing,COG5638@NOG
+YDR380W,repressed,NP_010668.3,E,2.4936491944344962e-6,"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain",COG3961@NOG
+YDR382W,induced,NP_010670.3,J,NA,60S acidic ribosomal protein P2,COG2058@NOG
+YDR384C,induced,NP_010672.1,P,0.08084512295836578,GPR1/FUN34/yaaH family,COG1584@NOG
+YDR385W,induced,NP_010673.1,J,NA,"Catalyzes the GTP-dependent ribosomal translocation step during translation elongation. During this step, the ribosome changes from the pre-translocational (PRE) to the post- translocational (POST) state as the newly formed A-site-bound peptidyl-tRNA and P-site-bound deacylated tRNA move to the P and E sites, respectively. Catalyzes the coordinated movement of the two tRNA molecules, the mRNA and conformational changes in the ribosome",COG0480@NOG
+YDR398W,induced,NP_010686.1,A,0.9999981037358701,U3 small nucleolar RNA-associated protein 5,0XRY4@NOG
+YDR399W,induced,NP_010687.3,F,0.4153807069687917,Phosphoribosyl transferase domain,COG2236@NOG
+YDR412W,induced,NP_010700.3,S,0.00725198931733243,ribosomal RNA-processing protein 17,0XZ47@NOG
+YDR417C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YDR450W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YDR453C,repressed,NP_010741.1,O,0.9699133011869505,PeRoxireDoXin,COG0450@NOG
+YDR465C,induced,NP_010753.1,E,8.622285680355961e-4,Arginine N-methyltransferase 2,10T2S@NOG
+YDR471W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YDR492W,induced,NP_010780.1,T,0.6001982973281375,Haemolysin-III related,COG1272@NOG
+YDR496C,induced,NP_010784.1,J,NA,pumilio-family RNA binding domain-containing protein,0XSHY@NOG
+YDR500C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YDR502C,induced,NP_010790.3,H,0.6067317397428283,Catalyzes the formation of S-adenosylmethionine from methionine and ATP (By similarity),COG0192@NOG
+YDR508C,induced,NP_010796.1,E,8.622285680355961e-4,proline transmembrane transport,COG0833@NOG
+YDR513W,repressed,NP_010801.1,O,0.9699133011869505,Glutaredoxin,COG0695@NOG
+YDR516C,repressed,NP_010804.3,G,0.9563292098449211,glucokinase activity,COG5026@NOG
+YDR529C,repressed,NP_010818.1,C,0.9953301413152312,"component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex), which is part of the mitochondrial respiratory chain",11V1G@NOG
+YDR536W,repressed,NP_010825.3,G,0.9563292098449211,Sugar (and other) transporter,0XNQK@NOG
+YEL011W,repressed,NP_010905.1,G,0.9563292098449211,"1,4-alpha-glucan branching enzyme (EC 2.4.1.18)",COG0296@NOG
+YEL012W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YEL024W,repressed,NP_010890.3,C,0.9953301413152312,"Component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex), which is a respiratory chain that generates an electrochemical potential coupled to ATP synthesis (By similarity)",COG0723@NOG
+YEL026W,induced,NP_010888.1,A,0.9999981037358701,"Common component of the spliceosome and rRNA processing machinery. In association with the spliceosomal U4 U6.U5 tri-snRNP particle, required for splicing of pre-mRNA. In association with box C D snoRNPs, required for processing of pre-ribosomal RNA (rRNA) and site-specific 2'-O-methylation of substrate RNAs. Essential for the accumulation and stability of U4 snRNA, U6 snRNA, and box C D snoRNAs",COG1358@NOG
+YEL039C,repressed,NP_010875.1,C,0.9953301413152312,"Electron carrier protein. The oxidized form of the cytochrome c heme group can accept an electron from the heme group of the cytochrome c1 subunit of cytochrome reductase. Cytochrome c then transfers this electron to the cytochrome oxidase complex, the final protein carrier in the mitochondrial electron-transport chain",COG3474@NOG
+YEL040W,induced,NP_010874.3,G,2.0609048813476683e-12,Glycosyl hydrolases family 16,COG2273@NOG
+YEL042W,induced,NP_010872.1,G,2.0609048813476683e-12,"After transfer of sugars to endogenous macromolecular acceptors, the enzyme converts nucleoside diphosphates to nucleoside monophosphates which in turn exit the Golgi lumen in a coupled antiporter reaction, allowing entry of additional nucleotide sugar from the cytosol",COG5371@NOG
+YEL054C,induced,NP_010860.1,J,NA,ribosomal protein L12,COG0080@NOG
+YEL060C,repressed,NP_010854.1,O,0.9699133011869505,Peptidase inhibitor I9,COG1404@NOG
+YEL065W,induced,NP_010849.3,P,0.08084512295836578,siderophore transporter activity,0ZYHG@NOG
+YEL071W,induced,NP_010843.1,C,5.613709551068091e-19,"FAD linked oxidases, C-terminal domain",COG0277@NOG
+YER006W,induced,NP_010921.1,S,0.00725198931733243,GNL3L/Grn1 putative GTPase,COG1161@NOG
+YER024W,repressed,NP_010941.1,I,0.8468598308460155,Choline/Carnitine o-acyltransferase,0XNZ9@NOG
+YER025W,induced,NP_010942.1,J,NA,translation initiation factor 2 subunit,COG5257@NOG
+YER036C,induced,NP_010953.1,J,NA,ABC transporter,COG0488@NOG
+YER037W,repressed,NP_010954.1,S,0.9998184782267798,Haloacid dehalogenase-like hydrolase family protein,COG1011@NOG
+YER043C,induced,NP_010961.3,H,0.6067317397428283,adenosylhomocysteinase,COG0499@NOG
+YER049W,induced,NP_010969.1,B,NA,Oxoglutarate and iron-dependent oxygenase degradation C-term,COG3751@NOG
+YER052C,induced,NP_010972.1,E,8.622285680355961e-4,Aspartokinase,COG0527@NOG
+YER053C,repressed,NP_010973.3,C,0.9953301413152312,Mitochondrial carrier protein,0XPST@NOG
+YER054C,repressed,NP_010974.1,"O, T",NA,Putative phosphatase regulatory subunit,11FT1@NOG
+YER055C,induced,NP_010975.3,E,8.622285680355961e-4,Catalyzes the condensation of ATP and 5-phosphoribose 1- diphosphate to form N'-(5'-phosphoribosyl)-ATP (PR-ATP). Has a crucial role in the pathway because the rate of histidine biosynthesis seems to be controlled primarily by regulation of the enzymatic activity (By similarity),COG0040@NOG
+YER056C,induced,NP_010976.1,P,0.08084512295836578,cytosine transport,COG1457@NOG
+YER056C-A,induced,NA,S,0.00725198931733243,Function unknown,NA
+YER062C,induced,NP_010984.3,H,0.6067317397428283,glycerol-1-phosphatase activity,COG0637@NOG
+YER067W,repressed,NP_010990.1,T,0.9989297194930686,"Involved in the control of energetic metabolism and significantly contribute to cell fitness, especially under respiratory growth conditions (By similarity)",11YS8@NOG
+YER069W,repressed,NP_010992.1,E,2.4936491944344962e-6,Protein of unknown function (DUF619),COG0002@NOG COG0548@NOG
+YER070W,induced,NP_010993.1,F,0.4153807069687917,Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides (By similarity),COG0209@NOG
+YER074W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YER079W,repressed,NP_011002.1,S,0.9998184782267798,Function unknown,0YRN8@NOG
+YER081W,repressed,NP_011004.3,E,2.4936491944344962e-6,"3-phosphoglycerate dehydrogenase, catalyzes the first step in serine and glycine biosynthesis",COG0111@NOG
+YER084W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YER086W,induced,NP_011009.1,E,8.622285680355961e-4,C-terminal regulatory domain of Threonine dehydratase,COG1171@NOG
+YER091C,induced,NP_011015.3,E,8.622285680355961e-4,"Cobalamin-independent synthase, Catalytic domain",COG0620@NOG
+YER096W,repressed,NP_011022.1,"M, O, T",NA,Sel-1 suppressor of lin-12-like,COG0790@NOG
+YER102W,induced,NP_011028.1,J,NA,40S ribosomal protein S8,COG2007@NOG
+YER103W,repressed,NP_011029.3,O,0.9699133011869505,heat- shock,COG0443@NOG
+YER110C,induced,NP_011035.1,U,0.9999976571970102,Importin-beta N-terminal domain,0XP2Z@NOG
+YER117W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YER121W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YER124C,induced,NP_011050.3,S,0.00725198931733243,Involved in cell wall metabolism and required for the separation of the mother and daughter cells,11MWJ@NOG
+YER126C,induced,NP_011052.1,J,NA,Involved in the biogenesis of the 60S ribosomal subunit. May play a part in the quality control of pre-60S particles,COG2007@NOG
+YER127W,induced,NP_011053.1,A,0.9999981037358701,U3 small nucleolar ribonucleoprotein protein LCP5,11F0Z@NOG
+YER131W,induced,NP_011057.1,J,NA,ribosomal protein S26,COG4830@NOG
+YER150W,repressed,NP_011077.1,S,0.9998184782267798,Function unknown,0YX6C@NOG
+YER158C,repressed,NP_011085.1,S,0.9998184782267798,Function unknown,0Y6M1@NOG
+YER162C,repressed,NP_011089.4,L,NA,BHD_1,COG5535@NOG
+YER188W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YFL014W,repressed,NP_116640.1,O,0.9699133011869505,Heat shock protein 9/12,0Y0AR@NOG
+YFL016C,repressed,NP_116638.1,O,0.9699133011869505,DnaJ central domain,COG0484@NOG
+YFL026W,induced,NP_116627.2,T,0.6001982973281375,Pheromone alpha factor receptor,11SKF@NOG
+YFL045C,induced,NP_116609.1,G,2.0609048813476683e-12,phosphomannomutase,COG0561@NOG
+YFL051C,repressed,NP_116576.1,S,0.9998184782267798,"Cell wall protein that participates directly in adhesive cell-cell interactions during yeast flocculation, a reversible, asexual and Ca(2 )-dependent process in which cells adhere to form aggregates (flocs) consisting of thousands of cells. The lectin- like protein sticks out of the cell wall of flocculent cells and selectively binds mannose residues in the cell walls of adjacent cells",0YWND@NOG
+YFL052W,repressed,NP_116603.1,K,0.9998363375969888,Maltose fermentation regulatory protein,0XT8T@NOG
+YFL053W,repressed,NP_116602.1,G,0.9563292098449211,Dak2,COG2376@NOG
+YFL056C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YFR001W,induced,NP_116656.1,J,NA,Required for efficient assembly and nuclear export of the 60S ribosomal subunit,11ISQ@NOG
+YFR009W,induced,NP_116664.1,"E, J",NA,ABC transporter,COG0488@NOG
+YFR015C,repressed,NP_116670.1,G,0.9563292098449211,glycogen (starch) synthase activity,COG0438@NOG
+YFR030W,repressed,NP_116686.3,E,2.4936491944344962e-6,FAD binding domain,COG0369@NOG COG0674@NOG
+YFR031C-A,induced,NA,S,0.00725198931733243,Function unknown,NA
+YFR053C,repressed,NP_116711.3,G,0.9563292098449211,K00844 hexokinase EC 2.7.1.1,COG5026@NOG
+YGL008C,induced,NP_011507.1,P,0.08084512295836578,The plasma membrane ATPase of plants and fungi is a hydrogen ion pump. The proton gradient it generates drives the active transport of nutrients by H( )-symport. The resulting external acidification and or internal alkinization may mediate growth responses,COG0474@NOG
+YGL029W,induced,NP_011486.1,S,0.00725198931733243,Involved in nucleolar integrity and required for processing of the pre-rRNA for the 60S ribosome subunit,0ZM47@NOG
+YGL030W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YGL031C,induced,NP_011484.1,J,NA,60S ribosomal protein L24,COG2075@NOG
+YGL037C,repressed,NP_011478.3,H,0.4737229769854949,nicotinamidase EC 3.5.1.19,COG1335@NOG
+YGL055W,induced,NP_011460.3,I,0.030881299766512903,Fatty acid desaturase,COG1398@NOG COG5274@NOG
+YGL062W,repressed,NP_011453.1,C,0.9953301413152312,"Catalyzes a 2-step reaction, involving the ATP-dependent carboxylation of the covalently attached biotin in the first step and the transfer of the carboxyl group to pyruvate in the second (By similarity)",COG1038@NOG
+YGL076C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YGL078C,induced,NP_011437.3,J,NA,"ATP-dependent RNA helicase required for 60S ribosomal subunit synthesis. Involved in efficient pre-rRNA processing, predominantly at site A3, which is necessary for the normal formation of 25S and 5.8S rRNAs (By similarity)",COG0513@NOG
+YGL096W,repressed,NP_011419.1,K,0.9998363375969888,sequence-specific DNA binding transcription factor activity,0XPMQ@NOG
+YGL099W,induced,NP_011416.3,S,0.00725198931733243,Ferrous iron transport protein B,COG1161@NOG
+YGL102C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YGL103W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YGL111W,induced,NP_011404.1,J,NA,Involved in the biogenesis of the 60S ribosomal subunit (By similarity),0YGGD@NOG
+YGL120C,induced,NP_011395.1,A,0.9999981037358701,Pfam:DUF1605,COG1643@NOG
+YGL121C,repressed,NP_011394.1,S,0.9998184782267798,Function unknown,11D7V@NOG
+YGL123W,induced,NP_011392.1,J,NA,40S ribosomal protein S2,COG0098@NOG
+YGL135W,induced,NP_011380.3,J,NA,ribosomal protein,COG0081@NOG
+YGL147C,induced,NP_011368.3,J,NA,ribosomal protein L9,COG0097@NOG
+YGL148W,induced,NP_011367.1,E,8.622285680355961e-4,Chorismate synthase,COG0082@NOG
+YGL156W,repressed,NP_011359.1,G,0.9563292098449211,Glycosyl hydrolases family 38 C-terminal domain,COG0383@NOG
+YGL157W,induced,NP_011358.3,V,0.16539544034636147,carbonyl reductase (NADPH) activity,COG0451@NOG
+YGL158W,induced,NP_011357.1,T,0.6001982973281375,calcium-dependent protein kinase,0XRMJ@NOG
+YGL171W,induced,NP_011344.1,J,NA,"ATP-dependent RNA helicase involved in 40S ribosomal subunit biogenesis. Required for the processing and cleavage of 35S pre-rRNA at sites A0, A1, and A2, leading to mature 18S rRNA",0XQS8@NOG
+YGL177W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YGL180W,repressed,NP_011335.1,H,0.4737229769854949,"Serine threonine protein kinase probably involved in the cytoplasm to vacuole transport (Cvt) and in autophagy, where it may be required for the formation of autophagosomes (By similarity)",0XR01@NOG
+YGL184C,repressed,NP_011331.3,E,2.4936491944344962e-6,cystathionine beta-lyase,COG0626@NOG
+YGL187C,repressed,NP_011328.1,C,0.9953301413152312,cytochrome C oxidase,11XEM@NOG
+YGL191W,repressed,NP_011324.1,C,0.9953301413152312,Cytochrome c oxidase polypeptide VIa,1253X@NOG
+YGL192W,repressed,NP_011323.3,A,7.092379914420967e-7,MT-A70,COG4725@NOG
+YGL202W,induced,NP_011313.1,E,8.622285680355961e-4,Aromatic amino acid aminotransferase,COG1167@NOG
+YGL205W,repressed,NP_011310.1,I,0.8468598308460155,Acyl-coenzyme A oxidase,COG1960@NOG
+YGL208W,repressed,NP_011307.1,G,0.9563292098449211,Snf1 kinase complex beta-subunit Gal83,0XRB3@NOG
+YGL234W,induced,NP_011280.1,F,0.4153807069687917,"Phosphoribosylglycinamide synthetase, C domain",COG0150@NOG COG0151@NOG
+YGL245W,induced,NP_011269.2,J,NA,"tRNA synthetases class I (E and Q), anti-codon binding domain",COG0008@NOG
+YGL248W,repressed,NP_011266.1,F,5.919773634257787e-7,cAMP phosphodiesterases class-II,COG5212@NOG
+YGL255W,induced,NP_011259.1,P,0.08084512295836578,"K14709 solute carrier family 39 (zinc transporter), member 1 2 3",11GP2@NOG
+YGL259W,repressed,NP_011255.1,O,0.9699133011869505,aspartic,0XNV7@NOG
+YGL262W,repressed,NP_011252.1,S,0.9998184782267798,Function unknown,117F4@NOG
+YGR008C,repressed,NP_011522.1,S,0.9998184782267798,Hyaluronan / mRNA binding family,1265Y@NOG
+YGR019W,repressed,NP_011533.3,E,2.4936491944344962e-6,Aminotransferase class-III,COG0160@NOG
+YGR027C,induced,NP_011541.1,J,NA,ribosomal protein S25,COG4901@NOG
+YGR034W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YGR043C,repressed,NP_011557.1,G,0.9563292098449211,Transaldolase is important for the balance of metabolites in the pentose-phosphate pathway (By similarity),COG0176@NOG
+YGR052W,repressed,NP_011566.1,T,0.9989297194930686,STYKc,COG0515@NOG
+YGR053C,repressed,NP_011567.3,S,0.9998184782267798,Function unknown,12CVP@NOG
+YGR061C,induced,NP_011575.1,F,0.4153807069687917,"AIR synthase related protein, N-terminal domain",COG0046@NOG COG0047@NOG
+YGR066C,repressed,NP_011580.3,U,0.9999999999997884,vesicle-mediated transport protein Vid24,COG5073@NOG
+YGR079W,induced,NP_011593.1,S,0.00725198931733243,Function unknown,119S7@NOG
+YGR085C,induced,NP_011599.1,J,NA,ribosomal protein L11,COG0094@NOG
+YGR088W,repressed,NP_011602.2,P,0.7063766671645022,Occurs in almost all aerobically respiring organisms and serves to protect cells from the toxic effects of hydrogen peroxide (By similarity),COG0753@NOG
+YGR094W,induced,NP_011608.1,J,NA,Anticodon-binding domain of tRNA,COG0525@NOG
+YGR110W,repressed,NP_011625.3,I,0.8468598308460155,alpha/beta hydrolase fold,COG0596@NOG
+YGR118W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YGR123C,induced,NP_011639.3,T,0.6001982973281375,Serine threonine-protein phosphatase,COG0639@NOG
+YGR124W,induced,NP_011640.1,E,8.622285680355961e-4,Asparagine synthetase,COG0367@NOG
+YGR128C,induced,NP_011644.3,A,0.9999981037358701,U3 small nucleolar RNA-associated protein 8,0XWZK@NOG
+YGR138C,induced,NP_011654.1,G,2.0609048813476683e-12,Polyamine transport protein specific for spermine,COG0477@NOG
+YGR142W,repressed,NP_011658.3,S,0.9998184782267798,Function unknown,11DUS@NOG
+YGR144W,repressed,NP_011660.1,H,0.4737229769854949,"Involved in biosynthesis of the thiamine precursor thiazole. Catalyzes the conversion of NAD and glycine to adenosine diphosphate 5-(2-hydroxyethyl)-4-methylthiazole-2-carboxylic acid (ADT), an adenylated thiazole intermediate. The reaction includes an iron-dependent sulfide transfer from a conserved cysteine residue of the protein to a thiazole intermediate. The enzyme can only undergo a single turnover, which suggests it is a suicide enzyme. May have additional roles in adaptation to various stress conditions and in DNA damage tolerance (By similarity)",COG1635@NOG
+YGR145W,induced,NP_011661.2,S,0.00725198931733243,NUC153 domain,0XQ2D@NOG
+YGR146C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YGR148C,induced,NP_011664.3,J,NA,ribosomal protein L24,COG2075@NOG
+YGR159C,induced,NP_011675.1,A,0.9999981037358701,"RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)",11MZ2@NOG
+YGR160W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YGR161C,repressed,NP_011677.3,S,0.9998184782267798,Function unknown,117D8@NOG
+YGR162W,induced,NP_011678.3,J,NA,Eukaryotic translation initiation factor 4G1,0ZVHN@NOG
+YGR177C,induced,NP_011693.1,S,0.00725198931733243,Alcohol acetyltransferase,0YB6U@NOG
+YGR183C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YGR185C,induced,NP_011701.3,J,NA,tRNA synthetases class I (W and Y),COG0162@NOG
+YGR187C,induced,NP_011703.3,S,0.00725198931733243,Domain of unknown function (DUF383),0YNU7@NOG
+YGR194C,repressed,NP_011710.3,G,0.9563292098449211,"FGGY family of carbohydrate kinases, C-terminal domain",COG1070@NOG
+YGR201C,repressed,NP_011717.4,O,0.9699133011869505,glutathione Stransferase,COG0625@NOG
+YGR209C,repressed,NP_011725.3,O,0.9699133011869505,Thioredoxin,COG0526@NOG
+YGR214W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YGR225W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YGR234W,induced,NP_011750.1,C,5.613709551068091e-19,Globin,COG1017@NOG COG1018@NOG
+YGR236C,repressed,NP_011752.4,S,0.9998184782267798,Function unknown,11DT1@NOG
+YGR243W,repressed,NP_011759.1,S,0.9998184782267798,pyruvate transmembrane transporter activity,11UER@NOG
+YGR244C,repressed,NP_011760.3,C,0.9953301413152312,ATP-grasp domain,COG0045@NOG
+YGR245C,induced,NP_011761.3,"D, Z",NA,NUC130/3NT domain,0XPHI@NOG
+YGR248W,repressed,NP_011764.3,G,0.9563292098449211,6-phosphogluconolactonase activity,COG0363@NOG
+YGR249W,induced,NP_011765.1,K,0.9998779793190825,HSF,COG5169@NOG
+YGR250C,repressed,NP_011766.3,A,7.092379914420967e-7,"RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)",0XQBV@NOG
+YGR256W,repressed,NP_011772.3,G,0.9563292098449211,"Catalyzes the oxidative decarboxylation of 6- phosphogluconate to ribulose 5-phosphate and CO(2), with concomitant reduction of NADP to NADPH (By similarity)",COG0362@NOG
+YGR264C,induced,NP_011780.3,J,NA,MetRS-N binding domain,COG0143@NOG
+YGR265W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YGR272C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YGR280C,induced,NP_011796.1,A,0.9999981037358701,"Involved in rRNA-processing at A0, A1 and A2 sites and regulates negatively telomerase (By similarity)",11IXK@NOG
+YGR285C,induced,NP_011801.1,O,0.1672306973643994,DnaJ domain,COG5269@NOG
+YGR289C,repressed,NP_011805.3,G,0.9563292098449211,Sugar (and other) transporter,0XNQK@NOG
+YGR290W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YHL001W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YHL011C,induced,NP_011852.1,F,0.4153807069687917,Ribose-phosphate pyrophosphokinase,COG0462@NOG
+YHL015W,induced,NP_011848.1,J,NA,40S ribosomal protein S20,COG0051@NOG
+YHL016C,repressed,NP_011847.1,P,0.7063766671645022,Plasma membrane transporter for both urea and polyamines,COG0591@NOG
+YHL021C,repressed,NP_011842.1,I,0.8468598308460155,"Taurine catabolism dioxygenase TauD, TfdA family",COG2175@NOG
+YHL024W,repressed,NP_011839.1,S,0.9998184782267798,"RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)",11FJ3@NOG
+YHL032C,repressed,NP_011831.1,G,0.9563292098449211,Glycerol kinase,COG0554@NOG
+YHL033C,induced,NP_011830.1,J,NA,ribosomal protein L8,COG1358@NOG
+YHL047C,induced,NP_011816.2,P,0.08084512295836578,Sugar (and other) transporter,0ZYHG@NOG
+YHR010W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YHR019C,induced,NP_011883.1,J,NA,"tRNA synthetases class II (D, K and N)",COG0017@NOG
+YHR020W,induced,NP_011884.1,J,NA,ProRS-C_1,COG0442@NOG
+YHR021C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YHR029C,repressed,NP_011894.1,S,0.9998184782267798,Phenazine biosynthesis-like protein,COG0384@NOG
+YHR033W,repressed,NP_011898.1,E,2.4936491944344962e-6,"Aldehyde dehydrogenase 18 family, member A1",COG0263@NOG
+YHR052W,induced,NP_011919.1,S,0.00725198931733243,Inherit from saccNOG: proteasome-interacting protein,11W39@NOG
+YHR053C,repressed,NP_011922.1,O,0.9699133011869505,metallothionein,0Z9YK@NOG
+YHR055C,repressed,NP_011920.1,O,0.9699133011869505,metallothionein,0Z9YK@NOG
+YHR064C,induced,NP_011931.2,O,0.1672306973643994,MreB/Mbl protein,COG0443@NOG
+YHR065C,induced,NP_011932.2,A,0.9999981037358701,Required for pre-ribosomal RNA processing. Involved in the maturation of the 35S-pre-rRNA and to its cleavage to mature 18S rRNA (By similarity),0XQU7@NOG
+YHR066W,induced,NP_011933.1,J,NA,"ribosome biogenesis, protein",0XRP7@NOG
+YHR068W,induced,NP_011935.1,E,8.622285680355961e-4,Catalyzes the NAD-dependent oxidative cleavage of spermidine and the subsequent transfer of the butylamine moiety of spermidine to the epsilon-amino group of a specific lysine residue of the eIF-5A precursor protein to form the intermediate deoxyhypusine residue,COG1899@NOG
+YHR087W,repressed,NP_011955.1,S,0.9998184782267798,Shwachman-Bodian-Diamond syndrome (SBDS) protein,0Y0JW@NOG
+YHR088W,induced,NP_011956.1,J,NA,Brix,COG2136@NOG
+YHR089C,induced,NP_011957.1,J,NA,"Required for ribosome biogenesis. Part of a complex which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Pseudouridine ( psi ) residues may serve to stabilize the conformation of rRNAs",COG3277@NOG
+YHR094C,induced,NP_011962.1,G,2.0609048813476683e-12,glucose transporter of the major facilitator superfamily,0XNQK@NOG
+YHR096C,repressed,NP_011964.1,G,0.9563292098449211,glucose transporter of the major facilitator superfamily,0XNQK@NOG
+YHR097C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YHR104W,repressed,NP_011972.1,C,0.9953301413152312,D-xylose catabolic process,COG0656@NOG
+YHR128W,induced,NP_011996.2,F,0.4153807069687917,Uracil phosphoribosyltransferase,COG0035@NOG
+YHR137W,repressed,NP_012005.1,E,2.4936491944344962e-6,Aminotransferase class I and II,COG1167@NOG
+YHR138C,repressed,NP_012006.1,S,0.9998184782267798,Function unknown,113DJ@NOG
+YHR139C,repressed,NP_012007.1,E,2.4936491944344962e-6,cell wall assembly,COG0252@NOG
+YHR140W,repressed,NP_012009.1,W,NA,FAR-17a/AIG1-like protein,11HQA@NOG
+YHR141C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YHR143W,induced,NP_012012.1,G,2.0609048813476683e-12,"Involved in pseudohyphal growth, cell wall metabolism and required for the separation of the mother and daughter cells",11CMR@NOG
+YHR148W,induced,NP_012018.1,A,0.9999981037358701,U3 small nucleolar ribonucleoprotein protein IMP3,COG0522@NOG
+YHR160C,repressed,NP_012030.1,U,0.9999999999997884,Involved in peroxisome biogenesis and the import of peroxisomal matrix proteins,11DTN@NOG
+YHR169W,induced,NP_012039.1,J,NA,"ATP-binding RNA helicase involved in 40S ribosomal subunit biogenesis and is required for the normal formation of 18S rRNAs through pre-rRNA processing at A0, A1 and A2 sites. Required for vegetative growth (By similarity)",0XPYC@NOG
+YHR170W,induced,NP_012040.1,J,NA,60S ribosomal export protein NMD3,COG1499@NOG
+YHR179W,induced,NP_012049.1,C,5.613709551068091e-19,pentaerythritol trinitrate reductase activity,COG1902@NOG
+YHR196W,induced,NP_012066.1,A,0.9999981037358701,U3 small nucleolar RNA-associated protein 9,0YI38@NOG
+YHR197W,induced,NP_012067.4,A,0.9999981037358701,Component of the RIX1 complex required for processing of ITS2 sequences from 35S pre-rRNA (By similarity),0ZXR3@NOG
+YHR203C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YHR208W,induced,NP_012078.3,E,8.622285680355961e-4,Branched-chain-amino-acid aminotransferase,COG0115@NOG
+YHR209W,repressed,NP_012079.1,S,0.9998184782267798,Methyltransferase domain,11IQH@NOG
+YHR215W,induced,NP_012087.1,S,0.00725198931733243,"One of three repressible acid phosphatases, a glycoprotein that is transported to the cell surface",11FS8@NOG
+YHR216W,induced,NP_012088.3,F,0.4153807069687917,"Catalyzes the conversion of inosine 5'-phosphate (IMP) to xanthosine 5'-phosphate (XMP), the first committed and rate- limiting step in the de novo synthesis of guanine nucleotides, and therefore plays an important role in the regulation of cell growth (By similarity)",COG0516@NOG COG0517@NOG
+YIL015W,induced,NP_012249.1,O,0.1672306973643994,Eukaryotic aspartyl protease,0XNV7@NOG
+YIL018W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YIL019W,induced,NP_012245.1,S,0.00725198931733243,Function unknown,0XU26@NOG
+YIL024C,repressed,NP_012240.3,S,0.9998184782267798,Function unknown,1180X@NOG
+YIL045W,repressed,NP_012219.3,"O, T",NA,Putative phosphatase regulatory subunit,11FT1@NOG
+YIL047C,induced,NP_012217.3,U,0.9999976571970102,EXS family,COG5408@NOG COG5409@NOG
+YIL052C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YIL053W,induced,NP_012211.2,H,0.6067317397428283,glycerol-1-phosphatase activity,COG0637@NOG
+YIL057C,repressed,NP_012207.3,T,0.9989297194930686,"Involved in the control of energetic metabolism and significantly contribute to cell fitness, especially under respiratory growth conditions (By similarity)",11YS8@NOG
+YIL078W,induced,NP_116578.3,J,NA,Threonyl and Alanyl tRNA synthetase second additional domain,COG0441@NOG
+YIL087C,repressed,NP_012179.3,S,0.9998184782267798,Protein of unknown function (DUF2416),125MA@NOG
+YIL097W,repressed,NP_012169.1,S,0.9998184782267798,"Involved in the proteasome-dependent degradation of fructose-1,6-bisphosphatase",0XPGU@NOG
+YIL099W,repressed,NP_012167.3,G,0.9563292098449211,Glycosyl hydrolases family 15,COG3387@NOG
+YIL101C,repressed,NP_012165.1,K,0.9998363375969888,Inherit from NOG: APSES transcription factor Xbp1,11TMM@NOG
+YIL107C,repressed,NP_012159.1,G,0.9563292098449211,6-phosphofructo-2-kinase,COG0406@NOG
+YIL111W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YIL113W,repressed,NP_012153.1,V,0.21202668993329285,phosphatase,COG2453@NOG
+YIL117C,induced,NP_012149.1,U,0.9999976571970102,Vacuolar membrane protein,11691@NOG
+YIL119C,repressed,NP_012147.3,S,0.9998184782267798,Function unknown,11EEX@NOG
+YIL127C,induced,NP_012139.1,K,0.9998779793190825,"Involved in ribosome biogenesis, probably through modulation of rDNA transcription (By similarity)",0YXSB@NOG
+YIL133C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YIL136W,repressed,NP_012130.1,S,0.9998184782267798,Function unknown,118NA@NOG
+YIL146C,repressed,NP_012120.1,M,NA,Mitophagy-specific receptor that recruits the autophagic machinery to mitochondria and regulates selective degradation of mitochondria. Mitophagy contributes to regulate mitochondrial quantity and quality by eliminating the mitochondria to a basal level to fulfill cellular energy requirements and preventing excess ROS production. Recruits ATG11 to the surface of mitochondria. Promotes also autophagy-dependent peroxisome degradation (By similarity),117FG@NOG
+YIL155C,repressed,NP_012111.1,C,0.9953301413152312,FAD binding domain,COG0578@NOG
+YIL160C,repressed,NP_012106.1,I,0.8468598308460155,"Thiolase, N-terminal domain",COG0183@NOG
+YIR012W,induced,NP_012277.1,S,0.00725198931733243,ribosome assembly protein SQT1,0XR6A@NOG
+YIR016W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YIR017C,repressed,NP_012282.3,K,0.9998363375969888,Basic region leucine zipper,1169X@NOG
+YIR026C,induced,NP_012292.3,V,0.16539544034636147,DSPc,COG2453@NOG
+YIR027C,repressed,NP_012293.3,F,5.919773634257787e-7,allantoinase EC 3.5.2.5,COG0044@NOG
+YIR028W,repressed,NP_012294.3,P,0.7063766671645022,nucleobase:cation symporter activity,COG1953@NOG
+YIR029W,repressed,NP_012295.1,F,5.919773634257787e-7,Allantoicase repeat,COG4266@NOG
+YIR030C,repressed,NP_012296.1,E,2.4936491944344962e-6,Asp/Glu/Hydantoin racemase,COG4126@NOG
+YIR031C,repressed,NP_012297.3,C,0.9953301413152312,Malate synthase,COG2225@NOG
+YIR032C,repressed,NP_012298.1,F,5.919773634257787e-7,Ureidoglycolate hydrolase,COG3194@NOG
+YIR038C,repressed,NP_012304.1,O,0.9699133011869505,"Glutathione S-transferase, N-terminal domain",COG0625@NOG
+YIR039C,repressed,NP_012305.3,O,0.9699133011869505,aspartic,0XNV7@NOG
+YJL034W,induced,NP_012500.3,O,0.1672306973643994,Probably plays a role in facilitating the assembly of multimeric protein complexes inside the ER,COG0443@NOG
+YJL045W,repressed,NP_012490.1,C,0.9953301413152312,subunit of succinate dehydrogenase,COG1053@NOG
+YJL048C,repressed,NP_012487.1,O,0.9699133011869505,UBX domain protein,11HH6@NOG
+YJL057C,repressed,NP_012478.3,T,0.9989297194930686,STYKc,0XRMJ@NOG
+YJL066C,repressed,NP_012469.3,S,0.9998184782267798,Function unknown,0YHRE@NOG
+YJL069C,induced,NP_012466.1,A,0.9999981037358701,U3 small nucleolar RNA-associated protein 18,0YBWP@NOG
+YJL079C,repressed,NP_012456.1,S,0.9998184782267798,sterol transport,COG2340@NOG
+YJL080C,induced,NP_012455.1,I,0.030881299766512903,KH domain,0XQFV@NOG
+YJL088W,repressed,NP_012447.1,E,2.4936491944344962e-6,"Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain",COG0078@NOG
+YJL103C,repressed,NP_012432.1,K,0.9998363375969888,Transcription factor which regulates nonfermentable carbon utilization (By similarity),0YFX5@NOG
+YJL107C,induced,NP_012428.1,S,0.00725198931733243,Membrane,COG2966@NOG
+YJL109C,induced,NP_012426.1,J,NA,U3 small nucleolar RNA-associated protein 10,0XNQQ@NOG
+YJL116C,repressed,NP_012419.1,S,0.9998184782267798,organelle organization,11GRE@NOG
+YJL122W,induced,NP_012413.1,J,NA,Involved in proper assembly of pre-ribosomal particles during the biogenesis of the 60S ribosomal subunit. Accompanies the pre-60S particles to the cytoplasm (By similarity),1280E@NOG
+YJL136C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YJL138C,induced,NP_012397.1,J,NA,"ATP-dependent RNA helicase which is a subunit of the eIF4F complex involved in cap recognition and is required for mRNA binding to ribosome. In the current model of translation initiation, eIF4A unwinds RNA secondary structures in the 5'-UTR of mRNAs which is necessary to allow efficient binding of the small ribosomal subunit, and subsequent scanning for the initiator codon (By similarity)",COG0513@NOG
+YJL141C,repressed,NP_012394.1,T,0.9989297194930686,S_TKc,0XPET@NOG
+YJL142C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YJL144W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YJL148W,induced,NP_012387.1,K,0.9998779793190825,DNA-directed RNA polymerase I subunit RPA34.5,0Y5MH@NOG
+YJL153C,repressed,NP_012382.2,I,0.8468598308460155,inositol-3-phosphate synthase activity,COG1260@NOG
+YJL155C,repressed,NP_012380.1,G,0.9563292098449211,6-phosphofructo-2-kinase,COG0406@NOG
+YJL157C,induced,NP_012378.1,O,0.1672306973643994,RING,0Y91H@NOG
+YJL158C,induced,NP_012377.1,S,0.00725198931733243,Yeast PIR protein repeat,11W61@NOG
+YJL161W,repressed,NP_012374.1,S,0.9998184782267798,Function unknown,11961@NOG
+YJL163C,repressed,NP_012372.1,G,0.9563292098449211,Major Facilitator Superfamily,0ZVCA@NOG
+YJL164C,repressed,NP_012371.2,T,0.9989297194930686,protein kinase A signaling cascade,0XPQQ@NOG
+YJL166W,repressed,NP_012369.1,C,0.9953301413152312,"component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex), which is part of the mitochondrial respiratory chain",123BH@NOG
+YJL177W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YJL185C,repressed,NP_012350.1,S,0.9998184782267798,Function unknown,118KI@NOG
+YJL188C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YJL189W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YJL190C,induced,NP_012345.1,J,NA,40S ribosomal protein S22,COG0096@NOG
+YJL200C,induced,NP_012335.1,C,5.613709551068091e-19,Aconitase C-terminal domain,COG1048@NOG
+YJL212C,induced,NP_012323.1,T,0.6001982973281375,oligopeptide transporter activity,0XNZC@NOG
+YJL217W,repressed,NP_012318.1,S,0.9998184782267798,Protein of unknown function (DUF1349),COG3506@NOG
+YJR002W,induced,NP_012535.3,A,0.9999981037358701,Mpp10 protein,COG5384@NOG
+YJR007W,induced,NP_012540.3,J,NA,Eukaryotic translation initiation factor 2 alpha subunit,COG1093@NOG
+YJR008W,repressed,NP_012541.1,S,0.9998184782267798,Memo-like protein,COG1355@NOG
+YJR010W,repressed,NP_012543.3,P,0.7063766671645022,"Catalyzes the first intracellular reaction of sulfate assimilation, forming adenosine-5'-phosphosulfate (APS) from inorganic sulfate and ATP. Plays an important role in sulfate activation as a component of the biosynthesis pathway of sulfur- containing amino acids (By similarity)",COG2046@NOG
+YJR016C,induced,NP_012550.1,E,8.622285680355961e-4,Dehydratase family,COG0129@NOG
+YJR026W,induced,NP_012561.3,K,0.9998779793190825,"Capsid protein (CA) is the structural component of the virus-like particle (VLP), forming the shell that encapsulates the retrotransposons dimeric RNA genome. The particles are assembled from trimer-clustered units and there are holes in the capsid shells that allow for the diffusion of macromolecules. CA has also nucleocapsid-like chaperone activity, promoting primer tRNA(i)-Met annealing to the multipartite primer-binding site (PBS), dimerization of Ty1 RNA and initiation of reverse transcription (By similarity)",COG2801@NOG
+YJR028W,induced,NP_012563.1,K,0.9998779793190825,"Capsid protein (CA) is the structural component of the virus-like particle (VLP), forming the shell that encapsulates the retrotransposons dimeric RNA genome. The particles are assembled from trimer-clustered units and there are holes in the capsid shells that allow for the diffusion of macromolecules. CA has also nucleocapsid-like chaperone activity, promoting primer tRNA(i)-Met annealing to the multipartite primer-binding site (PBS), dimerization of Ty1 RNA and initiation of reverse transcription (By similarity)",COG2801@NOG
+YJR041C,induced,NP_012575.3,S,0.00725198931733243,Urb2/Npa2 family,0Y7NS@NOG
+YJR048W,repressed,NP_012582.1,C,0.9953301413152312,"Electron carrier protein. The oxidized form of the cytochrome c heme group can accept an electron from the heme group of the cytochrome c1 subunit of cytochrome reductase. Cytochrome c then transfers this electron to the cytochrome oxidase complex, the final protein carrier in the mitochondrial electron-transport chain",COG3474@NOG
+YJR063W,induced,NP_012597.1,K,0.9998779793190825,DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity),COG1594@NOG
+YJR070C,induced,NP_012604.1,C,5.613709551068091e-19,"Catalyzes the hydroxylation of the N(6)-(4-aminobutyl)- L-lysine intermediate to form hypusine, an essential post- translational modification only found in mature eIF-5A factor (By similarity)",COG1413@NOG
+YJR071W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YJR073C,repressed,NP_012607.1,I,0.8468598308460155,Phospholipid methyltransferase,11HY0@NOG
+YJR095W,repressed,NP_012629.1,C,0.9953301413152312,Mitochondrial carrier protein,0YAYP@NOG
+YJR096W,repressed,NP_012630.1,S,0.9998184782267798,Aldo/keto reductase family,COG0656@NOG
+YJR109C,induced,NP_012643.3,F,0.4153807069687917,carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity,COG0458@NOG
+YJR123W,induced,NP_012657.1,J,NA,Ribosomal protein S5,COG0049@NOG
+YJR143C,induced,NP_012677.1,O,0.1672306973643994,MIR domain,COG1928@NOG
+YJR145C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YJR150C,induced,NP_012684.4,O,0.1672306973643994,Member of the seripauperin multigene family encoded mainly in subtelomeric regions,0YXX3@NOG
+YJR152W,repressed,NP_012686.3,G,0.9563292098449211,Major Facilitator Superfamily,0XR77@NOG
+YJR155W,repressed,NP_012689.1,C,0.9953301413152312,"aldo-keto reductase family 7, member A2 (aflatoxin aldehyde reductase)",COG0667@NOG
+YKL006W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YKL009W,induced,NP_012916.1,A,0.9999981037358701,mRNA turnover protein MRT4,COG0244@NOG
+YKL026C,repressed,NP_012899.3,O,0.9699133011869505,glutathione peroxidase,COG0386@NOG
+YKL029C,induced,NP_012896.1,C,5.613709551068091e-19,malic enzyme,COG0281@NOG
+YKL035W,repressed,NP_012889.3,G,0.9563292098449211,UTP--glucose-1-phosphate uridylyltransferase,COG4284@NOG
+YKL036C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YKL050C,repressed,NP_012874.1,S,0.9998184782267798,"Required for normal formation of eisosomes, large cytoplasmic protein assemblies that localize to specialized domains on plasma membrane and mark the site of endocytosis (By similarity)",12BXP@NOG
+YKL056C,induced,NP_012867.1,"D, Z",NA,Involved in protein synthesis. Involved in microtubule stabilization,11FVP@NOG
+YKL062W,repressed,NP_012861.1,K,0.9998363375969888,"Positive transcriptional factor that acts as a component of the stress responsive system. Recognizes and binds to the stress response element (STRE) which is involved in the response to various forms of stress (heat, oxidative, osmotic, etc.). Involved in the regulation of the CTT1, DDR2, HSP12 genes",COG5048@NOG
+YKL071W,repressed,NP_012852.1,Q,0.6645270543229664,KR domain,11VKY@NOG
+YKL078W,induced,NP_012845.1,A,0.9999981037358701,ATP-dependent RNA helicase,COG1643@NOG
+YKL081W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YKL082C,induced,NP_012841.1,S,0.00725198931733243,Surfeit locus protein 6,11G0Y@NOG
+YKL085W,repressed,NP_012838.1,C,0.9953301413152312,Malate dehydrogenase,COG0039@NOG
+YKL091C,repressed,NP_012832.1,I,0.8468598308460155,SEC14-like 1 (S. cerevisiae),0XRSQ@NOG
+YKL093W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YKL096W,repressed,NP_012827.1,S,0.9998184782267798,Function unknown,11D8K@NOG
+YKL099C,induced,NP_012823.2,S,0.00725198931733243,U3 small nucleolar RNA-associated protein,COG5223@NOG
+YKL103C,repressed,NP_012819.1,E,2.4936491944344962e-6,Aminopeptidase I zinc metalloprotease (M18),COG1362@NOG
+YKL107W,repressed,NP_012815.1,Q,0.6645270543229664,short chain dehydrogenase,COG1028@NOG
+YKL109W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YKL141W,repressed,NP_012781.1,C,0.9953301413152312,membrane-anchoring mono-heme cytochrome b subunit of succinate dehydrogenase (SDH) that is involved in system II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q),COG2009@NOG
+YKL142W,repressed,NP_012780.1,S,0.9998184782267798,Protein of unknown function (DUF3294),12CT8@NOG
+YKL148C,repressed,NP_012774.1,C,0.9953301413152312,subunit of succinate dehydrogenase,COG1053@NOG
+YKL150W,repressed,NP_012772.1,M,NA,may mediate the reduction of outer membrane cytochrome b5,COG0543@NOG
+YKL151C,repressed,NP_012771.1,G,0.9563292098449211,"Catalyzes the dehydration of the S-form of NAD(P)HX at the expense of ATP, which is converted to ADP. Together with NAD(P)HX epimerase, which catalyzes the epimerization of the S- and R-forms, the enzyme allows the repair of both epimers of NAD(P)HX, a damaged form of NAD(P)H that is a result of enzymatic or heat-dependent hydration (By similarity)",COG0063@NOG
+YKL163W,repressed,NP_012758.1,S,0.9998184782267798,Component of the outer cell wall layer. Required for stability of the cell wall and for optimal growth. Required for resistance against several antifungal and cell wall-perturbing agents,11W61@NOG
+YKL172W,induced,NP_012749.1,A,0.9999981037358701,Eukaryotic rRNA processing protein EBP2,0YYHN@NOG
+YKL178C,repressed,NP_012743.1,T,0.9989297194930686,a factor receptor,11KEN@NOG
+YKL180W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YKL181W,induced,NP_012740.1,F,0.4153807069687917,Ribose-phosphate pyrophosphokinase,COG0462@NOG
+YKL187C,repressed,NP_012734.1,U,0.9999999999997884,SUR7/PalI family,11584@NOG
+YKL188C,repressed,NP_012733.1,I,0.8468598308460155,"K15628 ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein",COG4178@NOG
+YKL209C,induced,NP_012713.1,Q,0.11694619769130551,ABC transporter transmembrane region,COG1132@NOG
+YKL216W,induced,NP_012706.1,F,0.4153807069687917,Catalyzes the conversion of dihydroorotate to orotate with fumarate as the electron acceptor,COG0167@NOG
+YKL217W,repressed,NP_012705.1,G,0.9563292098449211,"K08178 MFS transporter, SHS family, lactate transporter",0XSSD@NOG
+YKL221W,repressed,NP_012701.2,G,0.9563292098449211,Major Facilitator Superfamily,COG0477@NOG
+YKR009C,repressed,NP_012934.1,Q,0.6645270543229664,multifunctional beta-oxidation protein,COG2030@NOG
+YKR011C,repressed,NP_012936.1,S,0.9998184782267798,Function unknown,1180Z@NOG
+YKR013W,induced,NP_012938.3,S,0.00725198931733243,SCP,COG2340@NOG
+YKR024C,induced,NP_012949.1,J,NA,ATP-binding RNA helicase involved in the biogenesis of 60S ribosomal subunits and is required for the normal formation of 25S and 5.8S rRNAs (By similarity),0XNT7@NOG
+YKR039W,repressed,NP_012965.3,E,2.4936491944344962e-6,Amino acid permease,COG0531@NOG
+YKR042W,induced,NP_012968.4,S,0.00725198931733243,organelle organization,11GRE@NOG
+YKR046C,repressed,NP_012972.3,S,0.9998184782267798,Function unknown,11D8S@NOG
+YKR056W,induced,NP_012982.2,J,NA,TRAM domain,COG2265@NOG
+YKR057W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YKR058W,repressed,NP_012984.2,G,0.9563292098449211,"Self-glucosylating initiator of glycogen synthesis. Catalyzes the formation of a short alpha (1,4)-glucosyl chain covalently attached via a glucose 1-O-tyrosyl linkage to internal tyrosine residues. These chains act as primers for the elongation reaction catalyzed by glycogen synthase. Capable of transferring glucosyl residues to unbound acceptors such as free oligoglucans or oligoglucan derivatives",COG5597@NOG
+YKR059W,induced,NP_012985.3,J,NA,"ATP-dependent RNA helicase which is a subunit of the eIF4F complex involved in cap recognition and is required for mRNA binding to ribosome. In the current model of translation initiation, eIF4A unwinds RNA secondary structures in the 5'-UTR of mRNAs which is necessary to allow efficient binding of the small ribosomal subunit, and subsequent scanning for the initiator codon (By similarity)",COG0513@NOG
+YKR060W,induced,NP_012986.1,J,NA,Inherit from saccNOG: K14775 ribosome biogenesis protein UTP30,11W39@NOG
+YKR066C,repressed,NP_012992.1,C,0.9953301413152312,Destroys radicals which are normally produced within the cells and which are toxic to biological systems,COG0376@NOG
+YKR067W,repressed,NP_012993.3,I,0.8468598308460155,PlsC,COG0204@NOG
+YKR076W,repressed,NP_013002.3,O,0.9699133011869505,Inherit from saccNOG: matrix protein,COG0435@NOG
+YKR081C,induced,NP_013007.1,J,NA,Brix,COG5106@NOG
+YKR091W,repressed,NP_013017.2,K,0.9998363375969888,Whi5 like,11411@NOG
+YKR092C,induced,NP_013018.3,Y,NA,"SRP40, C-terminal domain",11U5P@NOG
+YKR094C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YKR097W,repressed,NP_013023.3,C,0.9953301413152312,Phosphoenolpyruvate carboxykinase ATP,COG1866@NOG
+YLL008W,induced,NP_013093.1,A,0.9999981037358701,ATP-binding RNA helicase involved in ribosome assembly (By similarity),COG0513@NOG
+YLL011W,induced,NP_013090.1,A,0.9999981037358701,Sof1-like domain,0XNX6@NOG
+YLL020C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YLL024C,induced,NP_013076.1,O,0.1672306973643994,involved in protein folding and,COG0443@NOG
+YLL026W,repressed,NP_013074.1,O,0.9699133011869505,Clp amino terminal domain,COG0542@NOG
+YLL035W,induced,NP_013065.1,S,0.00725198931733243,Polynucleotide 5'-kinase involved in rRNA processing,COG1341@NOG
+YLL039C,repressed,NP_013061.1,O,0.9699133011869505,K08770 ubiquitin C,COG5272@NOG
+YLL041C,repressed,NP_013059.1,C,0.9953301413152312,Subunit of succinate dehydrogenase (SDH) that is involved in complex II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q),COG0479@NOG
+YLL044W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YLL045C,induced,NP_013055.1,J,NA,ribosomal protein L8,COG1358@NOG
+YLL055W,repressed,NP_013045.1,P,0.7063766671645022,Inherit from fuNOG: Allantoate,COG0477@NOG
+YLL060C,repressed,NP_013040.1,O,0.9699133011869505,"Glutathione S-transferase, N-terminal domain",COG0625@NOG
+YLR002C,induced,NP_013102.1,"J, U",NA,Nucleolar complex-associated protein,COG5117@NOG
+YLR003C,induced,NP_013103.1,S,0.00725198931733243,Inherit from ascNOG: Conserved hypothetical protein,0XPW6@NOG
+YLR009W,induced,NP_013109.1,J,NA,ribosome biogenesis protein RLP24,COG2075@NOG
+YLR029C,induced,NP_013129.1,J,NA,Ribosomal protein L15,COG1632@NOG
+YLR042C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YLR044C,induced,NP_013145.1,H,0.6067317397428283,"of three pyruvate decarboxylases (PDC1, PDC5, PDC6) implicated in the nonoxidative conversion of pyruvate to acetaldehyde and carbon dioxide during alcoholic fermentation. Most of the produced acetaldehyde is subsequently reduced to ethanol, but some is required for cytosolic acetyl-CoA production for biosynthetic pathways. The enzyme is also one of five 2-oxo acid decarboxylases (PDC1, PDC5, PDC6, ARO10, and THI3) able to decarboxylate more complex 2-oxo acids (alpha-keto-acids) than pyruvate, which seem mainly involved in amino acid catabolism. Here the enzyme catalyzes the decarboxylation of amino acids, which, in a first step, have been transaminated to the corresponding 2-oxo acids. In a third step, the resulting aldehydes are reduced to alcohols, collectively referred to as fusel oils or alcohols. Its preferred substrates are the transaminated amino acids valine, isoleucine, phenylalanine, and tryptophan, whereas leucine is no substrate. In a side-reaction the carbanionic intermediate (or active aldehyde) generated by decarboxylation or by activation of an aldehyde can react with an aldehyde via condensation (or carboligation) yielding a 2-hydroxy ketone, collectively called acyloins",COG3961@NOG
+YLR048W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YLR053C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YLR056W,induced,NP_013157.1,I,0.030881299766512903,Catalyzes the introduction of a C-5 double bond in the B ring of ergosterol. May contribute to the regulation of ergosterol biosynthesis,COG3000@NOG
+YLR058C,induced,NP_013159.1,E,8.622285680355961e-4,Interconversion of serine and glycine (By similarity),COG0112@NOG
+YLR060W,induced,NP_013161.1,J,NA,B3/4 domain,COG0072@NOG
+YLR061W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YLR062C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YLR074C,induced,NP_013175.1,A,0.9999981037358701,Bud site selection protein 20,COG5112@NOG
+YLR075W,induced,NP_013176.1,J,NA,Ribosomal protein L10,COG0197@NOG
+YLR076C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YLR080W,repressed,NP_013181.1,U,0.9999999999997884,Integral membrane component of endoplasmic reticulum-derived COPII-coated vesicles,11FM6@NOG
+YLR081W,repressed,NP_013182.1,G,0.9563292098449211,glucose transporter of the major facilitator superfamily,0XNQK@NOG
+YLR083C,induced,NP_013184.1,U,0.9999976571970102,Protein with a role in cellular adhesion and filamentous growth,0XPIW@NOG
+YLR092W,repressed,NP_013193.1,P,0.7063766671645022,"sulfate uptake is mediated by specific sulfate transporters Sul1p and Sul2p, which control the concentration of endogenous activated sulfate intermediates",COG0659@NOG
+YLR108C,induced,NP_013209.1,S,0.00725198931733243,BTB,0YMZ6@NOG
+YLR109W,induced,NP_013210.1,O,0.1672306973643994,Redoxin,COG0678@NOG
+YLR134W,induced,NP_013235.1,H,0.6067317397428283,"of three pyruvate decarboxylases (PDC1, PDC5, PDC6) implicated in the nonoxidative conversion of pyruvate to acetaldehyde and carbon dioxide during alcoholic fermentation. Most of the produced acetaldehyde is subsequently reduced to ethanol, but some is required for cytosolic acetyl-CoA production for biosynthetic pathways. The enzyme is also one of five 2-oxo acid decarboxylases (PDC1, PDC5, PDC6, ARO10, and THI3) able to decarboxylate more complex 2-oxo acids (alpha-keto-acids) than pyruvate, which seem mainly involved in amino acid catabolism. Here the enzyme catalyzes the decarboxylation of amino acids, which, in a first step, have been transaminated to the corresponding 2-oxo acids. In a third step, the resulting aldehydes are reduced to alcohols, collectively referred to as fusel oils or alcohols. Its preferred substrates are the transaminated amino acids valine, isoleucine, phenylalanine, and tryptophan, whereas leucine is no substrate. In a side-reaction the carbanionic intermediate (or active aldehyde) generated by decarboxylation or by activation of an aldehyde can react with an aldehyde via condensation (or carboligation) yielding a 2-hydroxy ketone, collectively called acyloins",COG3961@NOG
+YLR136C,induced,NP_013237.1,S,0.00725198931733243,cellular iron ion homeostasis,COG5063@NOG
+YLR142W,repressed,NP_013243.1,E,2.4936491944344962e-6,Proline dehydrogenase,COG0506@NOG
+YLR149C,repressed,NP_013250.1,S,0.9998184782267798,Uncharacterised protein domain (DUF2415),127TM@NOG
+YLR150W,induced,NP_013251.1,S,0.00725198931733243,Stm1,121UV@NOG
+YLR152C,repressed,NP_013253.1,S,0.9998184782267798,Membrane transport protein,COG0679@NOG
+YLR153C,induced,NP_013254.1,H,0.6067317397428283,acetate--CoA ligase,COG0365@NOG
+YLR156W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YLR159W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YLR164W,repressed,NP_013265.1,C,0.9953301413152312,II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q),11RTW@NOG
+YLR167W,induced,NP_013268.1,J,NA,ubiquitin-40S ribosomal protein S31 fusion protein,COG5272@NOG
+YLR174W,repressed,NP_013275.1,C,0.9953301413152312,Isocitrate dehydrogenase NADP,COG0538@NOG
+YLR175W,induced,NP_013276.1,J,NA,H ACA ribonucleoprotein complex subunit 4,COG0130@NOG
+YLR178C,repressed,NP_013279.1,S,0.9998184782267798,Phosphatidylethanolamine-binding protein,COG1881@NOG
+YLR180W,induced,NP_013281.1,H,0.6067317397428283,Catalyzes the formation of S-adenosylmethionine from methionine and ATP (By similarity),COG0192@NOG
+YLR183C,induced,NP_013284.1,S,0.00725198931733243,chromatin binding,0XT6P@NOG
+YLR185W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YLR186W,induced,NP_013287.1,J,NA,rRNA (pseudouridine) methyltransferase activity,COG1756@NOG
+YLR194C,induced,NP_013295.1,S,0.00725198931733243,Function unknown,1154P@NOG
+YLR196W,induced,NP_013297.1,S,0.00725198931733243,Periodic tryptophan protein 1,0XT1V@NOG
+YLR197W,induced,NP_013298.1,A,0.9999981037358701,Nucleolar protein,COG1498@NOG
+YLR198C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YLR214W,induced,NP_013315.1,"P, Q",NA,FAD-binding domain,0XNZY@NOG
+YLR216C,induced,NP_013317.1,O,0.1672306973643994,PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides,COG0652@NOG
+YLR217W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YLR221C,induced,NP_013322.1,J,NA,Ribosome assembly protein 3,0Y06E@NOG
+YLR222C,induced,NP_013323.1,A,0.9999981037358701,U3 small nucleolar RNA-associated protein 13,0XPQD@NOG
+YLR249W,induced,NP_013350.1,J,NA,elongation factor 3,COG0488@NOG
+YLR251W,repressed,NP_013352.1,S,0.9998184782267798,May be involved in cellular response to stress. Required to maintain mitochondrial DNA (mtDNA) integrity and stability,11SYH@NOG
+YLR252W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YLR258W,repressed,NP_013359.1,G,0.9563292098449211,glycogen (starch) synthase activity,COG0438@NOG
+YLR259C,induced,NP_013360.1,O,0.1672306973643994,TCP-1/cpn60 chaperonin family,COG0459@NOG
+YLR264W,induced,NP_013366.1,J,NA,40s ribosomal protein,COG2053@NOG
+YLR267W,repressed,NP_013369.1,S,0.9998184782267798,Function unknown,113FE@NOG
+YLR270W,repressed,NP_013372.1,S,0.9998184782267798,Scavenger mRNA decapping enzyme (DcpS) N-terminal,COG5075@NOG
+YLR276C,induced,NP_013378.1,J,NA,ATP-binding RNA helicase involved in the biogenesis of 60S ribosomal subunits and is required for the normal formation of 25S and 5.8S rRNAs (By similarity),0XR15@NOG
+YLR284C,repressed,NP_013386.1,I,0.8468598308460155,Enoyl-CoA hydratase/isomerase family,COG1024@NOG
+YLR286C,induced,NP_013388.1,G,2.0609048813476683e-12,Inherit from saccNOG: chitinase,11GPA@NOG
+YLR293C,induced,NP_013396.1,U,0.9999976571970102,GTP-binding protein involved in nucleocytoplasmic transport. Required for the import of protein into the nucleus and also for RNA export,0XNRS@NOG
+YLR297W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YLR299W,repressed,NP_013402.1,E,2.4936491944344962e-6,Gamma-glutamyltranspeptidase,COG0405@NOG
+YLR300W,induced,NP_013403.1,G,2.0609048813476683e-12,"glucan exo-1,3-beta-glucosidase activity",COG2730@NOG
+YLR303W,repressed,NP_013406.1,E,2.4936491944344962e-6,cysteine synthase activity,COG2873@NOG
+YLR304C,repressed,NP_013407.1,C,0.9953301413152312,Aconitase C-terminal domain,COG1048@NOG
+YLR311C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YLR312C,repressed,NP_013415.1,S,0.9998184782267798,Function unknown,116UB@NOG
+YLR314C,induced,NP_013418.2,D,NA,Septin,COG5019@NOG
+YLR325C,induced,NP_013429.1,J,NA,60S ribosomal protein L38,12229@NOG
+YLR327C,repressed,NP_013431.1,S,0.9998184782267798,Hyaluronan / mRNA binding family,1265Y@NOG
+YLR333C,induced,NP_013437.1,J,NA,ribosomal protein S25,COG4901@NOG
+YLR339C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YLR340W,induced,NP_013444.1,J,NA,60S acidic ribosomal protein P0,COG0244@NOG
+YLR344W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YLR346C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YLR354C,induced,NP_013458.1,G,2.0609048813476683e-12,Transaldolase is important for the balance of metabolites in the pentose-phosphate pathway (By similarity),COG0176@NOG
+YLR356W,repressed,NP_013460.1,S,0.9998184782267798,Involved in the selective degradation of mitochondria via autophagy during starvation and at post-log phase (By similarity),0XZCF@NOG
+YLR359W,induced,NP_013463.1,F,0.4153807069687917,Adenylosuccinate lyase C-terminus,COG0015@NOG
+YLR367W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YLR372W,induced,NP_013476.3,I,0.030881299766512903,K10246 fatty acid elongase 3 EC 2.3.1.199,0XRWT@NOG
+YLR377C,repressed,NP_013481.3,G,0.9563292098449211,"fructose 1,6-bisphosphate 1-phosphatase activity",COG0158@NOG
+YLR388W,induced,NP_013492.3,J,NA,ribosomal protein S29,COG0199@NOG
+YLR401C,induced,NP_013505.4,J,NA,"Catalyzes the synthesis of dihydrouridine, a modified base found in the D-loop of most tRNAs. Specifically modifies U47 in cytoplasmic tRNAs (By similarity)",COG0042@NOG
+YLR409C,induced,NP_013513.3,A,0.9999981037358701,U3 small nucleolar RNA-associated protein,0XPJH@NOG
+YLR413W,induced,NP_013517.1,S,0.00725198931733243,SUR7/PalI family,114PB@NOG
+YLR432W,induced,NP_013536.3,F,0.4153807069687917,"Catalyzes the conversion of inosine 5'-phosphate (IMP) to xanthosine 5'-phosphate (XMP), the first committed and rate- limiting step in the de novo synthesis of guanine nucleotides, and therefore plays an important role in the regulation of cell growth (By similarity)",COG0516@NOG
+YLR435W,induced,NP_013539.4,S,0.00725198931733243,Pre-rRNA-processing protein TSR2,123VE@NOG
+YLR438W,repressed,NP_013542.1,E,2.4936491944344962e-6,ornithine-oxo-acid transaminase (EC 2.6.1.13),COG4992@NOG
+YLR448W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YLR449W,induced,NP_013554.3,B,NA,PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides (By similarity),COG0545@NOG
+YLR460C,repressed,NP_013565.3,C,0.9953301413152312,zinc ion binding,COG0604@NOG
+YML008C,induced,NP_013706.1,H,0.6067317397428283,Catalyzes the methyl transfer from S-adenosyl-methionine to the C-24 of zymosterol to form fecosterol,0XP5G@NOG
+YML022W,induced,NP_013690.1,F,0.4153807069687917,"Catalyzes a salvage reaction resulting in the formation of AMP, that is energically less costly than de novo synthesis",COG0503@NOG
+YML024W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YML026C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YML028W,induced,NP_013684.1,O,0.1672306973643994,C-terminal domain of 1-Cys peroxiredoxin,COG0450@NOG
+YML040W,induced,NP_013673.1,K,0.9998779793190825,"Capsid protein (CA) is the structural component of the virus-like particle (VLP), forming the shell that encapsulates the retrotransposons dimeric RNA genome. The particles are assembled from trimer-clustered units and there are holes in the capsid shells that allow for the diffusion of macromolecules. CA has also nucleocapsid-like chaperone activity, promoting primer tRNA(i)-Met annealing to the multipartite primer-binding site (PBS), dimerization of Ty1 RNA and initiation of reverse transcription (By similarity)",COG2801@NOG
+YML042W,repressed,NP_013670.1,I,0.8468598308460155,Choline/Carnitine o-acyltransferase,0XNZ9@NOG
+YML043C,induced,NP_013669.1,K,0.9998779793190825,RNA polymerase I-specific transcription initiation factor,0YBVM@NOG
+YML045W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YML054C,repressed,NP_013658.1,C,0.9953301413152312,Conserved region in glutamate synthase,COG1304@NOG COG5274@NOG
+YML056C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YML063W,induced,NP_013648.1,J,NA,40S ribosomal protein S1,COG1890@NOG
+YML070W,repressed,NP_013641.1,G,0.9563292098449211,Dihydroxyacetone kinase,COG2376@NOG
+YML073C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YML080W,induced,NP_013631.1,J,NA,tRNA-dihydrouridine synthase 1,COG0042@NOG
+YML091C,repressed,NP_013619.1,J,1.8226309129098509e-037,"ribonuclease P protein component, mitochondrial",0Y92C@NOG
+YML093W,induced,NP_013617.1,A,0.9999981037358701,U3 small nucleolar RNA-associated protein 14,COG5644@NOG
+YML100W,repressed,NP_013608.1,G,0.9563292098449211,Regulatory subunit of the trehalose synthase complex that catalyzes the production of trehalose from glucose-6- phosphate and UDP-glucose in a two step process. May stabilize the trehalose synthase complex,COG0380@NOG COG1877@NOG
+YML118W,repressed,NP_013588.1,K,0.9998363375969888,RNA exonuclease,COG5239@NOG
+YML120C,repressed,NP_013586.1,C,0.9953301413152312,Pyridine nucleotide-disulphide oxidoreductase,COG1252@NOG
+YML123C,induced,NP_013583.1,P,0.08084512295836578,Sugar (and other) transporter,0ZVN7@NOG
+YML128C,repressed,NP_013578.1,S,0.9998184782267798,Putative stress-responsive nuclear envelope protein,11M7X@NOG
+YML130C,induced,NP_013576.1,O,0.1672306973643994,"Essential oxidoreductase that oxidizes proteins in the endoplasmic reticulum to produce disulfide bonds. Acts by oxidizing directly PDI1 isomerase through a direct disulfide exchange. Does not act as a direct oxidant of folding substrate, but relies on PDI1 to transfer oxidizing equivalent. Does not oxidize all pdi related proteins, suggesting that it can discriminate between PDI1 and related proteins. Its reoxidation probably involves electron transfer to molecular oxygen via FAD. Acts independently of glutathione. May be responsible for a significant proportion of reactive oxygen species (ROS) in the cell, thereby being a source of oxidative stress (By similarity)",COG5061@NOG
+YML131W,repressed,NP_013575.1,S,0.9998184782267798,Zinc-binding dehydrogenase,COG2130@NOG
+YMR014W,induced,NP_013727.1,S,0.00725198931733243,BUD22,121P9@NOG
+YMR015C,induced,NP_013728.1,Q,0.11694619769130551,C22 sterol desaturase,COG2124@NOG
+YMR017W,repressed,NP_013730.1,Z,NA,Inherit from KOG: Synaptosomal-associated protein,0Y3Y0@NOG
+YMR040W,repressed,NP_013754.1,U,0.9999999999997884,b-cell receptor-associated protein,COG5374@NOG
+YMR049C,induced,NP_013764.1,J,NA,"Component of the NOP7 complex, which is required for maturation of the 25S and 5.8S ribosomal RNAs and formation of the 60S ribosome (By similarity)",0XRBX@NOG
+YMR051C,induced,NP_013766.1,K,0.9998779793190825,"Capsid protein (CA) is the structural component of the virus-like particle (VLP), forming the shell that encapsulates the retrotransposons dimeric RNA genome. The particles are assembled from trimer-clustered units and there are holes in the capsid shells that allow for the diffusion of macromolecules. CA has also nucleocapsid-like chaperone activity, promoting primer tRNA(i)-Met annealing to the multipartite primer-binding site (PBS), dimerization of Ty1 RNA and initiation of reverse transcription (By similarity)",COG2801@NOG
+YMR081C,repressed,NP_013798.1,S,0.9998184782267798,Function unknown,1174B@NOG
+YMR090W,repressed,NP_013808.1,G,0.9563292098449211,NmrA-like family,COG0702@NOG
+YMR093W,induced,NP_013811.1,A,0.9999981037358701,U3 small nucleolar RNA-associated protein,0XNZ0@NOG
+YMR096W,repressed,NP_013814.1,H,0.4737229769854949,pyridoxine biosynthesis protein,COG0214@NOG
+YMR104C,repressed,NP_013822.1,T,0.9989297194930686,serine threonine-protein kinase,0XNPH@NOG
+YMR105C,repressed,NP_013823.1,G,0.9563292098449211,Phosphoglucomutase,COG0033@NOG
+YMR107W,repressed,NP_013825.1,O,0.9699133011869505,Stationary phase-essential protein not required for growth on nonfermentable carbon sources (By similarity),11ABP@NOG
+YMR110C,repressed,NP_013828.1,C,0.9953301413152312,Aldehyde dehydrogenase,COG1012@NOG
+YMR114C,repressed,NP_013832.1,S,0.9998184782267798,"Uncharacterised ACR, COG2135",COG2135@NOG
+YMR116C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YMR118C,repressed,NP_013836.1,C,0.9953301413152312,membrane-anchoring mono-heme cytochrome b subunit of succinate dehydrogenase (SDH) that is involved in system II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q),COG2009@NOG
+YMR120C,induced,NP_013839.1,F,0.4153807069687917,AICARFT/IMPCHase bienzyme,COG0138@NOG
+YMR121C,induced,NP_013840.1,J,NA,Ribosomal protein L15,COG1632@NOG
+YMR131C,induced,NP_013850.1,S,0.00725198931733243,ribosome assembly protein,0XPDB@NOG
+YMR136W,repressed,NP_013856.1,K,0.9998363375969888,GATA zinc finger,COG5641@NOG
+YMR142C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YMR169C,repressed,NP_013892.1,C,0.9953301413152312,Aldehyde dehydrogenase,COG1012@NOG
+YMR173W,repressed,NP_013897.1,S,0.9998184782267798,Function unknown,0XWVH@NOG
+YMR173W-A,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YMR174C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YMR175W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YMR181C,repressed,NP_013906.1,S,0.9998184782267798,Function unknown,116SM@NOG
+YMR186W,induced,NP_013911.1,O,0.1672306973643994,"Molecular chaperone that promotes the maturation, structural maintenance and proper regulation of specific target proteins involved",COG0326@NOG
+YMR189W,induced,NP_013914.1,E,8.622285680355961e-4,Glycine cleavage system P-protein,COG0403@NOG COG1003@NOG
+YMR194W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YMR195W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YMR196W,repressed,NP_013923.1,G,0.9563292098449211,Inherit from saccNOG: Mannosyl oligosaccharide glucosidase,0XTHA@NOG
+YMR202W,induced,NP_013929.1,I,0.030881299766512903,C-8 sterol isomerase,0XP0Z@NOG
+YMR206W,repressed,NP_013933.1,S,0.9998184782267798,Function unknown,11AAN@NOG
+YMR215W,induced,NP_013942.1,S,0.00725198931733243,"Glycosyl hydrolases family 2, TIM barrel domain",0XSHQ@NOG
+YMR217W,induced,NP_013944.1,F,0.4153807069687917,GMP synthase (glutamine-hydrolyzing) activity,COG0518@NOG COG0519@NOG
+YMR229C,induced,NP_013956.1,A,0.9999981037358701,rRNA biogenesis protein RRP5,COG0539@NOG
+YMR230W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YMR235C,induced,NP_013962.1,"A, T, Y",NA,LRR,COG5238@NOG
+YMR239C,induced,NP_013966.1,A,0.9999981037358701,Ribonuclease III domain,COG0571@NOG
+YMR241W,induced,NP_013968.1,C,5.613709551068091e-19,Mitochondrial carrier protein,0YAYP@NOG
+YMR242C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YMR246W,induced,NP_013974.1,I,0.030881299766512903,long-chain fatty acids into metabolically active CoA thioesters for subsequent degradation or incorporation into phospholipids,COG1022@NOG
+YMR250W,repressed,NP_013976.1,E,2.4936491944344962e-6,Pyridoxal-dependent decarboxylase conserved domain,COG0076@NOG
+YMR251W,repressed,NP_013977.1,O,0.9699133011869505,glutathione s-transferase,COG0435@NOG
+YMR251W-A,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YMR256C,repressed,NP_013983.1,C,0.9953301413152312,Inherit from euNOG: cytochrome C oxidase,0Y8CH@NOG
+YMR260C,induced,NP_013987.1,J,NA,Seems to be required for maximal rate of protein biosynthesis. Enhances ribosome dissociation into subunits and stabilizes the binding of the initiator Met-tRNA(I) to 40 S ribosomal subunits (By similarity),COG0361@NOG
+YMR271C,repressed,NP_013998.1,F,5.919773634257787e-7,"Catalyzes the transfer of a ribosyl phosphate group from 5-phosphoribose 1-diphosphate to orotate, leading to the formation of orotidine monophosphate (OMP) (By similarity)",COG0461@NOG
+YMR290C,induced,NP_014017.1,J,NA,"ATP-dependent RNA helicase involved in 40S ribosomal subunit biogenesis. Required for the processing and cleavage of 35S pre-rRNA at sites A0, A1, and A2, leading to mature 18S rRNA",COG0513@NOG
+YMR291W,repressed,NP_014019.1,T,0.9989297194930686,STYKc,0XRMJ@NOG
+YMR300C,induced,NP_014029.1,F,0.4153807069687917,Glutamine phosphoribosylpyrophosphate amidotransferase,COG0034@NOG
+YMR305C,induced,NP_014035.1,G,2.0609048813476683e-12,glucosidase activity,COG5309@NOG
+YMR307W,induced,NP_014038.1,S,0.00725198931733243,X8 domain,0Z2A2@NOG
+YMR309C,induced,NP_014040.1,J,NA,"Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome (By similarity)",0XRU3@NOG
+YMR310C,induced,NP_014041.1,S,0.00725198931733243,Pfam:DUF171,COG2106@NOG
+YMR315W,repressed,NP_014046.1,S,0.9998184782267798,"Oxidoreductase family, C-terminal alpha/beta domain",COG0673@NOG
+YMR318C,induced,NP_014051.3,Q,0.11694619769130551,NADPH-dependent medium chain alcohol dehydrogenase with broad substrate specificity,COG1064@NOG
+YMR321C,induced,NP_014054.3,E,8.622285680355961e-4,Homocysteine s-methyltransferase,COG2040@NOG
+YMR322C,repressed,NP_014055.1,S,0.9998184782267798,PfpI family,COG0693@NOG
+YNL002C,induced,NP_014396.3,J,NA,Involved in the biogenesis of the 60S ribosomal subunit. May act as a specificity factor that binds precursor rRNAs and tethers the enzymes that carry out the early 5' to 3' exonucleolytic reactions that generate the mature rRNAs,COG1841@NOG
+YNL007C,repressed,NP_014391.1,O,0.9699133011869505,Pfam:DnaJ_C,COG0484@NOG
+YNL009W,repressed,NP_014389.3,C,0.9953301413152312,isocitrate dehydrogenase nadp,COG0538@NOG
+YNL015W,repressed,NP_014383.1,S,0.9998184782267798,Function unknown,0ZSMF@NOG
+YNL036W,repressed,NP_014362.3,P,0.7063766671645022,carbonic anhydrase,COG0288@NOG
+YNL037C,repressed,NP_014361.1,E,2.4936491944344962e-6,isocitrate dehydrogenase (NAD+) activity,COG0473@NOG
+YNL055C,repressed,NP_014343.1,P,0.7063766671645022,voltage-dependent anion channel,0ZBK1@NOG
+YNL061W,induced,NP_014338.3,A,0.9999981037358701,NOL1/NOP2/sun family,COG0144@NOG
+YNL062C,induced,NP_014337.3,J,NA,"Substrate-binding subunit of tRNA (adenine-N(1)-)- methyltransferase, which catalyzes the formation of N(1)- methyladenine at position 58 (m1A58) in initiator methionyl-tRNA. Binds RNA",0XSXD@NOG
+YNL065W,induced,NP_014334.3,G,2.0609048813476683e-12,drug transmembrane transporter activity,COG0477@NOG
+YNL066W,induced,NP_014333.1,S,0.00725198931733243,Beta-glucosidase (SUN family),11GRE@NOG
+YNL067W,induced,NP_014332.1,J,NA,ribosomal protein L9,COG0097@NOG
+YNL069C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YNL075W,induced,NP_014324.3,A,0.9999981037358701,U3 small nucleolar ribonucleoprotein protein IMP4,COG2136@NOG
+YNL087W,induced,NP_014312.1,S,0.00725198931733243,Lipid-binding protein,COG5038@NOG
+YNL092W,repressed,NP_014307.1,G,0.9563292098449211,N2227-like protein,0Z0B7@NOG
+YNL093W,repressed,NP_014306.3,S,0.9998184782267798,member RAS oncogene family,0YCCP@NOG
+YNL096C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YNL110C,induced,NP_014289.1,A,0.9999981037358701,"RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)",11NF9@NOG
+YNL112W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YNL113W,induced,NP_014286.1,K,0.9998779793190825,RNA polymerase Rpb3/Rpb11 dimerisation domain,COG1761@NOG
+YNL114C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YNL115C,repressed,NP_014284.1,S,0.9998184782267798,Region of unknown function (DUF2417),COG0596@NOG
+YNL117W,repressed,NP_014282.1,C,0.9953301413152312,Malate synthase,COG2225@NOG
+YNL119W,induced,NP_014280.3,J,NA,"Plays a central role in 2-thiolation of mcm(5)S(2)U at tRNA wobble positions of tRNA(Lys), tRNA(Glu) and tRNA(Gln). May act by forming a heterodimer with NCS6 that ligates sulfur from thiocarboxylated URM1 onto the uridine of tRNAs at wobble position. Prior mcm(5) tRNA modification by the elongator complex is required for 2-thiolation. May also be involved in protein urmylation (By similarity)",0YGU3@NOG
+YNL123W,induced,NP_014276.1,O,0.1672306973643994,Nuclear serine protease which mediates apoptosis,COG0265@NOG
+YNL125C,repressed,NP_014274.1,G,0.9563292098449211,Major Facilitator Superfamily,10YE3@NOG
+YNL132W,induced,NP_014267.1,S,0.00725198931733243,Domain of unknown function (DUF1726),COG1444@NOG
+YNL134C,repressed,NP_014265.3,C,0.9953301413152312,zinc ion binding,COG0604@NOG
+YNL141W,induced,NP_014258.1,F,0.4153807069687917,Catalyzes the hydrolytic deamination of adenine to hypoxanthine. Plays an important role in the purine salvage pathway and in nitrogen catabolism (By similarity),COG1816@NOG
+YNL160W,repressed,NP_014239.1,E,2.4936491944344962e-6,cell wall assembly,COG0252@NOG
+YNL162W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YNL174W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YNL175C,induced,NP_014224.2,K,0.9998779793190825,"RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)",COG0724@NOG
+YNL178W,induced,NP_014221.3,J,NA,40S ribosomal protein S3,COG0092@NOG
+YNL182C,induced,NP_014217.1,S,0.00725198931733243,Component of the RIX1 complex required for processing of ITS2 sequences from 35S pre-rRNA (By similarity),COG2319@NOG
+YNL194C,repressed,NP_014205.1,S,0.9998184782267798,Integral membrane protein localized to mitochondria (untagged protein),11RMX@NOG
+YNL195C,repressed,NP_014204.2,S,0.9998184782267798,Function unknown,11CKK@NOG
+YNL200C,repressed,NP_014199.1,G,0.9563292098449211,"Catalyzes the epimerization of the S- and R-forms of NAD(P)HX, a damaged form of NAD(P)H that is a result of enzymatic or heat-dependent hydration. This is a prerequisite for the S- specific NAD(P)H-hydrate dehydratase to allow the repair of both epimers of NAD(P)HX (By similarity)",COG0062@NOG
+YNL202W,repressed,NP_014197.2,Q,0.6645270543229664,"Peroxisomal 2,4-dienoyl-CoA reductase",COG1028@NOG
+YNL203C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YNL208W,induced,NP_014191.2,S,0.00725198931733243,Function unknown,0Z2GN@NOG
+YNL209W,induced,NP_014190.1,J,NA,May aid in the passage of the nascent polypeptide chain through the ribosome channel into the cytosol. Such an interaction could be crucial for continuous transport of the polypeptide,COG0443@NOG
+YNL220W,induced,NP_014179.1,F,0.4153807069687917,Plays an important role in the de novo pathway and in the salvage pathway of purine nucleotide biosynthesis. Catalyzes the first,COG0104@NOG
+YNL237W,repressed,NP_014162.1,S,0.9998184782267798,Protein of unknown function (Ytp1),0XZRR@NOG
+YNL247W,induced,NP_014152.1,J,NA,Cysteinyl-tRNA synthetase,COG0215@NOG
+YNL248C,induced,NP_014151.1,K,0.9998779793190825,RNA polymerase I subunit,0XSWJ@NOG
+YNL255C,induced,NP_014144.1,O,0.1672306973643994,Zinc knuckle,COG5082@NOG
+YNL274C,repressed,NP_014125.1,C,0.9953301413152312,"D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain",COG1052@NOG
+YNL277W,repressed,NP_014122.1,H,0.4737229769854949,alpha/beta hydrolase fold,COG2021@NOG
+YNL296W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YNL301C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YNL305C,repressed,NP_014094.1,T,0.9989297194930686,Pfam:UPF0005,COG0670@NOG
+YNL308C,induced,NP_014091.1,J,NA,KRI1-like family,0XR4G@NOG
+YNL313C,induced,NP_014086.1,S,0.00725198931733243,Inherit from ascNOG: domain protein,0XNXB@NOG
+YNL327W,induced,NP_014072.2,S,0.00725198931733243,Function unknown,0ZUMU@NOG
+YNL331C,repressed,NP_014068.1,C,0.9953301413152312,aryl-alcohol dehydrogenase (NAD+) activity,COG0667@NOG
+YNR002C,repressed,NP_014399.3,S,0.9998184782267798,GPR1/FUN34/yaaH family,COG1584@NOG
+YNR012W,induced,NP_014409.1,F,0.4153807069687917,uridine kinase,COG0035@NOG COG0572@NOG
+YNR014W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YNR043W,induced,NP_014441.1,I,0.030881299766512903,diphosphomevalonate decarboxylase,COG3407@NOG
+YNR044W,induced,NP_014442.1,O,0.1672306973643994,TSP1,0YNFU@NOG
+YNR050C,induced,NP_014448.1,E,8.622285680355961e-4,Saccharopine dehydrogenase (NADP,COG1748@NOG
+YNR053C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YNR069C,repressed,NP_014467.3,O,0.9699133011869505,"Component of a RSP5 ubiquitin ligase complex which specifies polyubiquitination and intracellular trafficking of the general amino acid permease GAP1 as well as other permeases such as PMA1. The RSP5-BUL1 2 complex is also necessary for the heat- shock element (HSE)-mediated gene expression, nitrogen starvation GLN3-dependent transcription and pressure-induced differential regulation of the 2 tryptophan permeases TAT1 and TAT2",0YCNJ@NOG
+YOL010W,induced,NP_014633.1,A,0.9999981037358701,phosphate cyclase-like protein,COG0430@NOG
+YOL016C,repressed,NP_014626.1,T,0.9989297194930686,Calmodulin-dependent protein kinase,0XRMJ@NOG
+YOL032W,repressed,NP_014610.1,S,0.9998184782267798,Protein of unknown function (DUF775),11H6N@NOG
+YOL039W,induced,NP_014603.1,J,NA,60S acidic ribosomal protein P2,COG2058@NOG
+YOL040C,induced,NP_014602.1,J,NA,ribosomal protein S15,COG0185@NOG
+YOL041C,induced,NP_014601.1,A,0.9999981037358701,Nucleolar protein,COG0724@NOG
+YOL047C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YOL048C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YOL058W,repressed,NP_014583.2,E,2.4936491944344962e-6,Arginosuccinate synthase,COG0137@NOG
+YOL071W,repressed,NP_014570.1,S,0.9998184782267798,"Required for insertion of FAD cofactor into SDH1, the catalytic subunit of succinate dehydrogenase (SDH). SDH is involved in complex II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q). In is unclear whether it participates in the chemistry of FAD attachment (enzymatic function) or acts as a chaperone that maintains SDH1 in a conformation that is susceptible to autocatalytic FAD attachment",COG2938@NOG
+YOL077C,induced,NP_014565.2,J,NA,ribosome biogenesis protein BRX1,COG5154@NOG
+YOL082W,repressed,NP_014559.1,S,0.9998184782267798,Function unknown,116D7@NOG
+YOL083W,repressed,NP_014558.1,S,0.9998184782267798,Function unknown,116D7@NOG
+YOL084W,repressed,NP_014557.1,S,0.9998184782267798,Phosphate metabolism protein,COG5594@NOG
+YOL097C,induced,NP_014544.1,J,NA,tRNA synthetases class I (W and Y),COG0180@NOG
+YOL120C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YOL121C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YOL124C,induced,NP_014517.1,J,NA,Putative RNA methylase family UPF0020,COG1041@NOG
+YOL126C,repressed,NP_014515.2,C,0.9953301413152312,Malate dehydrogenase,COG0039@NOG
+YOL127W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YOL150C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YOL151W,repressed,NP_014490.1,V,0.21202668993329285,carbonyl reductase (NADPH) activity,COG0451@NOG
+YOL152W,repressed,NP_014489.2,P,0.7063766671645022,Ferric reductase,0XNZY@NOG
+YOL153C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YOL155C,repressed,NP_014487.1,S,0.9998184782267798,Function unknown,113I2@NOG
+YOL163W,repressed,NP_014479.1,G,0.9563292098449211,transporter,COG0477@NOG
+YOL165C,repressed,NP_014477.1,C,0.9953301413152312,"Potassium voltage-gated channel, shaker-related subfamily, beta member",COG0667@NOG
+YOR003W,repressed,NP_014645.1,O,0.9699133011869505,Serine protease,COG1404@NOG
+YOR004W,induced,NP_014646.1,S,0.00725198931733243,U3 small nucleolar RNA-associated protein 23,COG1412@NOG
+YOR019W,repressed,NP_014662.1,S,0.9998184782267798,Function unknown,11KNA@NOG
+YOR020C,induced,NP_014663.1,O,0.1672306973643994,Cpn10,COG0234@NOG
+YOR027W,repressed,NP_014670.1,O,0.9699133011869505,STI1,0XTCJ@NOG
+YOR028C,repressed,NP_014671.1,K,0.9998363375969888,"Transcription activator involved in the regulation of genes expressed in response to environmental changes and metabolic requirements. According to genome-wide promoter binding and gene expression studies it regulates, among others, genes involved in ribosome biogenesis",1262C@NOG
+YOR031W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YOR032C,repressed,NP_014675.1,K,0.9998363375969888,Helix-loop-helix DNA-binding domain,0Z6I1@NOG
+YOR036W,repressed,NP_014679.1,U,0.9999999999997884,SNARE domain,COG5325@NOG
+YOR051C,induced,NP_014694.1,K,0.9998779793190825,Required for correct translation termination and probably involved in regulation of hypoxic gene expression,0Y0ED@NOG
+YOR052C,repressed,NP_014695.1,S,0.9998184782267798,AN1-like Zinc finger,COG3582@NOG
+YOR056C,induced,NP_014699.1,A,0.9999981037358701,Nin one binding (NOB1) Zn-ribbon like,COG1439@NOG
+YOR063W,induced,NP_014706.1,J,NA,ribosomal protein L3,COG0087@NOG
+YOR065W,repressed,NP_014708.1,C,0.9953301413152312,Cytochrome c1,COG2857@NOG
+YOR095C,induced,NP_014738.1,G,2.0609048813476683e-12,"pentose-phosphate shunt, non-oxidative branch",COG0120@NOG
+YOR096W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YOR100C,repressed,NP_014743.1,C,0.9953301413152312,Mitochondrial carrier protein,0XS86@NOG
+YOR101W,induced,NP_014744.1,T,0.6001982973281375,Ras protein signal transduction,COG1100@NOG
+YOR107W,induced,NP_014750.3,T,0.6001982973281375,Regulator of G protein signaling domain,0YMJD@NOG
+YOR120W,repressed,NP_014763.1,C,0.9953301413152312,D-xylose catabolic process,COG0656@NOG
+YOR121C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YOR128C,induced,NP_014771.3,F,0.4153807069687917,phosphoribosylaminoimidazole carboxylase,COG0026@NOG COG0041@NOG
+YOR133W,induced,NP_014776.1,J,NA,"Catalyzes the GTP-dependent ribosomal translocation step during translation elongation. During this step, the ribosome changes from the pre-translocational (PRE) to the post- translocational (POST) state as the newly formed A-site-bound peptidyl-tRNA and P-site-bound deacylated tRNA move to the P and E sites, respectively. Catalyzes the coordinated movement of the two tRNA molecules, the mRNA and conformational changes in the ribosome",COG0480@NOG
+YOR134W,repressed,NP_014777.3,T,0.9989297194930686,Rho-GTPase-activating protein,0YVI5@NOG
+YOR135C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YOR136W,repressed,NP_014779.1,E,2.4936491944344962e-6,isocitrate dehydrogenase (NAD+) activity,COG0473@NOG
+YOR145C,induced,NP_014788.1,J,NA,Required for small ribosomal subunit (SSU) synthesis. Has a role in the processing of early nucleolar and late cytoplasmic pre-RNA species,COG1094@NOG
+YOR146W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YOR152C,repressed,NP_014795.1,S,0.9998184782267798,Function unknown,113D2@NOG
+YOR153W,induced,NP_014796.3,Q,0.11694619769130551,xenobiotic-transporting ATPase activity,COG0842@NOG
+YOR161C,repressed,NP_014804.3,U,0.9999999999997884,Probably involved in transport through the plasma membrane (By similarity),0XS0P@NOG
+YOR167C,induced,NP_014810.1,J,NA,40S ribosomal protein S28,COG2053@NOG
+YOR173W,repressed,NP_014816.2,S,0.9998184782267798,Scavenger mRNA decapping enzyme (DcpS) N-terminal,COG5075@NOG
+YOR178C,repressed,NP_014821.3,"O, T",NA,protein phosphatase type 1 regulator activity,11FT1@NOG
+YOR185C,repressed,NP_014828.1,U,0.9999999999997884,GTP-binding protein involved in nucleocytoplasmic transport. Required for the import of protein into the nucleus and also for RNA export,0XNRS@NOG
+YOR186W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YOR198C,induced,NP_014841.1,S,0.00725198931733243,Inherit from ascNOG: nuclear segregation protein,0XQW6@NOG
+YOR206W,induced,NP_014849.3,J,NA,nucleolar complex protein 2,COG5604@NOG
+YOR207C,induced,NP_014850.1,K,0.9998779793190825,DNA-directed RNA polymerase,COG0085@NOG
+YOR215C,repressed,NP_014858.1,C,0.9953301413152312,"Altered inheritance of mitochondria protein 41, mitochondrial",COG1610@NOG
+YOR220W,repressed,NP_014863.1,S,0.9998184782267798,Function unknown,116AD@NOG
+YOR224C,induced,NP_014867.1,K,0.9998779793190825,"RNA polymerases I, II, and III",11FT0@NOG
+YOR234C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YOR239W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YOR243C,induced,NP_014886.1,S,0.00725198931733243,tRNA pseudouridine synthase D (TruD),COG0585@NOG
+YOR247W,induced,NP_014890.1,S,0.00725198931733243,Function unknown,11DSH@NOG
+YOR248W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YOR272W,induced,NP_014915.3,J,NA,"Component of the NOP7 complex, which is required for maturation of the 25S and 5.8S ribosomal RNAs and formation of the 60S ribosome (By similarity)",0XPW5@NOG
+YOR273C,repressed,NP_014916.1,U,0.9999999999997884,Major Facilitator Superfamily,0XS7E@NOG
+YOR287C,induced,NP_014930.1,J,NA,Component of the 90S pre-ribosome involved in the maturation of rRNAs. Required for early cleavages of the pre-RNAs in the 40S ribosomal subunit maturation pathway (By similarity),11T3E@NOG
+YOR289W,repressed,NP_014932.1,S,0.9998184782267798,AMMECR1,COG2078@NOG
+YOR293W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YOR294W,induced,NP_014937.1,J,NA,Ribosome biogenesis regulatory protein (RRS1),COG5225@NOG
+YOR303W,repressed,NP_014947.3,F,5.919773634257787e-7,"Arginine-specific carbamoyl-phosphate synthetase, glutamine chain",COG0505@NOG
+YOR309C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YOR310C,induced,NP_014955.1,A,0.9999981037358701,Required for pre-18S rRNA processing. May bind microtubules (By similarity),COG1498@NOG
+YOR312C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YOR313C,induced,NP_014958.3,S,0.00725198931733243,Function unknown,0Y87F@NOG
+YOR315W,induced,NP_014960.1,S,0.00725198931733243,Function unknown,11976@NOG
+YOR317W,repressed,NP_014962.3,I,0.8468598308460155,long-chain fatty acids into metabolically active CoA thioesters for subsequent degradation or incorporation into phospholipids,COG1022@NOG
+YOR340C,induced,NP_014985.1,K,0.9998779793190825,RNA polymerase I subunit,11JD4@NOG
+YOR347C,repressed,NP_014992.3,G,0.9563292098449211,Pyruvate kinase,COG0469@NOG
+YOR369C,induced,NP_015014.3,J,NA,40S ribosomal protein S12,COG1358@NOG
+YOR374W,repressed,NP_015019.1,C,0.9953301413152312,Aldehyde dehydrogenase family,COG1012@NOG
+YOR375C,induced,NP_015020.3,E,8.622285680355961e-4,glutamate dehydrogenase,COG0334@NOG
+YOR382W,repressed,NP_015027.1,S,0.9998184782267798,Function unknown,11D6B@NOG
+YOR383C,repressed,NP_015028.3,S,0.9998184782267798,Function unknown,117CK@NOG
+YOR386W,repressed,NP_015031.1,L,NA,FAD binding domain of DNA photolyase,COG0415@NOG
+YOR392W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YPL004C,repressed,NP_015321.1,S,0.9998184782267798,Inherit from saccNOG: sphingolipid long chain base-responsive protein,0XXX7@NOG
+YPL012W,induced,NP_015313.1,S,0.00725198931733243,Ribosomal RNA-processing protein 12,0XQ3D@NOG
+YPL019C,induced,NP_015306.1,U,0.9999976571970102,"Subunit of the vacuolar transporter chaperone (VTC) complex involved in membrane trafficking, vacuolar polyphosphate accumulation, microautophagy and non-autophagic vacuolar fusion",COG5036@NOG COG5264@NOG
+YPL027W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YPL037C,induced,NP_015288.1,K,0.9998779793190825,"Component of the nascent polypeptide-associated complex (NAC), a dynamic component of the ribosomal exit tunnel, protecting the emerging polypeptides from interaction with other cytoplasmic proteins to ensure appropriate nascent protein targeting (By similarity). The NAC complex also promotes mitochondrial protein import by enhancing productive ribosome interactions with the outer mitochondrial membrane and blocks the inappropriate interaction of ribosomes translating non-secretory nascent polypeptides with translocation sites in the membrane of the endoplasmic reticulum (By similarity). EGD1 may act as a transcription factor that exert a negative effect on the expression of several genes that are transcribed by RNA polymerase II (By similarity)",11JBG@NOG
+YPL043W,induced,NP_015282.1,A,0.9999981037358701,Nucleolar protein,0XSHP@NOG
+YPL044C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YPL054W,repressed,NP_015271.1,O,0.9699133011869505,Zinc finger C-x8-C-x5-C-x3-H type (and similar),COG5084@NOG
+YPL057C,repressed,NP_015268.1,G,0.9563292098449211,catalytic subunit of a mannosylinositol phosphorylceramide (MIPC) synthase,COG3774@NOG
+YPL061W,induced,NP_015264.1,C,5.613709551068091e-19,Aldehyde dehydrogenase family,COG1012@NOG
+YPL079W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YPL081W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YPL086C,induced,NP_015239.1,"B, K",NA,Elp3,COG1243@NOG
+YPL087W,repressed,NP_015238.1,I,0.8468598308460155,ceramide catabolic process,11RPN@NOG
+YPL088W,repressed,NP_015237.1,C,0.9953301413152312,Aldo/keto reductase family,COG0667@NOG
+YPL090C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YPL093W,induced,NP_015232.1,J,NA,Involved in the biogenesis of the 60S ribosomal subunit (By similarity),COG1084@NOG
+YPL106C,induced,NP_015219.1,O,0.1672306973643994,Heat shock protein,COG0443@NOG
+YPL126W,induced,NP_015199.1,A,0.9999981037358701,U3 small nucleolar RNA-associated protein 17,0YY9G@NOG
+YPL134C,repressed,NP_015191.1,C,0.9953301413152312,"Transports C5-C7 oxodicarboxylates across the inner membranes of mitochondria. Can transport 2-oxoadipate, 2- oxoglutarate, adipate, glutarate, 2-oxopimelate, oxaloacetate, citrate and malate. The main physiological role is probably to supply 2-oxoadipate and 2-oxoglutarate from the mitochondrial matrix to the cytosol where they are used in the biosynthesis of lysine and glutamate, respectively, and in lysine catabolism",0XRZG@NOG
+YPL135W,repressed,NP_015190.1,C,0.9953301413152312,Involved in iron homeostasis within the mitochondrion where it is involved in the assembly of iron-sulfur proteins. Essential for de novo biosynthesis of mitochondrial and cytoplasmic iron sulfur proteins. May also be involved in the repair of iron sulfur clusters,COG0822@NOG
+YPL142C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YPL143W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YPL146C,induced,NP_015179.1,S,0.00725198931733243,Nucleolar protein,11GSN@NOG
+YPL147W,repressed,NP_015178.1,U,0.9999999999997884,"K15628 ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein",COG4178@NOG
+YPL160W,induced,NP_015165.1,J,NA,tRNA synthetases class I (C) catalytic domain,COG0495@NOG
+YPL163C,induced,NP_015162.1,S,0.00725198931733243,Function unknown,11DSH@NOG
+YPL165C,repressed,NP_015160.1,B,0.9855458089298268,SET,COG2940@NOG
+YPL166W,repressed,NP_015159.1,U,0.9999999999997884,Plays a role in autophagy. Functions at the preautophagosomal structure (PAS) in order to form normal autophagosomes under starvation conditions. Plays also a role in mitophagy and regulation of filamentous growth (By similarity),11CNW@NOG
+YPL183C,induced,NP_015142.1,S,0.00725198931733243,"WD domain, G-beta repeat",0ZJ6J@NOG
+YPL185W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YPL186C,repressed,NP_015138.1,S,0.9998184782267798,Function unknown,1169U@NOG
+YPL198W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YPL200W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YPL207W,induced,NP_015117.1,C,5.613709551068091e-19,tRNA wybutosine-synthesizing protein 1,COG0731@NOG
+YPL211W,induced,NP_015113.1,J,NA,Required for proper 27S pre-rRNA processing and 60S ribosome subunit assembly (By similarity),COG1374@NOG
+YPL212C,induced,NP_015112.1,J,NA,Formation of pseudouridine at positions 27 and 28 in the anticodon stem and loop of transfer RNAs,COG0101@NOG
+YPL217C,induced,NP_015107.1,J,NA,Ribosome biogenesis protein BMS1,COG5192@NOG
+YPL220W,induced,NP_015104.1,J,NA,ribosomal protein,COG0081@NOG
+YPL223C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YPL226W,induced,NP_015098.1,"E, J",NA,Chromo (CHRromatin Organisation MOdifier) domain,COG0488@NOG
+YPL227C,induced,NP_015097.1,G,2.0609048813476683e-12,Glycosyl transferase family 2,COG0463@NOG
+YPL230W,repressed,NP_015094.1,K,0.9998363375969888,"Zinc finger, C2H2 type",COG5048@NOG
+YPL237W,induced,NP_015087.1,J,NA,translation initiation factor 2 subunit,COG1601@NOG
+YPL238C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YPL240C,induced,NP_015084.1,O,0.1672306973643994,"Molecular chaperone that promotes the maturation, structural maintenance and proper regulation of specific target proteins involved",COG0326@NOG
+YPL247C,repressed,NP_015077.1,S,0.9998184782267798,WD repeat-containing protein,0XQ78@NOG
+YPL250C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YPL256C,induced,NP_015067.1,D,NA,Essential for the control of the cell cycle at the G1 S (start) transition. Interacts with the CDC28 protein kinase to form MPF,COG5024@NOG
+YPL265W,repressed,NP_015058.1,E,2.4936491944344962e-6,Amino acid permease,COG0531@NOG
+YPL266W,induced,NP_015057.1,A,0.9999981037358701,Specifically dimethylates two adjacent adenosines in the loop of a conserved hairpin near the 3'-end of 18S rRNA in the 40S particle,COG0030@NOG
+YPL273W,induced,NP_015050.1,E,8.622285680355961e-4,homocysteine S-methyltransferase activity,COG2040@NOG
+YPL280W,repressed,NP_015043.1,S,0.9998184782267798,PfpI family,COG0693@NOG
+YPR001W,repressed,NP_015325.1,C,0.9953301413152312,citrate synthase,COG0372@NOG
+YPR002W,repressed,NP_015326.1,S,0.9998184782267798,MmgE/PrpD family,COG2079@NOG
+YPR005C,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YPR006C,repressed,NP_015331.1,C,0.9953301413152312,Isocitrate lyase,COG2224@NOG
+YPR010C,induced,NP_015335.1,K,0.9998779793190825,DNA-directed RNA polymerase,COG0085@NOG
+YPR026W,repressed,NP_015351.1,G,0.9563292098449211,Glycosyl hydrolase family 65 central catalytic domain,COG1554@NOG
+YPR030W,repressed,NP_015355.1,C,0.9953301413152312,Arrestin domain containing,102NY@NOG
+YPR033C,induced,NP_015358.1,J,NA,Anticodon binding domain,COG0124@NOG
+YPR035W,induced,NP_015360.2,E,8.622285680355961e-4,glutamine synthetase,COG0174@NOG
+YPR043W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YPR044C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YPR060C,induced,NP_015385.1,E,8.622285680355961e-4,chorismate mutase,COG1605@NOG
+YPR061C,repressed,NP_015386.1,O,0.9699133011869505,DnaJ domain,122Z6@NOG
+YPR074C,induced,NP_015399.1,G,2.0609048813476683e-12,transketolase activity,COG0021@NOG
+YPR102C,induced,NP_015427.1,J,NA,ribosomal protein L11,COG0094@NOG
+YPR110C,induced,NP_015435.1,K,0.9998779793190825,DNA-directed RNA polymerases I and III,COG0202@NOG
+YPR112C,induced,NP_015437.1,A,0.9999981037358701,Multiple RNA-binding domain-containing protein 1,0XQZ5@NOG
+YPR118W,induced,NP_015443.1,J,NA,Catalyzes the interconversion of methylthioribose-1- phosphate (MTR-1-P) into methylthioribulose-1-phosphate (MTRu-1-P) (By similarity),COG0182@NOG
+YPR119W,induced,NP_015444.1,D,NA,"Cyclin, C-terminal domain",COG5024@NOG
+YPR132W,induced,NA,S,0.00725198931733243,Function unknown,NA
+YPR142C,induced,NA,S,0.00725198931733243,Function unknown,NA
+YPR143W,induced,NP_015469.1,S,0.00725198931733243,Rrp15p,11R78@NOG
+YPR144C,induced,NP_015470.1,J,NA,U3 small nucleolar RNA-associated protein 19,0YJPG@NOG
+YPR145W,induced,NP_015471.1,E,8.622285680355961e-4,Asparagine synthetase,COG0367@NOG
+YPR149W,repressed,NP_015475.1,U,0.9999999999997884,Membrane-associating domain,11SFM@NOG
+YPR150W,repressed,NA,S,0.9998184782267798,Function unknown,NA
+YPR151C,repressed,NP_015477.1,O,0.9699133011869505,Mitochondrial protein Pet20,11EFD@NOG
+YPR158W,repressed,NP_015484.1,S,0.9998184782267798,Function unknown,11DUS@NOG
+YPR160W,repressed,NP_015486.1,G,0.9563292098449211,"Phosphorylase is an important allosteric enzyme in carbohydrate metabolism. Enzymes from different sources differ in their regulatory mechanisms and in their natural substrates. However, all known phosphorylases share catalytic and structural properties (By similarity)",COG0058@NOG
+YPR163C,induced,NP_015489.1,J,NA,RRM,11M6K@NOG
+YPR167C,repressed,NP_015493.1,E,2.4936491944344962e-6,Phosphoadenosine phosphosulfate reductase family,COG0175@NOG
+YPR184W,repressed,NP_015510.1,G,0.9563292098449211,Glycogen debranching enzyme,COG3408@NOG
+YPR191W,repressed,NP_015517.1,C,0.9953301413152312,"This is a component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex), which is part of the mitochondrial respiratory chain. The core protein 2 is required for the assembly of the complex (By similarity)",COG0612@NOG
+YPR194C,repressed,NP_015520.1,T,0.9989297194930686,oligopeptide transporter activity,0XNZC@NOG
