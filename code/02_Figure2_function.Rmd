@@ -331,6 +331,6 @@ t.test(NOG.domain.freq$sc.percent, NOG.domain.freq$hbt.percent, paired = TRUE, a
 write_csv(NOG.domain.freq, "../output/whole_genome_COG.csv")
 write_csv(sc.cog, "../output/sc_1000_genes.csv")
 write_csv(hbt.cog, "../output/hb_1000_genes.csv")
-write_csv(sc.cog.results, "../output/sc_COG_results")
-write_csv(hbt.cog.results, "../output/hb_COG_results")
+write_csv(sc.cog.results, "../output/sc_COG_results.csv")
+write_csv(hbt.cog.results, "../output/hb_COG_results.csv")
 ```
