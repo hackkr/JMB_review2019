@@ -41,11 +41,10 @@ ESR.clust <- read_csv("../output/clustered_genelists/esrclusters.csv")
 #Some genes weren't in the eggnog file. I manually searched eggNOG mapper and curated the NOG functional classification for those missing genes. 
 sc.man <- read_csv("../output/clustered_genelists/sc_clust_missing_COG_curated.csv")
 hbt.man <- read_csv("../output/clustered_genelists/hbt_clust_missing_COG_curated.csv")
-
 left_join(hbt.key[c(1,3,8)], hbt.wg, by = "acc") -> hbt.wg
 ```
 
-### Manually correct some annotations:
+#### Manually correct some annotations:
 
 If both the eggNOG mapper and single letter functional code are unassigned, assign to "S" or unknown function.
 
@@ -55,23 +54,7 @@ hbt.wg$COG_category[which(!is.na(hbt.wg$NOGs) & is.na(hbt.wg$COG_category))] <- 
 
 If no orthologous group could be assigned, and the protein is annotated as hypothetical, manually assign functional category "S", and text description "Function unknown".
 
-``` r
-hbt.wg$COG_category[which((hbt.wg$annotation == "hypothetical protein") & !is.na(hbt.wg$NOGs) & is.na(hbt.wg$COG_category))] <- "S"
-
-hbt.wg$HMM_description[which((hbt.wg$annotation == "hypothetical protein") & !is.na(hbt.wg$NOGs) & is.na(hbt.wg$COG_category))] <- "Function unknown" 
-```
-
 Some annotations were assigned a single letter functional COG code through eggNOG, but the text description did not reflect that.
-
-``` r
-hbt.wg$COG_category[which(hbt.wg$NOGs == "0YGV9@NOG")] <- "L" #as returned by egNOG 
-
-hbt.wg$COG_category[which(hbt.wg$NOGs == "12548@NOG" 
-                       | hbt.wg$NOGs == "111DM@NOG" 
-                       | hbt.wg$NOGs == "0YM3N@NOG" 
-                       | hbt.wg$NOGs == "0Z4Q9@NOG" 
-                       | hbt.wg$NOGs == "0ZFJ2@NOG")] <- "K"
-```
 
 Finally, annotations were cross-check with the Hbt. salinarum NRC1 reference genome hosted by the Baliga Lab. Any proteins with assigned function were undated accordingly.
 
@@ -103,18 +86,11 @@ hbt.cog <-  left_join(hbt, hbt.man, by = c("COG_category", "HMM_description", "o
 sc.cog <- left_join(sc, sc.man, by = c("COG_category", "HMM_description", "locus_tag", "cluster"))
 ```
 
+fill in all missing functional cats
+
 Check that all loci in the clusters are represented in the final dfs:
 
-``` r
-length(intersect(hbt.cog$old_locus_tag, hbt.clust$old_locus_tag))
-```
-
     ## [1] 1000
-
-``` r
-length(intersect(sc.cog$locus_tag, scer.clust$locus_tag))
-```
-
     ## [1] 1000
 
 create distribution of COGs in each genome
@@ -139,11 +115,11 @@ Check that we have complete coverage of the genome:
 
 #### functional annotation across each species' genome:
 
-![](02_Figure2_function_files/figure-markdown_github/unnamed-chunk-13-1.png)
+![](02_Figure2_function_files/figure-markdown_github/unnamed-chunk-14-1.png)
 
 #### whole genome functional annotation, stacked bar graph:
 
-![](02_Figure2_function_files/figure-markdown_github/unnamed-chunk-14-1.png)
+![](02_Figure2_function_files/figure-markdown_github/unnamed-chunk-15-1.png)
 
 ##### The Hbt. salinarum genome is dominated by proteins of unknown function.
 
@@ -156,21 +132,11 @@ Test for enrichment of the different clusters, using the hyper geometric test.
 
 Compare S. cer clusters from this analysis with previously reported ESR genes:
 
-![](02_Figure2_function_files/figure-markdown_github/unnamed-chunk-17-1.png) The same COG functional categories are repressed between the to S. cer analyses. Amino acid transport and metabolism is not identified in the original ESR set, and significantly enriched in both clusters according to our analysis. Therefore, it is likely that amino acid transport and metabolism varies predominately by condition (and perhaps have different, more specific GO annotations). Export list of genes in involved in amino.acid transport and metabolism for GO analysis:
-
-``` r
-sc.amino <- na.omit(sc.cog[sc.cog$COG_category == "E",])
-write_csv(sc.amino, "../output/sc_E_for_GO.csv")
-```
+![](02_Figure2_function_files/figure-markdown_github/unnamed-chunk-18-1.png)
 
 Functional enrichment in Halobacterium clusters:
 
-![](02_Figure2_function_files/figure-markdown_github/unnamed-chunk-20-1.png) We see some similarities in the functions of repressed genes. Also export genes in the repressed cluster involved in amino acid transport and metabolism for GO analysis.
-
-``` r
-hbt.amino <- na.omit(hbt.cog[hbt.cog$COG_category == "E",]) %>% .[.$cluster == 2,]
-write_csv(hbt.amino, "../output/hbt_E_for_GO.csv")
-```
+![](02_Figure2_function_files/figure-markdown_github/unnamed-chunk-20-1.png) We see some similarities in the functions of repressed genes.
 
 complie figure and export
 =========================
@@ -183,18 +149,27 @@ plot(sig.COGs)
 
 ![](02_Figure2_function_files/figure-markdown_github/unnamed-chunk-22-1.png)
 
+Write out results files:
+
 ``` r
-#save plot
-tiff("../output/figures/Figure2.tif", units="in", width=6, height=8, res=300)
-plot(sig.COGs)
-dev.off()
+NOG.domain.freq[is.na(NOG.domain.freq)] <- 0
+t.test(NOG.domain.freq$sc.percent, NOG.domain.freq$hbt.percent, paired = TRUE, alternative = "two.sided")
 
-pdf("../output/figures/Figure2.pdf")
-plot(sig.COGs)
-dev.off()
-
-#save legend
-tiff("../output/figures/cluster_legend.tif", units="in", width=5, height=1, res=300)
-plot(legends)
-dev.off()
+write_csv(NOG.domain.freq, "../output/whole_genome_COG.csv")
+write_csv(sc.cog, "../output/sc_1000_genes.csv")
+write_csv(hbt.cog, "../output/hb_1000_genes.csv")
+write_csv(sc.cog.results, "../output/sc_COG_results")
+write_csv(hbt.cog.results, "../output/hb_COG_results")
 ```
+
+    ## 
+    ##  Paired t-test
+    ## 
+    ## data:  NOG.domain.freq$sc.percent and NOG.domain.freq$hbt.percent
+    ## t = -1.1546e-16, df = 23, p-value = 1
+    ## alternative hypothesis: true difference in means is not equal to 0
+    ## 95 percent confidence interval:
+    ##  -1.657326  1.657326
+    ## sample estimates:
+    ## mean of the differences 
+    ##           -9.250503e-17
