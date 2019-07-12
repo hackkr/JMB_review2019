@@ -1,0 +1,190 @@
+---
+title: "Supplemental_Figure_1"
+output: github_document
+---
+
+```{r, message=FALSE, warning=FALSE, collapse=TRUE}
+library(tidyverse); library(dplyr); library(dendextend)
+library(viridis); library(gplots); library(scales)
+
+source("00_custom_functions.R")
+
+#load files:
+yeast1000 <- read_csv("../output/cleaned_data/gasch_1000_var.csv")
+hbt1000 <- read_csv("../output/cleaned_data/hbt_1000_var.csv")
+
+esr <- read_csv("../output/cleaned_data/gasch_esr.csv")
+hbt <- read_csv("../output/cleaned_data/hbt_esr_percent.csv")
+
+#whole genomes nog files:
+hbt.wg <- read_csv("../data/20181113_hbt_GCF_000006805.1_ASM680v1_eggnog.csv")
+sc.wg <- read_csv("../data/20181113_scer_GCF_000146045.2_R64_eggnog.csv")
+colnames(hbt.wg)[1] <- "acc"
+colnames(sc.wg)[1] <- "acc"
+
+#whole genomes clusters:
+clusters.yeast <- read_csv("../output/clustered_genelists/yeast2clusters.csv")
+colnames(clusters.yeast)[1] <- "locus_tag"
+hbt.clust <- read_csv("../output/clustered_genelists/hbt2clusters.csv")
+colnames(hbt.clust)[1] <- "old_locus_tag"
+```
+
+#check that there are no duplicate gene entries and that all ESR genes are accounted for. 
+```{r, message=FALSE, warning=FALSE}
+length(esr$gene)
+nrow(yeast1000[yeast1000$gene %in% esr$gene,]) + nrow(esr[esr$gene %ni% yeast1000$gene,])
+
+##check that there are no duplications
+#esr$gene[duplicated(esr$gene)]
+#yeast1000$gene[duplicated(yeast1000$gene)]
+```
+
+
+##Create dendrograms and correlation matrices
+analysis of top 1000 genes using spearman correlation rather than pearson
+```{r, include=TRUE, results="hide"}
+set.seed(123)
+
+t.yeast1000 <- data.t(yeast1000, yeast1000$gene, scaled = "gene")
+colnames(t.yeast1000) <-  colnames(t.yeast1000) %>% str_replace_all(., "\\.", "-")
+yeast1000.cor <- select(t.yeast1000, -cond) %>% cor(use = "pairwise.complete.obs", method = "spearman")
+yeast1000.dist <- as.dist(1-yeast1000.cor)
+yeast1000.dend <- as.dendrogram(hclust(yeast1000.dist, method = "average"))
+
+t.hbt1000 <- data.t(hbt1000, hbt1000$gene, scaled = "gene")
+hbt1000.cor <- select(t.hbt1000, -cond) %>% cor(use = "pairwise.complete.obs", method = "spearman")
+hbt1000.dist <- as.dist(1-hbt1000.cor)
+hbt1000.dend <- as.dendrogram(hclust(hbt1000.dist, method = "average"))
+
+##heatmap of ESR only genes, and ~16% most variable.
+t.esr <- data.t(esr, esr$gene, scaled = "gene")
+colnames(t.esr) <-  colnames(t.esr) %>% str_replace_all(., "\\.", "-")
+esr.cor <- select(t.esr, -cond) %>% cor(use = "pairwise.complete.obs", method = "spearman")
+esr.dist <- as.dist(1-esr.cor)
+esr.dend <- as.dendrogram(hclust(esr.dist, method = "average"))
+
+t.hbt <- data.t(hbt, hbt$gene, scaled = "gene")
+hbt.cor <- select(t.hbt, -cond) %>% cor(use = "pairwise.complete.obs", method = "spearman")
+hbt.dist <- as.dist(1-hbt.cor)
+hbt.dend <- as.dendrogram(hclust(hbt.dist, method = "average"))
+```
+
+#Average expression of cluters (~16% and ESR)
+```{r, collapse=TRUE, message=FALSE}
+clusters.esr <- cutree(esr.dend, k=2) %>% 
+  data.frame(gene = names(.), cluster = ., row.names = NULL, stringsAsFactors = F)
+
+clusters.hbt <- cutree(hbt.dend, k=2) %>% 
+  data.frame(gene = names(.), cluster = ., row.names = NULL, stringsAsFactors = F)
+
+esr.long <- gather(t.esr, gene, expression, -cond)
+hbt.long <- gather(t.hbt, gene, expression, -cond)
+
+#set 0 to NA
+esr.long[esr.long == 0] <- NA
+hbt.long[hbt.long == 0] <- NA
+
+ex.esr <- full_join(clusters.esr, esr.long, by = "gene")
+ex.esr[is.na(ex.esr)] <- 0
+ex.hbt <- full_join(clusters.hbt, hbt.long, by = "gene")
+ex.hbt[is.na(ex.hbt)] <- 0
+
+#get mean expression by conditon for clusters and overall
+ex.esr %>%
+  group_by(cluster, cond) %>%
+  summarise(rep = length(expression), avg_expression = mean(expression),
+            CI95 = conf_int95(expression)) -> esr.avg.ex
+ex.hbt %>%
+  group_by(cluster, cond) %>%
+  summarise(rep = length(expression), avg_expression = mean(expression),
+            CI95 = conf_int95(expression)) -> hbt.avg.ex
+```
+
+##Which cluster is induced or repressed?
+```{r, include=TRUE, results="hold"}
+#S. cer
+clusters.esr %>%
+  group_by(cluster) %>%
+  tally()
+
+clusters.yeast[clusters.yeast$locus_tag %in% filter(clusters.esr, cluster == 2)$gene,]
+clusters.yeast[clusters.yeast$locus_tag %in% filter(clusters.esr, cluster == 1)$gene,]
+```
+cluster 2 in 1000 s. cerevisiae genes corresponds to cluster 2 in ESR only genes (same for cluster 1).
+
+##How do esr genes cluster within entire dataset?
+```{r, message=FALSE, results="hide"}
+#load raw data
+sc.raw <- read_csv("../output/cleaned_data/gasch_total.csv") %>% data.t(., .$gene, scaled = "gene")
+colnames(sc.raw) <-  colnames(sc.raw) %>% str_replace_all(., "\\.", "-")
+
+#make dend: (takes several minutes)
+sc.cor <- select(sc.raw, -cond) %>% cor(use = "pairwise.complete.obs", method = "spearman")
+sc.dist <- as.dist(1-sc.cor)
+sc.dend <- as.dendrogram(hclust(sc.dist, method = "average"))
+```
+
+```{r, collapse=TRUE, message=FALSE}
+sc.dend %>% #sort(type = "nodes") %>%
+  raise.dendrogram (1) %>% 
+  branches_attr_by_labels(labels = filter(clusters.esr, cluster == 2)$gene, attr = "col", TF_values = plasma(1, begin = 0.2)) %>%
+  branches_attr_by_labels(labels = filter(clusters.esr, cluster == 1)$gene, attr = "col", TF_values = plasma(1, begin = 0.95)) %>%
+  set("labels", NA) %>%
+  plot(main = "ESR genes overlaid on all genes")
+```
+
+```{r, collapse=TRUE, message=FALSE}
+esr1 <- yeast1000$gene %in% filter(clusters.esr, clusters.esr$cluster == 1)$gene
+esr2 <- yeast1000$gene %in% filter(clusters.esr, clusters.esr$cluster == 2)$gene
+
+rESR <- ifelse(esr1, "gold", "grey")
+iESR <- ifelse(esr2, "purple", "grey")
+tmp <- cbind(rESR, iESR)
+
+yeast1000.dend %>% #sort(type = "nodes") %>%
+  raise.dendrogram (1) %>% 
+  color_branches(k=2, col = plasma(2, begin = 0.1, end = .7, direction = -1)) %>%
+  branches_attr_by_labels(labels = filter(clusters.esr, cluster == 2)$gene, attr = "col", TF_values = plasma(1, begin = 0.2)) %>%
+  branches_attr_by_labels(labels = filter(clusters.esr, cluster == 1)$gene, attr = "col", TF_values = plasma(1, begin = 0.95)) %>%
+  set("labels", NA) -> dend
+
+plot(dend, main = "ESR genes overlaid on 1,000 most variable genes") 
+colored_bars(tmp, dend = dend, sort_by_labels_order = TRUE)
+
+pdf("../output/figures/ESR_clustering.pdf")
+plot(dend, main = "ESR genes overlaid on 1,000 most variable genes") 
+colored_bars(tmp, dend = dend, sort_by_labels_order = TRUE)
+dev.off()
+```
+
+```{r, echo=FALSE}
+##Using alternative correlation methods and linking methods
+
+#yeast1000.cor2 <- select(t.yeast1000, -cond) %>% cor(use = "pairwise.complete.obs")
+#yeast1000.dist2 <- as.dist(1-yeast1000.cor2)
+#yeast1000.dend2 <- as.dendrogram(hclust(yeast1000.dist2, method = "complete"))
+
+#yeast1000.dend2 %>% #sort(type = "nodes") %>%
+#  raise.dendrogram (1) %>% 
+#  color_branches(k=2, col = plasma(2, begin = 0, end = .8)) %>%
+#  branches_attr_by_labels(labels = filter(clusters.esr, cluster == 2)$gene, attr = "col", TF_values = plasma(1, begin = 0.25)) %>%
+#  branches_attr_by_labels(labels = filter(clusters.esr, cluster == 1)$gene, attr = "col", TF_values = plasma(1, begin = 0.95)) %>%
+#  set("labels", NA) -> dend
+
+#plot(dend, main = "ESR genes overlaid on 1,000 most variable genes") 
+
+#colored_bars(tmp, dend = dend, sort_by_labels_order = TRUE)
+```
+
+how many of iESR and rESR are in each yeast cluster?
+```{r, message=FALSE, echo=FALSE}
+length(intersect(filter(clusters.esr, cluster == 1)$gene, filter(clusters.yeast, cluster == 1)$locus_tag))
+
+#length(intersect(filter(clusters.esr, cluster == 1)$gene, filter(clusters.yeast, cluster == 2)$locus_tag))
+#(intersect(filter(clusters.esr, cluster == 2)$gene, filter(clusters.yeast, cluster == 1)$locus_tag))
+
+length(intersect(filter(clusters.esr, cluster == 2)$gene, filter(clusters.yeast, cluster == 2)$locus_tag))
+
+length(intersect(filter(clusters.esr, cluster == 1)$gene, filter(clusters.yeast, cluster == 1)$locus_tag))+length(intersect(filter(clusters.esr, cluster == 2)$gene, filter(clusters.yeast, cluster == 2)$locus_tag))
+```
+All ESR genes present in the top 1000 are accounted for.
