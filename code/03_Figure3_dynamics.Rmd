@@ -856,7 +856,7 @@ title3 <-  ggdraw()+
 
 plot_grid(title1, h2o2, title2, zinc,
   #plot_grid(title3, NULL, nrow = 1), plot_grid(UV.rad, EMS, NULL, nrow = 1),
-  ncol = 1, rel_heights = c(0.1, 1, 0.1, 1), labels = c("A", NA, "B", NA)) -> Supp2
+  ncol = 1, rel_heights = c(0.1, 1, 0.1, 1), labels = c("(a)", NA, "(b)", NA)) -> Supp2
 Supp2
 ```
 
