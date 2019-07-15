@@ -1,8 +1,6 @@
 ---
 title: "Cleaning data sets"
-output:
-  html_document:
-    df_print: paged
+output: github_document
 ---
 
 ##Data download and wrangling
@@ -96,7 +94,7 @@ head(hbt.long)
 ```
 Wrangling complete. 
 
-##Data filtering
+##Data filtering (Supplemental figure 3)
 To clean:  
   1. keep genes whose expression has been detected in at least 90% of the conditions  
   2. keep the 1000 genes with the highest expression variance across conditions  
@@ -188,21 +186,21 @@ visualize the Gasch ESR subset relative to the raw data, and the subset of data 
 a <- ggplot(combined.g, aes(x=na.count, y=var, color=factor(gene %in% esr.list$UID))) +
   geom_point() +
   labs(title = "S. cerevisae", x = "NAs per gene", y = "log10(variance)", color = "In the ESR") +
-  scale_y_log10() + scale_color_viridis(begin = 0.1, end = 0.9, discrete = T, option = "C") + theme_classic()
+  scale_y_log10() + scale_color_viridis(begin = 0.1, end = 0.7, discrete = T, option = "C") + theme_classic()
 
 b <-  ggplot(combined.g, aes(x=na.count, y=var, color=factor(gene %in% gasch.1000var$gene))) +
   geom_point() +
   labs(title = "Filtered S. cerevisae", x = "NAs per gene", y = "log10(variance)", color = "cleaned data") +
-  scale_y_log10() + scale_color_viridis(begin = 0.1, end = 0.9, discrete = T, option = "C") + theme_classic() +
+  scale_y_log10() + scale_color_viridis(begin = 0.1, end = 0.7, discrete = T, option = "C") + theme_classic() +
   theme(legend.position = "none")
 
 c <- ggplot(combined.hbt, aes(x=na.count, y=var, color=factor(gene %in% hbt.1000var$gene))) +
   geom_jitter(width = 0.1, height = 0) +
   labs(title = " Filtered Hbt. salinarum", x = "NAs per gene", y = "log10(variance)", color = "cleaned data") +
-  scale_y_log10() + scale_color_viridis(begin = 0.1, end = 0.9, discrete = T, option = "C") + theme_classic()
+  scale_y_log10() + scale_color_viridis(begin = 0.1, end = 0.7, discrete = T, option = "C") + theme_classic()
 
-plot_grid(b,c, labels = c("B", "C"), rel_widths = c(0.75, 1)) -> panelb
-plot_grid(a, panelb, labels = c("A", NA), ncol = 1) -> clean.graph
+plot_grid(b,c, labels = c("(b)", "(c)"), rel_widths = c(0.75, 1)) -> panelb
+plot_grid(a, panelb, labels = c("(a)", NA), ncol = 1) -> clean.graph
 plot(clean.graph)
 ```
 
@@ -225,7 +223,7 @@ write_csv(gasch.1000var, "../output/cleaned_data/gasch_1000_var.csv")
 ```
 
 ```{r, results="hide", warning=FALSE}
-tiff("../output/figures/supplemental_fig1.tiff", height = 800, width = 800)
+pdf("../output/figures/SuppFig3.pdf")
 plot(clean.graph)
 dev.off()
 ```

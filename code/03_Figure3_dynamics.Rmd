@@ -328,19 +328,20 @@ panel.D
 
 ##Bring all the panels together:
 ```{r, fig.height=10, fig.width=10, collapse=T, warning=F}
-plot_grid(panel.A, panel.B,
-          labels = c("A", "B")) -> plots
+plot_grid(panel.A, panel.B) -> plots
 title1 <- ggdraw() + 
   draw_label("S. cerevisiae", fontfamily = "sans", size = 14,
              fontface = 'bold.italic')
 
-plot_grid(panel.C, panel.D,
-          labels = c("C", "D")) -> plots2
+plot_grid(panel.C, panel.D) -> plots2
 title2 <- ggdraw() + 
   draw_label("Hbt. salinarum", fontfamily = "sans", size = 14,
              fontface = 'bold.italic', vjust = 1)
 
 plot_grid(title1, plots, title2, plots2,ncol = 1, rel_heights = c(0.2, 1, 0.35, 1)) -> plots
+
+plots <- plots + draw_plot_label(c("(a)", "(b)", "(c)", "(d)"), c(0, 0.5, 0, 0.5), c(0.95,0.95,0.43,0.43))  
+
 
 y.grob <- textGrob("Expression fold-change relative to unstressed baseline", 
                    gp=gpar(fontface="bold", col="black", fontsize=12), rot=90)
